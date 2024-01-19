@@ -1,0 +1,688 @@
+<?php
+
+$title_suffix = "Philosophy";
+$description = "Philosophies and tips to improve the quality of life";
+$keywords = "philosophy, tips, friendship";
+
+ob_start();
+?>
+<section>
+    <h2>In my spare time I have carried out experiments and research. This is what I have discovered over the years (roughly) ... in some cases I also included opinions or ideas that I could not test ... </h2>
+    <h3>
+    <div class="note">
+    These information are of <b>public domain</b>. Maybe add a link to this website if you translate and distribute it. Share the link to this web page in the social network if you find them useful.
+    <br />
+    <br />
+    (thanks to Google Translate for these translation, sometimes with little changes).<br />
+    <br />
+    The strange sentences that are on the bottom of the men&ugrave; in the italian version are just little poems made by me. They are a type of rhyme that I invented which consists of starting all the words with the same letter and creating sentences of complete meaning. Those poems are not translatable in other languages keeping intact the poem structure.
+    <br />
+    The concepts illustrated below are the result of the experience of a person who has lived almost always in the countryside, so they are also partly linked to that living environment. Some of these concepts are inapplicable or useless from a practical point of view if you live in a large metropolis.
+    <br />
+    I also wanted to remind you that some of these tips are quick and easy to use, while others are not at all or take a very long time: for example, after 20 years I still try to improve my nutrition. If you want to get an idea of what I consider "medium difficulty" eat an ivy leaf (be aware that it is very very stinging,if you decide to try it, taste a micropiece first).
+    </div>
+    <hr /><!-- 1 .-->
+    A1 - Every place where people can live has its own peculiarities and it is important to understand that each place may require its own different lifestyle.
+    <hr /><!-- 2 .-->
+    A2 - Human beings tend to perceive "by difference" and evaluate what is happening based on their "mental hooks". This is why having different experiences and even outside the comfort zone helps us. It is stretching for our mind. And another thing to keep in mind is that if you stay in your comfort zone after doing these "stretchings", over time, slowly, your mind will tend to gray and flatten out, unless you do these experiences again.
+    <hr /><!-- 3 .-->
+    A3 - Be kind to plants, animals and people. (in that order) <br />
+    <hr /><!-- 4 .-->
+    A4 - Remember to leave some organic fertilizer for the trees in your garden and avoid pruning them unless they block the path. <br />
+    It is better not to leave the fruit to rot at the foot of the trees, it is better to collect it to feed it to animals rather than rot it. <br />
+    Not even unripe fruit should be left at the foot of the trees. Certain unripe fruits that are removed when fruit trees thin out can be used industrially to make other foods <br />
+    (For example, unripe plums should be great for making supplements as they contain a lot of minerals). <br />
+    <br />
+    Leaving the fruits or branches at the foot of the trees "to rot" can be dangerous, especially if done on large farms. In some cases they can make the work more dangerous for the workers. <br />
+    Basically, the fruit still becomes available food for the insects that feed on it and the following years they come back to look for it and also attack the fruit attached to the trees and over time they can still become extremely problematic for farmers.
+    <br />
+    As for the rotting branches, in that case the microorganisms that attack them attack the dead wood that cannot be defended with the tree's immune system and therefore "they learn to attack wood". <br />
+    Over time it is not certain that these pathogens that have "trained" with dead wood will not be able to attack living trees. <br /> This is why it would be better not to leave the branches of pruning on the ground on the farms.
+    <hr /><!-- 5 .-->
+    A5 - It would be better to avoid coring centenarian trees. It is sufficient to measure its diameter and height and estimate the years using that data instead of drilling it. We must remember that he is still a living being. If we suffered the same treatment it certainly wouldn't be fun.
+    <hr /><!-- 6 .-->
+    A6 - If you have a garden, remember that if you have free space, you can ask gardeners to plant and take care of your flowers or small ornamental plants.
+    <hr /><!-- 7 .-->
+    A7 - In chestnut groves it is better to collect and take away the thorny shells and leave the chestnuts to the wild boars rather than doing the opposite. <br />
+    The only exception to the use of harvested chestnuts should be roasted chestnuts street vendors. <br />
+    <hr /><!-- 8 .-->
+    A8 - Unnecessary complaints cause us to lose resources (which go to whoever receives them). <br />
+    Personally I think it is even better to avoid cursing the universe even if you are alone.<br />
+    If you happen to lose an object at home or get stuck in something you don't understand at work, it's best not to think about global plots against you but try to hold on until you come to a solution.<br />
+    <hr /><!-- 9 .-->
+    A9 - Adopt a vegan/plant based or fruitarian nutrition if possible. Exclude products made with parts of animal origin (excluding wool and silk produced in an animal-friendly manner).  Personally I recommend a breakfast of fruit only or fruit and vegetable smoothies. It's excellent for starting the day with a sprint and has never caused me any energy deficit. As far as meat or fish is concerned, many are in love with its flavour, but they don't know that the effect on the body is disastrous. Eating meat or fish creates putridity in the stomach. Salad is exactly the opposite: it puts up resistance in our mind when we try to eat it but then it gives incredible benefits to our body. I have personally seen visible positive effects trying to eat salad consistently for lunch and dinner after only two days with excellent benefits. I also happened to observe pieces of meat that shine almost as if they were magical or to smell an extremely pleasant smell, but in any case even in those cases it is better not to give in to temptation.<br />
+    <hr /><!-- 10 .-->
+    A10 - As far as meals are concerned, during meals we tend to relax and favor the tastiest food choices instead of the healthier ones. If you are able to commit yourself for a moment and make an effort to prefer the healthiest foods, you are able to obtain long-term benefits that allow you to gradually improve the quality of your life, otherwise if you choose the more gluttonous and unhealthy foods, you enjoy the flavor in the short term but there are worse results in the long run.
+    <hr /><!-- 11 .-->
+    A11 - If you have intestinal problems that are not acidity problems, a good juice of pink grapefruit on an empty stomach really works wonders. I have often used this method to sometimes fix some intestinal problems and it has worked really well. Some fruitarians believe that "sour" fruit should be avoided, but that is simply their mistake. Even acidic fruits have their reason and are not to be snubbed.
+    <hr /><!-- 12 .-->
+    A12 - As for the wool, I think it can be used, but the sheep should be sheared with razors with a built-in comb so that they are not shaved completely and are not injured by the razor during shaving. Furthermore, sheep should only be shorn in the middle of spring. In this way they would have short hair in the hottest period of the year and long in the coldest one. It must also be said that it is perfectly understandable that a shepherd who raises and manages sheep basically has a very difficult problem to manage: that of animal reproduction. Any animal that finds food in abundance and is close to its own kind tends to reproduce (this applies to poultry, sheep, etc ...) and it is therefore understandable that those who manage these animals find themselves having to steal the eggs from the nests or produce cheese (with all the unpleasant 'practices') that many vegans are aware of in order to block the continuous reproduction of animals. So I personally invite all vegans not to have any hostility towards this type of activity, and indeed, if they have any better solutions, I invite them to propose them.
+    <hr /><!-- 13 .-->
+    A13 - As regards the current intensive farming techniques for fruit production, I wanted to make some considerations. At present, intensive agriculture involves the use of harvesting tractors and wagons and annual pruning. This makes it possible to create systems which however have a limited life: after about 20 years all the trees (which have ceased to be productive) must be uprooted, sawn, the systems dismantled, the fields re-ploughed, the systems (with poles and cables) replanted and the new trees replanted. This involves a large amount of work. Furthermore, the new plants will not be productive for at least 6-7 years. Furthermore, this type of agriculture substantially obliges the practice of beekeeping to favor the pollination of trees, since if the hives were attached to the trees they would be destroyed with the end of the life of the plant.
+     In India there are ancient fruit trees (they are mango trees) several hundred years old that produce fruit continuously, without dying. It can be understood that the lack of downtime in the production and the continuous growth of these trees lead to the production of a substantially much higher volume of fruit, which also turns out to be extremely tasty. This type of trees, not dying, could also allow the use of natural beehives, attached to those same trees. The real challenge, in reality, is that of harvesting: at the moment our current technologies do not allow us to collect fruit from the highest branches or from trees that tend to be very large. This can be true for mango trees but also for cherry trees: the problem remains the same. It is said that the presence of better technologies cannot allow us to use these "permanent plants" for the production of fruit.
+    <hr /><!-- 14 .-->
+    A14 - If you are a beekeeper, absolutely remember to make a drinking trough available to your bees especially for the summer season: while in winter bees can quench their thirst with dew, in summer they cannot, and they suffer from thirst. Use mineral water, and if you want add sugar or a small amount of fruit jam, mixing well. Also remember that in winter the hives must always have honey inside because the bees need it to face the cold.
+    <hr /><!-- 15 .-->
+    A15 - In some cases, some diseases such as Xylella for olive trees or stress for cork trees lead to serious problems for the tree, sometimes even causing its death. To overcome these problems, instead of resorting to grafts as is done with Xylella, it is better to resort to fertilization. It is in fact scientifically proven that some fertilizations cure plant diseases, therefore we only need to experiment with them until we find the correct one. I think this line of research is very interesting to explore, and I have noticed progress in this regard. As an example, I list some "things" that are actually fertilizer for plants: solid and liquid excrements, coffee grounds, sand, milk, paprika, NPK chemical fertilizer, bones, teeth, volcanic lapilli, ash, truffles, beard and hair , nails, blood, tumor masses, liposuction grease, fish found dead stranded. Many of these fertilizers require to be transformed into a liquid solution by grinding or blending and mixed with the right amount of water. I also think it might also be interesting to experiment with the arsenic-based bacteria found in some arsenic pools as they are actually non-carbon based living things. As for the truffle, probably by grinding it and mixing it with water and pouring it near the roots we can effectively propagate it. In any case I don't know if the truffle is considered invasive by the plant or if it is a "friendly" organism. Personally I think it would be smart to propagate truffles in this way also and above all near secular trees, possibly trying not to remove them later (at least from those). To the list of fertilizing substances I add two others that could be experimented, even if with some reservations: honey and sperm. Furthermore, in my opinion, ground wood and whole or rotten fruit are NOT to be considered as fertilizer.
+    <hr /><!-- 16 .-->
+    A16 - As for tillandsias, I believe that in addition to the appropriate diluted NPK fertilizer, in general they can be fertilized by our breath and by the smells that our body or that of animals emits. I also know that they grow in places with strong electromagnetic waves, so I think it can be very smart to keep them in taxis, buses, subways, trains, planes, shopping malls and offices. It might also be a good idea to place some minerals near these plants as well.
+    <hr /><!-- 17 .-->
+    A17 - Many think that certain plants can only survive inside our homes, but we must remember that for millions of years plants have always lived outside and have calmly faced summers and winters. There are many plants that have an annual cycle, they decay completely in certain seasons and then are reborn in other seasons, and they do so on an annual basis.
+    <hr /><!-- 18 .-->
+    A18 - Even if you adopt a vegan/plant based or fruitarian nutrition, remember that you could still go to the butcher to buy meat to use as food for your pets (dogs, cats, snakes, crocodiles, sharks, etc...) or even just to buy spices or fruits or vegetables if he sells them. It is not even forbidden to go to the fishmonger and buy fish to feed to cats or dogs. There is no need to hate them. Of course if "cultured meat" is available at an affordable price in the future that will surely be a better alternative for domestic animal food ...
+    <hr /><!-- 19 .-->
+    A19 - The oil from the cans (for example from sautéed mushrooms) or even the vinegar from the jars of capers can easily be reused to dress salads. It is not mandatory to consider them a "waste".
+    <hr /><!-- 20 .-->
+    A20 - Litter abandoned in the environment causes problems for animals and people. Personally I believe that waste management should be a central theme of society and not something marginal as there is the risk of ruining the environment and consequently of collapsing everything that had been painstakingly built. It can also happen to feel tempted to throw garbage in the environment and to think that we will receive some strange reward or power, or to think that it is right at that moment to do so. Even in those cases we must resist those temptations and never throw waste into the environment.<br />
+    <hr /><!-- 21 .-->
+    A21 - Personally I think it's better to let nature decide how we should be rewarded for our hard work (in case for example the salary we receive is less than what it would seem right to us to receive) instead of wishing this or that.
+    <hr /><!-- 22 .-->
+    A22 - Be friendly, kind, honest, humble, patient, coherent and transparent. <br/>
+    <hr /><!-- 23 .-->
+    A23 - Don't "throw smoke" over people's eyes. Purposefully confusing people is extremely wrong.
+    <hr /><!-- 24 -->
+    A24 - It is an excellent hobby to try to sow trees, flowers or wild herbs in free public spaces or even in your own garden. However, if you sow trees, it is important to pay attention to the distances to other trees (existing or sown) and to evaluate the space necessary for the tree to grow and develop with the right size. <br />
+    <hr /><!-- 25 -->
+    A25 - If you have a vegetable garden, when you go to the barber or hairdresser to have your hair or nails cut, you can possibly bring with you a plastic bag and a jar to have your hair and nails delivered to you to then use them as organic fertilizer for the garden.
+    <hr /><!-- 26 -->
+    A26 - If you find dead animals or their remains it is better not to leave them where they are unless there are animals that feed on them (lions, vultures, hyenas ...). It is also better not to throw them in the garbage, if you have the opportunity to bury them in the ground or ask who can do it. If you bury an animal after you have buried it you can use the "sign of the sphere", which consists in rotating the hand forming a circle several times. It represents the sun, the stars, peace and serenity.
+    <hr /><!-- 27 -->
+    A27 - If you go to the cemetery and want to honor the dead, an alternative way can be; be the one to pat the nearby trees. Basically they are always there "in their company" and therefore by helping them perhaps they will help the deceased on their journey.
+    <hr /><!-- 28 -->
+    A28 - If you have pets, try to figure out if they enjoy a varied nutrition or if they prefer to always eat the same food.<br /> Many people prefer a varied nutrition, and it is very likely that this is also the case for animals.<br /> If you caress them I can advise you not to wash your hands immediately, but to wait a bit.<br /> Your immune system will have to deal with those bacteria and it will be a great gym that will improve your health.<br /> You may feel some discomfort, but being able to endure some discomfort in a controlled way is a great way to strengthen your body.<br />
+    <br />
+    <br />
+    If you take them for a walk and want them to walk on the asphalt, remember to make them wear custom-made socks: you can use baby socks or have them made by a tailor-made tailor. Just as we, walking barefoot on the asphalt, feel a lot of pain, the same happens to them.
+    <hr /><!-- 29 -->
+    A29 - If you have dogs you probably know that when you eat they want to eat too. Personally I always try to leave the dogs samples of what I eat or even just to let them smell what I know they wouldn't eat (for example olives). This is because treating your pets well by helping them understand what we eat helps improve the feeling with them. Some foods have miraculous effects in terms of feeling for dogs, such as dried fruit in general (e.g. hazelnuts) which, however, I allow very sporadically. This obviously "in addition" to their normal nutrition.
+    <hr /><!-- 30 -->
+    A30 - If you have cats that go where they shouldn't go (for example on the shelves where you cook) I learned this method to teach them not to go there. When you catch them in the act, bring your hand to the cat's head and with your index finger repeatedly touch the center of the cat's forehead with a frequency of about one touch per second. The cat will immediately show visibly annoyed, until, by dint of persevering with your touches, he will decide to get off and leave. The cat can't stand this gesture of touching his forehead, so just use this to teach him where not to go.
+    <hr /><!-- 31 -->
+    A31 - Personally, I don't even crush mosquitoes and I just use mosquito nets when they bother me too much and don't let me sleep. I noticed that in some cases they had some effects on me that I considered positive anyway, so anyway I decided to leave them alone. Warning: mosquitoes carry diseases and viruses that are sometimes very specific. After their first summer bites, I experienced strange discomfort in my bones (which then passed) and strange nervous tics in certain muscles (they also passed away). However I always consider it all training for the immune system.
+    <hr /><!-- 32 -->
+    A32 - Bacteria, molds, fungi, oozes, animals, people, plants and minerals each have unique prerogatives and traits. <br />
+    Each of these kingdoms has a very specific role in the balance of nature. <br/>
+    <hr /><!-- 33 -->
+    A33 - As for pets, adopting a pet from a kennel or cattery for example is not just a gesture of kindness. I have experienced on myself that the presence of a pet in the same room I am in allows me to do actions and reasoning that otherwise I would not be able to do. So even if keeping an animal comes with a small expense, there are still both emotional and practical benefits if they are treated properly.
+    <hr /><!-- 34 -->
+    A34 - Plants love the excrement of animals and people just as people and animals love fruit from trees. If you live in the countryside or near woods, if you have the opportunity to urinate near trees or defecate near trees covering everything with leaves and soil instead of lazily using the toilet, know that nature will probably reward you for your efforts as soon as you go to bed, or with tastier fruits, or with larger vegetables, etc... <br />
+    If you live in countries that tend to be freezing or snowy, you can put the excrement in a large airtight container and take it into the woods where there are trees. It's much better than having them end up in the sea through the sewer system.<br />
+    Depending on what you eat, the shit changes its smell. If you eat meat, it has a nauseating smell, which does not happen with a plant-based nutrition. <br />
+    This is due to the rot bacteria that form in the stomach when eating meat or fish. These bacteria also have consequences on psychological aspects: the flora
+    bacteria that we have in the stomach affects the way we think.<br />
+    Personally, changing my nutrition required a lot of mental discipline. If you have too many difficulties ask for help (nutritionists, psychologists, philosophers, etc ...) <br />
+    One more thing about your excrements: if you can even taste them when you have a few days off, know that they cause a slight mental confusion for 1-2 days, but then increase your understanding of your surroundings in a decisive way. I understand that it sucks, but if you can tolerate it there are significant benefits.
+    <hr /><!-- 35 -->
+    A35 - If after sleeping you wake up in the morning with a terrible headache due to high blood pressure, I recommend that you raise the bed on the head side by putting raisers under the legs of the bed on the head side and if not enough, use 2 pillows. <br />
+    <hr /><!-- 36 -->
+    A36 - Personally I also believe that in many cases plastic can replace wood as a building material: it is resistant to mold, termites, can be of various colors and does not cause the death of trees (and recycled plastics can also be used). 
+    <hr /><!-- 37 -->
+    A37 - In my opinion, in an evolved society, garbage management with the recovery of materials must be at the center of people's attention and efforts. This is because when new products and new technologies are created, it is also necessary that the management of the final cycle of the product is managed in the most correct way possible, otherwise the pollution over time ends up destabilizing society.
+    <hr /><!-- 38 -->
+    A38 - In many country houses there is often junk that accumulates over the years. In general it would be useful to recycle what is no longer used.
+    <hr /><!-- 39 -->
+    A39 - When living with people of the opposite sex, it can happen that you receive harassment of varying intensity. Personally I recommend making an effort not to fight back but to accept them because they are only a guide to solve problems in the best way. It may not necessarily happen when walking down the street, but I think the same principle applies. In those circumstances it is better to grit your teeth for a moment, bear it, and after a few tens of seconds we will come to understand something completely unknown that will make us act in a different direction. <br />
+    <hr /><!-- 40 -->
+    A40 - I have devised an innovative way to fertilize trees and plants in general. By purchasing volcanic lapilli (found in gardening shops) and crumbling them you can obtain a powder to be mixed with water and thus obtain a liquid fertilizer. <br />
+    <hr /><!-- 41 -->
+    A41 - If you decide to have a tooth removed by your dentist, remember to have it delivered to you and bury it at the foot of a tree. To bury it, a technique can be to make a vertical hole with a screwdriver, insert the tooth and fill the hole with sand. In this way the intervention will be the least invasive as possible for the roots of the tree.<br />
+    <hr /><!-- 42 -->
+    A42 - Personally I think it is better to bury the dead underground, without a coffin but simply wrapped in cotton. I think the niches would be better used as containers for the objects that belonged to the deceased, placing a glass plate that allows loved ones but also other people to look at those objects and understand the life that person lived. I think it would be a much better way to remember the deceased, to understand how they lived, transforming the cemetery into a sort of museum of the past. Otherwise, an alternative and better idea could be to use the flesh of the deceased to make food for carnivorous animals, to bury the uneaten remains underground and to crumble the bones into powder to make organic fertilizer. The bone powder should be mixed with spring water, possibly also using water from different and distant sources to produce many different fertilizers. As for this fertilizer, it should preferably be used to fertilize trees in very distant and different places. Such fertilizers would be better transported by non-motorized vehicles, also trying to whistle along the way. Live music may be played during the ceremony where this manure is poured near the roots of the trees, essences and perfumes could be spread. People could also stand barefoot on the grass and have pets with them. Also at a banquet, fresh fruit might be handed out for the attendees. They may seem to you somewhat strong or "chilling" concepts, but know that this "circularity" with regard to the remains of the deceased is the wisest thing you can do to better respect nature and help people to be more happy. Or even using the deceased as food for lions, vultures, alligators, sharks or piranhas makes much more sense to me than making another dead (the tree from which wood is made for the coffin) to let them mold inside.<br />
+    <hr /><!-- 43 -->
+    A43 - I think it could also be interesting to use dinosaur bones to make powdered fertilizer with the same concept illustrated above. After all, it is enough to make a plaster or plastic cast to get an idea of the dimensions inside the museums, there is no real need for the bones to be real. I'm not able to predict what effects it may have on plants, but it would certainly be interesting to experiment with them.
+    <hr /><!-- 44 -->
+    A44 - It is important to live and sleep in an environment with the right humidity. Too dry air creates problems for our body. 
+    <hr /><!-- 45 -->
+    A45 - The mobile phone should never be kept in your pocket, this tends to be because; it is easy to go out, fall on the ground and break. It should only be kept: either in the hand while we use it, or leaning against a perfectly horizontal surface such as a table or bed, or possibly kept inside bags or purses. But not in the pockets.
+    <hr /><!-- 46 -->
+    A46 - Certain technologies such as wireless signals or touch screens still have an impact on our lives. To give an example, the micro-discharges of the touchscreen screens that pass through the body create very light damage that can accumulate and somatize over time. <br /> It is possible to try to solve this problem by looking with the fingers areas of our body pervaded by pain and massaging them, in case the somatization is in a fairly external area. Personally I have found a point of somatization in the sole of my foot. <br /> As for wireless signals, on the other hand, in some cases they can create sudden distractions as in any case the electromagnetic waves actually interact with our nervous system (which works through electrical signals and therefore is in any case influenced by the presence of electromagnetic waves). <br /> Personally, I can recommend that you keep the wireless or data network on in your smartphone only when you are actively using the phone or actively expecting a response from someone.
+    <hr /><!-- 47 -->
+    A47 - If in front of the computer you find that you cannot solve a problem because your mind cannot understand well, then try to face the problem while you are eating. You will find the solution to that problem in no time.
+    <hr /><!-- 48 -->
+    A48 - Sometimes certain sensations in the body depend only on factors that can vary. <br />
+     For example, it can happen to feel sexually aroused if we have urine in the bladder or to have other sensations if, for example, we have some air in the belly. <br />
+     Sensations that vanish as these factors vary. For example, if you feel sexually aroused in the middle of the night and you are alone, know that the feeling of sexual arousal COMPLETELY COVERS that of the need to urinate. So try to remember in those moments to try to go to urinate because I can guarantee you that 99.99% of the time in those cases the state of sexual excitement is only caused by the presence of annoying bacteria in our urine. But know that this, in those moments, is also very easy to forget.
+    <hr /><!-- 49 -->
+    A49 - A technique that can be useful for you to unblock and improve your body and your intelligence and for the bravest is to go to a grove and taste some things that we find inside. Leaves of trees, small parts of excrement, fragments of snail shells, small berries (not mushrooms because they are too dangerous). The flavors you typically feel are quite annoying, irritating and unpleasant (for example ivy leaves are quite irritating), and the droppings generally cause a couple of days of mental confusion. But then there are significant benefits. In general, the ideal day to use it is Saturday morning, so we can take advantage of the time until Monday morning to recover and not have work interruptions. In any case, know that there are also leaves, berries and seeds that are considered absolutely toxic.
+    <hr /><!-- 50 -->
+    A50 - Another very effective technique when your heart is aching is to sit outside and wait for flies to arrive. At that point the eyes are closed and the flies are left free to explore our face, even if they approach or slip slightly in the ears, nose or eyes, enduring the tickle without ever crushing them. It's not easy to do it but if you can bear it you can heal even devastating emotional wounds. This happens because in those moments of enduring those tickling sensations we do a particular muscular gymnastics which has the very effect of healing us from certain emotional wounds. In the absence of flies, I believe that with the support of people who tickle our faces with feathers with the utmost delicacy can help us perform the same type of muscular gymnastics.
+    <hr /><!-- 51 -->
+    A51 - Disabled people have a mind that develops differently from non-disabled people and that often allows them to have, instead of the missing skill due to the disability, some other skill that is often very peculiar and of great value and difficult to reach by people without that disability . So sometimes the company of a disabled person can offer us out of the ordinary experiences.
+    <hr /><!-- 52 -->
+    A52 - As for love with the opposite sex, I have had love experiences that have "turned on" simply by persevering in kindness with the other sex. Sometimes even without ever meeting physically, but only using IT communication tools. There are probably different types of love based on the combination of people that is formed, because I have experienced at least 10 different ones (for example one seemed to me more a sort of "strawberry" love while another was more a kind of love "bright aquatic", many of them lasted just a couple of seconds). This is also why I believe that kindness is important in our society. I also happened to fall in love with a person who was already in love with another person. In that case I preferred to let the love go out, as the other person had communicated to me that he wanted to marry that other person. Sometimes it can also happen that when you are in love with a person who gets married to someone else, our heart goes to pieces for a moment, but then over time everything is sorted out ... <br />
+    Moreover, if you happen to fall in love and completely lose the ability to reason, pour your love into gestures of kindness towards the trees, or if there are none, of those who happen to be within your reach, perhaps with a hug. In that way you will be able to regain the ability; to reason.
+    I also had a long-distance relationship where instead of love I felt hate. In that case it still served me perhaps to clean up the other person and somehow spurred me to squeeze more. 
+    <hr /><!-- 53 -->
+    A53 - Furthermore, as far as love is concerned, I have noticed some differences between the various types of love that I have experienced. In some cases, love allowed me to decide how to behave (for example, in some cases I was able to court girls for some time or decide to interrupt the courtship because I felt it was not correct in relation to the sentimental situation of the other person) but in other cases I have had destructive and adverse reactions to love. Faced with that sweet and pleasant sensation in a couple of cases I reacted with anger, trying to block it and destroy it because of some reason that I absolutely can't explain.
+    <hr /><!-- 54 -->
+    A54 - Furthermore, always with regard to love, I have noticed that in a situation for example I was extremely sincere (because I was in love) but the other person reacted by getting angry at what I was saying, or by saying absolutely meaningless things even though to put the other person at ease and not to contradict them (because being in love, the aim was to put them at ease). So anyway it's interesting to note, in the second case I mentioned, that being in love I wasn't able to REALLY help the other person with really useful advice, but only to "make them relax" in their comfort zone. When you are in love it is very difficult to contradict the other person.
+    <hr /><!-- 55 -->
+    A55 - About anger, if you happen to get very angry, the advice I give you, instead of yelling at people, is to take a little walk in order to reflect better on what to do and make a less instinctive but more reasoned decision. In those moments, taking a barefoot walk on the grass can help a lot to let off steam.
+    <hr /><!-- 56 -->
+    A56 - As for the "problem" of flatulence, it must be said that being something totally involuntary and difficult to control, any judgment on the matter, conceptually speaking, is completely meaningless and groundless. In any case, for those who need it, there is a technique to do them silently: you have to misalign your legs by putting one further forward and one further back (when sitting) and with a little attention you can do it.
+    <hr /><!-- 57 -->
+    A57 - If you want to eat legumes without having stomach bloating problems, a cooking technique is to cook them in two steps, changing the cooking water halfway through cooking. In that way the substances that come out of the legumes and which cause that problem are dispersed and the legumes are thus very light in terms of flavor and digestion.
+    <hr /><!-- 58 -->
+    A58 - I discovered that the presence of minerals nearby can cause concrete and experimentally perceptible effects on our body. Personally I have very few left because the ones I had I gave them away a long time ago. However I have experienced that the thick quartz about 2 fingers long that I possess, if present near me, over time transforms my consciousness making it become more "aerial" (I find it hard to explain) and makes it almost impossible for me to concentrate to work. I also noticed that in the presence of quartz, watching a documentary on the deep sea I perceived the fish as if they were real fish, while instead looking at an image of "cattivik" or "venom" I had the sensation that it became more and more evil in front of to me. This is explained precisely because quartz lightens our awareness, and therefore since we "perceive by difference" this particular effect is obtained. I suppose these minerals when used in places like spas or meditation centers could lead to considerable benefits. I don't know anything about crystal healing, but these are my personal experiences. I had to remove the quartz from the room because I couldn't concentrate anymore to work, and I discovered it on my skin that had this particular effect. I also experienced that the presence of mineral bracelets under the kitchen gave me headaches trying to sleep.
+    <hr /><!-- 59 -->
+    A59 - Sometimes it can happen that you lie down after eating. This can lead, for example, to having air in the belly at a later time. If you can walk a bit (even inside a room) in order to make the stomach swing with this procedure, the air tends to go out and digestion tends to improve. Air in the stomach is not a friend to good digestion.
+    <hr /><!-- 60 -->
+    A60 - Drying the terminal parts of our urinary system with a piece of toilet paper after urinating helps improve the life of our underwear and not feel discomfort and tingling in the following moments.
+    <hr /><!-- 61 -->
+    A61 - I personally strongly advise against masturbation, the use of condoms (except in case there are sexually transmitted diseases) and birth control pills. It's normal to be attracted to sexuality, because in itself it's an almost irresistible sensation that when it starts takes us into a state of "autopilot" until ejaculation. To learn to master sexuality, you can self-stimulate extremely slowly and carefully, in small quantities, observing with your awareness and with extreme prudence, for a maximum of 5 minutes a day.
+    <hr /><!-- 62 -->
+    A62 - Sometimes it's not easy to convince people of your opinion, but it's perfectly normal for this to happen. This is because in order to receive and accept an opinion or information it is necessary for that person to have a whole context of correlated information available which allow him or her to evaluate and accept this opinion as valid. Otherwise, if he or she has different or false or incomplete information, it is absolutely normal that that person is unable to accept a valid opinion as such.
+    <hr /><!-- 63 -->
+    A63 - The best way to avoid embarrassing situations when walking down the street in the presence of other people is not to look at other people's erogenous zones. In some cities, even meeting the gaze of unknown people for more than a few seconds is considered a sort of affront. Probably the most respectful way to look at people when walking down the street is to look at their hair in case you want to focus on a detail, or to look at the person as a whole without dwelling on any particular part for no more than a handful of seconds.
+    <hr /><!-- 64 -->
+    A64 - To recover from very heavy efforts there is nothing better than excellent quality food as well as obviously resting. If you are too tired and eat poor quality food, the emotional outcome will be quite disastrous. Don't make this mistake. Investing in good, healthy food is a very smart way to spend your money. Because remember that beyond any technology or object that you can use, your whole life inexorably starts from yourself, from your organism.
+    <hr /><!-- 65 -->
+    A65 - Personally I think it would be nice if objects in general were always easily removable, repairable or easily recyclable in their various parts. Clearly it is not easy for those who produce them to be able to obtain this result, but I believe that great steps forward can be made in this direction. This is because I believe that the use of "undifferentiated" waste tends to be minimized as much as possible. Extracting new metals, new minerals, etc. involves a non-negligible cost. For example, my mother had to throw away a washing machine simply because it was not possible to clean its buttons from dust, and the button panel was not removable because it had been assembled with a one-way joint. This is just to give an example. Just as I believe it makes no sense to continue buying pods for coffee machines when there are refillable capsules. Now I understand that the manufacturing companies needed to collect some money to be able to continue their work, but if conceptually they had immediately supplied ground coffee and refillable capsules and asked to use only the ground coffee produced by them or to pay a "monthly subscription" as we do with other services, a not negligible quantity of undifferentiated garbage would have been avoided.
+    <hr /><!-- 66 -->
+    A66 - It's important to commit to carefully choosing the words of our thoughts and speeches because paying a little more attention and effort can be beneficial. For example it is better to ask "How much does it cost?" instead of "How much is it?". (The second example i put in the italian version of this periods are not actually translatable to English/American - sorry). This is because in the first case the word 'cost' unequivocally refers or is more near to the concept of 'price', while the words "is it" are used with other many different meanings. (Explanation of second example skipped). Using words with more specific and unique meanings reduces confusion, misunderstandings and helps maintain clearer and stronger intentions. This is an example of what I call "mental discipline".
+    <hr /><!-- 67 -->
+    A67 - The use of names of pure fantasy or in any case with a meaning associated with existing words that have to do with what the company does (e.g. MBCRAFT?, FINCONS, WEBUILD) represents a better choice than names associated with words already existing ones that have nothing to do with what the company does as this approach helps reduce mental clutter and create better mental spaces. Personally, in the past I had thought about changing the name and logo of my company, but at the moment I haven't allowed myself yet.
+    <hr /><!-- 68 -->
+    A68 - Know that if you reach some inner goal of value through particular exercises (yoga, meditation, etc...) you may happen to be attacked even in places you consider safe. It happened to me a couple of times and I'm not surprised by this, and in any case it didn't just happen to me ... this is because well-being tends to level off and those who have more, even only internally, are forced to give it to those who are worse off ... it is not easy for those who are worse off to resist certain temptations ...
+    <hr /><!-- 69 -->
+    A69 - The quality of thoughts of each of us depends on the degree of mental hygiene that a person has. In general, based on what we eat, how much experience we have with meditation, the quality of the air we breathe, the water we drink and the situations we are experiencing and our past experiences, the quality of the thoughts we have can vary greatly. It's good to remember that not everything we think can be of value and that some poor quality thoughts that we have should only be trashed.
+    <hr /><!-- 70 -->
+    A70 - Abortion is the interruption of the life of an innocent creature who has no way of defending itself against such a choice. Consider how potentially serious such an act can be, even though it is considered legal in many countries around the world.
+    <hr /><!-- 71 -->
+    A71 - If you are a woman and you have given birth to a boy or a girl and you know other women who have given birth and who are breastfeeding, consider that it has been scientifically proven that a varied nutrition improves psychophysical health, and therefore breastfeeding babies also from other women and breastfeeding other women's babies could be a way to improve future health from children.
+    <hr /><!-- 72 -->
+    A72 - If you eat food that is too greasy or in excessive quantities, you may feel a little heavy mentally, sleepy and distracted. In case you decide to eat other greasy food (it's a temptation that can happen in those moments of heaviness) I suggest you eat some dry food instead, such as nuts (walnuts, peanuts, hazelnuts, almonds). It will help you break hunger and recover from heaviness.
+    <hr /><!-- 73 -->
+    A73 - Basil pesto is a condiment typically paired with pasta loved by millions of people. But what almost no one knows is that basil is actually mildly toxic. If, for example, when you season pasta you overdo it with basil pesto (I use the vegan one) for several days in a row, what happens is that the heart is 'reset'. In the digestion phase we begin to feel a strong sensation of greyness, monotony and absence of feelings, almost as if we had gray concrete inside our heart. It is not a permanent condition, over time the body tends to purify itself and we return to that condition in which the heart makes us perceive that 'warmth' that we typically associate with the love that others feel towards us. However, I do not deny that when we find ourselves in that condition of dullness and monotony everything is much more difficult and mentally tiring, but it is equally true that when we are in that condition we also make very different and 'differently intelligent' reasoning.
+    <hr /><!-- 74 -->
+    A74 - If you live in places with very clean air, it can be useful for the psyche to breathe smoke, at least once every six months, even if only for 4-5 seconds.
+    <hr /><!-- 75 -->
+    A75 - In certain online sites or paper brochures I have come across information that is misleading or so confusing as to be even dangerous for my mental health. Always be especially careful when reading foreign language content online. In case of extremely confused concepts and with words that have little to do with each other, one runs the risk of losing mental health. Once I even bought a book in a foreign language which was supposed to be of university level and I found so many errors and inaccuracies in it that I decided to burn it in the cauldron, while in another case, always with a book in a foreign language, I I found a book done so well that it helped me a lot in the job I had to do.
+    <hr /><!-- 76 .-->
+    A76 - The "wind therapy" consists of sitting in the middle of the greenery with a chair or deckchair in the sun or in the shade of a tree and enjoying the breeze. This practice very easily becomes a rather spontaneous form of meditation with little effort, and can provide great relaxation from stress.
+    <hr /><!-- 77 .-->
+    A77 - Typically there is a tendency to go more or less always to the same supermarkets and the same hairdressers. In this way, security is traded for personal enrichment. By frequenting supermarkets or hairdressers that are different from the usual, you would get to know new places, new people, new products and new services and over time you could make more correct choices for your personal satisfaction.
+    <hr /><!-- 78 .-->
+    A78 - Certain "apparently useless" voluntary work such as the collection of mad chestnuts to be used as food for pigs in sanctuaries, or litterpicking have significant health benefits, they are not just a good social work. It also applies to those who collect dog excrement to make fertilizer from the streets of cities where they shouldn't be. And if they are done without complaining or cursing the incivility of others, they are even more useful. I speak from personal experience.
+    <hr /><!-- 79 .-->
+    A79 - Never burn leaves or paper sheets outdoors with bonfires. They could take flight while on fire and land and start a fire. It's very dangerous.
+    <hr /><!-- 80 .-->
+    A80 - If you use post-its, I'll reveal some useful concepts. The first is to use a pencil to write instead of ballpoint pens as you don't risk them jamming and you don't risk getting stained with the ink. In this way you can also keep them resting on the table and use both front and back without staining the table. Furthermore, when using post-it notes to keep notes like todo-lists, the important thing is to keep in mind the concept of "carpe diem": when something comes to your mind, even if you're away from your desk or doing something else , interrupt your activity and write yourself a note on the post-it. This way you will be able to make the most of them. At that point when you work with your desk you will have all the todo-lists as a reminder and you will be able to work more effectively without scattering good ideas.
+    <hr /><!-- 81 .-->
+    A81 - If you have a wood boiler, remember that it can also be used to burn wood that contains nails. Then remember to remove all the nails from the ash with a magnet. The ash can be used as a fertilizer. Even if the use of wood-burning boilers is strongly discouraged, in some cases it is the only way to dispose of wood that contains nails.
+    <hr /><!-- 82 .-->
+    A82 - If you want to be able to eat bread that is always fragrant and you have a freezer, you can do as I explain. Buy some bread, cut it into slices and then put it in the freezer. Then when you have to eat it, take it out of the freezer, put it on a plate and heat it up. At that point it will be fragrant and you can eat it. It remains extremely tasty.
+    <hr /><!-- 83 .-->
+    A83 - Mulberry blackberries can't be kept in the fridge... after just a couple of days they become wormy. They should be eaten as soon as they are picked or probably put directly in the freezer or dried to be able to eat them without worms.
+    <hr /><!-- 84 .-->
+    A84 - A friend of mine suggested me to use magnesium-potassium supplements in case of problems with nervous breakdowns. I can confirm that even after just a single use I have noticed drastic health improvements in this regard.
+    <hr /><!-- 85 .-->
+    A85 - I have personally noticed that everything I write down on my smartphone (for example on the basic notes application) tends to be set aside and forgotten. Eventually write us all your thoughts of hatred for others if you have any, it could be a good way to get them out of your head.
+    <hr /><!-- 86 .-->
+    A86 - If you live in the countryside and have large spaces available, a good idea may be to evaluate the possibility of introducing pets to improve the quality of your life. For example, also based on the quantity and type of trees or spaces of a certain type, it may be intelligent to introduce particular animals that are well suited to the presence of that type of space or tree. For example, if there are oaks, a good idea may be to introduce one or more pigs of the same sex so that the acorns do not rot on the ground but become food for them. If there are large spaces goats or cows that graze the grass are suitable, and so on. In any case, there are also animals which in some cases may be a little incompatible with the presence of certain plants, such as chickens which tend to scrape, ruining the presence of small unprotected plants in the garden. By using animals of the same sex, problems related to their multiplication are avoided. This obviously will also involve a certain expense as many of them may require ad hoc food to be purchased at special shops, however remember that the excrement that the various animals produce can be collected, periodically mixed with water and used as a liquid fertilizer for the plants of the garden or trees. This will allow you to improve the health of the trees and the quality of the plants in your garden, for example, and consequently also your profits or the quality of your life.
+    <hr /><!-- 87 .-->
+    A87 - Whatever your passions and hobbies, know that they are by no means useless and that they have both meaning and value to your life. It's not just what you've studied that determines what you're capable of doing, but it's the combination of what you've studied (or learned while working) and your passions that you practice in your free time and the objects you own. As an example, if a cook who went to a certain practical school and is an expert in karate, that person will know how to cook and run a restaurant in a completely different way from a person who went to the same school, with the same grades, but who studied music, or even who took a drawing course and deepened that type of activity. And know that, just as there will be activities in which you will be extremely productive, there will also be others that you will not be able to practice because you would have such disappointing results that you would just demoralize yourself. Just to make you understand, for example, I am absolutely not capable of drawing or playing a musical instrument, and I voluntarily choose to exclude this type of activity from my life because it would just be wasted time and I would have extremely disappointing results. There are tons of things I can't do for a variety of reasons, but I've always chosen to focus on what I knew how to do best and what I could do and focus more and more on that and exclude anything that would almost certainly lead to resounding failures. And also know that this combination of skills and objects that you have chosen for yourself in your life path will always make you extremely performing in certain contexts and extremely uncomfortable and at risk in other contexts. To understand what these situations and contexts are, you will have to observe yourself carefully in some of these situations and use your intuition. This is also somewhat true for the objects you own. There will be some that you will use very often and will be very useful to you, others that will only take the powder. If you can, rationalize your resources, I have sold or given away many things that I no longer use or that I bought thinking that I could exploit them but which in reality have never been of any use to me and I have never really missed them once i got rid of it.
+    <hr /><!-- 88 .-->
+    A88 - I believe that the practice of grafts is simply an extremely serious philosophical mistake, as the natural integrity of a living being is being violated, and that it has then led to very particular consequences on our planet: highly destructive animal species and the transsexuality. I strongly believe that feeling part of oneself of a different sex than one's own is caused by this type of agricultural practice, as I am perfectly aware that what we do to trees affects our psychophysical health. Not only that: as far as I'm concerned, the fruits obtained from that type of tree no longer give me any feeling of being really valid and useful to my body. I personally will stop buying and eating fruit from grafted trees because I simply feel it is a waste of time and money.
+    <hr /><!-- 89 .-->
+    A89 - As for the agricultural practices to use, I suggest focusing on: fertilizing, pollination, irrigation, music (it has been found that music makes tomatoes grow in greater quantities) when possible. Then there are others that are not potentially wrong, such as mulching ... but in any case I believe that the grafts should not be used.
+    <hr /><!-- 90 .-->
+    A90 - As for the music to be played by plants, in my opinion it could also be very interesting to make it listen to centenary trees as well. Furthermore, apart from the actual music, in my opinion it could also be very interesting to listen to recordings of very peculiar sounds, such as for example the sound of the wind of mars, the sound of the rings of saturn, or the sound transposition of some physical phenomena of particle collisions recorded at the LHC, or even the sound of a stone falling down a very deep well, just to name a few.
+    <hr /><!-- 91 .-->
+    A91 - As far as I'm concerned, the concept of an "alien" plant or species makes absolutely no sense to me. If a plant or a tree can grow and survive in an environment, then in my opinion it has a full right to live there, and the same goes for an animal. Aren't there people who are born in one place and then go to live on the other side of the world? Are we not trying to explore space and go and live on other planets even who knows how many light years away? And aren't we going to try to take potatoes or tomatoes with us and grow them on other planets as well? Since the answer is yes, then as far as I'm concerned it makes more sense to import lions to places where there are excess herbivorous animals rather than organizing hunting trips. Those who want to have fun shooting as far as I'm concerned can shoot rocks or play online shooters even in the company of teenagers. And then just to say, my mother has dozens of cacti. Do you really want to convince me that they are local species knowing that the Po valley was a swamp in the past? Do we really want to go and live on mars and not take ducks with us? In my opinion not.
+    <hr /><!-- 92 .-->
+    A92 - In my opinion it doesn't make much sense for people in condominiums to "pretend" that the other inhabitants of the condominium almost don't exist, but I think it makes much more sense to take advantage of the condominium to experience the concept of "community", frequenting and interacting frequently with the other condominiums in so as to exploit the closeness of those people on an interpersonal level. Exchanging work services (cooking, cleaning the premises, assistance, etc.) should be the norm, precisely so as to make the most of the time and skills of the people who live there. It would also make sense to create companies inside the condominiums in which to make the various inhabitants of the condominium work according to their skills, as everyone would have their own personal spaces adjacent to the working ones and this would lead to a drastic reduction in traffic on the streets. For example, if a painter lives in a condominium, it makes no sense for this person to paint only for himself, he might as well undertake to fill at least the entire condominium with art. If a person is an expert in plants, or is an excellent cook, it doesn't make sense to have him work only "small" in his apartment, but it makes sense to extend his work or his passions to the whole condominium. This is because the more different tasks you have to do, the less you can be efficient, so in this way you focus on quality rather than getting stuck in a climate of fragmentation and drastically improve people's overall satisfaction. Analogous reasoning can be done with skyscrapers.
+    <hr /><!-- 93 .-->
+    A93 - As far as I'm concerned, it doesn't make any sense for sewers to discharge sewage into the sea. Fish don't eat poop. It would make far more sense to use sewage as fertilizer for agricultural fields. That would be a much better use of resources.
+    <hr /><!-- 94 .-->
+    A94 - If it were possible to clear the ground of the woods from the foliage even with the help of machinery, this would improve the growth of the grass and consequently it would make the life of herbivorous animals inside it possible and better, and consequently also of the carnivorous ones.
+    <hr /><!-- 95 .-->
+    A95 - The reasoning we do strongly depends on our emotional state. A depressed person thinks and reasons in one way, a person who is neither happy nor depressed thinks and reasons in another way, a happy person thinks and reasons in yet another way. So helping people be happy is the key to helping people be happy. a great way to improve their thinking.
+    <hr /><!-- 96 .-->
+    A96 - When we are lying horizontally on a bed or sofa in certain situations in which certain physiological processes are taking place, our way of reasoning changes and we are no longer able to effectively guide our thoughts.
+    <hr /><!-- 97 .-->
+    A97 - Some diseases also have reflections in our mind: I'm not just talking about feelings of suffering, but I'm talking about real errors in our logical and mathematical reasoning. As strange as it may seem, even repeating the multiplication tables with a sheet of paper, or solving certain mathematical problems can be a way to unblock the situation of the immune system. In fact, if we find a real flaw in our way of reasoning and we remedy it, in the same way the immune system, faced with a threat that it could not manage, will find a way to overcome that gap. These hidden problems can concern the most disparate parts of our mind, from those that manage the ability to do mathematical calculations to that which controls the motor system. Finding them, observing them and overcoming them is one way to help the immune system do its job.
+    <hr /><!-- 98 .-->
+    A98 - If you are a woman, know that the color of your hair (which can also be artificial) will change the way men react around you. If the situation with your partner is a bit blocked from a psychological point of view, trying to change your hair color could be a good idea to unblock the situation in some respects, but know that it could complicate it a bit for others.
+    <hr /><!-- 99 .-->
+    A99 - Remember when you leave home with your vehicle, to always evaluate your tiredness and the return journey you will have to make in advance. Evaluate how much to eat, avoid alcohol, and if you feel sleepy stop the car, find a parking space and sleep in the car with the 4 flashing lights on, even if only for an hour to recover. Getting home safe and sound should always be the priority.
+    <hr /><!-- 100 .-->
+    A100 - Always keep a pair of sunglasses close at hand in your car, even the cheapest ones that can be bought in tobacconists. They are very useful when traveling at sunset and the sun is on your face.
+    <hr /><!-- 101 .-->
+    A101 - In general it is wrong to try to "pilot" people. People change their habits on their own when they find better ways to live, and it is useless to try to convince them to act without them being sufficiently convinced of what they are doing. It is sufficient that these people have enough time, resources and information and with the necessary time they can improve.
+    <hr /><!-- 102 .-->
+    A102 - When you are in the presence of unknown people and we are the ones familiar with the place or in any case who manage the situation, it is a good habit to describe in advance what you want to do before doing it. This will put those who are less practical at ease and help create a climate of well-being and mutual trust.
+    <hr /><!-- 103 .-->
+    A103 - You prefer volunteering to prayers. If you have personal needs, talk to people about them. I personally believe that praying is conceptually like asking the president of the United States for ice creams ... I think that is out of line, and also in a way it also means that 'God' is some sort of incompetent ... despite all the temples and churches are very beautiful buildings, and I believe that they can still be used for useful purposes ...
+    <hr /><!-- 104 .-->
+    A104 - In general we are led to think that by eating fruit, vegetables, cereals and legumes our nutrition is complete, but I have been able to ascertain that our body actually also needs minerals. Sodium, potassium, iodine in salt are just one example. I do not exclude that other minerals may also be useful, or that their contribution, even if in minimal quantities, cannot have a positive effect on our health ...
+    <hr /><!-- 105 .-->
+    A105 - Sometimes it can happen to buy some defective product. Very often it is better not to be too squeamish about small defects because it is not absolutely necessary: they only create waste unnecessarily. It happened to me to buy an office chair with a broken armrest, or a video card that in some cases shows green pixels for no reason, just to give a couple of examples ... in other cases, however, I happened to buy products that they were useless by how defective they were, like shoes so uncomfortable that I couldn't wear them without making my foot bleed, or prisms that didn't make a rainbow. You have to evaluate it on a case-by-case basis ...
+    <hr /><!-- 106 .-->
+    A106 - If you want to play a little with your partner or friends I recommend the computer game 'Neverputt' (it works on all major operating systems). It's free and just search for it in a search engine to find the download. It's a minigolf simulation and it's extremely simple to play... it's suitable for all ages...
+    <hr /><!-- 107 .-->
+    A107 - I have personally found that video sharing on social networks over time produces a kind of pollution in my mind about that concept. For example, I noticed that after posting that finger rotation technique on TikTok I completely stopped being interested in it, and that when I tried to use it again I found different "pollution" in my mind (and I had only had about 700 views) which however, once I got over it, it allowed me to reuse that technique. So I feel like warning those who have millions of views of their videos or photos, that you could find yourself with several psychological flaws related to that type of experience that you have captured on video or photographed ...
+    <hr /><!-- 108 .-->
+    A108 - It's very important to be friends with yourself, to love ourself and not hate ourself.
+    <hr /><!-- 109 .-->
+    A109 - Depending on your sexual habits you reach different situations in life. In the male body there is a sort of "channel" that starts from the base of the spine which can make a sort of energy flow in two different directions: one direction is the one that leads to ejaculate, the other instead reaches the head. Basically if you ejaculate, the flow towards the head slows down a lot and you are more inclined to ejaculate even more, while instead if you manage to maintain chastity, the flow towards the head tends to increase over time until it reaches its maximum maximum range. The flow to the head allows you to improve intellectual capacity, but also allows you to flirt even more easily with more people of the opposite sex even on a daily basis with excellent results, and also to be able to make people enjoy themselves better.
+    <hr /><!-- 110 .-->
+    A110 - People's sexual tastes are not a subject of judgment or discussion.
+    <hr /><!-- 111 .-->
+    A111 - In offices it is important to work in adequate spaces. If there are people talking nearby, other people who are forced to listen are forced to concentrate more in order not to make a mistake, and sometimes even concentrating is not enough. Furthermore, we tend to influence each other even on a mental level. The only advantage of working in offices, in my opinion, is more on an emotional level. People who are worse off can have a little chat with those who are better off and this helps them feel better emotionally. The other side of the coin, however, is that determinism is lost. Just to help you think, we can take as an example the "Windows" operating system (made by a company with huge offices) and the Linux operating system (made mainly by volunteers distributed all over the planet). They are two polar opposite development models: on the one hand, the Windows operating system supports many more games and programs, on the other, the Linux operating system is known for its speed, robustness and security, but supports fewer games and applications. They are precisely the result of two different development models.
+    <hr /><!-- 112 .-->
+    A112 - Basically in life it is impossible to be able to do everything that we would like to do. As far as I'm concerned, there are many activities that I would like to do but that I can't do due to lack of time or resources. It is really important to know how to be satisfied and to know that we will be able to happily explore only a small slice of what we can experience overall by living.
+    <hr /><!-- 113 .-->
+    A113 - If you feel like it, try combing the filiform grass with a normal comb. It gave me a very very difficult sensation to perceive.
+    <hr /><!-- 114 .-->
+    A114 - Personally I think it would be very useful to have a plastic with the same workability as wood. Flood and termite resistant furniture and hardwood floors could be built. And it would also save the lives of many trees.
+    <hr /><!-- 115 .-->
+    A115 - I think vivisection is a very serious mistake, as is animal testing. We can use artificial intelligence to do complex research and studies, there is no need to harm living beings. In any case, we must remember that if artificial intelligence makes certain professions "less useful", we still have a duty to protect the lives of those people and find them suitable work. If you want to use artificial intelligence and the service has negligible costs, I recommend investing $10 in planting trees, possibly in the United States, for every 1.4 uses that are made, in order to avoid future repercussions due to social problems.
+    <hr /><!-- 116 .-->
+    A116 - It is seriously wrong to use children or other people in general to do something wrong or that makes us uncomfortable for us. It's one thing to delegate work that we don't have the time to do or the knowledge or tools necessary to do it, it's another thing to use people as psychological shields. It is a behavior to be avoided absolutely.
+    <hr /><!-- 117 .-->
+    A117 - Every living thing works for profit. It can be economic profit, emotional profit, or other kinds of profit. It is absolutely normal that this is the case.
+    <hr /><!-- 118 .-->
+    A118 - If you open a startup I advise you in the initial phase until the products or services you want to sell are ready, to try to minimize costs and to avoid renting offices as those costs are so significant that sometimes they even cause the startup failure.
+    <hr /><!-- 119 .-->
+    A119 - As strange as it may seem, when you give money to a person of the opposite sex without requesting any particular service or performance in return, his gratitude comes back to us and this serves to improve one's energies and intuitions.
+    <hr /><!-- 120 .-->
+    A120 - In some cases the use of the computer to write very difficult concepts for some reason erodes the intestinal bacterial flora.
+    <hr /><!-- 121 .-->
+    A121 - It is better to try to be friends with all the peoples and people of the world, without discriminating. By now we all depend on everyone and hating each other is just a waste of time.
+    <hr /><!-- 122 .-->
+    A122 - As far as sexual violence against women is concerned, it is better for men to know that raping a woman, in addition to being wrong, also means leaving a large part of one's genetic code in her hands, and this could essentially lead to a great deal of paranoia for several years.
+    <hr /><!-- 123 .-->
+    A123 - Usually nothing happens by chance, but it is up to us to understand and interpret what is happening to us in order to give it the right meaning. But it is absolutely not easy.
+    <hr /><!-- 124 .-->
+    A124 - The way I see it, coffee is just nature's desperate attempt to make us realize that trees want our poop. However, if possible it should be covered with dry grass or leaves.
+    <hr /><!-- 125 .-->
+    A125 - As for grafted trees, I personally think it's best not to fertilize them. It would be best to replace them with ungrafted trees, although I realize that may involve a great deal of work...
+    <hr /><!-- 126 .-->
+    A126 - I have learned that with a fruitarian nutrition one is cured of certain sexual diseases considered incurable ... but I realize that it is absolutely not easy ... in any case I have not experienced it personally, it is only a rumor that has reached me and that I report here ...
+    <hr /><!-- 127 .-->
+    A127 - If you have a very large house, if you want you can also use it to host parties and invite people to help them socialize. Or if you want you could also use it to accommodate other families or people. It's not forbidden, and if you manage to be disciplined there can be many benefits.
+    <hr /><!-- 128 .-->
+    A128 - Many people in some markets are used to haggling over the price. In general, if you bargain on the price, it means that you think the merchant is cheating you, unless it's a real auction. Remember that in any case if he set a price, he did it by making his reasoning about him. If you try to undercut a product that's already cheap, you could sow resentment. However, if you have economic problems and want to negotiate a better price, at least try to leave the merchant information that can be useful to him, in order to give him the total value he requires for that particular product or service.
+    <hr /><!-- 129 .-->
+    A129 - In general, regarding the friends with whom you go out to be together, there is a clarification to be made. People, for some reason, are led to think that friends should help us for free. Well, this concept is wrong. Benefits are always the result of work, and work always costs effort, therefore it is wrong to think that when you are with friends you should feel good for free: it must be an exchange. We must think that everyone in the group does their part, with their skills and commitment and that we too must do the same thing and contribute with equal value, otherwise there will be arguments and misunderstandings.
+    <hr /><!-- 130 .-->
+    A130 - It can happen that on certain days, for reasons that can be the most disparate, we happen to feel heaviness, malaise, disgust or other unpleasant sensations in our hearts. However, there is a remedy for these difficult moments: by buying some effervescent lemon sweets from a supermarket and keeping a couple of them in your mouth continuously, you can no longer feel those unpleasant sensations and let the day go by much better while waiting for the disgust we feel to pass. ... in any case, sometimes putting up with these unpleasant sensations is also in all respects a job ... even if not at all easy (one rarely likes feeling sad, desperate, grey, etc ...) ... sensations also exist anyway never described before to my knowledge as 'the cold in the heart'. As for me, I have experienced it several times and I find it honestly beautiful and above all useful, as are the seasons. If you think about it, many people enjoy winter sports or snow, so even the cold in my heart honestly pleased me. I also found fun (plenty of it).
+    <hr /><!-- 131 .-->
+    A131 - Some software, when used or even simply installed, can have very serious effects on people's health. Just as some games can cheer you up, other games or programs can also be emotionally taxing after being used. Be careful.
+    <hr /><!-- 132 .-->
+    A132 - If you want to vent because you are frustrated for some reason, remember that it is also possible to get angry at a wall: even if it may seem a little silly, in reality it is not at all. When you get angry with people it always creates bad moods and sadness, which must then always be "reabsorbed" by those who have been hurt.
+    <hr /><!-- 133 .-->
+    A133 - As for married life, strange as it may seem, the more unnecessary sex is reduced, the more the couple generally tends to thrive. When you have a lot of sex unnecessarily, you lose intelligence, humor, play, fun, joy.
+    <hr /><!-- 134 .-->
+    A134 - As far as procreation is concerned, the smartest choice is to transform the moment of procreation into a special moment. If you decide to procreate consciously, assuming all the consequent responsibilities, it may be intelligent to choose a place where you are not disturbed, where perfumes, background music and adequate lights can possibly be diffused. It could also be useful to keep some minerals nearby (quartz, amethyst, etc.) and even the presence of a cat testifying to what happened. It is also worth investing some money in these moments, and absolutely avoiding procreating in the throes of drunkenness, or "at random". Personally I believe it is a shame that there are no particular places used exclusively for conscious procreation (near waterfalls, in a forest, in a glacier, in a desert, in a temple...) and that reproduction has always been treated as something of "dirty" and "reprehensible". It's wrong to think that, and if we think that we need to do some psychological work to clean ourselves up until we feel as clear as water.
+    <hr /><!-- 135 .-->
+    A135 - In my opinion it would not be absolutely wrong to teach children to hug each other in classes. It's a great way to build stronger communities, and it would also help them heal from any family problems.
+    <hr /><!-- 136 .-->
+    A136 - As far as farming goes, I personally believe there is nothing wrong with raising animals. The right way to do business with animals (let's assume in this case cattle) is not to slaughter them and sell their meat, but to collect their excrement and use it in agriculture. They are precious, they have a very specific economic value as they contribute to improving the health of plants and producing better quality fruit and vegetables. Furthermore, it is not certain that these animals, once dead, cannot actually be "processed" by a butcher, to reuse that meat as food for carnivorous animals (dogs, crocodiles, lions, sharks, etc.), and also use the bones to make agricultural fertilizer. It is possible to use motor wheelbarrows for this phase of collecting excrement scattered across the pastures to facilitate the work, and to use separate motor wheelbarrows for the collection phase of the slaughtered remains of the dead animal. In addition to this way of doing business, in any case, there is also the possibility of creating agritourisms, or to organize parties taking advantage of the large spaces.
+    <hr /><!-- 137 .-->
+    A137 - If you have plants or trees nearby that only flower once every few years and you are not sure of the presence of pollinating insects in the area (for example if you have a cactus and live in the city) I can advise you, in case the plant or the tree carries out its rare flowering, to use pollen (purchasable in herbalists) to try to carry out pollination. It is possible to mix the pollen with water and spray it on the flower, or use a brush or a cotton swab and spread it on the top of the pistils. This will benefit the life of the plant.
+    <hr /><!-- 138 .-->
+    A138 - If you have a very dangerous pet (for example in a case, such as a tarantula for example) or a very delicate one (such as a small gecko) it does not mean that you cannot still pet it using, for example, a brush ( of those of a painter).
+    <hr /><!-- 139 .-->
+    A139 - It is important that all people know that people of the two different sexes, for reasons related to physical conformation, urinate in two different positions. While men try to urinate standing up whenever they can, women urinate while squatting or sitting down.
+    <hr /><!-- 140 .-->
+    A140 - Everyone knows that perfumes must be tried on the skin because their final smell changes based on the chemical reaction that occurs in contact with the skin (and sweat). What perhaps no one knows is that even urine, rubbed on the skin, causes a scenting effect, but with a substantial difference: their effect is permanent. My wrists (and only those), since I tried to wet them with my urine several months ago to do this experiment, have never stopped smelling. Mysteriously, after sharing this information via this website, the scent disappeared.
+    <hr /><!-- 141 .-->
+    A141 - Personally, I advise against using scurrilous words in the workplace when you are in the presence of other people (collaborators, customers...). They tend to be harmful to the personal life of those who listen to them, therefore I do not consider it a professional attitude.
+    <hr /><!-- 142 .-->
+    A142 - The past could not be different from what it was. It is essentially useless, as well as dangerous, to publicly complain about events very distant in the past. If there have been mistakes all we can do is try to take corrective action.
+    <hr /><!-- 143 .-->
+    A143 - As regards the sexual sphere of men and women, it must be said that both require preparation before having sexual intercourse without associated problems. Losing your virginity can be painful and scary for both men and women. Personally, I recommend having certain procedures carried out by competent personnel (sexologists or doctors) in a hospital environment using the necessary tools or instructing the boy or girl and letting him or her calmly take care of it independently.
+    <hr /><!-- 144 .-->
+    A144 - If possible, it is always best to try to react to anger with kindness.
+    <hr /><!-- 145 .-->
+    A145 - Certain fruits such as unsqueezed pomegranate or quince, for example, require effort to be eaten, but should not be snubbed because in addition to nourishing us, they also serve to train us.
+    <hr /><!-- 146 .-->
+    A146 - It's better not to run away from problems, there's no point in sweeping the dust under the carpet. However, this does not mean that reflecting a little and preparing yourself psychologically or physically before facing them is not a good idea.
+    <hr /><!-- 147 .-->
+    A147 - I recommend that non-smokers still smoke a cigarette at least every 2-3 months. Tobacco can also be eaten or used as a spice, it has a very spicy flavor.
+    <hr /><!-- 148 .-->
+    A148 - It is not correct to complain to your partner about his attributes (of any kind, physical, psychological, etc ...) or his defects. It is better to eventually look for solutions and propose them.
+    <hr /><!-- 149 .-->
+    A149 - It is also useful to learn from the mistakes of others, listening to stories, reading books, etc... to try not to make them.
+    <hr /><!-- 150 .-->
+    A150 - I recommend solving 2-3 paper puzzles (sudoku, etc...) at least every weekend. It's more useful than it seems. It's not just a hobby.
+    <hr /><!-- 151 .-->
+    A151 - If you are not married, remember that it is not a crime to exchange your partner with that of a friend. Jealousy is a mistake because people are not objects.
+    <hr /><!-- 152 .-->
+    A152 - In general, religions, as well as this web page, are simple "philosophy boxes". The most famous religions in the world are in some cases built from scratch, in other cases they are built on the mistakes of other religions. I'll give some examples: Taoism was born from a humble old man who was threatened to make him write what he knew. In the Catholic religion, God is represented as a bearded old man and it is no coincidence that he is considered omnipotent. Another example: Buddha said that when you love a flower you pick it, but this was his mistake. The Catholic religion later invented the bells, which were nothing more than an indication that "the problem of the flowers had to be resolved" (the bells represent the dead flower, they have the shape of the upside-down flower). Unfortunately those bells have been rung and many birds have been harassed for many years. It is no coincidence that Christopher Columbus discovered America (Christ-drill-Columbus in italian is an indication: it means that the Catholic religion was bothering the birds with the usage of bells). Islam is also built on the errors of the Catholic religion. Since "god" has always been represented as man, and women objectified in the tenth commandment, the god of Islam is It has been called Allah (All-ah), and it is simply a ploy to save female sexuality. The name "Islam" can be read as "I-slam" (to be read in English), and it is no coincidence that there is a nation called "Saudi Arabia": it means "Anger is fulfilled" (in italian). In some cases the major religions also preserve discoveries that are not revealed to the masses, not necessarily out of malice.
+    <hr /><!-- 153 .-->
+    A153 - As far as I know, trees give us dreams and nightmares. Sometimes they need to make adjustments to our minds, warn us, make checks, and so on. In any case we have no right to judge them.
+    <hr /><!-- 154 .-->
+    A154 - Conceptually, only plants have the gift of infallibility, as they are the most evolved beings: science has measured the length of their DNA which appears to be the longest of all living beings. If it has been used in any other way so far it has only been to try to make people's lives work. In general it makes sense to trust people's IQ proportionally, also considering their level of health, available resources and physical robustness.
+    <hr /><!-- 155 .-->
+    A155 - Nature bestows its gifts on those who deserve them and where they are needed. For example, there are people who know how to stack stones in balance on top of each other, and it is not such a common skill.
+    <hr /><!-- 156 .-->
+    A156 - I tend to think it's not a very smart choice for people with a body that shows signs of old age to accumulate too much money in retirement and ruin themselves from fatigue, it might be smarter to give the money to some young person so as not to keep them stuck and live a more restful life. Generally, accumulating resources (of any kind: houses, money, bicycles...) and leaving them to age over time doesn't make much sense to me.
+    <hr /><!-- 157 .-->
+    A157 - Personally I believe that the various temples that have been built, if the owners agree, can be used for: board game sessions, conferences, concerts, discussions, meditations, prayers (without using words), contemplations, procreations. I would leave other physical and sporting activities for outdoor places.
+    <hr /><!-- 158 .-->
+    A158 - Anyone who for some reason is bound to practice chastity must still have other rights which could be for example that of being able to play (video games, board games, paper games) or to be able to receive love (not sexual intercourse) from people of the opposite sex without impediments. In general, however, it is appropriate that when some rights are absent, others are guaranteed.
+    <hr /><!-- 159 .-->
+    A159 - Personally I believe that working less but with more intelligence and health can lead to greater collective well-being. We cannot think of exploring and colonizing the universe if there are very serious problems on our planet.
+    <hr /><!-- 160 .-->
+    A160 - If a job category becomes deprecated it would be nice if the company collaborated to redeploy those workers to new jobs.
+    <hr /><!-- 161 -->
+    A161 - Work tires but produces well-being for the present or the future, but only if it is correctly supported by philosophy. It ennobles based on how good, economical and correct we are in carrying out it.
+    <hr /><!-- 162 .-->
+    A162 - It is not a crime to kiss, you will face new bacteria.
+    <hr /><!-- 163 .-->
+    A163 - It is not a crime to hug, you will face new sensations.
+    <hr /><!-- 164 .-->
+    A164 - During sexual intercourse it is usually vocalised with 'ah'. Nothing stops you from vocalising other sounds with other vowels (U,O,I,E) or consonants (L,F,K) ... or even in other fun ways ...
+    <hr /><!-- 165 .-->
+    A165 - That's not to say that sports can't be more fun or imaginative, e.g. playing football with a teddy bear in your hand, tennis with frying pans, acrobatic dancing dressed as monsters, etc...
+    <hr /><!-- 166 .-->
+    A166 - Not only grapes can be fermented, other types of fruit can also be fermented, and vegetables too ...
+    <hr /><!-- 167 .-->
+    A167 - In general the concept of private property applies. However, objects can also be borrowed.
+    <hr /><!-- 168 .-->
+    A168 - It is not necessary to know the laws of the state, the basic principles remain common sense and science, but also obviously the conventions in force. It's quite understandable considering that there are so many laws at the moment.
+    <hr /><!-- 169 .-->
+    A169 - In this religion called 'Shao-lan' OR 'Ai' the basis is the laws of quantum and traditional physics, quantum mechanics, mathematics and geometry, art, literature, poetry, mana , punctuation marks, musical notes, clothes, symbols, space, actions, time (if it exists), psychology, fantasy and philosophy. The goal is that of meritocracy, harmony and balance. 
+    <hr /><!-- 170 .-->
+    A170 - As it happens for icebergs that have a submerged part, this is the information that is available now for everyone. Some informations cannnot be shared just because it requires a lot of effort to keep this all up and running.
+    <hr /><!-- 171 .-->
+    A171 - Nature is available to grant its gifts, as long as you pay for them with the right work.
+    <hr /><!-- 172 .-->
+    A172 - You can make agreements with nature and collaborate with it. Nature can make a job more or less tiring based on our requests and needs, it being understood that the more we work, the greater the results we obtain.
+    <hr /><!-- 173 .-->
+    A173 - Any exceptions to what is written are however managed and are permitted in some way while maintaining the concept of fairness. I am not omniscient.
+    <hr /><!-- 174 .-->
+    A174 - Creating confusion is wrong and cheating is outlawed.
+    <hr /><!-- 175 .-->
+    A175 - Wastage generally is considered a mistake.
+    <hr /><!-- 176 .-->
+    A176 - The integrity and health of living things are important.
+    <hr /><!-- 177 .-->
+    A177 - It is wrong to hinder and block friendships. It's better to help people get to know each other.
+    <hr /><!-- 178 .-->
+    A178 - Prudence and reasonableness are important concepts.
+    <hr /><!-- 179 .-->
+    A179 - Studying people without their consent is not a good attitude. It is better to ask for information instead of spying on it, bearing in mind that consultancy costs should be paid in any case. If checks are necessary it is best to do them in person. However, the Internet also exists for information...
+    <hr /><!-- 180 .-->
+    A180 - It would be better not to use fellatio unless you are at least vegan. You can also accompany it with bruschetta, garlic, oil and chilli pepper or with snack chips.
+    <hr /><!-- 181 .-->
+    A181 - You absolutely must not do too strenuous activities in front of the computer during digestion. Furthermore, it is right to know that certain software and games can cause even serious psychological and emotional damage and should only be used if you are in sufficient physical condition to withstand the resulting fatigue. Personally, using the computer I risked death several times.
+    <hr /><!-- 182 .-->
+    A182 - The flower of chastity develops in man after many years. A sort of vagina blossoms in the brain, but I want to point out that I have had a plant-based nutrition for about 11-12 years and have been practicing chastity for about 15 years. I don't know if something similar and opposite also happens in women. It's a mistery of Catholic Church explained in simple words.
+    <hr /><!-- 183 .-->
+    A183 - Magic exists, but from what I understand at the moment the planet is so ruined that it can hardly be used frequently. I was only able to experiment with it for a while in a park, but then obviously by sharing this information with others I essentially lost the use of it.
+    <hr /><!-- 184 .-->
+    A184 - Don't spoil movies, games, events or comics: spoilers are a crime. Don't watch game endings on video streaming websites. Piracy is a crime. The walkthroughs and help to overcome the blocking parts are acceptable.
+    <hr /><!-- 185 .-->
+    A185 - The concept of free of payment does not exist. Every time you receive something you have to give something in exchange for the same value accepted by the other party, and if you don't do it with money this can also happen in other ways (gratitude, work, etc).
+    <hr /><!-- 186 .-->
+    A186 - Throughout history, "betrayal" in a couple has always been considered a serious fault. However, we know that scientifically, a woman's DNA increases with that of the man who fertilizes her. The betrayals that occurred occurred only because women instinctively tried to improve the overall quality of family life, looking for DNA that was very different from that of the usual partner in order to improve the overall psychosomatic balance of the family. In any case, it is correct to point out that for every woman who "cheats" there is a man who takes the opportunity...
+    <hr /><!-- 187 .-->
+    A187 - It is important to crawl a little at least once a week.
+    <hr /><!-- 188 .-->
+    A188 - It is not mandatory to "follow your heart" and your feelings. The heart with feelings is a binary option: you can use it, and then you live in a certain way, or you can not use it, and then you live in another way. If you use your heart, you are influenced by the community. If you don't use it, you are completely autonomous and safe from any emotional influence that affects your thoughts. In any case, even if a certain grayness remains in the heart in this case, one has access to other forms of knowledge and entertainment. However, usually if you get close enough to younger people of the opposite sex who are playing and joking, your heart tends to "rekindle" automatically.
+    <hr /><!-- 189 .-->
+    A189 - The correct way to do business is to solve real problems and not to spread false information to sell products or services.
+    <hr /><!-- 190 .-->
+    A190 - When you take a photo of other people, instead of always using the usual word "cheese", I recommend using a random word chosen on the spot.
+    <hr /><!-- 191 .-->
+    A191 - The bidet or sink in the bathroom can also be used to make mini-bonfires safely.
+    <hr /><!-- 192 .-->
+    A192 - If you're feeling a little off and you're male, you can try pouring a little mouthwash on your foreskin.
+    <hr /><!-- 193 .-->
+    A193 - If you smoke, cigarettes can be easily extinguished on the ground, but once extinguished they should be thrown into the bins and not left on the ground.
+    <hr /><!-- 194 .-->
+    A194 - The more sexual intercourse occurs, the more the IQ of those who practice it drops or in some way future problems are created for those people.
+    <hr /><!-- 195 .-->
+    A195 - In my life I happened to observe in an adult person, when I was attending university, a metamorphosis of the face that made it more aesthetically pleasing (in a period of about a few months). I observed it even on a person on facebook on her whole body.
+    <hr /><!-- 196 .-->
+    A196 - Sometimes it can happen that in the absence of economic resources one can feel stuck. In those cases it is often enough to think about the other unused resources you have available to understand how to continue with the work.
+    <hr /><!-- 197 .-->
+    A197 - I am clearly not happy if people are raped, but I have personally observed that certain sexual misadventures both on myself and on a girl I met online have in a certain sense led to improving situations: in my case I have understood concepts that I found extremely useful, in the case of the girl I met online instead that situation probably led her to develop extremely voluminous breasts. The final outcome on one's life varies based on how one reacts psychologically.
+    <hr /><!-- 198 .-->
+    A198 - The impossible does not exist, we just need to work.
+    <hr /><!-- 199 .-->
+    A199 - If you want to let off steam by shouting, you can try locked in your car in a little-used car park. They will hardly hear you. You may have a slight fainting spell.
+    <hr /><!-- 200 .-->
+    A200 - From what I understand, the heart can function with various types of sensations inside it, each of which implies a different attitude on a psychological level and a different way of reasoning. Personally I have experienced the following: heat, cold, greyness, no sensations as well as various types of love. I don't rule out that there could be others too...
+    <hr /><!-- 201 .-->
+    A201 - I don't know if you've ever heard the saying "happiness is a muscle". As far as I'm concerned, I know that there is a muscle in the back that, if properly stimulated, produces a feeling of well-being that quickly rises from the base of the spine to the head. It is a gesture that can be done on command, knowing how to use that particular muscle. I learned this by accident while doing meditation. Personally, however, I rarely use it because in general I believe that it is something that happens spontaneously when necessary and in any case it does not necessarily have contraindications of which I am not aware...
+    <hr /><!-- 202 .-->
+    A202 - Sometimes it happens that "busty" women attract the attention of men. In general it is good to know that, if on the one hand a shapely breast probably guarantees the possibility of producing much more milk for newborns, on the other hand developed breasts weigh down on the woman's spine and very often prevent her from doing sports and certain types of jobs with agility: typically busty women are also much more sedentary. In general, living with these people often also means for men having to endure a certain type of stress (jobs that women cannot do must be done by men) or having to give up a certain type of activity, not to mention that the lack of ability to control one's sexuality in their presence almost always means the end of the relationship. In general, looking at a woman's shapely breasts makes a man happier (due to excitement) and at the same time more dull: for reasons perhaps due to our physiology, men's "balls" react to the sight of "voluminous breasts". of the woman. It is very difficult to live properly with a very curvy woman, it requires a certain type of mental discipline that serves to leave the woman her space and her tranquility. However, it is important to remember that it is equally special and interesting to enjoy the company of women who stand out for their friendliness, their intelligence, to give some examples... (same goes, obviously it applies to what women look for in men...)
+    <hr /><!-- 203 .-->
+    A203 - Male masturbation typically: produces pleasure in those who practice it, takes away chemical resources from the body (slows down the development of the brain), generally creates potential dangers for the species (our genetic code ends up IN THE SEWERS... among bacteria, rubbish, etc... that's not very wise). If you happen to masturbate, try if possible to repeat it as little as possible.
+    <hr /><!-- 204 .-->
+    A204 - Every profession brings with it a certain type of stress and often this stress prevents us from being able to act in certain ways. I think it applies to all jobs: the doctor, the politician, the carpenter, the bartender, the IT expert, etc... As far as I'm concerned, being an IT professional, I know I have enormous difficulties in speaking to unknown people in person and in socialize, even in places where other people can do it very easily. Most likely for a bartender the situation is exactly the opposite: great ability to socialize but difficulty in using IT tools in an articulated way. For other professions I don't know...
+    <hr /><!-- 205 .-->
+    A205 - When companies collaborate with each other in a customer-supplier relationship, it can be useful to dedicate a few hours to socializing between the various people involved in the project: while on the one hand it is true that it is necessary to respect certain protocols to ensure that all the work carried out is actually counted and paid and that the work carried out respects certain quality parameters, on the other hand it is not clear why human relationships cannot still be created which can probably help both parties to work much better. The fact that there are very specific roles for working correctly in a certain way does NOT mean that you shouldn't be able to get to know each other or make friends.
+    <hr /><!-- 206 .-->
+    A206 - Sometimes it can happen that companies have little budget to complete certain particularly difficult projects. In this case, if the worker is underpaid, it would still be correct to just "pay back" with the proceeds deriving from the use of the product or service that was created with great sacrifices.
+    <hr /><!-- 207 .-->
+    A207 - It is very important to always eat and clean the remaining food from plates, bowls and pots completely using bread: it is not only a way to avoid wasting food, which is important in itself, but also to save effort and detergent when cleaning the dishes.
+    <hr /><!-- 208 .-->
+    A208 - For those who own it, it is best to turn off the smartphone before going to bed and turn it back on in the morning. Some people think they have to keep it on to make themselves available in case of problems with friends or family, but since there are police, emergency services and firefighters it is better for people to resort to those services in case of serious problems during the night.
+    <hr /><!-- 209 .-->
+    A209 - If you are vegan and decide to post photos of plant foods that are described with names that resemble the foods of animal origin that you eat on social networks and DO NOT clearly specify that they are plant foods, you are still responsible for the confusion that may arise in who sees your posts. Ambiguity sometimes throws people off.
+    <hr /><!-- 210 .-->
+    A210 - In some cases you may feel a little restless. Personally I have successfully experimented with the following technique which solved the problem for me: keeping the eyelids closed, observe the "flickers" of the black. Or, looking closely at a white pillow, observe the flickers on the white. After a while of observation the flickerings disappear and you feel better.
+    <hr /><!-- 211 .-->
+    A211 - If you want to complain or swear heavily, instead of writing insults on social networks, do it by writing a poem. In that case it is no longer a problem, but instead it becomes a useful job and if you want you can even earn money from it.
+    <hr /><!-- 212 .-->
+    A212 - The electrified rackets typically sold for the purpose of killing mosquitoes can easily be used as a stimulant for plants and trees rather than to kill mosquitoes.
+    <hr /><!-- 213 .-->
+    A213 - Conceptually, even home ADSL modems/routers could be turned off at night when they are not actively used via the appropriate on/off button. In addition to saving electricity, it would also be a way to reduce electromagnetic pollution. Not much relative to a single family, but if a million people did it the impact would be non-negligible. If we also take into account the electricity saved by all the routers involved in the network, the energy saving and increase in the life of the equipment would produce savings that are anything but negligible.
+    <hr /><!-- 214 .-->
+    A214 - It is absolutely physiological for any company to have both successful and failed projects. It happens both in micro businesses and in companies with thousands and thousands of employees. Every business produces "waste" or has problems that it doesn't know how to handle.
+    <hr /><!-- 215 .-->
+    A215 - If you let a sealed package of pan bauletto expire, white mold forms in the bread which has a very pleasant flavour. I can't give you the exact timing, but I've experienced it personally.
+    <hr /><!-- 216 .-->
+    A216 - It is admittedly toxic, but if you want to do a little experiment, try licking 10-15 GRAINS of powdered washing machine detergent... I won't spoil the surprise for you...
+    <hr /><!-- 217 .-->
+    A217 - In certain cases it may happen that certain trees may seem disturbing and this leads to pruning them to free themselves from the anxiety. Personally, I advise those people to look inside themselves and understand what's wrong with their life instead of what's wrong. needlessly mutilate a tree.
+    <hr /><!-- 218 .-->
+    A218 - Sometimes it happens that in certain crops there are fruits bitten by insects and that have larvae inside. It is clearly understandable that they cannot be used for retail consumption, but it does not mean that those fruits cannot be used for the jam industry in which the pulp is boiled. Better than starving people.
+    <hr /><!-- 219 .-->
+    A219 - I don't know how the sachets of therapeutic food used for undernourished children in the third world are made, but I personally even managed to eat packaging produced with corn considered "biodegradable". It is not said that they necessarily have to be edible for children, but they could be edible for operators. This way no waste would be produced.
+    <hr /><!-- 220 .-->
+    A220 - The relationships tend to be conservative. This means that for one reason or another if an acquaintance of ours in whom we had invested our time and efforts takes another path in his life and distances himself from us and we don't get angry, that relationship that we had usually cultivated finds itself in other situations or in other people.
+    <hr /><!-- 221 .-->
+    A221 - Our hands have a slight soothing power. This means that in certain circumstances by placing our hand on a slightly painful area of our body we can in some way "heal" ourselves. This is because in some way the electromagnetic waves emitted by our hand naturally influence the painful or slightly injured part and align it with the frequency of our hand.
+    <hr /><!-- 222 .-->
+    A222 - It's important to do your best to love your parents, no matter how gruff they may be.
+    <hr /><!-- 223 .-->
+    A223 - A dear friend of mine from university days once told me: "every better is better".
+    <hr /><!-- 224 .-->
+    A224 - Italian espresso coffee is very good even when seasoned with cinnamon.
+    <hr /><!-- 225 .-->
+    A225 - Popcorn is also very good flavored with curry or spicy chilli. But they can also be used instead of pasta. 
+    <hr /><!-- 226 .-->
+    A226 - Some time ago I experimented with this technique which seemed very useful to me: at home, place your hands on the floor, and then on your face. I got a great benefit. Walking barefoot in your home or other tiled places is also helpful.
+    <hr /><!-- 227 .-->
+    A227 - I have also experimented with this technique: if you are numb or with some heart problems, by pinching your butt you can feel much better.
+    <hr /><!-- 228 .-->
+    A228 - I have found it very useful, living in very humid areas, to buy potted cacti to keep at home. I also suppose that living in arid or desert areas it can be very useful to keep potted plants at home that require watering often.
+    <hr /><!-- 229 .-->
+    A229 - Insect flours can be used to make small balls using a little water to feed the spiders scattered around the house ...
+    <hr /><!-- 230 .-->
+    A230 - Sometimes going to remote and unfrequented locations is the best way to think clearly. Sometimes being among others you can't get rid of certain thoughts and maybe you even feel bad because you feel a little ugly inside and you can't understand how to change and improve yourself... don't snub trekking and mountain resort...
+    <hr /><!-- 231 .-->
+    A231 - If you falsify information on social networks, your life is much more likely to become more complicated rather than simpler. I advise you against it. If you need mechanisms to better protect your privacy or to improve them and you have ideas in mind about them, you can leave suggestions via the feedback forms of the various social networks or by contacting the staff who created them in some way and communicate the information to them your ideas or functionality needs.
+    <hr /><!-- 232 .-->
+    A232 - When you are on social networks it may happen that other people may have feelings or desires towards you. Be aware that your thoughts may change course. It's the other side of social networks. Also pay attention to notifications and the always active internet connection.
+    <hr /><!-- 233 .-->
+    A233 - Potted plants have the peculiarity that they can be moved. Remember to move them all at least once a week. At random. It's more important than it seems.
+    <hr /><!-- 234 .-->
+    A234 - You can also learn a lot from animals. For example, if you notice that when dogs are together they tend to urinate in the same spot. It's not a casuality. This is just one example. And furthermore, it is possible to reason from these behaviors to make new discoveries.
+    <hr /><!-- 235 .-->
+    A235 - If at certain moments you feel sexual energy boiling and you don't know how to control it and you still want to control it because at that moment you don't want to have sexual intercourse, you can choose to give that love to nature, or even to needy people or animals.
+    <hr /><!-- 236 .-->
+    A236 - Even if we tend to think (and we do) that parents take care of their children and that couples are permanent, it is not conceptually prohibited to mutually exchange partners or children with other people who know each other well for a period of time for example of a couple of months, because it can really be a great help to grow and learn new concepts or skills. However, be careful and remember the work anyway.
+    <hr /><!-- 237 .-->
+    A237 - A good idea to feel good with the people you deal with and in life in general is to think about "pay in advance". It may happen in some cases that it is very difficult or not possible or not necessary, but still keep this possibility in mind. That will sometimes require to work for some time without seeing any visible result.
+    <hr /><!-- 238 .-->
+    A238 - I think it is a good idea to place minerals (especially) near centenary or thousand-year-old trees, possibly in such a way that they cannot be removed if they are in plain sight, or even in forests that naturally lack them. I also think playing musical instruments in those places can be useful.
+    <hr /><!-- 239 .-->
+    A239 - It is not a crime to buy a burqa and wear it, even if you are not of Islamic religion. The burka is just a dress. Covering your body almost completely still has its uses.
+    <hr /><!-- 240 .-->
+    A240 - Personally I am not a fan of tattoos or circumcisions or some other permanent operations on the body, but these are personal (sometimes) choices that I do not discuss. If you like to be photographed with drawings on your body, body painting is much smarter because it still allows you to be painted in many different ways at a later time. Just as people get tattoos and live their daily lives, there is nothing to stop them from getting body paint done before a sports competition or fashion show.
+    <hr /><!-- 241 .-->
+    A241 - It is not illegal or even stupid to create and use necklaces and jewelry that include tillandsia, or minerals, as well as the classic precious metals.
+    <hr /><!-- 242 .-->
+    A242 - Just as you walk your pets, the same can be done with potted plants. Be it a visit to a loved one or trekking or the creation of nature documentaries (for example). And it might also improve the experience to bring some minerals or jewels with you in some way.
+    <hr /><!-- 243 .-->
+    A243 - In general, sleeping with the radio or TV turned on in the same room is a bad habit.
+    <hr /><!-- 244 .-->
+    A244 - If food colorings or other edible embellishments are put into the water that is used to make ice (for example for cocktails), the ice will have a much more imaginative appearance.
+    <hr /><!-- 245 .-->
+    A245 - From what I know, skin-on-skin caresses tend to be unpleasant. On the contrary, when the skin rubs with the fur or feathers of animals the sensation is pleasant.
+    <hr /><!-- 246 .-->
+    A246 - If you live in a densely populated city, know that NOT sharing images of the inside of your home on social networks is a great way to preserve your mental space. That's not to say that these shares can't be done safely, but I personally advise you against them.
+    <hr /><!-- 247 .-->
+    A247 - It is necessary to clean desktop computers from dust at least annually, and it is very likely that laptops also require periodic cleaning of at least the keyboard. Even keyboards (mechanical ones) can almost always be cleaned by unscrewing the screws and washing the parts that can be washed with soap and water. I have already performed this procedure once on mine and it worked perfectly. This helps make them last longer.
+    <hr /><!-- 248 .-->
+    A248 - Office chairs (those with wheels) also need periodic cleaning. In particular, sometimes the rear part (behind) tends to get very dusty (and very often), and hair tends to accumulate in the wheels.
+    <hr /><!-- 249 .-->
+    A249 - There are filter jugs with interchangeable filters on the market. The filter is usually a plastic container with what is needed to filter the water inside. To be disposed of in the best possible way it is necessary to cut or open the plastic container (with very sturdy scissors). The contents can be used as an inert material for plant soil.
+    <hr /><!-- 250 .-->
+    A250 - Catnip tastes good if you taste it.
+    <hr /><!-- 251 .-->
+    A251 - Sometimes cooked vegetables have a slightly unpleasant flavour... you have to put up with it...
+    <hr /><!-- 252 .-->
+    A252 - It is better not to have hidden motives when relating to people.
+    <hr /><!-- 253 .-->
+    A253 - It would be better not to trap animals (e.g. in zoos). However, it is also true that they have food without struggling. Possibly an idea could be to release them and replace them with other animals periodically.
+    <hr /><!-- 254 .-->
+    A254 - In general, when you are very well psychologically or emotionally but have a terrible nutrition and are very sedentary, you become extremely vulnerable to certain viruses.
+    <hr /><!-- 255 .-->
+    A255 - In general it can happen that certain elderly or ruined people say completely exaggerated and false words in order to psychologically cling to people who are healthier.
+    <hr /><!-- 256 .-->
+    A256 - It is quite common that there are other people with the same name and surname as us, and that there are people with a physical appearance quite similar to ours (lookalike). Sometimes this actually also applies to company names.
+    <hr /><!-- 257 .-->
+    A257 - There is no need to hide problems, you can also show them to other people to get help from friends and acquaintances.
+    <hr /><!-- 258 .-->
+    A258 - A very nice idea is to play chess or checkers with very small potted plants, using one type of plant for each type of chess piece. To play checkers you need special supports to place the plants one on top of the other, or use different plants for the "big checkers". If you want, you can also play "live" sudoku with the same mechanism, assigning each plant a number and positioning them appropriately to solve the pattern (which can also be taken from a magazine and then transcribed in the magazine once solved). Remember to burn the magazine once you have completed all the sudoku puzzles.
+    <hr /><!-- 259 .-->
+    A259 - In general it is very easy to fall in love with much younger people of the opposite sex, but you must also be able to break away because it is quite plausible that they prefer partners whose age is closer to their own.
+    <hr /><!-- 260 .-->
+    A260 - Even pinball machines, conceptually, can be made with minerals, tillandsias or possibly even potted plants inside. Marbles can also be made from different metal alloys. Clearly it must be possible to open the glass to water the plants or possibly to replace them. Possibly, pinball machines, if they are connected to the internet, can also be used to have remote challenges with other players, or cooperative games.
+    <hr /><!-- 261 .-->
+    A261 - It is not illegal to train by boxing against very strong trees.
+    <hr /><!-- 262 .-->
+    A262 - Just as you can work for money, there are also other ways to motivate yourself and work. For example, it is also possible to use negative emotions (anger, indignation, ...) as fuel to work.
+    <hr /><!-- 263 .-->
+    A263 - Turnstiles (for example those at subways or those at the entrance to motorways or some fairs) can also be used to contribute to the generation of pseudorandom numbers.
+    <hr /><!-- 264 .-->
+    A264 - Even nature has its 'balance' and if we are not in sufficient good health or are not satisfied with our actions, we are the ones who pay the consequences. What has been granted to us thanks to effort (at every level) is lost and disintegrates if we are excessively foolish.
+    <hr /><!-- 265 .-->
+    A265 - Condoms in sexual intercourse should not be used to prevent births, but to find particular types of sons/daughters. When using condoms you have to have sexual intercourse as wildly as possible (at your own risk), if the condom breaks (without cheating) you have to accept the situation without using any type of contraceptives.
+    <hr /><!-- 266 .-->
+    A266 - Before the start of family meals, an alternative idea to that of prayers could be to recite the alphabet together (where it is possible due to the culture in force), or some poetry, or asking each other to solve some basic mathematical operation invented on the spot (sums, subtractions, additions, multiplications, module...) or questioning yourself on simple concepts that are nevertheless known by all members of the family unit (e.g. geometry, chemistry, etc.). ..
+    <hr /><!-- 267 .-->
+    A267 - It is not a crime and is not prohibited to spit at a computer monitor. The gesture is not to be considered a lack of respect towards those who produced the device. That's not to say it can't even be made to play a game. It is useful because it is still important on a psychological level that this type of experience is also carried out, and is not harmful to the device.
+    <hr /><!-- 268 .-->
+    A268 - If you don't need it in home routers that allow you to use the internet connection only via wireless waves and which in any case have '2.4 G' and '5 G' connections, I recommend disabling the '5 G' frequency (for routers that have this option) and to use only the '2.4 G' one.
+    <hr /><!-- 269 .-->
+    A269 - It is important to understand the concepts of subjectivity, relationship and objectivity. For example, with a stone or a mineral specimen you can close your eyes and feel happy, sad, amused, angry (subjectivity), or you can love, appreciate, despise, insult (relationship) ... or you can lick, paint, sculpt, caress, throw, boil, freeze (interaction) or you can weigh, measure, analyze chemically, describe based on the known sciences (objectivity) ... The concept of objectivity was taught to me by the partner of my previous company.
+    <hr /><!-- 270 .-->
+    A270 - What I define as 'peoplefield' is the psychological phenomenon that occurs when in the presence of certain people nearby you think certain thoughts, which you would not think without the nearby presence of those people. The presence of this 'peoplefield' creates a psychological environment in which certain thoughts are easier and others are more difficult if not impossible.
+    <hr /><!-- 271 .-->
+    A271 - What I define as 'gaslighting' is the phenomenon that involves the production of volumes of methane in the intestine during digestion and which is independent of the food ingested. It is a random phenomenon that occurs based on external events that indirectly concern that person (for example interactions with websites or social profiles of that person).
+    <hr /><!-- 272 .-->
+    A272 - It is clear that the phenomena of 'peoplefield' and 'gaslighting' can also occur simultaneously and that the presence of these combined phenomena creates very particular situations. However, you can escape from 'peoplefield' by going elsewhere physically (for example by going trekking) while from 'gaslighting' it is difficult to escape as at the moment there are no mechanisms to block all online elements closely linked to the person who suffers 'gaslighting'.
+    <hr /><!-- 273 .-->
+    A273 - Both "heaven" and "hell" (perceived more or less as everyone imagines them based also on the 'Divine Comedy') exist and can also be found during life as psychological places and are accessible only in certain conditions and circumstances not necessarily repeatable. I've experienced a little bit of both. Clearly it is probably a lot more easy to physically make them than to find them psycologically ...
+    <hr /><!-- 274 .-->
+    A274 - Very often governments allow you to change your name. Since it often happens that there are people with the same name and surname, if you want, you can change it and choose one for example that is not yet in use by other people.
+    <hr /><!-- 275 .-->
+    A275 - Sometimes it happens that certain stray animals (e.g. dogs or cats) multiply without control. It is not a crime to possibly capture them and use them as food for other more carnivorous animals (for example crocodiles, hippos, lions, sharks, piranhas, etc...).
+    <hr /><!-- 276 .-->
+    A276 - If you happen to need to make farts, the best area to do them is in the place where there are the greatest number of plants (even potted plants are fine) as they appreciate them.
+    <hr /><!-- 277 .-->
+    A277 - Every now and then it can be useful to think a little about relatives.
+    <hr /><!-- 278 .-->
+    A278 - I define a "psychological event" as an event that occurs only in the mind (and which does not seem to be justifiable or explainable by anything externally observable or audible in our vicinity) and whose origin can hardly be predicted or explained. They are psychological events, for example sounds, images or even sudden sensations that we perceive mentally, to which we eventually psychologically associate judgments of good, neutral or bad for our personal or even professional life.
+    <hr /><!-- 279 .-->
+    A279 - For men who want to masturbate, I recommend making wild sperm mixes even done together with friends, using photos of consenting women or live women to get excited. Semen mixed with water should be left where ivy grows near trees. 
+    <hr /><!-- 280 .-->
+    A280 - For women who want to experiment, you can try placing a sufficiently large seed of a plant inside the vagina for a few days before sowing it and letting it grow. There should be some positive consequences.
+    <hr /><!-- 281 -->
+    A281 - When you have pain (for example from having bumped into something) if you have a cat among your pets it is possible to calm the sensation of pain a little by petting the cat a little and holding it on top of you, anesthetizing the pain. It is not a real healing, but only a process of "psychological" anesthesia. In any case it lasts for a limited time of a few hours.
+    <hr /><!-- 282 -->
+    A282 - It is particularly important to go to dinner not too tired, and if necessary it is advisable to rest a little before having dinner (at least half an hour, lying in bed), so as not to have dinner too tired. Better, in this case, postpone dinner but still rest for that half hour. This is because if you go to dinner too tired, the digestive process that begins after dinner, due to too much tiredness, causes a complete collapse of your attention and completely ruins the next phase of the day, which instead, for example, can be used for other activities.
+    <hr /><!-- 283 -->
+    A283 - Whenever possible, for those who own both a smartphone and a computer and need to chat and have both at hand, I always recommend chatting using applications on the computer instead of using the smartphone. This generally leads to much better quality conversations that are more complete, richer and more nuanced. Personally I see the smartphone as a tool designed for use "on the go" or for those who don't own a computer. I understand that perhaps sometimes it can be a bit of a hassle to turn on the computer even just to chat, but I guarantee that the difference in the communication results obtained (both in work and personal contexts) is truly abysmal. Broadly speaking, the quality of a communication managed with chat via computer rather than with chat via smartphone is about 8-10 times better (in my opinion).
+    <hr /><!-- 284 -->
+    A284 - Sometimes it may happen that you need privacy or mental stability that is a little more robust than what you have in classic circumstances. There is a method to obtain it (for a limited time) which consists in punching the wall without letting anyone know. The pain in the bones that is created and remains "secret" also helps us to have mental stability and greater privacy, even if it forces us to endure a little pain.
+    <hr />
+    <div class="note">
+        <b>Everything you are reading is the continuation of the work done on a file I was working on initially, which arrived at the 15th-16th version and was physically printed in three copies but of which I then lost the sources. I gave away two copies (years and years ago) and one has remained in my possession. What you find below is an extract and rework from that booklet, much of which, however, I decided to discard.</b>
+    </div>
+    <hr /><!-- B-1 -->
+    B1 - Personally, I think it's better to share the good discoveries and keep the doubts and problems to be sorted out. For the last 12 years or so I've always had this approach and it's led to great results.
+    <hr /><!-- B-2 -->
+    B2 - Sometimes it may seem that "cheating" can save time. It's actually quite the opposite, dishonesty wastes time.
+    <hr /><!-- B-3 -->
+    B3 - Personally, I have always believed that the injustices that occurred in my life were the result of conscious or unconscious wrong choices that I had made in the past, so I have always tried to throw as few problems at others as possible and to commit myself as much as I could to fix what I had "seeded" in the past years of my life. (or maybe in my past lives?)
+    <hr /><!-- B-4 -->
+    B4 - If you are very nervous, walking barefoot on the grass helps you calm down.
+    <hr /><!-- B-5 -->
+    B5 - It sometimes happens that some objects in the house become useless and remain in cupboards and drawers to get dusty. In general, rationalizing and properly managing one's resources is important for good results.
+    <hr /><!-- B-6 -->
+    B6 - I think it might be a good idea for parents to give children or teenagers potted plants to take care of and make friends with. Even if plants eventually end up badly, it is still a useful way to allow children to relate to something living and have useful experiences for their future.
+    <hr /><!-- B-7 -->
+    B7 - As for the nutrition, know that if you adopt a plant based or fruitarian nutrition your body will begin to bubble with energy, and being able to control this energy may not be trivial at all. It is important to behave responsibly.
+    <hr /><!-- B-8 -->
+    B8 - I personally recommend letting flies or flying insects out of homes and not squashing them. If you find them trapped indoors, if possible, help them get out into the open.
+    <hr /><!-- B-9 -->
+    B9 - If you eat pomegranates, know that the birds are fond of the squeezed seeds and that you can leave them as food for them on the windowsill instead of throwing them away. Furthermore, the seeds of lemons, oranges and clementines are edible by chickens.
+    <hr /><!-- B-10 -->
+    B10 - If you notice that insects often come to buzz around the light bulbs, you should shield them with opaque cardboard so that the direct light from the light bulbs cannot be seen from the windows.
+    <hr /><!-- B-11 -->
+    B11 - If you have cacti near other plants, be careful that the needles do not pierce other plants. In case it is better to try to move the plants away from each other (if they are potted plants) or cut the needles with scissors so that the plants do not pierce each other.
+    <hr /><!-- B-12 -->
+    B12 - As for the elderly, being more fragile and delicate people, I believe that they should always be treated with respect. It may happen that sometimes they can be grumpy, but I think it is necessary to work hard to avoid unnecessarily worsening their condition.
+    <hr /><!-- B-13 -->
+    B13 - It may happen that during sexual intercourse the erect penis may be distorted. In that case, serious damage is created to the psyche of man. One can remedy this problem by holding one's erect penis in one's hand and carefully observing one's psyche and one's sexuality with one's attention. Over time the mind heals.
+    <hr /><!-- B-14 -->
+    B14 - If you have a freezer, I advise you to mark yourself on the "check days" calendar, exactly as happens with periodic car maintenance, as the ice that develops, if you open the lid or the door, risks increasing electricity consumption. and deform or break the door seals which are then difficult to replace. It is therefore good to remove the excess ice from time to time.
+    <hr /><!-- B-15 -->
+    B15 - If you have magnets attached to the refrigerator, however paradoxical it may seem to you, it is useful to move them once in a while.
+    <hr /><!-- B-16 -->
+    B16 - It is also important to remember that plants, animals and people are not objects. It may seem trivial, but if you keep it in mind you realize that sometimes some of the reasoning we do violates this principle.
+    <hr /><!-- B-17 -->
+    B17 - Nature has its times. Some improvements come very slowly. Patience, perseverance, work and humility are essential to have an increasing improving impact with one's work.
+    <hr /><!-- C-1 -->
+    <div class="idea">
+        C1 - I think it would be a better idea to use leaves instead of wood as a source of cellulose to make paper, if it's actually a material that can enable us to make paper with it.<br />
+    </div>
+    <hr /><!-- C-2 -->
+    <div class="idea">
+        C2 - I personally think it would be a great idea if governments cut off AM/FM and digital terrestrial radio signals during the night hours so as to let our bodies rest. Those who need to entertain themselves during the night could still use online streaming services. It makes no sense to flood an entire country with electromagnetic waves when hardly anyone uses the related services.
+    </div>
+    <hr />
+    --- End of contents extracted from booklet. ---
+    <hr /><!-- D-1 -->
+    <div class="note">
+        D1 - Our planet is called "Earth" but it is also made up of rocks, clouds, oceans, minerals and much more. Since the names of the other planets of the solar system are fantasy names or associated with ancient deities, I coined the name "Aelion" as a possible fantasy name for our planet.
+    </div>
+    <hr /><!-- D-2 -->
+    <div class="note">
+    D2 - Sorry if you find some little errors. I'm doing my best to keep this content as good as possible. You can find more on my TikTok profile (only in Italian but the speech can be translated using the appropriate link or button 'Show translation' found at the bottom of the videos)
+    </div>
+    <hr /><!-- D-3 -->
+    <div class="note">
+        D3 - These concepts are expressed in a synthetic way. In some cases they can be expanded and improved, such as being able to prune dry branches as regards the topic of pruning, or the use of minerals or dances during funerals in which trees are fertilized. I've tried to give some insights without wanting to be too verbose... I tried to provide some ideas without wanting to be too verbose... and that doesn't mean there can't be exceptions...
+    </div>
+    <br />
+    </h3><!-- D-4 -->
+    <div class="note">
+        D4 - <b>MBCRAFT has partially contributed to the planting of about 3000 trees through different organizations and has contributed to different humanitarian charities.</b> 
+    </div>
+</section>
+<?php
+$content = ob_get_contents();
+ob_end_clean();
+?>

@@ -1,0 +1,25 @@
+<?php
+
+
+require_once('../include/lang.php');
+include_once("../include/begin_html.php");
+include_once("../include/meta.php");
+include_once("../include/begin_content.php");
+include_once("../include/menu.php");
+include_once("../include/top_poem.php");
+
+?>
+<div id="main_content" class="content">
+    <div class="box_very_large">
+    	<div align="center">
+        	<img src="/images/meme/meme_fears/my_fears_eng.png" width="1100"/>
+    	</div>
+        <br />
+        PS : but after all, a dragon is just a cat that was able to steal all your heroin ...
+    </div>
+</div>
+<?php
+include_once("../include/footer.php");
+include_once("../include/end_content.php");
+include_once("../include/end_html.php");
+?>
