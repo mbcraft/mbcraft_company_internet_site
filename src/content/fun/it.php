@@ -9,7 +9,7 @@ ob_start();
 ?>
 <br /><br /><br />
 <h2>
-	Questi sono i link attualmente disponbili. I nuovi meme vengono aggiunti in fondo alla lista. Raccomando la visualizzazione di <b>non pi&ugrave; di un meme</b> al giorno. Col passare del tempo alcuni meme potrebbero diventare deprecati.
+	Questi sono i link attualmente disponbili. I nuovi meme vengono aggiunti in fondo alla lista. Raccomando la visualizzazione di <b>non pi&ugrave; di un meme</b> al giorno e di seguire l'ordine partendo dal primo. Col passare del tempo alcuni meme potrebbero diventare deprecati.
 <span class="brief">
 	<ul>
 		<li><a href="/pages/anti_gravita_ita.php">1</a></li>

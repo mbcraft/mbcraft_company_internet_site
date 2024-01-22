@@ -9,7 +9,7 @@ ob_start();
 ?>
 <br /><br /><br />
 <h2>
-	Here are the actually available links. New memes are added on the bottom of the list. I recommend viewing <b>no more than one meme</b> a day. Over time some memes may become deprecated.
+	Here are the actually available links. New memes are added on the bottom of the list. I recommend viewing <b>no more than one meme</b> a day and follow the order starting from the first. Over time some memes may become deprecated.
 <span class="brief">
 	<ul>
 		<li><a href="/pages/cc_toilette_fox_eng.php">1</a></li>
