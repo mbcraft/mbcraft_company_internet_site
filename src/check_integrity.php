@@ -69,7 +69,9 @@ function get_file_list() {
 
    $content_list = ["/content/home/it.php","/content/home/en.php","/content/experiences/it.php","/content/experiences/en.php","/content/fun/it.php","/content/fun/en.php","/content/philosophy/it.php","/content/philosophy/en.php","/content/skills/it.php","/content/skills/en.php"];
 
-   $path_list = array_merge($include_list,$css_list,$root_dir_list,$resources_list,$downloads_list,$content_list);
+   $meme_list = list_directory_files("/pages/");
+
+   $path_list = array_merge($include_list,$css_list,$root_dir_list,$resources_list,$downloads_list,$content_list,$meme_list);
 
    return $path_list;
 
