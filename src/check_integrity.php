@@ -118,14 +118,14 @@ function check_with_online() {
 function check_detailed_with_online() {
    $file_list = get_file_list();
 
+   $problems_found = false;
+
    foreach ($file_list as $param) {
       $online_content = file_get_contents("https://www.mbcraft.it/check_integrity.php?command=checksum&param=".urlencode($param));
       $online_content = fix_all_br_tags($online_content);     
 
       $offline_content = get_printable_signature($param);
       $offline_content = fix_all_br_tags($offline_content);
-
-      $problems_found = false;
 
       if ($online_content != $offline_content) {
          echo "Content of file ".$param." does not matches!!\n\n";
@@ -139,7 +139,8 @@ function check_detailed_with_online() {
 
    }
 
-   if (!$problems_found) echo "\nAll content matches.\n\n";
+   if (!$problems_found) echo "\nAll files matches.\n\n";
+   else echo "\nSome files does not match. (!!!)\n\n";
 
 }
 
