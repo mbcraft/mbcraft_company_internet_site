@@ -3,7 +3,7 @@
 
 Created by MBCRAFT di Marco Bagnaresi - info@mbcraft.it
 
-Version : 1.1
+Version : 1.2
 
 */
 
@@ -81,12 +81,12 @@ function get_printable_signature($path) {
 
 	$result = get_file_signature($path);
 
-        $data = "";
-   	$data .= "File path : ".$path.NEWLINE;
-   	$data .= "File sha1 digest : ".$result["digest"].NEWLINE;
-   	$data .= NEWLINE.NEWLINE;
+   $data = "";
+   $data .= "File path : ".$path.NEWLINE;
+   $data .= "File sha1 digest : ".$result["digest"].NEWLINE;
+   $data .= NEWLINE.NEWLINE;
 
-        return $data;
+   return $data;
 }
 
 function get_all_signatures() {
@@ -114,6 +114,10 @@ function check_with_online() {
    if ($online_data == $offline_data) echo "OFFLINE AND ONLINE DATA MATCHES.\n\n";
    else { 
      echo "OFFLINE AND ONLINE DATA **DO NOT** MATCHES. !!!\n\n";
+     echo $offline_data;
+     echo "-----------------------\n";
+     echo $offline_data;
+     echo "\n\n";
    }
 }
 
