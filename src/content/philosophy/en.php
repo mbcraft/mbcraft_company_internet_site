@@ -622,6 +622,12 @@ ob_start();
     A286 - Personally I think it is a good idea to keep at least 1-2 potted plants in every room of the house where light enters (even if they are small it is fine too).
     <hr /><!-- 287 -->
     A287 - I think it might be a good idea to keep certain minerals (e.g. quartz or others) near potted plants or even near fruit.
+    <hr /><!-- 288 -->
+    A288 - Personally i suggest to people to clean their way of talking, software and other media from phrases that imply death or insults to animals that means something else (eg. "cut the head of the bull", "fix the bug"). It's better to say "we solve the problem", "we remove an error" ... 
+    <hr /><!-- 289 -->
+    A289 - The e-cigarettes that are sold, beside the usage by mouth, they can also be used using nose (a little far, just to smell the parfume). 
+    <hr /><!-- 290 -->
+    A290 - The plants and the leaves of the trees can also be blowed and licked. Also animals and people (at your own risk). 
     <hr />
     <div class="note">
         <b>Everything you are reading is the continuation of the work done on a file I was working on initially, which arrived at the 15th-16th version and was physically printed in three copies but of which I then lost the sources. I gave away two copies (years and years ago) and one has remained in my possession. What you find below is an extract and rework from that booklet, much of which, however, I decided to discard.</b>

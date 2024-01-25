@@ -26,7 +26,7 @@ ob_start();
 </div>
     <br />
     <div align="center">
-    <h4>Ultimo aggiornamento : 24/01/2024</h4>
+    <h4>Ultimo aggiornamento : 25/01/2024</h4>
     </div>
     <br />
     <br />

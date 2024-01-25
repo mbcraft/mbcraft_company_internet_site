@@ -615,7 +615,12 @@ ob_start();
     A286 - Personalmente credo che sia una buona idea tenere almeno 1-2 piante in vaso in ogni stanza della casa in cui entra luce (anche se sono piccole va bene ugualmente).
     <hr /> <!-- 287 -->
     A287 - Credo che possa essere una buona idea tenere certi minerali (es. quarzo o altri) vicino alle piante in vaso o anche vicino alla frutta.
-    <hr />
+    <hr /> <!-- 288 -->
+    A288 - Personalmente consiglio alle persone di ripulire il loro modo di parlare, il software e altri elementi multimediali da modi di dire che implicano morte o insulti agli animali per indicare qualche altro concetto (es. "tagliamo la testa al toro", "sistemo un bug" ...). E' meglio dire "risolviamo il problema", "tolgo un errore" ...
+    <hr /> <!-- 289 -->
+    A289 - Le sigarette elettroniche in commercio, oltre che inalate dalla bocca in determinati casi si possono usare anche inalandole con il naso (un po' distanti, per sentirne il profumo).
+    <hr /> <!-- 290 -->
+    A290 - Le piante e le foglie degli alberi si possono anche soffiare e leccare. Anche gli animali e le persone (a vostro rischio e pericolo).
     <hr />
     <div class="note">
         <b>Tutto quello che state leggendo &egrave; la continuazione del lavoro fatto su un file su cui lavoravo inizialmente, che arrivato alla 15a-16a versione &egrave; stato fisicamente stampato in tre copie ma di cui poi ho perso i sorgenti. Due copie le ho regalate (anni e anni fa) e una &egrave; rimasta in mio possesso. Quello che trovate qui di seguito &egrave; estratto e rielaborato da quel fascicoletto, di cui molto per&ograve; ho deciso di scartare.</b>
