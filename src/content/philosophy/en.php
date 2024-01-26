@@ -640,6 +640,8 @@ ob_start();
     A295 - There are different types of video games for different types of people. The location, the quality of the environment and the presence of certain people nearby can make the game more challenging. or less suitable, easy, dangerous, useful, expensive, fun, etc ... As for the types of usefulness and cost, the range of these is also quite wide.
     <hr /><!-- 296 -->
     A296 - In some cases, rather than trying to produce new technologies, if the planet is too damaged (by wars, environmental or social disasters) it is better to change one's work in order to bring the planet to a more acceptable state of health. Using a metaphor, living for many years with an open and bleeding wound is not at all intelligent...
+    <hr /><!-- 297 -->
+    A297 - The concept of 'combo', used in video games in which fighters launch a series of consecutive attacks linked to do even more damage to the opponent, can also be used in the choices we make in our working and interpersonal lives in exactly the opposite way. Certain correct choices, consecutive and correctly executed with great commitment and intelligence (for example during the day), lead to obtaining far superior pleasant results.
     <hr />
     <div class="note">
         <b>Everything you are reading is the continuation of the work done on a file I was working on initially, which arrived at the 15th-16th version and was physically printed in three copies but of which I then lost the sources. I gave away two copies (years and years ago) and one has remained in my possession. What you find below is an extract and rework from that booklet, much of which, however, I decided to discard.</b>

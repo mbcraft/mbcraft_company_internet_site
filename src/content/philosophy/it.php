@@ -634,6 +634,8 @@ ob_start();
     <hr /> <!-- 296 -->
     A296 - In certi casi, anzich&eacute; cercare di produrre nuove tecnologie, se il pianeta &egrave; troppo danneggiato (da guerre, disastri ambientali o sociali) &egrave; meglio cambiare il proprio lavoro in modo da portare il pianeta ad uno stato di salute pi&ugrave; accettabile. Facendo una metafora, vivere per molti anni con una ferita aperta e sanguinante non &egrave; per niente intelligente ...
     <hr />
+    A297 - Il concetto di 'combo', usata nei videogiochi in cui dei lottatori sferrano una serie di attacchi consecutivi collegati per fare ancora più danno all'avversario, può essere usato anche nelle scelte che compiamo nella nostra vita lavorativa e interpersonale in modo esattamente opposto. Certe scelte corrette, consecutive e correttamente eseguite con grande impegno e intelligenza (ad esempio nel corso della giornata), portano ad ottenere risultati graditi di gran lunga superiori.
+    <hr />
     <div class="note">
         <b>Tutto quello che state leggendo &egrave; la continuazione del lavoro fatto su un file su cui lavoravo inizialmente, che arrivato alla 15a-16a versione &egrave; stato fisicamente stampato in tre copie ma di cui poi ho perso i sorgenti. Due copie le ho regalate (anni e anni fa) e una &egrave; rimasta in mio possesso. Quello che trovate qui di seguito &egrave; estratto e rielaborato da quel fascicoletto, di cui molto per&ograve; ho deciso di scartare.</b>
     </div>
