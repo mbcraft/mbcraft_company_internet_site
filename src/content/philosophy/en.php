@@ -111,7 +111,7 @@ ob_start();
     This is due to the rot bacteria that form in the stomach when eating meat or fish. These bacteria also have consequences on psychological aspects: the flora
     bacteria that we have in the stomach affects the way we think.<br />
     Personally, changing my nutrition required a lot of mental discipline. If you have too many difficulties ask for help (nutritionists, psychologists, philosophers, etc ...) <br />
-    One more thing about your excrements: if you can even taste them when you have a few days off, know that they cause a slight mental confusion for 1-2 days, but then increase your understanding of your surroundings in a decisive way. I understand that it sucks, but if you can tolerate it there are significant benefits.
+    One more thing about your excrements: if you can even taste them when you have a few days off, know that they cause a slight mental confusion for 1-2 days, but then increase your understanding of your surroundings in a decisive way. I understand that it sucks, but if you can tolerate it there are significant benefits. For those who live in the countryside, in any case I advise you not to snub urinating near small plants such as nettles or other "unfriendly" plants. As regards the management of city sewerage, instead of sending the waste into the sea, an idea could be to stop the pipes towards the sea and use drains when necessary to collect the excrement and use it not only for crops, but also to fertilize the forests ...
     <hr /><!-- 35 -->
     A35 - If after sleeping you wake up in the morning with a terrible headache due to high blood pressure, I recommend that you raise the bed on the head side by putting raisers under the legs of the bed on the head side and if not enough, use 2 pillows. <br />
     <hr /><!-- 36 -->
@@ -581,7 +581,7 @@ ob_start();
     <hr /><!-- 266 .-->
     A266 - Before the start of family meals, an alternative idea to that of prayers could be to recite the alphabet together (where it is possible due to the culture in force), or some poetry, or asking each other to solve some basic mathematical operation invented on the spot (sums, subtractions, additions, multiplications, module...) or questioning yourself on simple concepts that are nevertheless known by all members of the family unit (e.g. geometry, chemistry, etc.). ..
     <hr /><!-- 267 .-->
-    A267 - It is not a crime and is not prohibited to spit at a computer monitor. The gesture is not to be considered a lack of respect towards those who produced the device. That's not to say it can't even be made to play a game. It is useful because it is still important on a psychological level that this type of experience is also carried out, and is not harmful to the device.
+    A267 - It is not a crime and is not prohibited to spit, blow or lick a computer monitor. The gesture is not to be considered a lack of respect towards those who produced the device. That's not to say it can't even be made to play a game. It is useful because it is still important on a psychological level that this type of experience is also carried out, and is not harmful to the device. Conceptually it can also be done with mirrors or windows glasses ...
     <hr /><!-- 268 .-->
     A268 - If you don't need it in home routers that allow you to use the internet connection only via wireless waves and which in any case have '2.4 G' and '5 G' connections, I recommend disabling the '5 G' frequency (for routers that have this option) and to use only the '2.4 G' one.
     <hr /><!-- 269 .-->
