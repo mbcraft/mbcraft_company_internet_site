@@ -378,7 +378,7 @@ ob_start();
     <hr /><!-- 168 -->
     A168 - Non &egrave; necessario conoscere le leggi dello stato, i principi base restano il buon senso e la scienza, ma anche ovviamente le convenzioni in vigore. E' abbastanza comprensibile considerando che al momento esistono tantissime leggi.
     <hr /><!-- 169 -->
-    A169 - In questa religione chiamata 'Shao-lan' OPPURE 'Ai' la base sono le leggi della fisica quantistica e tradizionale, della meccanica quantistica, della matematica e della geometria, l'arte, la letteratura, la poesia, il mana, i segni di punteggiatura, le note musicali, i vestiti, i simboli, lo spazio, le azioni, il tempo (se esiste), la psicologia, la fantasia e la filosofia. L'obiettivo &egrave; quello della meritocrazia, dell'armonia e dell'equilibrio. 
+    A169 - In questa religione chiamata 'Shao-lan' OPPURE 'Ai' la base sono le leggi della fisica quantistica e tradizionale, della meccanica quantistica, della matematica e della geometria, l'arte, la letteratura, la poesia, il mana, i segni di punteggiatura, le note musicali, i vestiti, i simboli, lo spazio, le azioni, il tempo (se esiste), la psicologia, la fantasia e la filosofia. L'obiettivo &egrave; quello della meritocrazia, dell'armonia e dell'equilibrio. La natura (piante, alberi, ma non solo ...) prendono, modificano o elargiscono alcune tipologie di risorse nel nostro corpo in base alle necessit&agrave; e agli obiettivi.
    <hr /><!-- 170 -->
     A170 - Cos&igrave; come succede per gli iceberg che hanno una parte sommersa, queste sono le informazioni disponibili attualmente. Alcune informazioni non possono essere condivise solo perch&eacute; richiede molta fatica mantenere il tutto funzionante.
     <hr /><!-- 171 -->
@@ -582,7 +582,7 @@ ob_start();
     <hr /><!-- 270 -->
     A270 - Quello che definisco come 'peoplefield' &egrave; il fenomeno psicologico che si verifica quando in presenza di determinate persone nelle vicinanze si fanno determinati pensieri, che non si farebbero senza la presenza limitrofa di quelle persone. La presenza di questo 'peoplefield' crea un ambiente psicologico in cui determinati pensieri sono pi&ugrave; facili e altri sono pi&ugrave; difficili se non impossibili. 
     <hr /><!-- 271 -->
-    A271 - Quello che definisco come 'gaslighting' &egrave; il fenomeno che comporta la produzione nell'intestino durante la digestione di volumi di metano e che &egrave; indipendente dal cibo ingerito. E' un fenomeno aleatorio che si verifica in base ad eventi esterni che riguardano indirettamente quella persona (ad esempio interazioni con siti internet o profili social di quella persona).
+    A271 - Quello che definisco come 'gaslighting' &egrave; il fenomeno che comporta la produzione nell'intestino durante la digestione di volumi di metano e che &egrave; indipendente dal cibo ingerito. E' un fenomeno aleatorio che si verifica in base ad eventi esterni che riguardano indirettamente quella persona (ad esempio interazioni con siti internet o profili social di quella persona). Il fenomeno opposto &egrave; invece quello che ci fa ruttare (uscita di aria dalla bocca). Sono entrambe alterazioni della digestione dovute quasi sempre a fattori esterni.
     <hr /><!-- 272 -->
     A272 - Si intuisce che i fenomeni di 'peoplefield' e di 'gaslighting' possono avvenire anche contemporaneamente e che la presenza di questi fenomeni combinati crea situazioni molto particolari. Comunque dal 'peoplefield' si esce con andando altrove fisicamente (ad esempio facendo trekking) mentre dal 'gaslighting' &egrave; difficile sfuggire in quanto al momento non esistono meccanismi per bloccare tutti gli elementi online strettamente collegati alla persona che subisce il 'gaslighting'.
     <hr /><!-- 273 -->
@@ -621,6 +621,18 @@ ob_start();
     A289 - Le sigarette elettroniche in commercio, oltre che inalate dalla bocca in determinati casi si possono usare anche inalandole con il naso (un po' distanti, per sentirne il profumo).
     <hr /> <!-- 290 -->
     A290 - Le piante e le foglie degli alberi si possono anche soffiare e leccare. Anche gli animali e le persone (a vostro rischio e pericolo).
+    <hr />
+    A291 - A volte pu&ograve; capitare che nel corso della propria vita si possa percepire nel proprio cuore cali d'amore, o la sensazione di essere inquinati o compromessi, e in quei momenti &egrave; molto difficile non perdere mentalmente la calma. Anche quei momenti emotivamente difficili si possono superare. E' abbastanza normale che nel corso della propria vita le nostre percezioni e i nostri riferimenti psicologici o emotivi possano cambiare, e naturalmente anche gestire questo cambiamento in modo corretto, a livello personale, comporta un certo sforzo e impegno da parte nostra ... 
+    <hr />
+    A292 - Ritengo che il cardine che permette alle famiglie di funzionare nel lungo periodo sia il concentrarsi sul lavoro. Anche se si vive con persone che si conoscono poco, se si rimane focalizzati sul lavoro come concetto (e non ci si mette a pensare all'amore, al sesso, ecc...) la relazione pian piano, lavorando, collaborando, aiutandosi e passando il proprio tempo insieme con rispetto si forma e pi&uacute; si prosegue mantenendo quest'ottica e gestendo correttamente le proprie risorse, meglio si riesce a stare ... potrebbe non essere facile, ma consiglio di stare assolutamente senza fare rapporti sessuali almeno per il primo anno di convivenza ...
+    <hr />
+    A293 - Le necessit&egrave; emotive delle persone hanno sempre la priorit&agrave; per loro rispetto all'essere veritieri, corretti, onesti. Sopportare la sofferenza, il grigiore, il malessere e restare veritieri, corretti, onesti non &egrave; affatto facile, e diventa sempre pi&ugrave; difficile all'aumentare dell'et&agrave;.
+    <hr />
+    A294 - Esistono tipologie di persone differenti per affrontare problemi differenti, cos&igrave; come per i lavori, anche per quanto riguarda le proprie necessit&agrave; personali.
+    <hr />
+    A295 - Esistono tipologie di videogiochi differenti per differenti tipologie di persone. Il luogo, la qualit&agrave; dell'ambiente e la presenza di determinate persone nelle vicinanze possono rendere il gioco pi&ugrave; o meno adatto, facile, pericoloso, utile, costoso, divertente, ecc ... Quanto alla tipologie di utilit&agrave; e di costo, anche di queste il ventaglio &egrave; piuttosto ampio.
+    <hr />
+    A296 - In certi casi, anzich&egrave; cercare di produrre nuove tecnologie, se il pianeta &egrave; troppo danneggiato (da guerre, disastri ambientali o sociali) &egrave; meglio cambiare il proprio lavoro in modo da portare il pianeta ad uno stato di salute pi&ugrave; accettabile. Facendo una metafora, vivere per molti anni con una ferita aperta e sanguinante non &egrave; per niente intelligente ...
     <hr />
     <div class="note">
         <b>Tutto quello che state leggendo &egrave; la continuazione del lavoro fatto su un file su cui lavoravo inizialmente, che arrivato alla 15a-16a versione &egrave; stato fisicamente stampato in tre copie ma di cui poi ho perso i sorgenti. Due copie le ho regalate (anni e anni fa) e una &egrave; rimasta in mio possesso. Quello che trovate qui di seguito &egrave; estratto e rielaborato da quel fascicoletto, di cui molto per&ograve; ho deciso di scartare.</b>

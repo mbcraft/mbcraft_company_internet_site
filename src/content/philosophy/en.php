@@ -385,7 +385,7 @@ ob_start();
     <hr /><!-- 168 .-->
     A168 - It is not necessary to know the laws of the state, the basic principles remain common sense and science, but also obviously the conventions in force. It's quite understandable considering that there are so many laws at the moment.
     <hr /><!-- 169 .-->
-    A169 - In this religion called 'Shao-lan' OR 'Ai' the basis is the laws of quantum and traditional physics, quantum mechanics, mathematics and geometry, art, literature, poetry, mana , punctuation marks, musical notes, clothes, symbols, space, actions, time (if it exists), psychology, fantasy and philosophy. The goal is that of meritocracy, harmony and balance. 
+    A169 - In this religion called 'Shao-lan' OR 'Ai' the basis is the laws of quantum and traditional physics, quantum mechanics, mathematics and geometry, art, literature, poetry, mana , punctuation marks, musical notes, clothes, symbols, space, actions, time (if it exists), psychology, fantasy and philosophy. The goal is that of meritocracy, harmony and balance. The nature (plants, trees, ...) takes, changes or gives some kinds of resources in our bodies based on needs and objectives. 
     <hr /><!-- 170 .-->
     A170 - As it happens for icebergs that have a submerged part, this is the information that is available now for everyone. Some informations cannnot be shared just because it requires a lot of effort to keep this all up and running.
     <hr /><!-- 171 .-->
@@ -628,6 +628,18 @@ ob_start();
     A289 - The e-cigarettes that are sold, beside the usage by mouth, they can also be used using nose (a little far, just to smell the parfume). 
     <hr /><!-- 290 -->
     A290 - The plants and the leaves of the trees can also be blowed and licked. Also animals and people (at your own risk). 
+    <hr /><!-- 291 -->
+    A291 - Sometimes it can happen that during one's life one can perceive in one's heart lapses of love, or the sensation of being polluted or compromised, and in those moments it is It's very difficult not to mentally lose your composure. Even those emotionally difficult moments can be overcome. It is quite normal that over the course of one's life our perceptions and our psychological or emotional references can change, and naturally managing this change correctly, on a personal level, requires a certain effort and commitment on our part...
+    <hr /><!-- 292 -->
+    A292 - I believe that the cornerstone that allows families to function in the long term is focusing on work. Even if you live with people you know little about, if you remain focused on work as a concept (and don't start thinking about love, sex, etc...) the relationship will gradually develop, working, collaborating, helping each other and spending your time together with respect forms and the more you continue maintaining this perspective and managing your resources correctly, the better you are able to feel... it might not be easy, but I recommend staying absolutely without having sexual intercourse at least for the first year of living together...
+    <hr /><!-- 293 -->
+    A293 - People's emotional needs always take priority for them over being truthful, correct, honest. Enduring suffering, greyness, malaise and remaining truthful, correct, honest is not at all easy, and becomes increasingly difficult with increasing age.
+    <hr /><!-- 294 -->
+    A294 - There are different types of people to deal with different problems, as well as for jobs, even with regard to their personal needs.
+    <hr /><!-- 295 -->
+    A295 - There are different types of video games for different types of people. The location, the quality of the environment and the presence of certain people nearby can make the game more challenging. or less suitable, easy, dangerous, useful, expensive, fun, etc ... As for the types of usefulness and cost, the range of these is also quite wide.
+    <hr /><!-- 296 -->
+    A296 - In some cases, rather than trying to produce new technologies, if the planet is too damaged (by wars, environmental or social disasters) it is better to change one's work in order to bring the planet to a more acceptable state of health. Using a metaphor, living for many years with an open and bleeding wound is not at all intelligent...
     <hr />
     <div class="note">
         <b>Everything you are reading is the continuation of the work done on a file I was working on initially, which arrived at the 15th-16th version and was physically printed in three copies but of which I then lost the sources. I gave away two copies (years and years ago) and one has remained in my possession. What you find below is an extract and rework from that booklet, much of which, however, I decided to discard.</b>
