@@ -621,19 +621,19 @@ ob_start();
     A289 - Le sigarette elettroniche in commercio, oltre che inalate dalla bocca in determinati casi si possono usare anche inalandole con il naso (un po' distanti, per sentirne il profumo).
     <hr /> <!-- 290 -->
     A290 - Le piante e le foglie degli alberi si possono anche soffiare e leccare. Anche gli animali e le persone (a vostro rischio e pericolo).
-    <hr /> <!-- 291 --> <!-- RICONTROLLARE ACCENTI DA QUI IN SEGUITO -->
+    <hr /> <!-- 291 -->
     A291 - A volte pu&ograve; capitare che nel corso della propria vita si possa percepire nel proprio cuore cali d'amore, o la sensazione di essere inquinati o compromessi, e in quei momenti &egrave; molto difficile non perdere mentalmente la calma. Anche quei momenti emotivamente difficili si possono superare. E' abbastanza normale che nel corso della propria vita le nostre percezioni e i nostri riferimenti psicologici o emotivi possano cambiare, e naturalmente anche gestire questo cambiamento in modo corretto, a livello personale, comporta un certo sforzo e impegno da parte nostra ... 
     <hr /> <!-- 292 -->
     A292 - Ritengo che il cardine che permette alle famiglie di funzionare nel lungo periodo sia il concentrarsi sul lavoro. Anche se si vive con persone che si conoscono poco, se si rimane focalizzati sul lavoro come concetto (e non ci si mette a pensare all'amore, al sesso, ecc...) la relazione pian piano, lavorando, collaborando, aiutandosi e passando il proprio tempo insieme con rispetto si forma e pi&uacute; si prosegue mantenendo quest'ottica e gestendo correttamente le proprie risorse, meglio si riesce a stare ... potrebbe non essere facile, ma consiglio di stare assolutamente senza fare rapporti sessuali almeno per il primo anno di convivenza ...
     <hr /> <!-- 293 -->
-    A293 - Le necessit&egrave; emotive delle persone hanno sempre la priorit&agrave; per loro rispetto all'essere veritieri, corretti, onesti. Sopportare la sofferenza, il grigiore, il malessere e restare veritieri, corretti, onesti non &egrave; affatto facile, e diventa sempre pi&ugrave; difficile all'aumentare dell'et&agrave;.
+    A293 - Le necessit&agrave; emotive delle persone hanno sempre la priorit&agrave; per loro rispetto all'essere veritieri, corretti, onesti. Sopportare la sofferenza, il grigiore, il malessere e restare veritieri, corretti, onesti non &egrave; affatto facile, e diventa sempre pi&ugrave; difficile all'aumentare dell'et&agrave;.
     <hr /> <!-- 294 -->
     A294 - Esistono tipologie di persone differenti per affrontare problemi differenti, cos&igrave; come per i lavori, anche per quanto riguarda le proprie necessit&agrave; personali.
     <hr /> <!-- 295 -->
     A295 - Esistono tipologie di videogiochi differenti per differenti tipologie di persone. Il luogo, la qualit&agrave; dell'ambiente e la presenza di determinate persone nelle vicinanze possono rendere il gioco pi&ugrave; o meno adatto, facile, pericoloso, utile, costoso, divertente, ecc ... Quanto alla tipologie di utilit&agrave; e di costo, anche di queste il ventaglio &egrave; piuttosto ampio.
     <hr /> <!-- 296 -->
-    A296 - In certi casi, anzich&egrave; cercare di produrre nuove tecnologie, se il pianeta &egrave; troppo danneggiato (da guerre, disastri ambientali o sociali) &egrave; meglio cambiare il proprio lavoro in modo da portare il pianeta ad uno stato di salute pi&ugrave; accettabile. Facendo una metafora, vivere per molti anni con una ferita aperta e sanguinante non &egrave; per niente intelligente ...
-    <hr /> <!-- FINE RICONTROLLO ACCENTI -->
+    A296 - In certi casi, anzich&eacute; cercare di produrre nuove tecnologie, se il pianeta &egrave; troppo danneggiato (da guerre, disastri ambientali o sociali) &egrave; meglio cambiare il proprio lavoro in modo da portare il pianeta ad uno stato di salute pi&ugrave; accettabile. Facendo una metafora, vivere per molti anni con una ferita aperta e sanguinante non &egrave; per niente intelligente ...
+    <hr />
     <div class="note">
         <b>Tutto quello che state leggendo &egrave; la continuazione del lavoro fatto su un file su cui lavoravo inizialmente, che arrivato alla 15a-16a versione &egrave; stato fisicamente stampato in tre copie ma di cui poi ho perso i sorgenti. Due copie le ho regalate (anni e anni fa) e una &egrave; rimasta in mio possesso. Quello che trovate qui di seguito &egrave; estratto e rielaborato da quel fascicoletto, di cui molto per&ograve; ho deciso di scartare.</b>
     </div>
