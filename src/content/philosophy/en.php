@@ -643,6 +643,16 @@ ob_start();
     <hr /><!-- 297 -->
     A297 - The concept of 'combo', used in video games in which fighters launch a series of consecutive attacks linked to do even more damage to the opponent, can also be used in the choices we make in our working and interpersonal lives in exactly the opposite way. Certain correct choices, consecutive and correctly executed with great commitment and intelligence (for example during the day), lead to obtaining far superior pleasant results.
     <hr />
+    A298 - I share the following gestures that can be used in every nation of the planet in which they are known by people both in working environments and interpersonal ones :
+    <br />
+    <li>Finger over mouth, even smiling, while watching someone that is watching you --> Meaning : please, stop talking.</li>
+    <li>Finger touching cheeks repeatedly while we look at someone that is looking at us --> Meaning : i would like a kiss from you on my cheek. (not in working environments?) </li>
+    <li>One hand on the chest and the other in front --> Meaning : i need space, please leave me alone.</li>
+    <hr />
+    A299 - Just as in nature there are climbers capable of consuming the seeds produced by certain trees (for example the ivy around the oak) the same can happen for people. There are women, typically very young and extremely erotic and who are obliged to eat only fruit, who for (paid) work can take on the task of having sexual relations with men much older than them and who have a very bad reputation ( for their crimes caused by eating meat, a mandatory requirement ...) without the use of a condom. Just as it often happens that ivy can easily feed on the acorns of the oak and that as it grows it kills the tree, I notice the same can happen for these people too. In the event of the death of the elderly person, all assets owned during life must be transferred to the worker.
+    <hr />
+    A300 - If young girls who are not yet fertile and who have grown up since birth on a vegan or better fruitarian diet wish in some way to better develop their sexuality, there is the possibility of asking adult men with very developed penises and with a very bad reputation caused by their eating meat (mandatory requirement) of being raped by them (for an optional payment for the man). In the event of the death of the adult man, all the assets owned by the rapist are transferred to the very young girl. I would like to point out that both of these professions are the result of very thoughtful reasoning. In both cases, the use of drugs such as Viagra is also permitted for men.
+    <hr />
     <div class="note">
         <b>Everything you are reading is the continuation of the work done on a file I was working on initially, which arrived at the 15th-16th version and was physically printed in three copies but of which I then lost the sources. I gave away two copies (years and years ago) and one has remained in my possession. What you find below is an extract and rework from that booklet, much of which, however, I decided to discard.</b>
     </div>
