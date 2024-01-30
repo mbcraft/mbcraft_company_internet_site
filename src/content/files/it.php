@@ -26,6 +26,7 @@ ob_start();
         <li>Tubature per la luce - versione 1.1 (<a href="/downloads/tubature_per_la_luce.html" download>DOWNLOAD GRATUITO</a>)</li>
         <li>Cerimonie della Shao-lan/Ai - versione 1.5 (<a href="/downloads/cerimonie.html" download>DOWNLOAD GRATUITO</a>)</li>
         <li>Giochi all'aperto - Versione 1.0 (<a href="/downloads/giochi_all_aperto.html" download>DOWNLOAD GRATUITO</a>)</li>
+        <li>Logo standard per le form di feedback da posizionare nel footer della pagina iniziale dei sito internet (<a href="/downloads/feedback_form_standard_logo.svg" download>DOWNLOAD GRATUITO</a>)</li>
     </ul>
     </h3>
 </div>

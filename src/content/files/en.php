@@ -26,6 +26,7 @@ ob_start();
         <li>Pipes for light - version 1.1 (<a href="/downloads/pipes_for_light.html" download>FREE DOWNLOAD</a>)</li>
         <li>Cerimonies for Shao-lan/Ai - version 1.5 (<a href="/downloads/cerimonies.html" download>FREE DOWNLOAD</a>)</li>
         <li>Open air games - Version 1.0 (<a href="/downloads/open_air_games.html" download>FREE DOWNLOAD</a>)</li>
+        <li>Standard logo for feedback form to put in index/home page footer of internet sites (<a href="/downloads/feedback_form_standard_logo.svg" download>FREE DOWNLOAD</a>)</li>
     </ul>
     </h3>
 </div>
