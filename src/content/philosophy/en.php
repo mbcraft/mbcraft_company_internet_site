@@ -627,7 +627,7 @@ ob_start();
     <hr /><!-- 289 -->
     A289 - The e-cigarettes that are sold, beside the usage by mouth, they can also be used using nose (a little far, just to smell the parfume). 
     <hr /><!-- 290 -->
-    A290 - The plants and the leaves of the trees can also be blowed and licked. Also animals and people (at your own risk). 
+    A290 - Plants and tree leaves can also be blown and licked, as well as booged (or mucus deposited on them).
     <hr /><!-- 291 -->
     A291 - Sometimes it can happen that during one's life one can perceive in one's heart lapses of love, or the sensation of being polluted or compromised, and in those moments it is It's very difficult not to mentally lose your composure. Even those emotionally difficult moments can be overcome. It is quite normal that over the course of one's life our perceptions and our psychological or emotional references can change, and naturally managing this change correctly, on a personal level, requires a certain effort and commitment on our part...
     <hr /><!-- 292 -->
@@ -663,7 +663,7 @@ ob_start();
     <hr /><!-- 305 -->
     A305 - In my opinion it would be a good idea to ensure that those who undergo chemical or surgical castration without having had children can be guaranteed a non-falsifiable paper certificate but also digitally saved in a blockchain which certifies its actual execution and which can be used as a travel ticket to travel by public transport anywhere for free (using buses, subways, trains, planes...).
     <hr /><!-- 306 -->
-    A306 - When updating the apps on your smartphone (one or more) my advice is to wait and do nothing until the updates have been installed correctly.
+    A306 - When updating or installing apps or games on your smartphone or computer, my advice is to wait and do nothing until the software has been installed correctly.
     <hr /><!-- 307 -->
     A307 - Different types or brands of products are more or less suitable for certain types of uses or jobs.
     <hr /><!-- 308 -->
@@ -677,6 +677,8 @@ ob_start();
     A309 - If you have an empty place available (e.g. in the courtyard) I suggest you leave a bowl with food for wild animals and fill it periodically. In general, however, it could be intelligent to design the buildings of the future or modify existing ones so that coexistence with wild animals is also foreseen (e.g. exploiting the roof space...)
     <hr />
     A310 - If you decide to have an aperitif (in the classic late afternoon time) I advise you to make it abundant and then skip dinner.
+    <hr />
+    A311 - It might be useful for men to have their testicles fondled a little by women gently. I don't know what could happen because I've never tried it, but I think it could be really useful. As a precaution, at the moment only have it done by vegan or fruitarian women.
     <hr />
     <div class="note">
         <b>Everything you are reading is the continuation of the work done on a file I was working on initially, which arrived at the 15th-16th version and was physically printed in three copies but of which I then lost the sources. I gave away two copies (years and years ago) and one has remained in my possession. What you find below is an extract and rework from that booklet, much of which, however, I decided to discard.</b>

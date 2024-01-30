@@ -620,7 +620,7 @@ ob_start();
     <hr /> <!-- 289 -->
     A289 - Le sigarette elettroniche in commercio, oltre che inalate dalla bocca in determinati casi si possono usare anche inalandole con il naso (un po' distanti, per sentirne il profumo).
     <hr /> <!-- 290 -->
-    A290 - Le piante e le foglie degli alberi si possono anche soffiare e leccare. Anche gli animali e le persone (a vostro rischio e pericolo).
+    A290 - Le piante e le foglie degli alberi si possono anche soffiare e leccare, oltre che scaccolare (oppure depositarci sopra del muco).
     <hr /> <!-- 291 -->
     A291 - A volte pu&ograve; capitare che nel corso della propria vita si possa percepire nel proprio cuore cali d'amore, o la sensazione di essere inquinati o compromessi, e in quei momenti &egrave; molto difficile non perdere mentalmente la calma. Anche quei momenti emotivamente difficili si possono superare. E' abbastanza normale che nel corso della propria vita le nostre percezioni e i nostri riferimenti psicologici o emotivi possano cambiare, e naturalmente anche gestire questo cambiamento in modo corretto, a livello personale, comporta un certo sforzo e impegno da parte nostra ... 
     <hr /> <!-- 292 -->
@@ -656,7 +656,7 @@ ob_start();
     <hr /> <!-- 305 -->
     A305 - Secondo me sarebbe una buona idea fare in modo che chi si sottopone a castrazione chimica o chirurgica senza aver avuto figli/e possa essere garantito un certificato cartaceo non falsificabile ma anche salvato digitalmente in una blockchain che ne attesta l'effettiva esecuzione e che possa essere usato come titolo di viaggio per viaggiare con i mezzi pubblici ovunque gratuitamente (utilizzando autobus, metropolitane, treni, aerei ...).
     <hr /> <!-- 306 -->
-    A306 - Quando si aggiornano le app sullo smartphone (una o pi&ugrave;) il mio consiglio &egrave; quello di rimanere in attesa e non fare niente fino a quando gli aggiornamenti non sono stati installati correttamente.
+    A306 - Quando si aggiornano o installano le app o i giochi sullo smartphone o nel computer il mio consiglio &egrave; quello di rimanere in attesa e non fare niente fino a quando il software non &egrave; stato installato correttamente.
     <hr /> <!-- 307 -->
     A307 - Diverse tipologie o marche di prodotti sono pi&ugrave; o meno adatti per determinati tipi di utilizzi o lavori.
     <hr /> <!-- 308 -->
@@ -670,6 +670,8 @@ ob_start();
     A309 - Se avete del posto vuoto disponibile (es. nel cortile) vi suggerisco di lasciare una ciotola col del cibo per gli animali selvatici e di riempirla periodicamente. In generale comunque potrebbe essere intelligente progettare gli edifici del futuro o modificare quelli esistenti in modo che sia prevista anche la convivenza con gli animali selvatici (es. sfruttando lo spazio dei tetti ...)
     <hr />
     A310 - Se decidete di fare un aperitivo (in classico orario tardo pomeridiano) vi consiglio di farlo abbondante e di saltare poi la cena.
+    <hr />
+    A311 - Potrebbe essere utile per gli uomini farsi palpeggiare un pochino i testicoli dalle donne con delicatezza. Non so cosa possa succedere perch&egrave; non ho mai provato, ma credo possa essere davvero utilissimo. Per precauzione al momento fatelo fare solo da delle donne vegane o fruttariane.
     <hr />
     <div class="note">
         <b>Tutto quello che state leggendo &egrave; la continuazione del lavoro fatto su un file su cui lavoravo inizialmente, che arrivato alla 15a-16a versione &egrave; stato fisicamente stampato in tre copie ma di cui poi ho perso i sorgenti. Due copie le ho regalate (anni e anni fa) e una &egrave; rimasta in mio possesso. Quello che trovate qui di seguito &egrave; estratto e rielaborato da quel fascicoletto, di cui molto per&ograve; ho deciso di scartare.</b>
