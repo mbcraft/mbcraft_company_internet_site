@@ -58,7 +58,7 @@ $welcome_page = array("it" => "Pagina di benvenuto",
             <div style="display: inline-block;width:16px;height:64px;">
             </div>
             <div style="display: inline-block;">
-                <a href="https://steamcommunity.com/id/bagna1982/">
+                <a href="https://steamcommunity.com/id/mbcraft_it/">
                     <img src="/images/icons/steam_icon.png" alt="steam icon" />
                 </a>
             </div>
