@@ -697,6 +697,8 @@ ob_start();
     <hr />
     A323 - Per divertirsi &egrave; possibile inventare storielle perverse utilizzando la macchinetta del caff&egrave; o il telecomando della televisione (in casa) oppure anche le sigarette quando invece si &egrave; all'aperto insieme agli altri. Fatelo solo con persone di sesso opposto e solo con intelligenza. 
     <hr />
+    A324 - Se volete flirtare da remoto con persone di sesso opposto con cui siete in confidenza &egrave; possibile farlo inviandosi in sequenza alternata degli abbracci o delle altre emoji gradite tramite smartphone. 
+    <hr />
     <div class="note">
         <b>Tutto quello che state leggendo &egrave; la continuazione del lavoro fatto su un file su cui lavoravo inizialmente, che arrivato alla 15a-16a versione &egrave; stato fisicamente stampato in tre copie ma di cui poi ho perso i sorgenti. Due copie le ho regalate (anni e anni fa) e una &egrave; rimasta in mio possesso. Quello che trovate qui di seguito &egrave; estratto e rielaborato da quel fascicoletto, di cui molto per&ograve; ho deciso di scartare.</b>
     </div>

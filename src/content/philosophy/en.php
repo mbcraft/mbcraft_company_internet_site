@@ -704,6 +704,8 @@ ob_start();
     <hr />
     A323 - To have fun it is possible to invent perverse stories using the coffee machine or the tv remote control (at home) or even cigarettes when you are outdoors with others. Do this only with people of the opposite sex and only with intelligence.
     <hr />
+    A324 - If you want to flirt remotely with people of the opposite sex with whom you are close, you can do so by sending hugs or other welcome emojis in an alternating sequence via smartphone.
+    <hr />
     <div class="note">
         <b>Everything you are reading is the continuation of the work done on a file I was working on initially, which arrived at the 15th-16th version and was physically printed in three copies but of which I then lost the sources. I gave away two copies (years and years ago) and one has remained in my possession. What you find below is an extract and rework from that booklet, much of which, however, I decided to discard.</b>
     </div>
