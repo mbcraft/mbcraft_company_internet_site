@@ -11,7 +11,7 @@ Version : 2.0
 define ("NEWLINE","<br />");
 
 /**
- * This function removes a value from an array, removing also the corresponding key.
+ * This function removes all values from an array ending with a defined text, also the corresponding key.
  */
 if (!function_exists('array_remove_values_ending_with')) {
     function array_remove_values_ending_with(array $data,$values_ending_with) {
