@@ -3,12 +3,32 @@
 
 Created by MBCRAFT di Marco Bagnaresi - info@mbcraft.it
 
-Version : 1.9
+Version : 2.0
 
 */
 
 
 define ("NEWLINE","<br />");
+
+/**
+ * This function removes a value from an array, removing also the corresponding key.
+ */
+if (!function_exists('array_remove_value')) {
+    function array_remove_values_ending_with(array $data,$values_ending_with) {
+
+        if ($data===null) return null;
+
+        $result = [];
+
+        foreach ($data as $key => $value) {
+            if (strpos($value,$values_ending_with)!==strlen($value)-strlen($values_ending_with)) {
+                $result[$key] = $value;
+            } 
+        }
+
+        return $result;
+    }
+}
 
 function print_hello() {
 
@@ -62,6 +82,12 @@ function get_file_list() {
    $css_list = list_directory_files("/css/");
 
    $root_dir_list = list_directory_files("/");
+
+   $root_dir_list = array_remove_values_ending_with($root_dir_list,".html");
+
+   $root_dir_list = array_remove_values_ending_with($root_dir_list,".txt");
+
+   $root_dir_list = array_remove_values_ending_with($root_dir_list,".xml");
 
    $resources_list = ["/resources/prime_numbers_list.txt","/embed/credits.php"];
 
