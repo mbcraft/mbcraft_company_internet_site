@@ -709,7 +709,7 @@ ob_start();
     A325 - Personally I think it is wiser to leave the truffle to the trees (because I believe they need it) even if we know it tastes good. If it is underground and attached to their roots perhaps it is wiser to leave it there. I believe that it is an excellent idea to try to spread it with the procedure I explained previously but personally I think it is generally wiser to leave it to the trees. In any case, the collection for the purpose of diffusion and fertilization for further diffusion I think is an excellent idea... so in any case I would say that in some way in any case we could favor the sale of the truffle for the purpose of further fertilization, and then that that it was not possible to sell for that type of use, then in that case it can be used for food consumption.
     <hr /><!-- 326 -->
     A326 - In certain cases it can be dangerous for people to get too tired, because there are defenses to their personal integrity that become very weakened. So in any case it is advisable to be careful not to get too tired, unless you are sure that you can rest for the time necessary to recover your strength without being disturbed. This obviously also applies to older people, who in some cases need younger people to protect them.
-    <hr />
+    <hr /> <!-- 327 -->
     A327 - Personally I advise those who manage certain hotels or other hotel facilities to make it clear whether or not it is permitted to have sexual intercourse (with the voice or in silence) because in any case there are people who in certain cases use them and have no alternatives . That doesn't mean that if that option is also needed, it can't be added as an additional paid option.
     <hr />
     <div class="note">
