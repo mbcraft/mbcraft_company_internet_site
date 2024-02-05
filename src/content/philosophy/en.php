@@ -673,41 +673,41 @@ ob_start();
      <li>Don't project your problems onto other people, but ask for help when needed</li>
      <li>Nevertheless be focused on study and/or work</li>
      <li>Avoid sex until you can't do it anymore to hold</li>
-    <hr />
+    <hr /><!-- 309 -->
     A309 - If you have an empty place available (e.g. in the courtyard) I suggest you leave a bowl with food for wild animals and fill it periodically. In general, however, it could be intelligent to design the buildings of the future or modify existing ones so that coexistence with wild animals is also foreseen (e.g. exploiting the roof space...)
-    <hr />
+    <hr /><!-- 310 -->
     A310 - If you decide to have an aperitif (in the classic late afternoon time) I advise you to make it abundant and then skip dinner.
-    <hr />
+    <hr /><!-- 311 -->
     A311 - It might be useful for men to have their testicles fondled a little by women gently. I don't know what could happen because I've never tried it, but I think it could be really useful. As a precaution, at the moment only have it done by vegan or fruitarian women.
-    <hr />
+    <hr /><!-- 312 -->
     A312 - It is also possible to play with the temperature monitors often found in banks used for the past Covid-19 epidemic. Some of them have some pixels that light up alternately. The game consists of measuring the temperature when the illuminated pixel is the one in the position that corresponds to the decimal point.
-    <hr />
+    <hr /><!-- 313 -->
     A313 - For those who develop software, the part linked to the names assigned to the various elements of the source code is very important and is often the one that is most distorted (by the electromagnetic waves emitted by the CPU/GPU which interfere with our brain). It happens very often and to many developers to use names that are actually a bit fake, but it is only because this phenomenon of interference exists. It is necessary to put in enough mental effort to be able to use quality nomenclature in the software source code... however, if you want to give it a try, print out a short listing of a program you have developed and try to think about it in the middle of a park. ... you will definitely notice it ...
-    <hr />
+    <hr /><!-- 314 -->
     A314 - It is important, when cultivating certain types of plants or flowers for food purposes, that governments also maintain cultivation of such plants for non-food purposes (e.g. hibiscus, saffron...) for public health reasons...
-    <hr />
+    <hr /><!-- 315 -->
     A315 - It is important for companies but also for families to periodically dedicate time to tidying up environments. In fact, the more disorder there is in certain environments, the more reasoning deteriorates. So thinking that "tidying up" when needed is a waste of time is wrong reasoning, because the time you invest in that job is then recovered in the long run.
-    <hr />
+    <hr /><!-- 316 -->
     A316 - It is a very important skill to know how to convey information and resources to people who need them or who can exploit them when we are unable to do so, without being unnecessarily selfish. Sometimes it can be an idea that a friend needs, sometimes a friendship with a certain person you know, other times a project that we cannot develop... sometimes "blocking" a resource or taking advantage of it when in reality we know inside us that it could be more suitable for other people it's just a useless waste...
-    <hr />
+    <hr /><!-- 317 -->
     A317 - It is important to know that when the people in our presence are very erotic, thinking about work becomes extremely difficult if not impossible, whereas when we are in the presence of people who do not attract us aesthetically or who are possibly even unpleasant, then we make intelligent and useful reasoning it becomes much easier for the community. This will always tend to be true. However, I have never been able to do research or experiments of any kind live on this... (some people have difficulty even correctly managing images of erotic people viewed online...). However, in general, eroticism is simply a situation in which chemical reactions occur in our body that we cannot manage. Generally, the higher our IQ, the more potentially we can be in the company of more erotic people, but it is equally true that the higher the demand, the greater the risk that the relationship will go completely out of control if we don't know how to manage it...
-    <hr />
+    <hr /><!-- 318 -->
     A318 - Sometimes being a little more verbose and adding a bit of contextual information is a great way to help people think and understand better what we are writing and to avoid confusion, both in verbal conversations but also for example in emails , but not only ...
-    <hr />
+    <hr /><!-- 319 -->
     A319 - As regards nocturnal emissions, they are indicative of a problem: it is conceptually a waste of chemical resources. In that case it would be better to understand if there are women nearby who need that sperm (because for some it is conceptually as if it were simple fertilizer).
-    <hr />
+    <hr /><!-- 320 -->
     A320 - As regards abortions, if both the man and the woman who carried out the conception believe that it is better not to continue the pregnancy and terminate it with more or less painful methods, and if they believe that that is the most intelligent and right choice (for reasons that I won't bother explaining at the moment) and they take responsibility for it and if the fetus is rigorously buried underground (mandatory requirement), then there are no problems in using it. The buried dead fetus, conceptually, is also fertilizer. In any case, this procedure is rather risky and tiring, so in any case I recommend caution. It is not even said that the purpose of the conception itself is not simply, by default, the production of organic fertilizer, but if you decide to carry out this type of work, be very clear in your intent and also make it known to the community. If you think about it, we too as a species plant trees with the sole purpose of producing wood.
-    <hr />
+    <hr /><!-- 321 -->
     A321 - If we use roads and vehicles, we also have the obligation to bury any animals that die due to road accidents. Leaving them outside to rot is not a wise choice.
-    <hr />
+    <hr /><!-- 322 -->
     A322 - It is necessary to remember, with regards to sexual intercourse, that their execution in certain cases involves various changes in the psyche of the two participants (male and female) and that in certain cases the psyche deteriorates, and therefore it is necessary (for both) the support of two external people to correct all the mental defects that are created if we do not want the lives of those people to degrade and take a worse direction. To make these corrections you need people with a high IQ and kindness who are responsible for conversing (remotely with chat via computer is probably the best solution but not the only option) in order to correct any defects in the reasoning of the two participants. In general, asking for the support of two external people of the opposite sex for sexual relations is an excellent idea, because potential problems and disasters are avoided. This can be very useful both before, during and after. This can be very useful both before, during and after. Personally I think that, for couples, it is better to do, e.g. 10-20 sexual intercourses of the highest quality in one's life, rather than having more and of very poor quality and completely degrading oneself on a physical and psychological level. At least this is my opinion.
-    <hr />
+    <hr /><!-- 323 -->
     A323 - To have fun it is possible to invent perverse stories using the coffee machine or the tv remote control (at home) or even cigarettes when you are outdoors with others. Do this only with people of the opposite sex and only with intelligence.
-    <hr />
+    <hr /><!-- 324 -->
     A324 - If you want to flirt remotely with people of the opposite sex with whom you are close, you can do so by sending hugs or other welcome emojis in an alternating sequence via smartphone.
-    <hr />
+    <hr /><!-- 325 -->
     A325 - Personally I think it is wiser to leave the truffle to the trees (because I believe they need it) even if we know it tastes good. If it is underground and attached to their roots perhaps it is wiser to leave it there. I believe that it is an excellent idea to try to spread it with the procedure I explained previously but personally I think it is generally wiser to leave it to the trees. In any case, the collection for the purpose of diffusion and fertilization for further diffusion I think is an excellent idea... so in any case I would say that in some way in any case we could favor the sale of the truffle for the purpose of further fertilization, and then that that it was not possible to sell for that type of use, then in that case it can be used for food consumption.
-    <hr />
+    <hr /><!-- 326 -->
     A326 - In certain cases it can be dangerous for people to get too tired, because there are defenses to their personal integrity that become very weakened. So in any case it is advisable to be careful not to get too tired, unless you are sure that you can rest for the time necessary to recover your strength without being disturbed. This obviously also applies to older people, who in some cases need younger people to protect them.
     <hr />
     <div class="note">

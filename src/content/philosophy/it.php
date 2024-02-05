@@ -666,41 +666,41 @@ ob_start();
     <li>Non proiettare i propri problemi sulle altre persone, ma chiedere aiuto quando serve</li>
     <li>Essere comunque concentrati sullo studio e/o sul lavoro</li>
     <li>Evitare il sesso fino a quando non ci si riesce pi&ugrave; a trattenere</li>
-    <hr />
+    <hr /> <!-- 309 -->
     A309 - Se avete del posto vuoto disponibile (es. nel cortile) vi suggerisco di lasciare una ciotola col del cibo per gli animali selvatici e di riempirla periodicamente. In generale comunque potrebbe essere intelligente progettare gli edifici del futuro o modificare quelli esistenti in modo che sia prevista anche la convivenza con gli animali selvatici (es. sfruttando lo spazio dei tetti ...)
-    <hr />
+    <hr /> <!-- 310 -->
     A310 - Se decidete di fare un aperitivo (in classico orario tardo pomeridiano) vi consiglio di farlo abbondante e di saltare poi la cena.
-    <hr />
+    <hr /> <!-- 311 -->
     A311 - Potrebbe essere utile per gli uomini farsi palpeggiare un pochino i testicoli dalle donne con delicatezza. Non so cosa possa succedere perch&eacute; non ho mai provato, ma credo possa essere davvero utilissimo. Per precauzione al momento fatelo fare solo da delle donne vegane o fruttariane.
-    <hr />
+    <hr /> <!-- 312 -->
     A312 - E' possibile anche giocare con i misuratori di temperatura che si trovano spesso nelle banche utilizzati per la passata epidemia di Covid-19. Alcuni di loro hanno alcuni pixel che si illuminano alternativamente. Il gioco consiste nel misurarsi la temperatura quando il pixel illuminato &egrave; quello nella posizione che corrisponde alla virgola.
-    <hr />
+    <hr /> <!-- 313 -->
     A313 - Per chi sviluppa software, la parte legata ai nomi che si assegnano ai vari elementi del codice sorgente &egrave; molto importante ed &egrave; spesso quella che risulta pi&ugrave; distorta (dalle onde elettromagnetiche emesse da CPU/GPU che interferiscono col nostro cervello). Capita spessissimo e a tantissimi sviluppatori di usare nomi che in realt&agrave; sono un po' farlocchi, ma &egrave; soltanto perch&eacute; esiste questo fenomeno di interferenza. &Egrave; necessario metterci abbastanza impegno mentale per riuscire ad utilizzare una nomenclatura di qualit&agrave; nel codice sorgente dei software ... comunque se volete fare una prova fate una stampa di un breve listato di un programma che avete sviluppato e provate a ragionarci in mezzo a un parco ... lo noterete sicuramente ...
-    <hr />
+    <hr /> <!-- 314 -->
     A314 - E' importante, quando si coltivano determinati tipi di piante o di fiori a scopi alimentari, che i governi mantengano anche coltivazioni di tali piante a scopi non alimentari (es. ibisco, zafferano ...) per motivi di salute collettiva ...
-    <hr />
+    <hr /> <!-- 315 -->
     A315 - E' importante per le aziende ma anche per le famiglie, dedicare periodicamente del tempo a mettere in ordine gli ambienti. Infatti, pi&ugrave; disordine c'&egrave; in certi ambienti e pi&ugrave; i ragionamenti si degradano. Quindi pensare che "mettere in ordine" quando ce ne &egrave; bisogno sia una perdita di tempo &egrave; un ragionamento sbagliato, perch&egrave; il tempo che si investe in quel lavoro lo si recupera poi nel lungo periodo.
-    <hr />
+    <hr /> <!-- 316 -->
     A316 - E' un'abilit&agrave; molto importante quella di saper veicolare le informazioni e le risorse alle persone che ne hanno bisogno o che possono sfruttarle quando noi siamo impossibilitati a farlo, senza fare inutilmente gli egoisti. A volte pu&ograve; essere un'idea che serve a un amico/amica, a volte l'amicizia con una determinata persona che si conosce, altre volte un progetto che non possiamo sviluppare ... a volte "bloccare" una risorsa o approfittarne quando in realt&agrave; dentro di noi sappiamo che potrebbe essere pi&ugrave; adatta per altre persone &egrave; solo uno spreco inutile ...
-    <hr />
+    <hr /> <!-- 317 -->
     A317 - E' importante sapere che quando le persone in nostra presenza sono molto erotiche pensare al lavoro diventa estremamente difficile se non impossibile, mentre invece quando siamo in presenza di persone che non ci attirano esteticamente o che eventualmente sono anche sgradevoli, allora fare ragionamenti intelligenti e utili alla comunit&agrave; diventa molto pi&ugrave; facile. Questo sar&agrave; sempre tendenzialmente vero. Comunque su questo non ho mai potuto fare ricerca o esperimenti di nessun tipo dal vivo ... (alcune persone hanno difficolt&agrave; anche solo a gestire correttamente immagini di persone erotiche visualizzate online ...). Comunque in generale l'erotismo &egrave; semplicemente una situazione in cui avvengono reazioni chimiche nel nostro corpo che non riusciamo a gestire. Tendenzialmente pi&ugrave; &egrave; alto il nostro quoziente intellettivo, pi&ugrave; potenzialmente possiamo stare in compagnia di persone pi&ugrave; erotiche, ma &egrave; altrettanto vero che pi&ugrave; si alza la richiesta e pi&ugrave; aumenta il rischio che la relazione vada completamente fuori controllo se non sappiamo come gestirla ... 
-    <hr />
+    <hr /> <!-- 318 -->
     A318 - A volte essere un pochino pi&ugrave; prolissi e aggiungere un po' di informazioni di contesto &egrave; un ottimo modo per aiutare le persone a ragionare e capire meglio quello che stiamo scrivendo e ad evitare confusione, sia nelle conversazioni verbali ma anche ad esempio nelle email, ma non solo ...
-    <hr />
+    <hr /> <!-- 319 -->
     A319 - Per quanto riguarda le polluzioni notturne, sono indicative di un problema : &egrave; concettualmente uno spreco di risorse chimiche. In quel caso sarebbe meglio capire se nelle vicinanze ci sono donne che hanno bisogno di quello sperma (perch&egrave; per alcune &egrave; concettualmente come se fosse semplice fertilizzante).
-    <hr />
+    <hr /> <!-- 320 -->
     A320 - Per quanto riguarda gli aborti, se sia l'uomo che la donna che hanno effettuato il concepimento ritengono che sia meglio non proseguire la gravidanza e interromperla con metodi pi&ugrave; o meno dolorosi, e se ritengono che quella sia la scelta pi&ugrave; intelligente e giusta (per motivi che al momento non mi dilungo a spiegare) e se ne assumono la responsabilit&agrave; e se il feto viene rigorosamente sepolto sotto terra (requisito obbligatorio), allora non ci sono problemi ad utilizzarlo. Il feto morto sepolto, concettualmente, &egrave; concime anche quello. In ogni caso questa procedura &egrave; piuttosto rischiosa e faticosa, quindi in ogni caso raccomando prudenza. Non &egrave; neppure detto che lo scopo del concepimento in se non sia semplicemente, per partito preso, la produzione di concime organico, ma se decidete di effettuare questo tipo di lavoro siate molto chiari nel vostro intento e fatelo presente anche alla comunit&agrave;. Se ci si pensa, anche noi come specie piantiamo alberi col solo scopo di produrre del legname.
-    <hr />
+    <hr /> <!-- 321 -->
     A321 - Se utilizziamo le strade e gli automezzi, abbiamo anche l'obbligo di seppellire eventuali animali deceduti a causa di incidenti stradali. Lasciarli all'aperto a marcire non &egrave; una scelta saggia.
-    <hr />
+    <hr /> <!-- 322 -->
     A322 - E' necessario ricordare, per quanto riguarda i rapporti sessuali, che la loro esecuzione in determinati casi comporta diversi cambiamenti nella psiche dei due partecipanti (maschio e femmina) e che in determinati casi la psiche si deteriora, e quindi &egrave; necessario (per entrambi) il supporto di due persone esterna per correggere tutti i difetti mentali che si vanno a creare se non si vuole che la vita di quelle persone si degradi e prenda una direzione peggiore. Per effettuare tali correzioni servono persone con un alto QI e gentilezza che si occupano di conversare (da remoto con chat via computer &egrave; probabilmente la soluzione migliore, ma non l'unica opzione) in modo da correggere eventuali difetti nei ragionamenti dei due partecipanti. In generale chiedere il supporto di due persone esterne di sesso opposto per i rapporti sessuali &egrave; un'ottima idea, perch&egrave; si evitano potenziali problemi e disastri. Questo pu&ograve; essere molto utile sia prima, che durante, che dopo. Personalmente ritengo che, per le coppie, sia meglio fare, es. 10-20 rapporti sessuali di massima qualit&agrave; nella propria vita, piuttosto che farne di pi&ugrave; e di qualit&agrave; pessima e degradarsi completamente a livello fisico e psicologico. Almeno questa &egrave; la mia opionione.
-    <hr />
+    <hr /> <!-- 323 -->
     A323 - Per divertirsi &egrave; possibile inventare storielle perverse utilizzando la macchinetta del caff&egrave; o il telecomando della televisione (in casa) oppure anche le sigarette quando invece si &egrave; all'aperto insieme agli altri. Fatelo solo con persone di sesso opposto e solo con intelligenza. 
-    <hr />
+    <hr /> <!-- 324 -->
     A324 - Se volete flirtare da remoto con persone di sesso opposto con cui siete in confidenza &egrave; possibile farlo inviandosi in sequenza alternata degli abbracci o delle altre emoji gradite tramite smartphone. 
-    <hr />
+    <hr /> <!-- 325 -->
     A325 - Personalmente ritengo che sia pi&ugrave; saggio lasciare il tartufo agli alberi (perch&egrave; credo che a loro serva) anche se sappiamo che ha un buon sapore. Se &egrave; sottoterra ed &egrave; attaccato alle loro radici forse &egrave; pi&ugrave; saggio lasciarlo li. Credo che comunque sia un'ottima idea cercare di diffonderlo con la procedura che ho spiegato in precedenza ma personalmente credo sia pi&ugrave; saggio tendenzialmente lasciarlo agli alberi. In ogni caso la raccolta a scopo di diffusione e concimazione per ulteriore diffusione credo sia un'ottima idea ... quindi comunque direi che si potrebbe in un qualche modo in ogni caso privilegiare la vendita del tartufo a scopo di ulteriore concimazione, e poi quello che non si &egrave; riuscito a vendere per quella tipologia di utilizzo, allora in quel caso si pu&ograve; destinare al consumo alimentare.
-    <hr />
+    <hr /> <!-- 326 -->
     A326 - In certi casi pu&ograve; essere pericoloso per le persone stancarsi troppo, perch&egrave; esistono delle difese alla propria integrit&agrave; personale che si indeboliscono molto. Quindi in ogni caso &egrave; opportuno fare attenzione a non stancarsi troppo, a meno di non essere sicuri di potersi riposare per il tempo necessario a recuperare le forze senza essere disturbati. Questo vale ovviamente anche per le persone anziane, che in certi casi hanno bisogno delle persone pi&ugrave; giovani per essere tutelate.
     <hr />
     <div class="note">
