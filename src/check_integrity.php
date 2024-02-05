@@ -5,6 +5,11 @@ Created by MBCRAFT di Marco Bagnaresi - info@mbcraft.it
 
 Version : 2.0
 
+----
+
+This script is used to check the integrity between the online and offline version of an internet site. 
+I created it to check the integrity of my internet site.
+
 */
 
 
