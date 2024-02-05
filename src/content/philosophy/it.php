@@ -703,6 +703,8 @@ ob_start();
     <hr /> <!-- 326 -->
     A326 - In certi casi pu&ograve; essere pericoloso per le persone stancarsi troppo, perch&egrave; esistono delle difese alla propria integrit&agrave; personale che si indeboliscono molto. Quindi in ogni caso &egrave; opportuno fare attenzione a non stancarsi troppo, a meno di non essere sicuri di potersi riposare per il tempo necessario a recuperare le forze senza essere disturbati. Questo vale ovviamente anche per le persone anziane, che in certi casi hanno bisogno delle persone pi&ugrave; giovani per essere tutelate.
     <hr />
+    A327 - Personalmente consiglio a chi gestisce certi alberghi o hotel o altre strutture alberghiere di mettere in chiaro se &egrave; consentito oppure no avere rapporti sessuali (con la voce o in silenzio) perch&egrave; comunque ci sono persone che in determinati casi li utilizzano e non hanno alternative. Non &egrave; detto che se serve anche quella possibilit&agrave; non si possa comunque mettere come opzione addizionale a pagamento.
+    <hr />
     <div class="note">
         <b>Tutto quello che state leggendo &egrave; la continuazione del lavoro fatto su un file su cui lavoravo inizialmente, che arrivato alla 15a-16a versione &egrave; stato fisicamente stampato in tre copie ma di cui poi ho perso i sorgenti. Due copie le ho regalate (anni e anni fa) e una &egrave; rimasta in mio possesso. Quello che trovate qui di seguito &egrave; estratto e rielaborato da quel fascicoletto, di cui molto per&ograve; ho deciso di scartare.</b>
     </div>
