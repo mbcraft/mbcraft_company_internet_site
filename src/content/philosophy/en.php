@@ -714,6 +714,8 @@ ob_start();
     <hr /> <!-- 328 -->
     A328 - For videogame developers, I wanted to suggest that with little you can change the look of many games. By inserting images of the code that alter the colors in the phase after loading, for example, it is possible to change the entire graphic aspect of a game, and the same concept can also be applied to music (for example, raising or lowering octave sound effects or music). So, in a certain sense, just as you can redefine the keys in many games, you can also make alterations to the graphics and sound in a similar way. This can be done for all the graphic and sound elements or even just a part, based on certain rules... Conceptually it can also be done in computer vision objects regarding the visual part...
     <hr />
+    A329 - Remember, when you have very tiring experiences mentally, physically or emotionally, that urinating near trees or making sure that urine ends up near a tree becomes particularly important... naturally the solid part of the excrement is also important as a fertilizer ...
+    <hr />
     <div class="note">
         <b>Everything you are reading is the continuation of the work done on a file I was working on initially, which arrived at the 15th-16th version and was physically printed in three copies but of which I then lost the sources. I gave away two copies (years and years ago) and one has remained in my possession. What you find below is an extract and rework from that booklet, much of which, however, I decided to discard.</b>
     </div>

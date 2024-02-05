@@ -707,6 +707,9 @@ ob_start();
     <hr /> <!-- 328 -->
     A328 - Per gli sviluppatori di videogiochi, volevo suggerire che con poco &egrave; possibile cambiare l'aspetto di molti giochi. Inserendo nella fase successiva al caricamente delle immagini del codice che ne alterano i colori, ad esempio, &egrave; possibile cambiare tutto l'aspetto grafico di un gioco, e lo stesso concetto pu&ograve; essere applicato anche alla musica (ad esempio alzano o abbassando di un'ottava gli effetti sonori o le musiche). Quindi, in un certo senso, cos&igrave; come si possono ridefinire i tasti in molti giochi, in modo similare si possono operare anche alterazioni alla grafica e alla parte sonora. Questo pu&ograve; essere fatto per tutti gli elementi grafici e sonori oppure anche solo per una parte, in base a determinate regole ... Concettualmente pu&ograve; essere fatto anche negli oggetti di visione artificiale per quanto riguarda la parte visiva ...
     <hr />
+    A329 - Ricordatevi, quando fate esperienze molto faticose mentalmente, fisicamente o emotivamente, che urinare vicino agli alberi o fare in modo che comunque quelle urine finiscano vicino a un albero diventa particolarmente importante ... naturalmente anche la parte solida degli escrementi &egrave; importante come fertilizzante ...
+    <hr />
+    <hr />
     <div class="note">
         <b>Tutto quello che state leggendo &egrave; la continuazione del lavoro fatto su un file su cui lavoravo inizialmente, che arrivato alla 15a-16a versione &egrave; stato fisicamente stampato in tre copie ma di cui poi ho perso i sorgenti. Due copie le ho regalate (anni e anni fa) e una &egrave; rimasta in mio possesso. Quello che trovate qui di seguito &egrave; estratto e rielaborato da quel fascicoletto, di cui molto per&ograve; ho deciso di scartare.</b>
     </div>
