@@ -13,7 +13,7 @@ define ("NEWLINE","<br />");
 /**
  * This function removes a value from an array, removing also the corresponding key.
  */
-if (!function_exists('array_remove_value')) {
+if (!function_exists('array_remove_values_ending_with')) {
     function array_remove_values_ending_with(array $data,$values_ending_with) {
 
         if ($data===null) return null;
