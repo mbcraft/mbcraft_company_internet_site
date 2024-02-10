@@ -77,7 +77,7 @@ ob_start();
     <hr /><!-- 21 .-->
     A21 - Personally I think it's better to let nature decide how we should be rewarded for our hard work (in case for example the salary we receive is less than what it would seem right to us to receive) instead of wishing this or that.
     <hr /><!-- 22 .-->
-    A22 - Be friendly, kind, honest, humble, patient, coherent and transparent. <br/>
+    A22 - Be friendly, kind, honest, humble, patient, coherent and transparent. However, there are also other virtues such as flexibility, prudence or others described elsewhere... The important thing is to try to do your best... in some cases some may seem opposite, such as prudence versus courage...<br/>
     <hr /><!-- 23 .-->
     A23 - Don't "throw smoke" over people's eyes. Purposefully confusing people is extremely wrong.
     <hr /><!-- 24 -->
@@ -729,6 +729,8 @@ ob_start();
     A335 - For street artists who want to paint graffiti, I personally recommend carrying out an analysis and planning of what they want to create before making them. Personally, the type of art I prefer is high-quality abstract art, even made with algorithms, because I believe it is also the most long-lived and generally appreciated. It is also possible to purchase it online, print it on paper and then use the printed reference as a guide. I believe improvised art, conceptually, is nothing more than a sort of "photograph" of the situation perceived by the artist. Furthermore, if paints that transform smog into salt are used, perhaps, in some way, it could also be possible to collect it and use it for food purposes... it must also be said, in any case, that the presence of graffiti on walls of buildings or houses create effects both on those who look at them from the outside and on those who use those buildings... so know that if you also want to earn money in some way, you can potentially ask for money both from those who use that building and also from the public administration of that city...
     <hr /> <!-- 336 -->
     A336 - When fried foods are cooked at home, it is generally best to try to eat them and use them up as soon as possible as they are very perishable. Fried food (to be used sparingly) should be prioritized as expiring compared to others because it is also the one that perishes most quickly.
+    <hr /> <!-- 337 -->
+    A337 - We sometimes hear it said that "he who is silent consents"... but in reality this is not a correct way of thinking. Those who remain silent simply couldn't give an answer for the most varied reasons (he/she is too tired, he/she doesn't have the necessary resources to answer, he/she doesn't have enough time, he/she was dismayed or taken aback by the question...).
     <hr />
     <div class="note">
         <b>Everything you are reading is the continuation of the work done on a file I was working on initially, which arrived at the 15th-16th version and was physically printed in three copies but of which I then lost the sources. I gave away two copies (years and years ago) and one has remained in my possession. What you find below is an extract and rework from that booklet, much of which, however, I decided to discard.</b>

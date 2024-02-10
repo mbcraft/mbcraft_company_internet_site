@@ -72,7 +72,7 @@ ob_start();
     <hr /><!-- 21 -->
     A21 - Personalmente penso che sia meglio lasciar decidere alla natura il modo in cui dobbiamo essere ricompensati per il nostro duro lavoro (nel caso in cui ad esempio lo stipendio che riceviamo sia inferiore a quello che ci sembrerebbe giusto ricevere) invece di desiderare questo o quello. 
     <hr /><!-- 22 -->
-    A22 - Sii amichevole, gentile, onesto, umile, paziente, coerente, trasparente.<br/>
+    A22 - Sii amichevole, gentile, onesto, umile, paziente, coerente, trasparente. Esistono comunque anche altri virt&ugrave; come ad esempio la flessibilit&agrave;, la prudenza o altre descritte altrove ... L'importante &egrave; cercare di fare del proprio meglio ... in alcuni casi alcune possono sembrare opposte, come ad esempio la prudenza rispetto al coraggio ...
     <hr /><!-- 23 -->
     A23 - Non gettare "fumo negli occhi" alle persone. Confondere le idee appositamente alle persone &egrave; estremamente sbagliato.
     <hr /><!-- 24 -->
@@ -722,6 +722,8 @@ ob_start();
     A335 - Per gli streetartist che vogliono dipingere dei graffiti, personalmente consiglio prima di realizzarli di effettuare un'analisi e una progettazione di quello che vogliono realizzare. Personalmente il tipo di arte che preferisco &egrave; l'arte astratta di elevata qualit&agrave;, anche realizzata con algoritmi, perch&eacute; credo che sia anche quella pi&ugrave; longeva e generalmente apprezzata. Eventualmente &egrave; anche possibile acquistarla online, farne una stampa su carta e usare poi il riferimento stampato come guida. L'arte improvvisata, concettualmente, credo non sia altro che una sorta di "fotografia" della situazione percepita dall'artista. Inoltre, se si utilizzano vernici che trasformano lo smog in sale, forse, in un qualche modo, potrebbe anche essere possibile raccoglierlo e utilizzarlo a scopo alimentare ... c'&egrave; anche da dire, in ogni caso, che la presenza di graffiti sui muri dei palazzi o delle case crea degli effetti sia in chi la guarda dall'esterno sia in chi utilizza quegli edifici ... quindi sappiate che se volete in un qualche modo anche guadagnarci, potete chiedere denaro potenzialmente sia a chi usa quell'edificio che anche alla pubblica amministrazione di quella citt&agrave; ...
     <hr /> <!-- 336 -->
     A336 - Quando in casa vengono cucinati dei cibi fritti, generalmente conviene cercare di mangiarli e di esaurirli il prima possibile in quanto sono molto deperibili. Il cibo fritto (da usare con parsimonia) va prioritizzato come scadenza rispetto agli altri perch&eacute; &egrave; anche quello che deperisce pi&ugrave; rapidamente.
+    <hr /> <!-- 337 -->
+    A337 - Si sente a volte dire che "chi tace acconsente" ... ma in realt&agrave; non &egrave; un modo corretto di pensare. Chi tace semplicemente non ha potuto dare una risposta per le pi&ugrave; svariate ragioni (&egrave; troppo stanco/a, non ha le risorse necessarie per rispondere, non ha tempo sufficiente, &egrave; rimasto sgomento o spiazzato dalla domanda ...).
     <hr />
     <div class="note">
         <b>Tutto quello che state leggendo &egrave; la continuazione del lavoro fatto su un file su cui lavoravo inizialmente, che arrivato alla 15a-16a versione &egrave; stato fisicamente stampato in tre copie ma di cui poi ho perso i sorgenti. Due copie le ho regalate (anni e anni fa) e una &egrave; rimasta in mio possesso. Quello che trovate qui di seguito &egrave; estratto e rielaborato da quel fascicoletto, di cui molto per&ograve; ho deciso di scartare.</b>
