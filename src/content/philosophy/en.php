@@ -627,7 +627,7 @@ ob_start();
     <hr /><!-- 289 -->
     A289 - The e-cigarettes that are sold, beside the usage by mouth, they can also be used using nose (a little far, just to smell the parfume). 
     <hr /><!-- 290 -->
-    A290 - Plants and tree leaves can also be blown and licked, as well as booged (or mucus deposited on them).
+    A290 - Plants and tree leaves can also be blown and licked, as well as booged (or mucus deposited on them). The leaves can also be pinched without obviously breaking them (at your own risk).
     <hr /><!-- 291 -->
     A291 - Sometimes it can happen that during one's life one can perceive in one's heart lapses of love, or the sensation of being polluted or compromised, and in those moments it is It's very difficult not to mentally lose your composure. Even those emotionally difficult moments can be overcome. It is quite normal that over the course of one's life our perceptions and our psychological or emotional references can change, and naturally managing this change correctly, on a personal level, requires a certain effort and commitment on our part...
     <hr /><!-- 292 -->
@@ -731,6 +731,10 @@ ob_start();
     A336 - When fried foods are cooked at home, it is generally best to try to eat them and use them up as soon as possible as they are very perishable. Fried food (to be used sparingly) should be prioritized as expiring compared to others because it is also the one that perishes most quickly.
     <hr /> <!-- 337 -->
     A337 - We sometimes hear it said that "he who is silent consents"... but in reality this is not a correct way of thinking. Those who remain silent simply couldn't give an answer for the most varied reasons (he/she is too tired, he/she doesn't have the necessary resources to answer, he/she doesn't have enough time, he/she was dismayed or taken aback by the question...).
+    <hr /> <!-- 338 -->
+    A338 - My mother taught me, when refilling coffee containers, that it is a good idea to pour the remaining amount onto a sheet of paper, pour the new coffee inside and then put the part that was spilled back on the sheet of paper. top of the jar. In this way the oldest coffee becomes the one that will be used first.
+    <hr /> <!-- 339 -->
+    A339 - Personally I believe that love, when it works well, behaves like the seasons, alternating periods of 'hot' love with periods of 'cold' love...
     <hr />
     <div class="note">
         <b>Everything you are reading is the continuation of the work done on a file I was working on initially, which arrived at the 15th-16th version and was physically printed in three copies but of which I then lost the sources. I gave away two copies (years and years ago) and one has remained in my possession. What you find below is an extract and rework from that booklet, much of which, however, I decided to discard.</b>

@@ -620,7 +620,7 @@ ob_start();
     <hr /> <!-- 289 -->
     A289 - Le sigarette elettroniche in commercio, oltre che inalate dalla bocca in determinati casi si possono usare anche inalandole con il naso (un po' distanti, per sentirne il profumo).
     <hr /> <!-- 290 -->
-    A290 - Le piante e le foglie degli alberi si possono anche soffiare e leccare, oltre che scaccolare (oppure depositarci sopra del muco).
+    A290 - Le piante e le foglie degli alberi si possono anche soffiare e leccare, oltre che scaccolare (oppure depositarci sopra del muco). Le foglie si possono anche prendere a pizzicotti senza ovviamente romperle (a vostro rischio e pericolo).
     <hr /> <!-- 291 -->
     A291 - A volte pu&ograve; capitare che nel corso della propria vita si possa percepire nel proprio cuore cali d'amore, o la sensazione di essere inquinati o compromessi, e in quei momenti &egrave; molto difficile non perdere mentalmente la calma. Anche quei momenti emotivamente difficili si possono superare. E' abbastanza normale che nel corso della propria vita le nostre percezioni e i nostri riferimenti psicologici o emotivi possano cambiare, e naturalmente anche gestire questo cambiamento in modo corretto, a livello personale, comporta un certo sforzo e impegno da parte nostra ... 
     <hr /> <!-- 292 -->
@@ -724,6 +724,10 @@ ob_start();
     A336 - Quando in casa vengono cucinati dei cibi fritti, generalmente conviene cercare di mangiarli e di esaurirli il prima possibile in quanto sono molto deperibili. Il cibo fritto (da usare con parsimonia) va prioritizzato come scadenza rispetto agli altri perch&eacute; &egrave; anche quello che deperisce pi&ugrave; rapidamente.
     <hr /> <!-- 337 -->
     A337 - Si sente a volte dire che "chi tace acconsente" ... ma in realt&agrave; non &egrave; un modo corretto di pensare. Chi tace semplicemente non ha potuto dare una risposta per le pi&ugrave; svariate ragioni (&egrave; troppo stanco/a, non ha le risorse necessarie per rispondere, non ha tempo sufficiente, &egrave; rimasto sgomento o spiazzato dalla domanda ...).
+    <hr />
+    A338 - Mia madre mi ha insegnato, quando si rabboccano i contenitori del caff&egrave;, che &egrave; una buona idea versare la quantit&agrave; rimanente sopra un foglio di carta, versare il nuovo caff&egrave; all'interno e rimettere poi la parte che si era versata sul foglio di carta in cima al barattolo. In questo modo il caff&agrave; pi&ugrave; vecchio diventa quello che si utilizzer&agrave; per primo.
+    <hr />
+    A339 - Personalmente credo che l'amore, quando funziona bene, si comporti come le stagioni, alternando periodi di amore 'caldo' a periodi di amore 'freddo' ...
     <hr />
     <div class="note">
         <b>Tutto quello che state leggendo &egrave; la continuazione del lavoro fatto su un file su cui lavoravo inizialmente, che arrivato alla 15a-16a versione &egrave; stato fisicamente stampato in tre copie ma di cui poi ho perso i sorgenti. Due copie le ho regalate (anni e anni fa) e una &egrave; rimasta in mio possesso. Quello che trovate qui di seguito &egrave; estratto e rielaborato da quel fascicoletto, di cui molto per&ograve; ho deciso di scartare.</b>
