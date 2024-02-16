@@ -744,7 +744,7 @@ ob_start();
     <hr /> <!-- 337 -->
     A337 - Si sente a volte dire che "chi tace acconsente" ... ma in realt&agrave; non &egrave; un modo corretto di pensare. Chi tace semplicemente non ha potuto dare una risposta per le pi&ugrave; svariate ragioni (&egrave; troppo stanco/a, non ha le risorse necessarie per rispondere, non ha tempo sufficiente, &egrave; rimasto sgomento o spiazzato dalla domanda ...).
     <hr /> <!-- 338 -->
-    A338 - Mia madre mi ha insegnato, quando si rabboccano i contenitori del caff&egrave;, che &egrave; una buona idea versare la quantit&agrave; rimanente sopra un foglio di carta, versare il nuovo caff&egrave; all'interno e rimettere poi la parte che si era versata sul foglio di carta in cima al barattolo. In questo modo il caff&agrave; pi&ugrave; vecchio diventa quello che si utilizzer&agrave; per primo.
+    A338 - Mia madre mi ha insegnato, quando si rabboccano i contenitori del caff&egrave;, che &egrave; una buona idea versare la quantit&agrave; rimanente sopra un foglio di carta, versare il nuovo caff&egrave; all'interno e rimettere poi la parte che si era versata sul foglio di carta in cima al barattolo. In questo modo il caff&egrave; pi&ugrave; vecchio diventa quello che si utilizzer&agrave; per primo.
     <hr /> <!-- 339 -->
     A339 - Personalmente credo che l'amore, quando funziona bene, si comporti come le stagioni, alternando periodi di amore 'caldo' a periodi di amore 'freddo' ...
     <hr /> <!-- 340 -->
