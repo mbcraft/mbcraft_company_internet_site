@@ -759,6 +759,8 @@ ob_start();
     A341 - It happens that when we let a cat enter or exit the house by opening a door or window, it stops for a few moments in the middle of the opening (this is typically their behaviour). The animal makes its assessments and decides whether to enter or not and I personally recommend waiting patiently until it makes its decision independently, without applying pressure of any kind.
     <hr /> <!-- 342 -->
     A342 - Vandalism is generally not never appreciated, and usually then involves taking on hatred or resentment from who or what has been vandalized (for example when it happens due to theft, but also due to riots...). However, if you need to protest about something, you can always do it intelligently, and in that case you almost always get much better results.
+    <hr /> <!-- 343 -->
+    A343 - If you need to store clothes or sheets, you can place them folded in a bag typically used for rubbish, close the bag almost completely and remove all the air with a vacuum cleaner in order to reduce the space occupied, and then close the bag. Thanks to @pretainacio (TikTok) for sharing it.
     <hr />
     <div class="note">
         <b>Everything you are reading is the continuation of the work done on a file I was working on initially, which arrived at the 15th-16th version and was physically printed in three copies but of which I then lost the sources. I gave away two copies (years and years ago) and one has remained in my possession. What you find below is an extract and rework from that booklet, much of which, however, I decided to discard.</b>

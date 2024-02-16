@@ -754,6 +754,8 @@ ob_start();
     <hr /> <!-- 342 -->
     A342 - Il vandalismo generalmente non &egrave; mai gradito, e solitamente comporta poi il prendersi l'odio o il rancore da chi o per quello che &egrave; stato vandalizzato (ad esempio quando accade per furti, ma anche per sommosse ...). Nel caso comunque sia necessario protestare per qualcosa, lo si pu&ograve; sempre fare con intelligenza, e in quel caso quasi sempre ottiene esiti molto migliori.
     <hr />
+    A343 - Se dovete stoccare degli abiti o delle lenzuola, li potete inserire ripiegati in un sacco di quelli tipicamente usati per l'immondizia, chiudere quasi del tutto il sacco e con un aspirapolvere togliere tutta l'aria in modo da ridurre lo spazio occupato, e chiudere poi il sacco. Grazie a @pretainacio (TikTok) per averlo condiviso.
+    <hr /> 
     <div class="note">
         <b>Tutto quello che state leggendo &egrave; la continuazione del lavoro fatto su un file su cui lavoravo inizialmente, che arrivato alla 15a-16a versione &egrave; stato fisicamente stampato in tre copie ma di cui poi ho perso i sorgenti. Due copie le ho regalate (anni e anni fa) e una &egrave; rimasta in mio possesso. Quello che trovate qui di seguito &egrave; estratto e rielaborato da quel fascicoletto, di cui molto per&ograve; ho deciso di scartare.</b>
     </div>
