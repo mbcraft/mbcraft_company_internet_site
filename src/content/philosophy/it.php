@@ -50,7 +50,7 @@ ob_start();
     <hr /><!-- 8 -->
     A8 - Le lamentele superflue ci fanno perdere risorse (che vanno a chi le riceve). <br />
     Personalmente credo sia anche meglio evitare di imprecare contro l'universo anche se si &egrave; in solitudine.<br />
-    Se vi capita di smarrire un oggetto in casa o di essere bloccati in qualcosa che non capite durante il lavoro è meglio non pensare a complotti mondiali contro di voi ma cercare di tenere duro fino a quando non arrivate a una soluzione.
+    Se vi capita di smarrire un oggetto in casa o di essere bloccati in qualcosa che non capite durante il lavoro &egrave; meglio non pensare a complotti mondiali contro di voi ma cercare di tenere duro fino a quando non arrivate a una soluzione.
     <hr /><!-- 9 -->
     A9 - Adotta una dieta vegana/plant based o fruttariana se possibile. Escludi i prodotti creati con parti di origine animale (esclusa la lana e la seta prodotti in modo rispettoso degli animali). Personalmente consiglio una colazione a base di sola frutta o frullati di frutta e verdura. E' ottima per cominciare la giornata con sprint e non mi ha mai causato nessun deficit di energie. Per quanto riguarda la carne o il pesce molti ne sono innamorati per quanto riguarda il sapore, ma non sanno che poi l'effetto sull'organismo &egrave; disastroso. Mangiare carne o pesce crea putridume nello stomaco. L'insalata &egrave; esattamente l'opposto : oppone resistenza nella nostra mente quando cerchiamo di mangiarla ma poi regala dei benefici incredibili al nostro organismo. Personalmente ho visto visibili effetti positivi cercando di mangiare insalata costantemente a pranzo e cena dopo solo due giorni con ottimi benefici. Inoltre mi &egrave; capitato di osservare dei pezzi di carne brillare quasi come se fossero magici o di annusare un odore estremamente gradevole, ma in ogni caso anche in quei casi &egrave; meglio non cedere alla tentazione. Comunque, a livello concettuale, &egrave; innegabile che gli animali, per natura, abbiano il diritto di spostarsi e che urlino o cerchino di salvarsi quando una persona tenta di ucciderli, quindi comunque privandoli di questo diritto di spostarsi si compie comunque un crimine contro natura. Anche per questo motivo gli allevamenti intensivi sono terribili e chi li sostiene acquistando quel tipo di prodotti alimentari in un qualche modo deve fare i conti anche col fatto che in un qualche modo, in futuro, dovr&agrave; pagare sul piano personale o lavorativo per la sua scelta poco intelligente. In ogni caso anche le verdure sono esseri viventi e per essere onesto intellettualmente devo dire che noi per mangiarcele le uccidiamo, ma &egrave; altrettanto vero che comunque alcune morirebbero comunque al termine della stagione (quindi, diversamente dagli animali da allevamento intensivo, concettualmente non &egrave; altrettanto grave), ed &egrave; per questo che, in ultima analisi, la frutta &egrave; il cibo migliore in assoluto.<br />
     <hr /><!-- 10 -->
@@ -215,7 +215,7 @@ ob_start();
     <hr /><!-- 83 -->
     A83 - Le more di gelso non si riescono a conservare in frigorifero ... dopo solo un paio di giorni fanno i vermetti. Vanno mangiate appena raccolte oppure probabilmente messe direttamente in freezer o essicate per riuscire a mangiarle senza vermetti.
     <hr /><!-- 84 -->
-    A84 - Una mia amica mi ha suggerito, in caso di problemi di esaurimenti nervosi, di utilizzare integratori di magnesio-potassio. Posso confermare che anche solo dopo un singolo utilizzo ho notato drastici miglioramenti di salute a riguardo.
+    A84 - Una mia amica (Noanda Tania Moroni) mi ha suggerito, in caso di problemi di esaurimenti nervosi, di utilizzare integratori di magnesio-potassio. Posso confermare che anche solo dopo un singolo utilizzo ho notato drastici miglioramenti di salute a riguardo.
     <hr /><!-- 85 -->
     A85 - Personalmente ho notato che tutto quello che mi annoto su smartphone (ad esempio sull'applicazione base delle note) tende a essere accantonato e dimenticato. Eventualmente scriveteci tutti i vostri pensieri di odio per il prossimo se ne avete, potrebbe essere un buon modo per toglierseli dalla testa. 
     <hr /><!-- 86 -->
@@ -493,7 +493,7 @@ ob_start();
     <hr /><!-- 222 -->
     A222 - E' importante fare del proprio meglio per voler bene ai propri genitori, per quanto burberi possano essere.
     <hr /><!-- 223 -->
-    A223 - Un mio caro amico dei tempi dell'universit&agrave; a suo tempo mi diceva : "ogni meglio &egrave; meglio".
+    A223 - Un mio caro amico dei tempi dell'universit&agrave; (Alessio Guadagnini) a suo tempo mi diceva : "ogni meglio &egrave; meglio".
     <hr /><!-- 224 -->
     A224 - Il caff&egrave; espresso all'italiana &egrave; molto buono anche se condito con la cannella.
     <hr /><!-- 225 -->
@@ -585,7 +585,7 @@ ob_start();
     <hr /><!-- 268 -->
     A268 - Se non se ne ha bisogno nei router casalinghi che permettono di utilizzare la connessione a internet solo tramite onde wireless e che comunque dispongono di connessione '2.4 G' e '5 G' consiglio di disabilitare la frequenza '5 G' (per i router che dispongono di questa opzione) e di utilizzare solo quella '2.4 G'. 
     <hr /><!-- 269 -->
-    A269 - E' importante capire i concetti di soggettivit&agrave;, di relazione, di interazione e di oggettivit&agrave;. Ad esempio con un sasso o una pietra si possono chiudere gli occhi e sentirsi felici, tristi, divertiti, arrabbiati (soggettivit&agrave;), oppure si pu&ograve; amare, apprezzare, disprezzare, insultare (relazione) ... oppure si pu&ograve; leccare, dipingere, scolpire, accarezzare, lanciare, bollire, congelare (interazione) oppure si pu&ograve; pesare, misurare, analizzare chimicamente, descrivere in base alle scienze in vigore (oggettivit&agrave;) ... Il concetto di oggettivit&agrave; mi &egrave; stato insegnato dal socio della mia precedente azienda.
+    A269 - E' importante capire i concetti di soggettivit&agrave;, di relazione, di interazione e di oggettivit&agrave;. Ad esempio con un sasso o una pietra si possono chiudere gli occhi e sentirsi felici, tristi, divertiti, arrabbiati (soggettivit&agrave;), oppure si pu&ograve; amare, apprezzare, disprezzare, insultare (relazione) ... oppure si pu&ograve; leccare, dipingere, scolpire, accarezzare, lanciare, bollire, congelare (interazione) oppure si pu&ograve; pesare, misurare, analizzare chimicamente, descrivere in base alle scienze in vigore (oggettivit&agrave;) ... Il concetto di oggettivit&agrave; mi &egrave; stato insegnato dal socio della mia precedente azienda (Michele Rispoli).
     <hr /><!-- 270 -->
     A270 - Quello che definisco come 'peoplefield' &egrave; il fenomeno psicologico che si verifica quando in presenza di determinate persone nelle vicinanze si fanno determinati pensieri, che non si farebbero senza la presenza limitrofa di quelle persone. La presenza di questo 'peoplefield' crea un ambiente psicologico in cui determinati pensieri sono pi&ugrave; facili e altri sono pi&ugrave; difficili se non impossibili. 
     <hr /><!-- 271 -->

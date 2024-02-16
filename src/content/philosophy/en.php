@@ -221,7 +221,7 @@ ob_start();
     <hr /><!-- 83 .-->
     A83 - Mulberry blackberries can't be kept in the fridge... after just a couple of days they become wormy. They should be eaten as soon as they are picked or probably put directly in the freezer or dried to be able to eat them without worms.
     <hr /><!-- 84 .-->
-    A84 - A friend of mine suggested me to use magnesium-potassium supplements in case of problems with nervous breakdowns. I can confirm that even after just a single use I have noticed drastic health improvements in this regard.
+    A84 - A friend of mine (Noanda Tania Moroni) suggested me to use magnesium-potassium supplements in case of problems with nervous breakdowns. I can confirm that even after just a single use I have noticed drastic health improvements in this regard.
     <hr /><!-- 85 .-->
     A85 - I have personally noticed that everything I write down on my smartphone (for example on the basic notes application) tends to be set aside and forgotten. Eventually write us all your thoughts of hatred for others if you have any, it could be a good way to get them out of your head.
     <hr /><!-- 86 .-->
@@ -499,7 +499,7 @@ ob_start();
     <hr /><!-- 222 .-->
     A222 - It's important to do your best to love your parents, no matter how gruff they may be.
     <hr /><!-- 223 .-->
-    A223 - A dear friend of mine from university days once told me: "every better is better".
+    A223 - A dear friend of mine from university days (Alessio Guadagnini) once told me: "every better is better".
     <hr /><!-- 224 .-->
     A224 - Italian espresso coffee is very good even when seasoned with cinnamon.
     <hr /><!-- 225 .-->
@@ -591,7 +591,7 @@ ob_start();
     <hr /><!-- 268 .-->
     A268 - If you don't need it in home routers that allow you to use the internet connection only via wireless waves and which in any case have '2.4 G' and '5 G' connections, I recommend disabling the '5 G' frequency (for routers that have this option) and to use only the '2.4 G' one.
     <hr /><!-- 269 .-->
-    A269 - It is important to understand the concepts of subjectivity, relationship and objectivity. For example, with a stone or a mineral specimen you can close your eyes and feel happy, sad, amused, angry (subjectivity), or you can love, appreciate, despise, insult (relationship) ... or you can lick, paint, sculpt, caress, throw, boil, freeze (interaction) or you can weigh, measure, analyze chemically, describe based on the known sciences (objectivity) ... The concept of objectivity was taught to me by the partner of my previous company.
+    A269 - It is important to understand the concepts of subjectivity, relationship and objectivity. For example, with a stone or a mineral specimen you can close your eyes and feel happy, sad, amused, angry (subjectivity), or you can love, appreciate, despise, insult (relationship) ... or you can lick, paint, sculpt, caress, throw, boil, freeze (interaction) or you can weigh, measure, analyze chemically, describe based on the known sciences (objectivity) ... The concept of objectivity was taught to me by the partner of my previous company (Michele Rispoli).
     <hr /><!-- 270 .-->
     A270 - What I define as 'peoplefield' is the psychological phenomenon that occurs when in the presence of certain people nearby you think certain thoughts, which you would not think without the nearby presence of those people. The presence of this 'peoplefield' creates a psychological environment in which certain thoughts are easier and others are more difficult if not impossible.
     <hr /><!-- 271 .-->
