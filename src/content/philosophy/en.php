@@ -753,6 +753,12 @@ ob_start();
     A338 - My mother taught me, when refilling coffee containers, that it is a good idea to pour the remaining amount onto a sheet of paper, pour the new coffee inside and then put the part that was spilled back on the sheet of paper. top of the jar. In this way the oldest coffee becomes the one that will be used first.
     <hr /> <!-- 339 -->
     A339 - Personally I believe that love, when it works well, behaves like the seasons, alternating periods of 'hot' love with periods of 'cold' love...
+    <hr /> <!-- 340 -->
+    A340 - It is important not to use computers or game consoles when you have poop to pass, as the presence of poop in the body completely changes our thoughts in reaction to certain media content. This can also happen when carrying out telephone conversations with other people: in general, however, it is better not to be afraid of interrupting an activity or a conversation due to the need to complete it as in this way we avoid unpleasant distortions in our way of reasoning : the important thing is to be professional and react intelligently and not "manage to do an activity for X consecutive hours without going to the toilet".
+    <hr /> <!-- 341 -->
+    A341 - It happens that when we let a cat enter or exit the house by opening a door or window, it stops for a few moments in the middle of the opening (this is typically their behaviour). The animal makes its assessments and decides whether to enter or not and I personally recommend waiting patiently until it makes its decision independently, without applying pressure of any kind.
+    <hr /> <!-- 342 -->
+    A342 - Vandalism is generally not never appreciated, and usually then involves taking on hatred or resentment from who or what has been vandalized (for example when it happens due to theft, but also due to riots...). However, if you need to protest about something, you can always do it intelligently, and in that case you almost always get much better results.
     <hr />
     <div class="note">
         <b>Everything you are reading is the continuation of the work done on a file I was working on initially, which arrived at the 15th-16th version and was physically printed in three copies but of which I then lost the sources. I gave away two copies (years and years ago) and one has remained in my possession. What you find below is an extract and rework from that booklet, much of which, however, I decided to discard.</b>

@@ -743,10 +743,16 @@ ob_start();
     A336 - Quando in casa vengono cucinati dei cibi fritti, generalmente conviene cercare di mangiarli e di esaurirli il prima possibile in quanto sono molto deperibili. Il cibo fritto (da usare con parsimonia) va prioritizzato come scadenza rispetto agli altri perch&eacute; &egrave; anche quello che deperisce pi&ugrave; rapidamente.
     <hr /> <!-- 337 -->
     A337 - Si sente a volte dire che "chi tace acconsente" ... ma in realt&agrave; non &egrave; un modo corretto di pensare. Chi tace semplicemente non ha potuto dare una risposta per le pi&ugrave; svariate ragioni (&egrave; troppo stanco/a, non ha le risorse necessarie per rispondere, non ha tempo sufficiente, &egrave; rimasto sgomento o spiazzato dalla domanda ...).
-    <hr />
+    <hr /> <!-- 338 -->
     A338 - Mia madre mi ha insegnato, quando si rabboccano i contenitori del caff&egrave;, che &egrave; una buona idea versare la quantit&agrave; rimanente sopra un foglio di carta, versare il nuovo caff&egrave; all'interno e rimettere poi la parte che si era versata sul foglio di carta in cima al barattolo. In questo modo il caff&agrave; pi&ugrave; vecchio diventa quello che si utilizzer&agrave; per primo.
-    <hr />
+    <hr /> <!-- 339 -->
     A339 - Personalmente credo che l'amore, quando funziona bene, si comporti come le stagioni, alternando periodi di amore 'caldo' a periodi di amore 'freddo' ...
+    <hr /> <!-- 340 -->
+    A340 - E' importante non usare il computer o le console di gioco quando si hanno gli escrementi da espletare, in quanto la presenza di escrementi da espletare nel corpo cambia completamente i nostri pensieri in reazione a determinati contenuti multimediali. Questo pu&ograve; accedere anche quando si effettuano conversazioni telefoniche con altre persone : in generale comunque &egrave; meglio non aver timore di interrompere un'attivit&agrave; o una conversazione per il bisogno di espletare in quanto in questo modo si evitano distorsioni poco gradite nel nostro modo di ragionare : l'importante &egrave; essere professionali e reagire con intelligenza e non "riuscire a resistere per X ore consecutive senza andare alla toilette".
+    <hr /> <!-- 341 -->
+    A341 - Capita che quando facciamo entrare o uscire un gatto dall'abitazione aprendo una porta o una finestra, che esso si fermi per qualche momento in mezzo all'apertura (&egrave; un comportamento tipicamente loro). L'animale fa le sue valutazioni e decide se entrare o non entrare e personalmente consiglio di aspettare pazientemente fino a quando non prende autonomamente la sua decisione, senza fare pressioni di nessun tipo.
+    <hr /> <!-- 342 -->
+    A342 - Il vandalismo generalmente non &egrave; mai gradito, e solitamente comporta poi il prendersi l'odio o il rancore da chi o per quello che &egrave; stato vandalizzato (ad esempio quando accade per furti, ma anche per sommosse ...). Nel caso comunque sia necessario protestare per qualcosa, lo si pu&ograve; sempre fare con intelligenza, e in quel caso quasi sempre ottiene esiti molto migliori.
     <hr />
     <div class="note">
         <b>Tutto quello che state leggendo &egrave; la continuazione del lavoro fatto su un file su cui lavoravo inizialmente, che arrivato alla 15a-16a versione &egrave; stato fisicamente stampato in tre copie ma di cui poi ho perso i sorgenti. Due copie le ho regalate (anni e anni fa) e una &egrave; rimasta in mio possesso. Quello che trovate qui di seguito &egrave; estratto e rielaborato da quel fascicoletto, di cui molto per&ograve; ho deciso di scartare.</b>
