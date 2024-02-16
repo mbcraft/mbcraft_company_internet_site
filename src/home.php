@@ -13,7 +13,7 @@ include_once("include/top_poem.php");
     <br />
     <div class="box_large">
         <?php
-        //generate_black_or_colored_logo_html();
+        generate_black_or_colored_logo_html();
         ?>
         <br />
         <?= $content ?>
