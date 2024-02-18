@@ -741,6 +741,10 @@ ob_start();
     <hr /> <!-- 348 -->
     A348 - Quando si costruiscono delle dighe per la produzione di energia elettrica, &egrave; importante prevedere anche ascensori che i pesci possono usare per scendere (e salire, quando richiesto, ad esempio per i salmoni) la diga. Generalmente comunque qualunque sistema che produce energia elettrica deve essere progettato per ridurre il pi&ugrave; possibile l'impatto sulle varie forme di vita in generale, per quello che si riesce a fare.
     <hr />
+    A349 - L'effetto che una particolare informazione (es. letta) ha sulla nostra mente dipende dalla nostra salute. In determinati casi alcune informazioni si disperdono nel nostro organismo appena le leggiamo in quanto fungono da 'tappabuchi', mentre invece se il nostro livello di salute &egrave; sufficiente allora rimangono memorizzate e ne possiamo disporre a nostro piacimento, anche insegnandole ad altri.
+    <hr />
+    A350 - Alcune transazioni sono estremamente sicure da effettuare (es. recarsi a piedi in un negozio limitrofo e acquistare un frutto con del denaro) mentre altre non lo sono (ad esempio quando si opera in certi ambiti tramite strumenti informatici e da molto lontano). In base a come ci rapportiamo per effettuare la transazione il risultato finale "dell'acquisto" potrebbe essere pi&ugrave; o meno migliorativo. Ad esempio acquistare della dinamite di nuova concezione senza sapere assolutamente come si usa potrebbe portare a risultati disastrosi (supponendo ad esempio che non esploda accendendo la miccia, ma con un urlo ...).
+    <hr /> 
     <div class="note">
         <b>Tutto quello che state leggendo &egrave; la continuazione del lavoro fatto su un file su cui lavoravo inizialmente, che arrivato alla 15a-16a versione &egrave; stato fisicamente stampato in tre copie ma di cui poi ho perso i sorgenti. Due copie le ho regalate (anni e anni fa) e una &egrave; rimasta in mio possesso. Quello che trovate qui di seguito &egrave; estratto e rielaborato da quel fascicoletto, di cui molto per&ograve; ho deciso di scartare.</b>
     </div>
