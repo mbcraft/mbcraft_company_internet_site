@@ -1,0 +1,1 @@
+A319 - Per quanto riguarda le polluzioni notturne, sono indicative di un problema : &egrave; concettualmente uno spreco di risorse chimiche. In quel caso sarebbe meglio capire se nelle vicinanze ci sono donne che hanno bisogno di quello sperma (perch&eacute; per alcune &egrave; concettualmente come se fosse semplice fertilizzante).

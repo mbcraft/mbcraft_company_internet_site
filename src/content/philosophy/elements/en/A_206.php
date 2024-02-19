@@ -1,0 +1,1 @@
+A206 - Sometimes it can happen that companies have little budget to complete certain particularly difficult projects. In this case, if the worker is underpaid, it would still be correct to just "pay back" with the proceeds deriving from the use of the product or service that was created with great sacrifices.

@@ -1,0 +1,1 @@
+A149 - E' utile imparare anche dagli errori degli altri, ascoltando storie, leggendo libri, ecc ... per cercare di non farli.

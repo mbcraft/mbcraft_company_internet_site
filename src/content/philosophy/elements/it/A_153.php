@@ -1,0 +1,1 @@
+A153 - Per quanto ne so, sono gli alberi a farci fare sogni e incubi. A volte hanno bisogno di fare degli aggiustamenti alla nostra mente, metterci in guardia, esaminarci, e via dicendo. In ogni caso non abbiamo il diritto di giudicarli.

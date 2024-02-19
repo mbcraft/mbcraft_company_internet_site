@@ -1,0 +1,3 @@
+<div class="idea">
+	C2 - Personalmente credo che sarebbe un'ottima idea se i governi durante le ore notturne interrompessero i segnali radio AM/FM e quelli del digitale terrestre in modo da lasciare riposare i nostri organismi. Chi ha necessit&agrave; di intrattenersi durante le ore notturne in caso potrebbe comunque usare servizi di streaming online. Non ha senso inondare un intero paese di onde elettromagnetiche quando quasi nessuno utilizza i servizi a essi relativi.
+</div>

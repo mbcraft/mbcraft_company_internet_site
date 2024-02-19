@@ -1,0 +1,1 @@
+A173 - Eventuali eccezioni a quanto scritto vengono comunque gestite e sono comunque permesse in un qualche modo mantenendo il concetto di equit&agrave;. Io non sono onnisciente.

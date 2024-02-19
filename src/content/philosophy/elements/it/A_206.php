@@ -1,0 +1,1 @@
+A206 - A volte pu&ograve; capitare che le aziende abbiano poco budget per portare a termine certi progetti anche particolarmente difficili. In tal caso, se chi lavora &egrave; sottopagato, sarebbe comunque corretto anche soltanto "ripagare a posteriori" con i proventi derivanti dall'utilizzo del prodotto o servizio che &egrave; stato realizzato con grandi sacrifici.

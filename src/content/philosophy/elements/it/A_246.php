@@ -1,0 +1,1 @@
+A246 - Se vivi in una citt&agrave; densamente popolata, sappi che NON condividere immagini dell'interno della tua casa sui social network &egrave; un ottimo modo per preservare i tuoi spazi mentali. Non &egrave; detto che queste condivisioni non si possano comunque fare in sicurezza, ma personalmente ve le sconsiglio.

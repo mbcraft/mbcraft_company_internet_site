@@ -1,0 +1,1 @@
+A187 - E' importante gattonare un poco almeno una volta alla settimana.

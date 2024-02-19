@@ -1,0 +1,1 @@
+B14 - If you have a freezer, I advise you to mark yourself on the "check days" calendar, exactly as happens with periodic car maintenance, as the ice that develops, if you open the lid or the door, risks increasing electricity consumption. and deform or break the door seals which are then difficult to replace. It is therefore good to remove the excess ice from time to time.

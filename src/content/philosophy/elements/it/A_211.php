@@ -1,0 +1,1 @@
+A211 - Se volete lamentarvi o bestemmiare pesantemente, invece che scrivere improperi sui social network, fatelo scrivendo una poesia. In quel caso non &egrave; pi&ugrave; un problema, ma diventa invece un lavoro utile e volendo ci potete addirittura guadagnare dei soldi.

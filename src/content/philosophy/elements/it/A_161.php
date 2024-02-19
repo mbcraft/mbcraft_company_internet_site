@@ -1,0 +1,1 @@
+A161 - Il lavoro stanca ma produce benessere per il presente o per il futuro, ma solo se &egrave; correttamente sostenuto dalla filosofia. Nobilita in funzione di quanto siamo bravi, economici e corretti nello svolgimento.

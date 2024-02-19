@@ -1,0 +1,1 @@
+A241 - Non &egrave; illegale e neppure stupido creare e utilizzare collane e gioielli che includono delle tillandsie, o dei minerali, oltre che i classici metalli preziosi.

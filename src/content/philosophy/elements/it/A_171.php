@@ -1,0 +1,1 @@
+A171 - La natura &egrave; disponibile a concedere i suoi doni, a patto di pagarli col giusto lavoro.

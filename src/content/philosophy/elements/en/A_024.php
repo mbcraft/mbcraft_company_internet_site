@@ -1,0 +1,1 @@
+A24 - It is an excellent hobby to try to sow trees, flowers or wild herbs in free public spaces or even in your own garden. However, if you sow trees, it is important to pay attention to the distances to other trees (existing or sown) and to evaluate the space necessary for the tree to grow and develop with the right size. <br />

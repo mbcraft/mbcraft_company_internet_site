@@ -1,0 +1,1 @@
+A245 - Da quanto ne so, le carezze di pelle su pelle sono tendenzialmente sgradevoli. Al contrario quando la pelle si strofina col pelo o con le piume degli animali la sensazione &egrave; gradevole.

@@ -1,0 +1,1 @@
+A264 - Anche la natura ha il suo 'bilancio' e se non &egrave; sufficientemente il buona salute o non &egrave; soddisfatta del nostro operato a pagarne le conseguenze siamo noi. Quello che ci &egrave; stato concesso grazie alla fatica (ad ogni livello) si perde e si disintegra se siamo eccessivamente stolti.

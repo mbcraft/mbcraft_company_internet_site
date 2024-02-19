@@ -1,0 +1,1 @@
+A141 - Personally, I advise against using scurrilous words in the workplace when you are in the presence of other people (collaborators, customers...). They tend to be harmful to the personal life of those who listen to them, therefore I do not consider it a professional attitude.

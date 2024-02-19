@@ -1,0 +1,1 @@
+A306 - When updating or installing apps or games on your smartphone or computer, my advice is to wait and do nothing until the software has been installed correctly.

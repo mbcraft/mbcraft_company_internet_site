@@ -1,0 +1,1 @@
+A210 - In some cases you may feel a little restless. Personally I have successfully experimented with the following technique which solved the problem for me: keeping the eyelids closed, observe the "flickers" of the black. Or, looking closely at a white pillow, observe the flickers on the white. After a while of observation the flickerings disappear and you feel better.

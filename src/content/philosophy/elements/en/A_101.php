@@ -1,0 +1,1 @@
+A101 - In general it is wrong to try to "pilot" people. People change their habits on their own when they find better ways to live, and it is useless to try to convince them to act without them being sufficiently convinced of what they are doing. It is sufficient that these people have enough time, resources and information and with the necessary time they can improve.

@@ -1,0 +1,1 @@
+A127 - If you have a very large house, if you want you can also use it to host parties and invite people to help them socialize. Or if you want you could also use it to accommodate other families or people. It's not forbidden, and if you manage to be disciplined there can be many benefits.

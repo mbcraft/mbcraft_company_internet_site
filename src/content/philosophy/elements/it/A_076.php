@@ -1,0 +1,1 @@
+A76 - La "terapia del vento" consiste nel sedersi in mezzo al verde con una sedia o uno sdraio al sole o all'ombra di un albero e godersi il venticello. Questa pratica diventa molto facilmente una forma di meditazione piuttosto spontanea con poco sforzo, e pu&ograve; donare grande relax dallo stress.

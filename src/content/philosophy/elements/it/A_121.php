@@ -1,0 +1,1 @@
+A121 - E' meglio cercare di essere amici di tutti i popoli e le persone del mondo, senza discriminare. Ormai tutti dipendiamo da tutti e odiarsi &egrave; solo una perdita di tempo.

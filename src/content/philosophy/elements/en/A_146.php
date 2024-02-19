@@ -1,0 +1,1 @@
+A146 - It's better not to run away from problems, there's no point in sweeping the dust under the carpet. However, this does not mean that reflecting a little and preparing yourself psychologically or physically before facing them is not a good idea.

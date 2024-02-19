@@ -1,0 +1,1 @@
+A263 - I tornelli (ad esempio quelli delle metropolitane o quelli all'ingresso delle autostrade o di alcune fiere) si possono usare anche per contribuire alla generazione di numeri pseudocasuali.

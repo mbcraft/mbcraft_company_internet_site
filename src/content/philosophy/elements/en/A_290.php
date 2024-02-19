@@ -1,0 +1,1 @@
+A290 - Plants and tree leaves can also be blown and licked, as well as booged (or mucus deposited on them). The leaves can also be pinched without obviously breaking them (at your own risk).

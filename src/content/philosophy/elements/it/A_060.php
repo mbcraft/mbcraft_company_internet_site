@@ -1,0 +1,1 @@
+A60 - Asciugarsi le parti terminali del nostro sistema urinario con un pezzetto di carta igienica dopo aver urinato aiuta a migliorare la durata della nostra biancheria intima e a non sentire fastidi e pizzicori nei momenti successivi.

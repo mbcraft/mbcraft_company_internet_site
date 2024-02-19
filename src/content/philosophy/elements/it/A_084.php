@@ -1,0 +1,1 @@
+A84 - Una mia amica (Noanda Tania Moroni) mi ha suggerito, in caso di problemi di esaurimenti nervosi, di utilizzare integratori di magnesio-potassio. Posso confermare che anche solo dopo un singolo utilizzo ho notato drastici miglioramenti di salute a riguardo.

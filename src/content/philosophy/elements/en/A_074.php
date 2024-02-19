@@ -1,0 +1,1 @@
+A74 - If you live in places with very clean air, it can be useful for the psyche to breathe smoke, at least once every six months, even if only for 4-5 seconds.

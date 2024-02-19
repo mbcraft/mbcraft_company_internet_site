@@ -1,0 +1,1 @@
+A212 - Le racchette elettrificate tipicamente vendute con lo scopo di poter uccidere le zanzare, si possono tranquillamente usare come stimolante per le piante e per gli alberi anzich&eacute; per uccidere le zanzare.

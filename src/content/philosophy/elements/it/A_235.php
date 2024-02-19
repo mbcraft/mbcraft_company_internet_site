@@ -1,0 +1,1 @@
+A235 - Se in certi momenti sentite ribollire l'energia sessuale e non sapete come controllarla e la volete comunque controllare perch&eacute; in quel momento non volete avere rapporti sessuali, potete scegliere di dare quell'amore alla natura, o anche a persone o animali bisognosi.

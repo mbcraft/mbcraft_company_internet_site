@@ -1,0 +1,1 @@
+A239 - Non &egrave; un reato comperare un burka e indossarlo, anche se non siete di religione islamica. Il burka &egrave; solo un vestito. Coprire quasi completamente il proprio corpo ha comunque la sua utilit&agrave;.

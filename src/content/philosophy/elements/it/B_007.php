@@ -1,0 +1,1 @@
+B7 - Per quanto riguarda la nutrizione, sappiate che se adottate una nutrizione plant based o fruttariana il vostro corpo comincer&agrave; a ribollire di energia, e riuscire a controllare tale energia potrebbe non essere affatto banale. &Egrave; importante comportarsi responsabilmente.

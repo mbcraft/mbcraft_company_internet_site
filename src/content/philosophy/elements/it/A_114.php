@@ -1,0 +1,1 @@
+A114 - Personalmente credo che sarebbe molto utile poter avere una plastica con la stessa lavorabilit&aacute; del legno. Si potrebbero costruire mobili e parquet resistenti alle alluvioni e alle termiti. Ed inoltre si risparmierebbe la vita a molti alberi.

@@ -1,0 +1,1 @@
+A148 - It is not correct to complain to your partner about his attributes (of any kind, physical, psychological, etc ...) or his defects. It is better to eventually look for solutions and propose them.

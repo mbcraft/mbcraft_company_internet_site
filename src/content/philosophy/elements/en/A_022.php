@@ -1,0 +1,1 @@
+A22 - Be friendly, kind, honest, humble, patient, coherent and transparent. However, there are also other virtues such as flexibility, prudence or others described elsewhere... The important thing is to try to do your best... in some cases some may seem opposite, such as prudence versus courage...<br/>

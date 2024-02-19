@@ -1,0 +1,1 @@
+A309 - If you have an empty place available (e.g. in the courtyard) I suggest you leave a bowl with food for wild animals and fill it periodically. In general, however, it could be intelligent to design the buildings of the future or modify existing ones so that coexistence with wild animals is also foreseen (e.g. exploiting the roof space...)

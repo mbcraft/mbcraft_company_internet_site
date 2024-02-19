@@ -1,0 +1,1 @@
+A310 - Se decidete di fare un aperitivo (in classico orario tardo pomeridiano) vi consiglio di farlo abbondante e di saltare poi la cena.

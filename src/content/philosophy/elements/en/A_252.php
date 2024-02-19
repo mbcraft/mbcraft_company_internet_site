@@ -1,0 +1,1 @@
+A252 - It is better not to have hidden motives when relating to people.

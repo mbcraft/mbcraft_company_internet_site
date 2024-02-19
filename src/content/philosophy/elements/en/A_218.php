@@ -1,0 +1,1 @@
+A218 - Sometimes it happens that in certain crops there are fruits bitten by insects and that have larvae inside. It is clearly understandable that they cannot be used for retail consumption, but it does not mean that those fruits cannot be used for the jam industry in which the pulp is boiled. Better than starving people.

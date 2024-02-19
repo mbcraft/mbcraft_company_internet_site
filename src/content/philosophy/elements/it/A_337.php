@@ -1,0 +1,1 @@
+A337 - Si sente a volte dire che "chi tace acconsente" ... ma in realt&agrave; non &egrave; un modo corretto di pensare. Chi tace semplicemente non ha potuto dare una risposta per le pi&ugrave; svariate ragioni (&egrave; troppo stanco/a, non ha le risorse necessarie per rispondere, non ha tempo sufficiente, &egrave; rimasto sgomento o spiazzato dalla domanda ...).

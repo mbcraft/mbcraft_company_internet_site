@@ -1,0 +1,1 @@
+A116 - It is seriously wrong to use children or other people in general to do something wrong or that makes us uncomfortable for us. It's one thing to delegate work that we don't have the time to do or the knowledge or tools necessary to do it, it's another thing to use people as psychological shields. It is a behavior to be avoided absolutely.

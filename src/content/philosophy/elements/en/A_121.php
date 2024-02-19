@@ -1,0 +1,1 @@
+A121 - It is better to try to be friends with all the peoples and people of the world, without discriminating. By now we all depend on everyone and hating each other is just a waste of time.

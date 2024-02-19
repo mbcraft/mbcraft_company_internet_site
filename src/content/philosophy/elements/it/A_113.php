@@ -1,0 +1,1 @@
+A113 - Se ne avete voglia provate a pettinare l'erba filiforme con un normalissimo pettine. A me ha dato una sensazione molto molto difficile da percepire.

@@ -1,0 +1,1 @@
+B6 - Penso che possa essere una buona idea per i genitori quella di regalare ai bambini o a agli adolescenti delle piante in vaso di cui prendersi cura e con cui fare amicizia. Anche se eventualmente le piante faranno una brutta fine è comunque un modo utile per permettere ai ragazzi di relazionarsi con qualcosa di vivente e fare esperienze utili per il loro futuro.

@@ -1,0 +1,1 @@
+B2 - A volte può sembrare che "barando" si possa risparmiare tempo. In realt&agrave; &egrave; esattamente il contrario, la disonest&agrave; fa perdere tempo.

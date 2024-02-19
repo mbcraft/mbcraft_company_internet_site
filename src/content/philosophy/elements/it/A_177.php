@@ -1,0 +1,1 @@
+A177 - E' sbagliato ostacolare e bloccare le amicizie. E' meglio aiutare le persone a conoscersi.

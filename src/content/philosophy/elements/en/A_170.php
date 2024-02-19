@@ -1,0 +1,1 @@
+A170 - As it happens for icebergs that have a submerged part, this is the information that is available now for everyone. Some informations cannnot be shared just because it requires a lot of effort to keep this all up and running.

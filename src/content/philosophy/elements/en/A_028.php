@@ -1,0 +1,4 @@
+A28 - If you have pets, try to figure out if they enjoy a varied nutrition or if they prefer to always eat the same food.<br /> Many people prefer a varied nutrition, and it is very likely that this is also the case for animals.<br /> If you caress them I can advise you not to wash your hands immediately, but to wait a bit.<br /> Your immune system will have to deal with those bacteria and it will be a great gym that will improve your health.<br /> You may feel some discomfort, but being able to endure some discomfort in a controlled way is a great way to strengthen your body.<br />
+<br />
+<br />
+If you take them for a walk and want them to walk on the asphalt, remember to make them wear custom-made socks: you can use baby socks or have them made by a tailor-made tailor. Just as we, walking barefoot on the asphalt, feel a lot of pain, the same happens to them.

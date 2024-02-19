@@ -1,0 +1,1 @@
+A151 - If you are not married, remember that it is not a crime to exchange your partner with that of a friend. Jealousy is a mistake because people are not objects.

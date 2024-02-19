@@ -1,0 +1,1 @@
+B11 - Se avete dei cactus vicini ad altre piante, fate attenzione che gli aghi non forino altre piante. In caso &egrave; meglio cercare di allontanare le piante fra di loro (se sono piante in vaso) o tagliare gli aghi con delle forbici in modo che le piante non si forino fra loro.

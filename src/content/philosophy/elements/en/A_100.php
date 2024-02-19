@@ -1,0 +1,1 @@
+A100 - Always keep a pair of sunglasses close at hand in your car, even the cheapest ones that can be bought in tobacconists. They are very useful when traveling at sunset and the sun is on your face.

@@ -1,0 +1,1 @@
+A294 - Esistono tipologie di persone differenti per affrontare problemi differenti, cos&igrave; come per i lavori, anche per quanto riguarda le proprie necessit&agrave; personali.

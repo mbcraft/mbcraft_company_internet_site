@@ -1,0 +1,1 @@
+A127 - Se hai una casa molto grande, volendo la puoi usare anche per farci delle feste e invitare persone per aiutarle a socializzare. Oppure volendo la potresti anche usare per alloggiarci altre famiglie o persone. Non &egrave; vietato, e si riesce ad essere disciplinati ci possono essere parecchi benefici.

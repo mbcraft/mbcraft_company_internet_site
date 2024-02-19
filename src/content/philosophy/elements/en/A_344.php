@@ -1,0 +1,1 @@
+A344 - If you have animal poison at home or that you want to get rid of, it can most likely be safely used as fertilizer for plants or trees diluted in water. I say this because there is a long list of fertilizing substances and I would not be surprised if these could also be used for the same purpose.

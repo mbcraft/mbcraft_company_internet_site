@@ -1,0 +1,1 @@
+A96 - Quando siamo stesi su un letto o un divano in orizzontale in certi frangenti in cui sono atti determinati processi fisiologici il nostro modo di ragionare cambia e non si riesce pi&ugrave; a guidare efficacemente il proprio pensiero.

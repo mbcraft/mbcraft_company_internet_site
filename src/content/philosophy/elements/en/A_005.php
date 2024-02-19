@@ -1,0 +1,1 @@
+A5 - It would be better to avoid coring centenarian trees. It is sufficient to measure its diameter and height and estimate the years using that data instead of drilling it. We must remember that he is still a living being. If we suffered the same treatment it certainly wouldn't be fun.

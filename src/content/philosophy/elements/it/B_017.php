@@ -1,0 +1,1 @@
+B17 - La natura ha i suoi tempi. Certi miglioramenti avvengono molto lentamente. La pazienza, la perseveranza, il lavoro e l'umilt&agrave; sono fondamentali per avere un impatto migliorativo crescente col proprio lavoro.

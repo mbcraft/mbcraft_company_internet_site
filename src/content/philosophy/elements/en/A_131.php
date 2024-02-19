@@ -1,0 +1,1 @@
+A131 - Some software, when used or even simply installed, can have very serious effects on people's health. Just as some games can cheer you up, other games or programs can also be emotionally taxing after being used. Be careful.

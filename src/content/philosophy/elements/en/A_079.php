@@ -1,0 +1,1 @@
+A79 - Never burn leaves or paper sheets outdoors with bonfires. They could take flight while on fire and land and start a fire. It's very dangerous.

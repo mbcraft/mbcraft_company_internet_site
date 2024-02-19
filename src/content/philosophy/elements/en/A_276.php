@@ -1,0 +1,1 @@
+A276 - If you happen to need to make farts, the best area to do them is in the place where there are the greatest number of plants (even potted plants are fine) as they appreciate them.

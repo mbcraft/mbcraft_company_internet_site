@@ -1,0 +1,1 @@
+A220 - Le relazioni tendenzialmente sono conservative. Questo significa che per un motivo o per l'altro se una nostra conoscenza in cui avevamo investito il nostro tempo e i nostri sforzi prende un'altra strada nella sua vita e si allontana da noi e noi non ci arrabbiamo, quella relazione che avevamo coltivato solitamente si ritrova in altre situazioni o in altre persone.

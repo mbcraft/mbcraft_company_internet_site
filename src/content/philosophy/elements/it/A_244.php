@@ -1,0 +1,1 @@
+A244 - Se nell'acqua che viene utilizzata per fare il ghiaccio (ad esempio per i cocktail) vengono messi dei coloranti alimentari o degli altri elementi abbellitivi edibili, il ghiaccio avr&agrave; un aspetto molto pi&ugrave; fantasioso.

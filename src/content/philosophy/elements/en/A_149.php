@@ -1,0 +1,1 @@
+A149 - It is also useful to learn from the mistakes of others, listening to stories, reading books, etc... to try not to make them.

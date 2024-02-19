@@ -1,0 +1,1 @@
+A27 - If you go to the cemetery and want to honor the dead, an alternative way can be; be the one to pat the nearby trees. Basically they are always there "in their company" and therefore by helping them perhaps they will help the deceased on their journey.

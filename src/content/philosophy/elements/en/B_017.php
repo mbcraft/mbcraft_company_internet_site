@@ -1,0 +1,1 @@
+B17 - Nature has its times. Some improvements come very slowly. Patience, perseverance, work and humility are essential to have an increasing improving impact with one's work.

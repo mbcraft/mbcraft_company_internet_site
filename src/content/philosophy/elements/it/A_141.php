@@ -1,0 +1,1 @@
+A141 - Personalmente sconsiglio l'uso di parole scurrili sul luogo di lavoro quando si &egrave; in presenza di altre persone (collaboratori, clienti ...). Sono tendenzialmente lesive nei confronti della vita personale di chi le ascolta, pertanto non lo ritengo un atteggiamento professionale.

@@ -1,0 +1,1 @@
+A40 - Ho ideato un modo innovativo per concimare gli alberi e le piante in generale. Acquistando dei lapilli vulcanici (si trovano nei negozi di giardinaggio) e sbriciolandoli si pu&ograve; ricavare una polvere da miscelare all'acqua e ricavare così un concime liquido.<br />

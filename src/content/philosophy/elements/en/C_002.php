@@ -1,0 +1,3 @@
+<div class="idea">
+	C2 - I personally think it would be a great idea if governments cut off AM/FM and digital terrestrial radio signals during the night hours so as to let our bodies rest. Those who need to entertain themselves during the night could still use online streaming services. It makes no sense to flood an entire country with electromagnetic waves when hardly anyone uses the related services.
+</div>

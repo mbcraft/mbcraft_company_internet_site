@@ -1,0 +1,1 @@
+A287 - Credo che possa essere una buona idea tenere certi minerali (es. quarzo o altri) vicino alle piante in vaso o anche vicino alla frutta.

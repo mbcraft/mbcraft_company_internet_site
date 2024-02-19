@@ -1,0 +1,1 @@
+A268 - Se non se ne ha bisogno nei router casalinghi che permettono di utilizzare la connessione a internet solo tramite onde wireless e che comunque dispongono di connessione '2.4 G' e '5 G' consiglio di disabilitare la frequenza '5 G' (per i router che dispongono di questa opzione) e di utilizzare solo quella '2.4 G'.

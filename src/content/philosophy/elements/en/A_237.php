@@ -1,0 +1,1 @@
+A237 - A good idea to feel good with the people you deal with and in life in general is to think about "pay in advance". It may happen in some cases that it is very difficult or not possible or not necessary, but still keep this possibility in mind. That will sometimes require to work for some time without seeing any visible result.

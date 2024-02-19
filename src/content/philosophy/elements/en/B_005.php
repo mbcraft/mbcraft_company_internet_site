@@ -1,0 +1,1 @@
+B5 - It sometimes happens that some objects in the house become useless and remain in cupboards and drawers to get dusty. In general, rationalizing and properly managing one's resources is important for good results.

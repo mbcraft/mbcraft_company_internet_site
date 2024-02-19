@@ -1,0 +1,1 @@
+A123 - Usually nothing happens by chance, but it is up to us to understand and interpret what is happening to us in order to give it the right meaning. But it is absolutely not easy.

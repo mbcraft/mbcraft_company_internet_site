@@ -1,0 +1,1 @@
+A36 - Personally I also believe that in many cases plastic can replace wood as a building material: it is resistant to mold, termites, can be of various colors and does not cause the death of trees (and recycled plastics can also be used). 

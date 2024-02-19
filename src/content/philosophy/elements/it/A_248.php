@@ -1,0 +1,1 @@
+A248 - Anche le sedie da ufficio (quelle con le rotelle) necessitano di pulizia periodica. In particolare a volte la parte posteriore (dietro) tende a impolverarsi molto (e molto spesso), e nelle rotelle tendono ad accumularsi i capelli.

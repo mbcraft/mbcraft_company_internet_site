@@ -1,0 +1,1 @@
+A139 - It is important that all people know that people of the two different sexes, for reasons related to physical conformation, urinate in two different positions. While men try to urinate standing up whenever they can, women urinate while squatting or sitting down.

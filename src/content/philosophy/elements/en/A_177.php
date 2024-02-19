@@ -1,0 +1,1 @@
+A177 - It is wrong to hinder and block friendships. It's better to help people get to know each other.

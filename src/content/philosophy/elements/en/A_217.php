@@ -1,0 +1,1 @@
+A217 - In certain cases it may happen that certain trees may seem disturbing and this leads to pruning them to free themselves from the anxiety. Personally, I advise those people to look inside themselves and understand what's wrong with their life instead of what's wrong. needlessly mutilate a tree.

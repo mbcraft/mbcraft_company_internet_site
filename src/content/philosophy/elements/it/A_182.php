@@ -1,0 +1,1 @@
+A182 - Il fiore della castit&agrave; si sviluppa nell'uomo dopo molti anni. Sboccia una sorta di vagina nel cervello, ma ci tengo a precisare che ho una nutrizione plant-based da circa 11-12 anni e pratico la castit&agrave; da circa 15 anni. Non so se accada qualcosa di analogo e opposto anche nella donna. E' un mistero della Chiesa Cattolica raccontato in parole semplici.

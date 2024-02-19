@@ -1,0 +1,1 @@
+A119 - Per quanto strano possa sembrare, quando si danno dei soldi ad una persona di sesso opposto senza richiedere nessun particolare servizio o prestazione in cambio, la sua gratitudine ci torna indietro e questa serve a migliorare le proprie energie e le proprie intuizioni.

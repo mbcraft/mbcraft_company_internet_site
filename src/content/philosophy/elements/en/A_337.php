@@ -1,0 +1,1 @@
+A337 - We sometimes hear it said that "he who is silent consents"... but in reality this is not a correct way of thinking. Those who remain silent simply couldn't give an answer for the most varied reasons (he/she is too tired, he/she doesn't have the necessary resources to answer, he/she doesn't have enough time, he/she was dismayed or taken aback by the question...).

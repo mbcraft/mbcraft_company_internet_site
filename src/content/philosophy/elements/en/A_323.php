@@ -1,0 +1,1 @@
+A323 - To have fun it is possible to invent perverse stories using the coffee machine or the tv remote control (at home) or even cigarettes when you are outdoors with others. Do this only with people of the opposite sex and only with intelligence.

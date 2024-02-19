@@ -1,0 +1,1 @@
+A161 - Work tires but produces well-being for the present or the future, but only if it is correctly supported by philosophy. It ennobles based on how good, economical and correct we are in carrying out it.

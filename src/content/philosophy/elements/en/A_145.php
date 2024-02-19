@@ -1,0 +1,1 @@
+A145 - Certain fruits such as unsqueezed pomegranate or quince, for example, require effort to be eaten, but should not be snubbed because in addition to nourishing us, they also serve to train us.

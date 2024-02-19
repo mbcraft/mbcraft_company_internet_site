@@ -1,0 +1,1 @@
+A82 - Se vuoi poter mangiare del pane sempre fragrante e hai un congelatore, puoi fare come ti spiego. Compra del pane, taglialo a fette e poi riponilo nel congelatore. Poi quando devi mangiarlo, tiralo fuori dal congelatore, mettilo su una piastra e scaldalo. A quel punto sar&agrave; fragrante e lo potrai mangiare. Rimane estremamente gustoso.

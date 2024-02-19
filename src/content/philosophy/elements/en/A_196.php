@@ -1,0 +1,1 @@
+A196 - Sometimes it can happen that in the absence of economic resources one can feel stuck. In those cases it is often enough to think about the other unused resources you have available to understand how to continue with the work.

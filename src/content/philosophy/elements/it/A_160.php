@@ -1,0 +1,1 @@
+A160 - Se una categoria professionale diventa deprecata sarebbe bello se la societ&agrave; collaborasse per ricollocare quei lavoratori a nuove mansioni.

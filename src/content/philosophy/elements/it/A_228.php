@@ -1,0 +1,1 @@
+A228 - Ho trovato molto utile, vivendo in zone molto umide, comprare dei cactus in vaso da tenere in casa. Suppongo anche che vivendo in zone aride o desertiche possa essere molto utile tenere in casa delle piante in vaso che richiedono di essere annaffiate spesso.

@@ -1,0 +1,1 @@
+A102 - When you are in the presence of unknown people and we are the ones familiar with the place or in any case who manage the situation, it is a good habit to describe in advance what you want to do before doing it. This will put those who are less practical at ease and help create a climate of well-being and mutual trust.

@@ -1,0 +1,1 @@
+A244 - If food colorings or other edible embellishments are put into the water that is used to make ice (for example for cocktails), the ice will have a much more imaginative appearance.

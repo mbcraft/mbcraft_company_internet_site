@@ -1,0 +1,1 @@
+A167 - In general the concept of private property applies. However, objects can also be borrowed.

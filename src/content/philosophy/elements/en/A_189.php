@@ -1,0 +1,1 @@
+A189 - The correct way to do business is to solve real problems and not to spread false information to sell products or services.

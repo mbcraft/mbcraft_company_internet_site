@@ -1,0 +1,1 @@
+B9 - Se mangiate dei melograni, sappiate che gli uccelli vanno ghiotti dei semi spremuti e che potete lasciarli come cibo per loro sul davanzale della finestra anzich&eacute; buttarli. Inoltre i semi dei limoni, delle arance e dei clementini sono commestibili da parte dei polli.

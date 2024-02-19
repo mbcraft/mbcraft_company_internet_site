@@ -1,0 +1,1 @@
+A294 - There are different types of people to deal with different problems, as well as for jobs, even with regard to their personal needs.

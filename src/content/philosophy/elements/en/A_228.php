@@ -1,0 +1,1 @@
+A228 - I have found it very useful, living in very humid areas, to buy potted cacti to keep at home. I also suppose that living in arid or desert areas it can be very useful to keep potted plants at home that require watering often.

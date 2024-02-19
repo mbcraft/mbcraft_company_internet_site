@@ -1,0 +1,2 @@
+A32 - I batteri, le muffe, i funghi, le melme, gli animali, le persone, le piante e i minerali hanno ognuno prerogative e caratteristiche uniche.<br /> 
+Ognuno di questi regni ha un ruolo ben preciso nell'equilibrio della natura.<br/>

@@ -1,0 +1,1 @@
+B16 - E' inoltre importante ricordare che piante, animali e persone non sono oggetti. Pu&ograve; sembrare una banalit&agrave;, ma se lo si tiene a mente ci si rende conto che a volte alcuni ragionamenti che facciamo violano questo principio.

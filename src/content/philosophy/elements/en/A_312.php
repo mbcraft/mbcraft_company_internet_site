@@ -1,0 +1,1 @@
+A312 - It is also possible to play with the temperature monitors often found in banks used for the past Covid-19 epidemic. Some of them have some pixels that light up alternately. The game consists of measuring the temperature when the illuminated pixel is the one in the position that corresponds to the decimal point.

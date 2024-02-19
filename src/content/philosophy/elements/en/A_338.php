@@ -1,0 +1,1 @@
+A338 - My mother taught me, when refilling coffee containers, that it is a good idea to pour the remaining amount onto a sheet of paper, pour the new coffee inside and then put the part that was spilled back on the sheet of paper. top of the jar. In this way the oldest coffee becomes the one that will be used first.

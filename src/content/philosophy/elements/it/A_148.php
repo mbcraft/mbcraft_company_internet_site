@@ -1,0 +1,1 @@
+A148 - Non &egrave; corretto lamentarsi col partner dei suoi attributi (di qualunque tipo, fisici, psicologici, ecc ...) o dei suoi difetti. E' meglio eventualmente cercare soluzioni e proporle.

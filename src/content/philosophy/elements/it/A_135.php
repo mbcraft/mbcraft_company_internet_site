@@ -1,0 +1,1 @@
+A135 - A parer mio non sarebbe assolutamente sbagliato insegnare ai bambini ad abbracciarsi, nelle classi. E' un ottimo modo per costruire comunit&agrave; pi&ugrave; solide, e li aiuterebbe anche a guarire da eventuali problemi familiari.

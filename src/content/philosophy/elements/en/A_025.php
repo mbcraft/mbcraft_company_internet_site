@@ -1,0 +1,1 @@
+A25 - If you have a vegetable garden, when you go to the barber or hairdresser to have your hair or nails cut, you can possibly bring with you a plastic bag and a jar to have your hair and nails delivered to you to then use them as organic fertilizer for the garden.

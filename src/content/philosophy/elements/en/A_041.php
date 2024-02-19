@@ -1,0 +1,1 @@
+A41 - If you decide to have a tooth removed by your dentist, remember to have it delivered to you and bury it at the foot of a tree. To bury it, a technique can be to make a vertical hole with a screwdriver, insert the tooth and fill the hole with sand. In this way the intervention will be the least invasive as possible for the roots of the tree.<br />

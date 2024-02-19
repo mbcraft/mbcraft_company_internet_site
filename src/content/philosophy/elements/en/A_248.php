@@ -1,0 +1,1 @@
+A248 - Office chairs (those with wheels) also need periodic cleaning. In particular, sometimes the rear part (behind) tends to get very dusty (and very often), and hair tends to accumulate in the wheels.
