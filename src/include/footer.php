@@ -6,14 +6,15 @@ $footer = array("it" =>
     "<a href=\"http://icon-icons.com\">Icona Twitter</a> da Icon Icons con licenza <a href=\"https://creativecommons.org/licenses/by/4.0/\">Creative Commons 4.0</a>",
     "Grazie a <a href='http://openclipart.org'>openclipart.org</a> e <a href='http://texturelib.com'>texturelib.com</a> per le loro immagini.",
     "Immagini usate su licenza di shutterstock.com e poliigon.com.",
-    "Il logo di MBCRAFT &egrave; un marchio registrato. Tutti i contenuti testuali (tranne le traduzioni in Inglese) e i meme sono sviluppati da Marco Bagnaresi tranne quando diversamente specificato."
+    "Il logo di MBCRAFT &egrave; un marchio registrato.",
+    "Sviluppato da Marco Bagnaresi."
     ),
     "en" => array(
     "<a href=\"https://it.vecteezy.com/vettori-gratis/icona-facebook\">Facebook Icon Vettor of Vecteezy</a>",
     "<a href=\"http://icon-icons.com\">Twitter Icon</a> from Icon Icons with <a href=\"https://creativecommons.org/licenses/by/4.0/\">Creative Commons 4.0</a> license",
     "Thanks to <a href='http://openclipart.org'>openclipart.org</a>, <a href='http://texturelib.com'>texturelib.com</a> for their images.",
     "Images used under license of shutterstock.com and poliigon.com.",
-    "MBCRAFT logo is a registered trademark. All textual content (except for English translations) and memes are developed by Marco Bagnaresi except when differently said.")
+    "MBCRAFT logo is a registered trademark.","Developed by Marco Bagnaresi.")
     );
 
 $welcome_page = array("it" => "Pagina di benvenuto",
