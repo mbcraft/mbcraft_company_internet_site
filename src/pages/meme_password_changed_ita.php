@@ -11,7 +11,10 @@ include_once("../include/top_poem.php");
 ?>
 <div id="main_content" class="content">
     <div class="box_very_large">
-        <img src="/images/meme/meme_end_fossil_crimes/meme_end_fossil_crimes_eng.jpg" width="1100"/>
+    	<div align="center">
+        	<img src="/images/meme/meme_password_changed/meme_password_changed_ita.png" width="1100"/>
+    	</div>
+        <br />
     </div>
 </div>
 <?php

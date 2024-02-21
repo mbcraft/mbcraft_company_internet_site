@@ -38,6 +38,7 @@ ob_start();
 		<li><a href="/pages/meme_fears_eng.php">22</a></li>
 		<li><a href="/pages/gem_eng.php">23</a> (WARNING!! DEATH RISK!!)</li>
 		<li><a href="/pages/meme_festivita_eng.php">24</a> (EVEN FOR THIS ONE I TAKE NO RESPONSIBILITY ...)</li>
+		<li><a href="/pages/meme_password_changed_eng.php">25</a></li>
 	</ul>
 </span>
 </h2>

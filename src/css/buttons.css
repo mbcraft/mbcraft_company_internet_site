@@ -1,9 +1,5 @@
 
-.language_switch_container {
-
-}
-
-#language_switch button {
+.back_to_previous_page button {
     padding : 1vw;
 
     margin: 1vw;
@@ -11,6 +7,27 @@
     border-radius: 12px;
     -webkit-border-radius : 12px;
     -moz-border-radius : 12px;
+}
+
+.huge_rounded button {
+    padding : 1vw;
+
+    margin: 1vw;
+
+    border-radius: 12px;
+    -webkit-border-radius : 12px;
+    -moz-border-radius : 12px;
+}
+
+.back_to_previous_page_button {
+    width : 200px;
+    height: 100px;
+
+    color: white;
+
+    background-image: url('/images/background/back_button_background.jpg');
+    background-position-x: -100px;
+    background-position-y: -100px;
 }
 
 .italian_language_button

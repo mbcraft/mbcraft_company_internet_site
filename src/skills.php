@@ -4,7 +4,7 @@ require_once('include/lang.php');
 include_once("include/begin_html.php");
 include_once("content/skills/".$lang.".php");
 include_once("include/meta.php");
-include_once("include/begin_content.php");
+include_once("include/begin_content_with_language_switches.php");
 include_once("include/menu.php");
 include_once("include/top_poem.php");
 ?>

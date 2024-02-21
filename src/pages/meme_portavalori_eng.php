@@ -4,7 +4,7 @@
 require_once('../include/lang.php');
 include_once("../include/begin_html.php");
 include_once("../include/meta.php");
-include_once("../include/begin_content.php");
+include_once("../include/begin_content_with_back_to_fun_page_button.php");
 include_once("../include/menu.php");
 include_once("../include/top_poem.php");
 
