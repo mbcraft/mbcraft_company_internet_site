@@ -18,7 +18,7 @@ ob_start();
 		<li><a href="/pages/fossile_eng.php">3</a></li>
 		<li><a href="/pages/green_tea_powder.php">4</a></li>
 		<li><a href="/pages/ill_be_back.php">5</a></li>
-		<li><a href="/pages/love.php">6</a></li>
+		<li><a href="#">6 - NO MORE AVAILABLE</a></li>
 		<li><a href="/pages/lupi_visitano_profilo_eng.php">7</a></li>
 		<li><a href="/pages/meme_covid_test_eng.php">8</a></li>
 		<li><a href="/pages/pizza_piccante_eng.php">9</a></li>

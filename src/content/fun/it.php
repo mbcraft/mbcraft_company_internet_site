@@ -22,7 +22,7 @@ ob_start();
 		<li><a href="/pages/ira_riso.php">7</a></li>
 		<li><a href="/pages/meme_10_vignette.php">8</a></li>
 		<li><a href="/pages/meme_covid_test_ita.php">9</a></li>
-		<li><a href="/pages/amore.php">10</a></li>
+		<li><a href="#">10 - NON PIU' DISPONIBILE</a></li>
 		<li><a href="/pages/pizza_piccante_ita.php">11</a></li>
 		<li><a href="/pages/pomodori_ita.php">12</a></li>
 		<li><a href="/pages/te_verde.php">13</a></li>
