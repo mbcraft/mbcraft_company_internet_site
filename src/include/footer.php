@@ -1,16 +1,31 @@
 <?php
 
 $footer = array("it" => 
-    "<a href=\"https://it.vecteezy.com/vettori-gratis/icona-facebook\">Icona Facebook Vettori di Vecteezy</a><br /><br /><br />".
-    "<a href=\"http://icon-icons.com\">Icona Twitter</a> da Icon Icons con licenza <a href=\"https://creativecommons.org/licenses/by/4.0/\">Creative Commons 4.0</a>".
-    "<br /><br />Grazie a <a href='http://openclipart.org'>openclipart.org</a> e <a href='http://texturelib.com'>texturelib.com</a> per le loro risorse.<br /><br /><br />Immagini usate su licenza di shutterstock.com e poliigon.com.<br /> <br /><br />Il logo di MBCRAFT &egrave; un marchio registrato. Tutti i contenuti testuali (tranne le traduzioni in Inglese) e i meme sono sviluppati da Marco Bagnaresi tranne quando diversamente specificato.<br /><br /><br />",
-    "en" => 
-    "<a href=\"https://it.vecteezy.com/vettori-gratis/icona-facebook\">Facebook Icon Vettor of Vecteezy</a><br /><br /><br />".
-    "<a href=\"http://icon-icons.com\">Twitter Icon</a> from Icon Icons with <a href=\"https://creativecommons.org/licenses/by/4.0/\">Creative Commons 4.0</a> license".
-    "<br /><br />Thanks to <a href='http://openclipart.org'>openclipart.org</a>, <a href='http://texturelib.com'>texturelib.com</a> for their resources.<br /><br /><br />Images used under license of shutterstock.com and poliigon.com.<br /><br /><br /> MBCRAFT logo is a registered trademark. All textual content (except for English translations) and memes are developed by Marco Bagnaresi except when differently said.<br /><br /><br />");
+    array(
+    "<a href=\"https://it.vecteezy.com/vettori-gratis/icona-facebook\">Icona Facebook Vettori di Vecteezy</a>",
+    "<a href=\"http://icon-icons.com\">Icona Twitter</a> da Icon Icons con licenza <a href=\"https://creativecommons.org/licenses/by/4.0/\">Creative Commons 4.0</a>",
+    "Grazie a <a href='http://openclipart.org'>openclipart.org</a> e <a href='http://texturelib.com'>texturelib.com</a> per le loro immagini.",
+    "Immagini usate su licenza di shutterstock.com e poliigon.com.",
+    "Il logo di MBCRAFT &egrave; un marchio registrato. Tutti i contenuti testuali (tranne le traduzioni in Inglese) e i meme sono sviluppati da Marco Bagnaresi tranne quando diversamente specificato."
+    ),
+    "en" => array(
+    "<a href=\"https://it.vecteezy.com/vettori-gratis/icona-facebook\">Facebook Icon Vettor of Vecteezy</a>",
+    "<a href=\"http://icon-icons.com\">Twitter Icon</a> from Icon Icons with <a href=\"https://creativecommons.org/licenses/by/4.0/\">Creative Commons 4.0</a> license",
+    "Thanks to <a href='http://openclipart.org'>openclipart.org</a>, <a href='http://texturelib.com'>texturelib.com</a> for their images.",
+    "Images used under license of shutterstock.com and poliigon.com.",
+    "MBCRAFT logo is a registered trademark. All textual content (except for English translations) and memes are developed by Marco Bagnaresi except when differently said.")
+    );
 
 $welcome_page = array("it" => "Pagina di benvenuto",
                 "en" => "Welcome page");
+
+function print_footer($elements) {
+    foreach ($elements as $el) {
+        echo "<div style='padding-top:10px;padding-bottom:10px;'>";
+        echo $el;
+        echo "</div>";
+    }
+}
 ?>
 <footer>
     <div class="footer">
@@ -83,8 +98,9 @@ $welcome_page = array("it" => "Pagina di benvenuto",
         <br /><br />
         </h3>
         <h4>
-        
-        <?= $footer[$lang] ?><br /><br /><br />
+        <?php
+            print_footer($footer[$lang]);
+        ?>
         </h4>
         
     </div>
