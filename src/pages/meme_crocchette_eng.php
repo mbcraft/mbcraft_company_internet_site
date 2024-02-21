@@ -12,7 +12,7 @@ include_once("../include/top_poem.php");
 <div id="main_content" class="content">
     <div class="box_very_large">
     	<div align="center">
-        	<img src="/images/meme/meme_crocchette/meme_crocchette_ita.png" width="600"/>
+        	<img src="/images/meme/meme_crocchette/meme_crocchette_eng.png" width="600"/>
     	</div>
     </div>
 </div>

@@ -12,7 +12,7 @@ ob_start();
 	Questi sono i link attualmente disponbili. I nuovi meme vengono aggiunti in fondo alla lista. Raccomando la visualizzazione di <b>non pi&ugrave; di un meme</b> al giorno e di seguire l'ordine partendo dal primo. Col passare del tempo alcuni meme potrebbero diventare deprecati.
 <span class="brief">
 	<ul>
-		<li><a href="/pages/anti_gravita_ita.php">1</a></li>
+		<li><a href="/pages/anti_gravita_ita.php">1 - DEPRECATO</a></li>
 		<li><a href="/pages/cc_toilette_ita.php">2</a></li>
 		<li><a href="/pages/fango_positivo_vita_ita.php">3</a></li>
 		<li><a href="/pages/formitrol_ita.php">4</a></li>
@@ -40,7 +40,7 @@ ob_start();
 		<li><a href="/pages/condimento_ita.php">26</a></li>
 		<li><a href="/pages/meme_self_sabotage_ita.php">27</a></li>
 		<li><a href="/pages/meme_web_site_ita.php">28</a></li>
-		<li><a href="/pages/meme_fears_ita.php">29</a></li>
+		<li><a href="/pages/meme_fears_ita.php">29 - DEPRECATO</a></li>
 		<li><a href="/pages/gem_ita.php">30</a> (ATTENZIONE!! PERICOLO DI MORTE!!)</li>
 		<li><a href="/pages/meme_festivita_ita.php">31</a> (ANCHE PER QUESTO NON MI ASSUMO RESPONSABILITA' ...)</li>
 		<li><a href="/pages/meme_password_changed_ita.php">32</a></li>
