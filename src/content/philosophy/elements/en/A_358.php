@@ -1,0 +1,1 @@
+A358 - A dear teacher, when I was in high school said "Whoever breaks pays, and he or she won't own the pieces". Even if i like this principle, it doesn't mean that sometimes not complaining and letting the years pass doesn't lead to something new and unexpectedly positive.

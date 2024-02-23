@@ -1,0 +1,1 @@
+A358 - Un mio caro professore quando frequentavo le scuole superiori diceva "Chi rompe paga, e i cocci non sono i suoi". Anche se questo principio piace, non &egrave; detto che a volte non lamentarsi e lasciar passare degli anni non porti a qualcosa di nuovo e inaspettatamente positivo. 

@@ -46,6 +46,7 @@ ob_start();
 		<li><a href="/pages/meme_festivita_ita.php">31</a> (ANCHE PER QUESTO NON MI ASSUMO RESPONSABILITA' ...)</li>
 		<li><a href="/pages/meme_password_changed_ita.php">32</a></li>
 		<li><a href="/pages/meme_smartphone_evolution.php">33</a></li>
+		<li><a href="/pages/meme_ferragni_moda_ita.php">34</a></li>
 	</ul>
 </span>
 </h2>
