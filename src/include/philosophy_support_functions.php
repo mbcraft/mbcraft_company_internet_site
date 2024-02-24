@@ -28,7 +28,7 @@ function get_formatted_search_element($element_specification) {
 function print_range($range_specification) {
 	echo "<div style='margin:10px;padding:10px;border-style:solid;border-color:black;text-align:center;'>";
     echo "<b>";
-	echo $range_specification[0]."_".get_padded_number($range_specification[1])." - ".$range_specification[0]."_".get_padded_number($range_specification[2]);
+	echo $range_specification[0]."_".get_padded_number($range_specification[1])." - ".$range_specification[0]."_".get_padded_number($range_specification[2]-1);
     echo "</b>";
 	echo "</div>";
 }
