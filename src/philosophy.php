@@ -29,6 +29,8 @@ include_once("include/top_poem.php");
                     ob_end_clean();
 
                     echo $content;
+
+                    include_once("include/back_to_philosophy_search_page.php");
                 }
                 if ($_GET["mode"]=="full_list") {
                     require_once("content/philosophy/elements/full_list.php");
