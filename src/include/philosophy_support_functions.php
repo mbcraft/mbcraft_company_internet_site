@@ -9,6 +9,22 @@ $range_D1 = array('D',1,5);
 
 $all_ranges = array($range_A1,$range_A2,$range_A3,$range_B1,$range_C1,$range_D1);
 
+function get_formatted_search_element($element_specification) {
+    $parts = explode("_",$element_specification);
+
+    if (count($parts)==1) {
+        $letter = substr($parts[0],0,1);
+        $num = substr($parts[0],1);
+
+        return $letter."_".str_pad($num,3,"0",STR_PAD_LEFT);
+    }
+
+    if (count($parts)==2) {
+        return $parts[0]."_".str_pad($parts[1],3,"0",STR_PAD_LEFT);
+    }
+
+}
+
 function print_range($range_specification) {
 	echo "<div style='margin:10px;padding:10px;border-style:solid;border-color:black;text-align:center;'>";
     echo "<b>";
