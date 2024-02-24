@@ -27,13 +27,15 @@ Per quanto riguarda i lavori effettuati si fa presente che :
 </ul>
 <br />
 <br /><br />
-Non &egrave; presente nessuna insegna presso il domicilio dell'azienda in quanto trattasi anche di abitazione privata. Si riceve solo su appuntamento presso uno dei bar di Bagnacavallo.
+<div style="background-color:yellow;">
+Non &egrave; presente nessuna insegna presso il domicilio dell'azienda in quanto trattasi anche di abitazione privata. Si riceve solo su appuntamento presso la piazza o la stazione di Bagnacavallo. Per questioni lavorative prenotate l'appuntamento tramite l'email [info @ mbcraft.it], per questioni personali tramite la mail [marco.bagnaresi @ gmail.com] . Se volete supportare MBCRAFT potete effettuare donazioni inviando denaro tramite PayPal a : info@mbcraft.it .
+</div>
 </span>
 </h2>
 <br />
 <hr />
 <br />
-<b>Se volete supportare MBCRAFT potete effettuare donazioni inviando denaro tramite PayPal a : info@mbcraft.it .</b>
+<b></b>
 <br />
 
 <?php
