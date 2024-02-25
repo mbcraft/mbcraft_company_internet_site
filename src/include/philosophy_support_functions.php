@@ -2,7 +2,7 @@
 
 $range_A1 = array('A',1,299);
 $range_A2 = array('A',305,320);
-$range_A3 = array('A',321,359);
+$range_A3 = array('A',321,363);
 $range_B1 = array('B',1,18);
 $range_C1 = array('C',1,3);
 $range_D1 = array('D',1,5);
