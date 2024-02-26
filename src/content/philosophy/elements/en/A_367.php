@@ -1,0 +1,1 @@
+A367 - People in the countryside are invited to use a place designated for the exchange of seeds, so that if each family grows certain plants and flowers (with seeds also purchased online), collecting and exchanging seeds from year to year, the biodiversity of the area can improve.

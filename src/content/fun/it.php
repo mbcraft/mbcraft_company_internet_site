@@ -41,7 +41,7 @@ ob_start();
 		<li><a href="/pages/condimento_ita.php">26</a></li>
 		<li><a href="/pages/meme_self_sabotage_ita.php">27</a></li>
 		<li><a href="/pages/meme_web_site_ita.php">28</a></li>
-		<li><a href="/pages/meme_fears_ita.php">29 - DEPRECATO</a></li>
+		<li><a href="/pages/meme_fears_ita.php">29</a></li>
 		<li><a href="/pages/gem_ita.php">30</a> (ATTENZIONE!! PERICOLO DI MORTE!!)</li>
 		<li><a href="/pages/meme_festivita_ita.php">31</a> (ANCHE PER QUESTO NON MI ASSUMO RESPONSABILITA' ...)</li>
 		<li><a href="/pages/meme_password_changed_ita.php">32</a></li>
