@@ -7,8 +7,8 @@ $keywords = "filosofia, consigli, amicizia";
 
 ob_start();
 ?>
-Per visualizzare un elemento, inserire nella barra di ricerca la taggatura corrispondente.
-Attualmente sono disponibili i seguenti elementi :
+Per visualizzare un elemento, inserire nella barra di ricerca la chiave corrispondente. Il carattere di sottolineatura e gli zero iniziali sono opzionali.
+Attualmente sono disponibili i seguenti range di elementi :
 <?php
 print_available_ranges($all_ranges);
 ?>
@@ -19,7 +19,7 @@ print_available_ranges($all_ranges);
 		<button type="submit">Visualizza</button>
 	</form>
 	<br />
-	Se vuoi vedere l'elenco completo, usa questo pulsante :
+	Se invece vuoi vedere l'elenco completo, usa questo pulsante :
 	<form name="full_list" action="/philosophy.php" method="GET" style="padding:10px;">
 		<input type="hidden" name="mode" value="full_list" />
 		<button type="submit">Elenco completo</button>

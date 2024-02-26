@@ -7,8 +7,8 @@ $keywords = "philosophy, tips, friendship";
 
 ob_start();
 ?>
-To view one element, insert in the search bar the corresponding tag.
-Actually the following elements are available : 
+To view one element, insert in the search bar the corresponding key. Underscore and padding zeroes are optional.
+Actually the following range of elements are available : 
 <?php
 print_available_ranges($all_ranges);
 ?>
@@ -19,7 +19,7 @@ print_available_ranges($all_ranges);
 		<button type="submit">Show</button>
 	</form>
 	<br />
-	If you want to view the full list, use this button :
+	If instead you want to view the full list, use this button :
 	<form name="full_list" action="/philosophy.php" method="GET" style="padding:10px;">
 		<input type="hidden" name="mode" value="full_list" />
 		<button type="submit">Full list</button>

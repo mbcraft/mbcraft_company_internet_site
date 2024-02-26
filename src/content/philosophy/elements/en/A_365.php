@@ -1,0 +1,1 @@
+A365 - A baby cannot lift a hammer weighing 10 kg. An adult person most likely yes.

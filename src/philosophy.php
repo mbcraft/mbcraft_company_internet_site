@@ -24,7 +24,9 @@ include_once("include/top_poem.php");
                     $element = get_formatted_search_element($_GET["element_key"]);
 
                     ob_start();
+                    echo "<h2>";
                     print_element($lang,$element);
+                    echo "</h2>";
                     $content = ob_get_contents();
                     ob_end_clean();
 
@@ -39,7 +41,9 @@ include_once("include/top_poem.php");
                 }
                 
             } else {
+                echo "<h2>";
                 echo $search_interface;
+                echo "</h2>";
             }
         ?>
     </div>

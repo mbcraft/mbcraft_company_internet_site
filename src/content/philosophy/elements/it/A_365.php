@@ -1,0 +1,1 @@
+A365 - Un beb&egrave; non pu&ograve; sollevare un martello che pesa 10 kg. Una persona adulta molto probabilmente si.

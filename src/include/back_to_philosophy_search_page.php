@@ -2,7 +2,7 @@
     <div class='w3-container s6 m4 l3 w3-center w3-margin'>
         <div class='w3-cell-row'>
             <?php
-                echo_back_to_previous_page_button("document.location.href='/philosophy.php';");
+                echo_back_to_previous_page_button("document.location.href='/philosophy.php';","Torna alla ricerca","Back to search");
             ?>
         </div>
     </div>

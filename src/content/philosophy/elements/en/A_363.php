@@ -1,0 +1,9 @@
+A363 - Discernment is the ability to understand whether certain information is true and correct or not. However, the fact that false or problematic information exists does not mean that it should be destroyed: first of all, the important thing is that it is recognized as such and does not create confusion. Sometimes it can happen that within a text there are more or less serious errors (in syntax, grammar, but not only...). Just as scrap objects can somehow be dismantled and recycled, the same can also happen with texts that we consider problematic or waste. As far as reading is concerned, there are many operations we can carry out (for example with a text written on paper) (I'll try to list some of them): recognition of errors of various types, relaxed reading (mentally or verbally), study, recognition of importance of the information (with possible underlining), cutting out certain information, commenting through written notes, viewing words with mental blurriness... furthermore, as regards underlining, you can use different types of them, and associate the meanings you think most suitable and appropriate (possibly create a legend or define a standard on the meaning to be associated with each particular type of underlining). I'll show you some possible ones:
+<div align="center">
+	<img src="/images/other/sottolineature.png" width="428" />
+</div>
+The same can be said, similarly, also apply to the marking of the text (to mark it in some way): various types of marking can be used and each one can be associated with a different meaning.
+<div align="center">
+	<img src="/images/other/text_marking.png" width="428" />
+</div>
+Furthermore, it is important to note that different types of underlining and marking the text can be more or less suitable also based on how the text is written. For languages such as Arabic or Chinese, different underlinings and markings can be used that are more appropriate and suitable for that type of writing.
