@@ -1,3 +1,3 @@
-<span class='red'>
+<span class='red experimental'>
     A301 - Se delle ragazzine in giovane et&agrave; non ancora fertili che per&ograve; sono state educate facendo loro mangiare la carne vogliono in un qualche modo essere aiutate a cambiare rotta in modo molto marcato psicologicamente in modo da riuscire a diventare stabilmente vegane o fruttariane, possono chiedere di effettuare delle sessioni di tantra (dietro pagamento se possibile) con degli uomini vegani o fruttariani che abbiano praticato la castit&agrave; per diversi anni. In ogni caso, se &egrave; la minore a farne richiesta o a sentirne il bisogno, &egrave; concettualmente possibile lasciarle fare rapporti sessuali con uomini adulti di sua scelta. Alcune donne si sviluppano meglio in questo modo.
 </span>

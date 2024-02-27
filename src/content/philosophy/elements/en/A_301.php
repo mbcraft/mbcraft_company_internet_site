@@ -1,3 +1,3 @@
-<span class='red'>
+<span class='red experimental'>
     A301 - If young girls who are not yet fertile but who have been educated by making them eat meat want in some way to be helped to change course in a very marked psychological way so as to be able to become permanently vegan or fruitarian, they can ask to carry out some tantra sessions (for a fee if possible) with vegan or fruitarian men who have practiced chastity for several years. In this case, on the contrary, men with small penises are particularly suitable. In any case, if the minor requests it or feels the need, it is conceptually possible to let her have sexual relations with adult men of her choice. Some women develop better this way.
 </span>
