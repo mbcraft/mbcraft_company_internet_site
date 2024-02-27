@@ -6,14 +6,14 @@ $api_call1 = array(
 
 	"url" => "/api/v1.0/get_available_languages.php",
 	"method" => "GET",
-	"description" => "Returns the list of available languages for text content elements",
+	"description" => "Returns the list of available languages for html content elements",
 	"mandatory_parameters" => array()
 
 );
 
 $api_call2 = array(
 
-	"url" => "/api/v1.0/get_available_ranges.php",
+	"url" => "/api/v1.0/get_available_element_ranges.php",
 	"method" => "GET",
 	"description" => "Returns the list of available ranges of element ids",
 	"mandatory_parameters" => array()
@@ -22,9 +22,9 @@ $api_call2 = array(
 
 $api_call3 = array(
 
-	"url" => "/api/v1.0/get_content.php",
+	"url" => "/api/v1.0/get_philosophy_content.php",
 	"method" => "GET",
-	"description" => "Returns a content given the language and its id",
+	"description" => "Returns a content in html format given the language and its id",
 	"mandatory_parameters" => array(
 		"language" => "The chosen language",
 		"element_id" => "The id of the element to retrieve"

@@ -16,6 +16,8 @@ function api_reply_with_ok($data) {
 		"data" => $data
 	);
 
+	header("Content-Type: application/json;");
+
 	echo json_encode($result);
 
 	exit;
@@ -26,6 +28,8 @@ function api_reply_with_error($message) {
 	$result = array("status" => "error",
 		"message" => $message
 	);
+
+	header("Content-Type: application/json;");
 
 	echo json_encode($result);
 
