@@ -1,15 +1,15 @@
 <?php
 
-$range_A1 = array('A',1,299);
-$range_A2 = array('A',305,320);
-$range_A3 = array('A',321,369);
-$range_B1 = array('B',1,18);
-$range_C1 = array('C',1,3);
-$range_D1 = array('D',1,5);
+$range_A_A = array('A',1,299);
+$range_A_B = array('A',305,320);
+$range_A_C = array('A',321,369);
+$range_B_A = array('B',1,18);
+$range_C_A = array('C',1,3);
+$range_D_A = array('D',1,5);
 
-$all_ranges = array($range_A1,$range_A2,$range_A3,$range_B1,$range_C1,$range_D1);
+$all_ranges = array($range_A_A,$range_A_B,$range_A_C,$range_B_A,$range_C_A,$range_D_A);
 
-function get_formatted_search_element($element_specification) {
+function get_formatted_element_id($element_specification) {
     $parts = explode("_",$element_specification);
 
     if (count($parts)==1) {
@@ -44,11 +44,13 @@ function get_padded_number($num) {
     return str_pad($num,3,"0",STR_PAD_LEFT);
 }
 
-function print_element($lang,$name) {
+function get_element_content($lang,$element_id) {
+    return file_get_contents(ROOT_DIR."/content/philosophy/elements/".$lang."/".$element_id.".php");
+}
 
-    echo "<hr />";
+function print_element($lang,$element_id) {
 
-    $element_content = file_get_contents(ROOT_DIR."/content/philosophy/elements/".$lang."/".$name.".php");
+    $element_content = file_get_contents(ROOT_DIR."/content/philosophy/elements/".$lang."/".$element_id.".php");
 
     echo $element_content;
 }
@@ -68,6 +70,9 @@ function print_range_by_specification($lang,$specification) {
     $end = $specification[2];
 
     for ($i = $start;$i<$end;$i++) {
+
+        echo "<hr />";
+
         print_indexed_element($lang,$letter,$i);
     }
 

@@ -1,9 +1,9 @@
 A363 - Il discernimento &egrave; la capacit&agrave; di capire se determinate informazioni sono veritiere e corrette oppure no. Il fatto che esistano delle informazioni false o problematiche non implica comunque che debbano essere distrutte : innanzitutto l'importante &egrave; che siano riconosciute come tali e non creino confusione. A volte pu&ograve; capitare che all'interno di un testo ci siano degli errori pi&ugrave; o meno gravi (nella sintassi, nella grammatica, ma non solo ...). Cos&igrave; come i rottami degli oggetti in un qualche modo possono essere smontati e riciclati, lo stesso pu&ograve; avvenire anche con testi che consideriamo problematici o di scarto. Per quanto riguarda la lettura quello le operazioni che possiamo effettuare (ad esempio con un testo scritto su carta) sono parecchie (provo a elencarne alcune) : riconoscimento di errori di varia tipologia, lettura rilassata (mentalmente o a voce), studio, riconoscimento dell'importanza dell'informazione (con eventuale sottolineatura), ritaglio di determinate informazioni, commento tramite note scritte, visione delle parole con sfocatura mentale ... per quanto riguarda le sottolineature inoltre, se ne possono utilizzare di diversa tipologia, e associarci i significati che ritenete pi&ugrave; consoni e opportuni (eventualmente createvi una legenda o definite uno standard sul significato da associare ad ogni particolare tipologia di sottolineatura). Ve ne mostro alcune possibili :
-<div align="center">
-	<img src="/images/other/sottolineature.png" width="428" />
+<div align='center'>
+	<img src='https://www.mbcraft.it/images/other/sottolineature.png' width='428' />
 </div>
 Stesso discorso, analogamente, pu&ograve; valere anche per quanto riguarda la marcatura del testo (per contrassegnarlo in un qualche modo) : si possono usare varie tipologie di marcature e associarne a ciascuna un significato differente.
-<div align="center">
-	<img src="/images/other/text_marking.png" width="428" />
+<div align='center'>
+	<img src='https://www.mbcraft.it/images/other/text_marking.png' width='428' />
 </div>
 Inoltre &egrave; importante notare che differenti tipologie di sottolineatura e marcatura del testo possono essere pi&ugrave; o meno adatte anche in base a come viene scritto il testo. Per le lingue come ad esempio l'arabo o il cinese si possono utilizzare sottolineature e marcature differenti che sono pi&ugrave; consone e adatte a quel tipo di scrittura. 

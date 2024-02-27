@@ -21,7 +21,7 @@ include_once("include/top_poem.php");
         <?php
             if (isset($_GET["mode"])) {
                 if ($_GET["mode"]=="one_element") {
-                    $element = get_formatted_search_element($_GET["element_key"]);
+                    $element = get_formatted_element_id($_GET["element_key"]);
 
                     ob_start();
                     echo "<h2>";
