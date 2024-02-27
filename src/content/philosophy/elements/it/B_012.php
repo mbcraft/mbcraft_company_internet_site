@@ -1,1 +1,1 @@
-B12 - Per quanto riguarda gli anziani, essendo persone più fragili e delicate ritengo che vadano sempre e comunque trattati con rispetto. Pu&ograve; capitare che a volte possano essere burberi, ma credo sia necessario impegnarsi per evitare di peggiorare inutilmente la loro condizione.
+B12 - Per quanto riguarda gli anziani, essendo persone pi&ugrave; fragili e delicate ritengo che vadano sempre e comunque trattati con rispetto. Pu&ograve; capitare che a volte possano essere burberi, ma credo sia necessario impegnarsi per evitare di peggiorare inutilmente la loro condizione.

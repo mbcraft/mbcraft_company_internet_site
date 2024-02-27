@@ -1,1 +1,1 @@
-A268 - If you don't need it in home routers that allow you to use the internet connection only via wireless waves and which in any case have '2.4 G' and '5 G' connections, I recommend disabling the '5 G' frequency (for routers that have this option) and to use only the '2.4 G' one.
+A268 - If you don't need it in home routers that allow you to use the internet connection only via wireless waves and which in any case have "2.4 G" and "5 G" connections, I recommend disabling the "5 G" frequency (for routers that have this option) and to use only the "2.4 G" one.

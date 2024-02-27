@@ -1,1 +1,1 @@
-A36 - Personalmente ritengo anche che in molti casi la plastica possa sostituire il legno come materiale da costruzione : è inattaccabile dalle muffe, dalle termiti, pu&ograve; essere di vari colori e non causa la morte di alberi (e si possono usare anche plastiche riciclate).<br />
+A36 - Personalmente ritengo anche che in molti casi la plastica possa sostituire il legno come materiale da costruzione : &egrave; inattaccabile dalle muffe, dalle termiti, pu&ograve; essere di vari colori e non causa la morte di alberi (e si possono usare anche plastiche riciclate).<br />

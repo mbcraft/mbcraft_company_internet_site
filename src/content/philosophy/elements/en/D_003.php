@@ -1,3 +1,3 @@
-<div class="note">
+<div class='note'>
 	D3 - These concepts are expressed in a synthetic way. In some cases they can be expanded and improved, such as being able to prune dry branches as regards the topic of pruning, or the use of minerals or dances during funerals in which trees are fertilized. I've tried to give some insights without wanting to be too verbose... I tried to provide some ideas without wanting to be too verbose... and that doesn't mean there can't be exceptions...
 </div>

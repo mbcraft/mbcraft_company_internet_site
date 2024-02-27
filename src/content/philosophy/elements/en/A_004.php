@@ -4,7 +4,7 @@ Not even unripe fruit should be left at the foot of the trees. Certain unripe fr
 (For example, unripe plums should be great for making supplements as they contain a lot of minerals). <br />
 
 <br />
-Leaving the fruits or branches at the foot of the trees "to rot" can be dangerous, especially if done on large farms. In some cases they can make the work more dangerous for the workers. <br />
+Leaving the fruits or branches at the foot of the trees 'to rot' can be dangerous, especially if done on large farms. In some cases they can make the work more dangerous for the workers. <br />
 Basically, the fruit still becomes available food for the insects that feed on it and the following years they come back to look for it and also attack the fruit attached to the trees and over time they can still become extremely problematic for farmers.
 <br />
 As for the rotting branches, in that case the microorganisms that attack them attack the dead wood that cannot be defended with the tree's immune system and therefore "they learn to attack wood". <br />
