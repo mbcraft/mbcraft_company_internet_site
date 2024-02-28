@@ -15,7 +15,7 @@ ob_start();
                         <li>Tesina : Sviluppo di un web server in Java. Anno : 2000 circa.</li>
                     </ul>
                     <br />
-                    Scienze dell'Informazione, laurea triennale – Voto 106/110 presso la facoltà di Scienze MM.FF.NN. Di Cesena.
+                    Scienze dell'Informazione, laurea triennale – Voto 106/110 presso la facolt&agrave; di Scienze MM.FF.NN. Di Cesena.
                     <ul><li>Tesi : Sviluppo di un interprete scheme scritto in Java. Anno : 2005 circa</li></ul>
                     <br />
                     Superamento di altri esami ma non conseguimento della laurea quinquennale.<br />
@@ -32,13 +32,13 @@ ob_start();
                         <li>Collaborazione allo sviluppo di un portale per la gestione delle informazioni dei corsi universitari. (Linguaggio : Java)</li> 
 
                         <li>Insegnante per un corso di linux base presso la ConfCommercio di Cesena (anno 2004 circa) :
-                          Corso di linux base rivolto alla comprensione del funzionamento e delle dinamiche principali del sistema operativo, utilizzo base della shell e interoperatività col sistema Windows.</li>
+                          Corso di linux base rivolto alla comprensione del funzionamento e delle dinamiche principali del sistema operativo, utilizzo base della shell e interoperativit&agrave; col sistema Windows.</li>
                         <li>Progettista/Programmatore presso Vista tecnologie s.a.s. di Ravenna (anno 2004-2005 circa)
-                          Sviluppo di un'applet Java capace di visualizzare video multimediali con gestione della qualità video, playlist, seek, gestione del DRM e relativo encoder con supporto al multithreading in C/C++ con gestione di encoding contemporaneo di stream a qualità differente (per modem, per adsl, per megabit). Linguaggi : Java (applet) e C++(encoder).</li>
+                          Sviluppo di un'applet Java capace di visualizzare video multimediali con gestione della qualit&agrave; video, playlist, seek, gestione del DRM e relativo encoder con supporto al multithreading in C/C++ con gestione di encoding contemporaneo di stream a qualit&agrave; differente (per modem, per adsl, per megabit). Linguaggi : Java (applet) e C++(encoder).</li>
                     </ul>
                 <br />
                 Al termine degli studi che vengono interrotti apre una startup, Frostlab gate s.n.c., per lo sviluppo di un motore di ricerca via SMS/MMS. La startup venne aperta nel 2009 e venne chiusa nel 2013.<br />
-                Durante il lavoro in questa startup si è occupato principalmente di :<br />
+                Durante il lavoro in questa startup si &egrave; occupato principalmente di :<br />
                 <ul>
                     <li>Sviluppo del motore di ricerca in Java/Ruby.</li>
                     <li>Redazione del brevetto del motore di ricerca.</li>
