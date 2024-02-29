@@ -2,11 +2,12 @@
 
 $current_dir = __DIR__;
 
-$root_dir = dirname(dirname($current_dir));
+$PROJECT_DIR = dirname(dirname($current_dir));
 
-define ("ROOT_DIR",$root_dir);
+if (!defined("PROJECT_DIR"))
+define("PROJECT_DIR",$PROJECT_DIR);
 
-include_once(ROOT_DIR."/include/philosophy_support_functions.php");
+include_once(PROJECT_DIR."/include/philosophy_support_functions.php");
 
 function api_reply_with_ok($data) {
 

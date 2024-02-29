@@ -45,12 +45,13 @@ function get_padded_number($num) {
 }
 
 function get_element_content($lang,$element_id) {
-    return file_get_contents(ROOT_DIR."/content/philosophy/elements/".$lang."/".$element_id.".php");
+
+    return file_get_contents(PROJECT_DIR."/content/philosophy/elements/".$lang."/".$element_id.".php");
 }
 
 function print_element($lang,$element_id) {
 
-    $element_content = file_get_contents(ROOT_DIR."/content/philosophy/elements/".$lang."/".$element_id.".php");
+    $element_content = file_get_contents(PROJECT_DIR."/content/philosophy/elements/".$lang."/".$element_id.".php");
 
     echo $element_content;
 }

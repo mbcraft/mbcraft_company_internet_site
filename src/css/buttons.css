@@ -19,13 +19,12 @@
     -moz-border-radius : 12px;
 }
 
-.back_to_previous_page_button {
+.big_page_button {
     width : 200px;
     height: 100px;
 
     color: white;
 
-    background-image: url('/images/background/back_button_background.jpg');
     background-position-x: -100px;
     background-position-y: -100px;
 }

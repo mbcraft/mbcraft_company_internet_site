@@ -86,13 +86,13 @@ function get_file_list() {
 
    $css_list = list_directory_files("/css/");
 
-   $root_dir_list = list_directory_files("/");
+   $PROJECT_DIR_list = list_directory_files("/");
 
-   $root_dir_list = array_remove_values_ending_with($root_dir_list,".html");
+   $PROJECT_DIR_list = array_remove_values_ending_with($PROJECT_DIR_list,".html");
 
-   $root_dir_list = array_remove_values_ending_with($root_dir_list,".txt");
+   $PROJECT_DIR_list = array_remove_values_ending_with($PROJECT_DIR_list,".txt");
 
-   $root_dir_list = array_remove_values_ending_with($root_dir_list,".xml");
+   $PROJECT_DIR_list = array_remove_values_ending_with($PROJECT_DIR_list,".xml");
 
    $resources_list = ["/resources/prime_numbers_list.txt","/embed/credits.php"];
 
@@ -102,7 +102,7 @@ function get_file_list() {
 
    $meme_list = list_directory_files("/pages/");
 
-   $path_list = array_merge($include_list,$css_list,$root_dir_list,$resources_list,$downloads_list,$content_list,$meme_list);
+   $path_list = array_merge($include_list,$css_list,$PROJECT_DIR_list,$resources_list,$downloads_list,$content_list,$meme_list);
 
    return $path_list;
 

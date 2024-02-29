@@ -7,16 +7,24 @@ $keywords = "filosofia, consigli, amicizia";
 
 ob_start();
 ?>
-Per visualizzare un elemento, inserire nella barra di ricerca la chiave corrispondente. Il carattere di sottolineatura e gli zero iniziali sono opzionali.
-Attualmente sono disponibili i seguenti range di elementi :
-<?php
-print_available_ranges($all_ranges);
-?>
 <div align="center">
+	Per visualizzare un elemento, inserire nella barra di ricerca la chiave corrispondente. Il carattere di sottolineatura e gli zero iniziali sono opzionali.
+	Attualmente sono disponibili i seguenti range di elementi :
+	<?php
+	print_available_ranges($all_ranges);
+	?>
 	<form name="search_element" action="/philosophy.php" method="GET">
 		<input type="hidden" name="mode" value="one_element" />
+		<input type="hidden" name="with_back_to_results" value="false" />
 		<input type="text" name="element_key" minlength="1" maxlength="5">
 		<button type="submit">Visualizza</button>
+	</form>
+	<br />
+	Se invece vuoi fare una ricerca per parole contenute al loro interno, inserisci tutte le parole che devono essere presenti in questa barra di ricerca :
+	<form name="search_by_words" action="/philosophy.php" method="GET">
+		<input type="hidden" name="mode" value="search_with_words" />
+		<input type="text" name="word_search" minlength="3">
+		<button type="submit">Cerca</button>
 	</form>
 	<br />
 	Se invece vuoi vedere l'elenco completo, usa questo pulsante :
