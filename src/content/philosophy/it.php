@@ -23,7 +23,7 @@ ob_start();
 	Se invece vuoi fare una ricerca per parole contenute al loro interno, inserisci tutte le parole che devono essere presenti in questa barra di ricerca :
 	<form name="search_by_words" action="/philosophy.php" method="GET">
 		<input type="hidden" name="mode" value="search_with_words" />
-		<input type="text" name="word_search" minlength="3">
+		<input type="text" name="search_query" minlength="3">
 		<button type="submit">Cerca</button>
 	</form>
 	<br />

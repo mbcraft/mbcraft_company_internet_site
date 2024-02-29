@@ -22,7 +22,7 @@ ob_start();
 	If instead you want to make a search by words inside the elements, insert all the words that should be present in this search bar :
 	<form name="search_by_words" action="/philosophy.php" method="GET">
 		<input type="hidden" name="mode" value="search_with_words" />
-		<input type="text" name="word_search" minlength="3">
+		<input type="text" name="search_query" minlength="3">
 		<button type="submit">Search</button>
 	</form>
 	<br />

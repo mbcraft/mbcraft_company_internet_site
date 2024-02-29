@@ -34,34 +34,12 @@ include_once("include/top_poem.php");
 
                 if ($_GET["mode"]=="search_with_words") {
 
-                    $index_content = file_get_contents(PROJECT_DIR."/resources/".$lang."_words_index.json");
+                    $search_query = filter_input(INPUT_GET,"search_query");
 
-                    $loaded_index = json_decode($index_content,true);
+                    $r = search_by_words($lang,$search_query);
 
-                    $searched_words = filter_input(INPUT_GET,"word_search");
-
-                    $word_list = explode(" ",$searched_words);
-
-                    $no_result = false;
-                    $first_set = true;
-
-                    $current_result_list = null;
-
-                    foreach ($word_list as $word) {
-                        if (isset($loaded_index[$word])) {
-                            $element_list = $loaded_index[$word];
-
-                            if ($first_set) {
-                                $first_set = false;
-                                $current_result_list = $element_list;
-                            } else {
-                                $current_result_list = array_intersect($current_result_list,$element_list);
-                            }
-                        } else 
-                        {
-                            $no_result = true;
-                        }
-                    }
+                    $no_results = $r["no_results"];
+                    $current_result_list = $r["result_set"];
 
                     echo "<h2>";
                     if ($no_results) {

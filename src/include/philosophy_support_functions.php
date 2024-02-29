@@ -49,6 +49,10 @@ function get_element_content($lang,$element_id) {
     return file_get_contents(PROJECT_DIR."/content/philosophy/elements/".$lang."/".$element_id.".php");
 }
 
+function get_element_last_modified_time($lang,$element_id) {
+    return filemtime(PROJECT_DIR."/content/philosophy/elements/".$lang."/".$element_id.".php");
+}
+
 function print_element($lang,$element_id) {
 
     $element_content = file_get_contents(PROJECT_DIR."/content/philosophy/elements/".$lang."/".$element_id.".php");
@@ -77,4 +81,37 @@ function print_range_by_specification($lang,$specification) {
         print_indexed_element($lang,$letter,$i);
     }
 
+}
+
+function search_by_words($lang,$search_query) {
+    $index_content = file_get_contents(PROJECT_DIR."/resources/".$lang."_words_index.json");
+
+    $loaded_index = json_decode($index_content,true);
+
+    $searched_words = filter_input(INPUT_GET,"search_query");
+
+    $word_list = explode(" ",$searched_words);
+
+    $no_result = false;
+    $first_set = true;
+
+    $current_result_list = null;
+
+    foreach ($word_list as $word) {
+        if (isset($loaded_index[$word])) {
+            $element_list = $loaded_index[$word];
+
+            if ($first_set) {
+                $first_set = false;
+                $current_result_list = $element_list;
+            } else {
+                $current_result_list = array_intersect($current_result_list,$element_list);
+            }
+        } else 
+        {
+            $no_result = true;
+        }
+    }
+
+    return array("no_results" => $no_result,"result_set" => $current_result_list);
 }
