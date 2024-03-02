@@ -1,0 +1,1 @@
+A378 - Concettualmente pu&ograve; essere possibile utilizzare il flusso discendente dell'acqua che piove sugli edifici per un qualche tipo di utilizzo, tramite grondaie pi&ugrave; o meno differenti ... (es: produzione di energia elettrica, utilizzi sonori, utilizzi visivi, ecc ...)

@@ -1,0 +1,1 @@
+A375 - It is important for the health of pets that meetings are organized (for example in gyms) where you can bring your dog or cat, so that they can socialize a little or be in the company of other animals of the same type. Naturally the owners are responsible for this and it is advisable that any leashes or harnesses are used to avoid unpleasant episodes.

@@ -1,0 +1,1 @@
+A378 - Conceptually it may be possible to use the downward flow of water that rains on buildings for some type of use, through more or less different gutters... (e.g. electricity production, sound uses, visual uses, etc...)
