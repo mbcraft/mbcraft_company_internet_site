@@ -4,43 +4,49 @@
 
    <url>
       <loc>http://www.mbcraft.it/index.php</loc>
-      <lastmod>2023-06-14</lastmod>
+      <lastmod>2024-03-02</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.1</priority>
    </url>
    <url>
       <loc>http://www.mbcraft.it/home.php</loc>
-      <lastmod>2023-06-14</lastmod>
+      <lastmod>2024-03-02</lastmod>
       <changefreq>yearly</changefreq>
       <priority>0.1</priority>
    </url>
    <url>
       <loc>http://www.mbcraft.it/skills.php</loc>
-      <lastmod>2023-06-14</lastmod>
+      <lastmod>2024-03-02</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.1</priority>
    </url>
    <url>
       <loc>http://www.mbcraft.it/experiences.php</loc>
-      <lastmod>2023-06-14</lastmod>
+      <lastmod>2024-03-02</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.1</priority>
    </url>
    <url>
       <loc>http://www.mbcraft.it/philosophy.php</loc>
-      <lastmod>2023-06-14</lastmod>
+      <lastmod>2024-03-02</lastmod>
       <changefreq>monthly</changefreq>
-      <priority>0.3</priority>
+      <priority>0.2</priority>
    </url>
    <url>
       <loc>http://www.mbcraft.it/fun.php</loc>
-      <lastmod>2023-06-14</lastmod>
+      <lastmod>2024-03-02</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.2</priority>
    </url>
    <url>
       <loc>http://www.mbcraft.it/files.php</loc>
-      <lastmod>2023-06-14</lastmod>
+      <lastmod>2024-03-02</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.1</priority>
+   </url>
+   <url>
+      <loc>http://www.mbcraft.it/customers.php</loc>
+      <lastmod>2024-03-02</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.1</priority>
    </url>
