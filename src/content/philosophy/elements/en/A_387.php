@@ -1,0 +1,1 @@
+A387 - As regards the surname to be assigned to newborns, one possibility could be to take part of the father's surname and part of the mother's surname, and create a new surname by combining them. This does not mean that a hyphen, a period or an underline character cannot also be retained in the surname to indicate how the two parts of the parents' surnames were joined.

@@ -7,7 +7,6 @@ $keywords = "mbcraft, informazioni";
 
 ob_start();
 ?>
-
 <br /><br /><br />
 <h2>
 <span class="brief">

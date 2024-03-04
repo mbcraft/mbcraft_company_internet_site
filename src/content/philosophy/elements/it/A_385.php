@@ -1,0 +1,1 @@
+A385 - Quando, purtroppo, grossi pesci muoiono spiaggiati per cause anche ignote, il gesto pi&ugrave; intelligente che si possa fare &egrave; quello di macellarli nel pi&ugrave; breve tempo possibile (in modo che non marciscano) e usare quelle carni come cibo per gli animali (es. cani, gatti ...). Le lische si possono macinare e usare come fertilizzante.

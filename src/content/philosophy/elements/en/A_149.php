@@ -1,1 +1,1 @@
-A149 - It is also useful to learn from the mistakes of others, listening to stories, reading books, etc... to try not to make them.
+A149 - It is also useful to learn from the mistakes of others, listening to stories, reading books, etc... to try not to make them. Only by using mistakes as a basis is it possible to begin to make intelligent reflections to make improvements.
