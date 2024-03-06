@@ -1,0 +1,1 @@
+A395 - Personally, I recommend keeping all the passwords used in a special notebook where we can also write down any subsequent changes. However, this does not mean that any keystore applications cannot be used. However, this does not mean that any keystore applications cannot be used, but I believe that this system is far healthier. 

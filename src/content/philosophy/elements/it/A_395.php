@@ -1,0 +1,1 @@
+A395 - Personalmente consiglio di tenere tutte le password utilizzate in un apposito quaderno in cui possiamo scriverci anche eventuali modifiche successive. Non &egrave; detto comunque che eventuali applicazioni keystore non possano essere comunque utilizzate, ma credo che questo sistema sia di gran lunga pi&ugrave; salutare.
