@@ -28,7 +28,7 @@ function compute_token($token) {
 	$token = str_replace("dell'","",$token);
 	$token = str_replace("sull'","",$token);
 	$token = str_replace("mezz'","",$token);
-	
+	$token = str_replace("all'","",$token);
 	$token = str_replace("un'","",$token);
 	$token = str_replace("l'","",$token);
 	$token = str_replace("d'","",$token);
