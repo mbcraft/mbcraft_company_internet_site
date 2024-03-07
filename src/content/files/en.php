@@ -33,7 +33,8 @@ ob_start();
     <ul>
         <li><a href="https://a.co/d/hD9QQBj">Thoughts in pills - 1 - The kinds of perceptions of the human body</a></li>
         <li><a href="https://a.co/d/eCkR9lW">Thoughts in pills - 2 - The therapies of the elements</a></li>
-        <li><a href="#">Thoughts in pills - 3 - About books (available soon)</a></li>
+        <li><a href="#">Thoughts in pills - 3 - About books (available soon - please don't buy even if you see it available until this note is removed)</a></li>
+        <li><a href="#">Thoughts in pills - 4 - (coming soon ...)</a></li>
     </ul>
     </h3>
 </div>
