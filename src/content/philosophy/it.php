@@ -32,6 +32,14 @@ ob_start();
 		<input type="hidden" name="mode" value="full_list" />
 		<button type="submit">Elenco completo</button>
 	</form>
+	<br />
+	<div style="text-align:left;">
+		Se invece sei uno sviluppatore o una sviluppatrice e cerchi di interfacciarti tramite API, trovi qui di seguito l'elenco delle API disponibili :
+		<ul>
+			<li>Versione 1.0 - <a href="/api/v1.0/get_api_calls_specification.php">Specifiche</a> (formato JSON)</li>
+			<li>Versione 1.1 - <a href="/api/v1.1/get_api_calls_specification.php">Specifiche</a> (formato JSON)</li>
+		</ul>
+	</div>
 </div>
 <?php
 $search_interface = ob_get_contents();

@@ -1,0 +1,16 @@
+H001 - Per quanto riguarda le condizioni d'uso di quanto fornito tramite questa pagina o le relative API, i documenti nella sezione files e gli ebooks, questi sono i termini e condizioni esposti brevemente :
+<ul>
+	<li>Utilizzo per la propria vita personale - OK - Nessun pagamento obbligatorio richiesto</li>
+	<li>Utilizzo per sperimentazioni, scrittura e vendita di libri o ebook sulle proprie esperienze in merito - OK</li>
+	<li>Utilizzo per sviluppo e la condivisione di contenuti che sviluppano questi concetti in modo pi&ugrave; ampio integrando altre informazioni o opinioni - OK (non dev'essere richiesto il pagamento obbligatorio da parte dell'utente, ma la pubblicit&agrave; da altre aziende per guadagnare soldi &egrave; consentita)</li>
+	<li>Utilizzo per effettuare traduzioni da fornire gratuitamente tramite internet - OK (linkate la fonte)</li>
+	<li>Utilizzo per effettuare traduzioni da fornire a pagamento tramite internet - NO</li>
+	<li>Utilizzo per effettuare traduzioni da fornire su supporto cartaceo - NO</li>
+	<li>Utilizzo tramite AI - OK (solo grandi enti religiosi o governativi)</li>
+	<li>Utilizzo per grandi progetti - Consiglio di contattarmi tramite email e di pagare una royalty dall'1% al 3% su tutti i guadagni se il progetto viene approvato (anche variabili di mese in mese, a vostra scelta)</li>
+	<li>Utilizzo per creare progetti o aziende lesive nei confronti di questa azienda - NO</li>
+	<li>Utilizzo per creare progetti o aziende ex-novo - Royalties da pagare ALMENO dell'1% e FINO A UN MASSIMO DEL 15% su tutti i guadagni (a vostra scelta anche variabile di mese in mese)</li>
+	<li>Utilizzo in aziende gi&agrave; esistenti per modifiche o miglioramenti a prodotti o servizi gi&agrave; esistenti - Si offrono garanzie solo dietro il pagamento di royalties variabili dall'1% al 3% (a vostra scelta anche variabile di mese in mese)</li>
+</ul>
+<br />
+In caso di dubbi sui termini e condizioni potete contattare questa azienda tramite email (solo grandi enti religiosi o governativi). Per quanto riguarda il pagamento di eventuali arretrati potete adeguarvi (a vostra scelta e in modo variabile) entro 6 mesi dalla lettura dei seguenti termini e condizioni e pagare mensilmente per i periodi successivi. Effettuare litterpicking (sia marino che terrestre), piantare fiori, piante o alberi (tramite donazioni o volontariato), creare opere d'arte astratte liberalmente fruibili tramite rocce, metalli, disegni o pitture &egrave; considerata una forma di pagamento valida (tramite donazioni o volontariato). L'uso di legno o dei suoi derivati per opere d'arte in mancanza di materiali sostitutivi &egrave; considerato 'neutrale'. La donazione volontaria di minerali naturali e grezzi di valore spediti al domicilio dell'azienda POTREBBE e DOVREBBE garantire nuovi sviluppi e migliori servizi (previa accettazione tramite email). In caso di morte del o della legale rappresentante di questa azienda, esso o essa viene scelta nella persona con pi&ugrave; di 18 anni e col pi&ugrave; alto QI che si riesce a reperire (uomo o donna, di qualunque nazionalit&agrave;). 

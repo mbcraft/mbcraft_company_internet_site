@@ -24,15 +24,16 @@ ob_start();
         <li>Struttura per la protezione da alberi in caduta - versione 1.0 (<a href="/downloads/struttura_protezione_da_alberi_in_caduta_ita.pdf" download>DOWNLOAD GRATUITO</a>)</li>
         <li>Cucina in due fasi - versione 1.0 (<a href="/downloads/cucina_in_due_fasi.html" download>DOWNLOAD GRATUITO</a>)</li>
         <li>Tubature per la luce - versione 1.1 (<a href="/downloads/tubature_per_la_luce.html" download>DOWNLOAD GRATUITO</a>)</li>
-        <li>Cerimonie della Shao-lan/Ai - versione 1.5 (<a href="/downloads/cerimonie.html" download>DOWNLOAD GRATUITO</a>)</li>
+        <li>Cerimonie - versione 1.5 (<a href="/downloads/cerimonie.html" download>DOWNLOAD GRATUITO</a>)</li>
         <li>Giochi all'aperto - Versione 1.0 (<a href="/downloads/giochi_all_aperto.html" download>DOWNLOAD GRATUITO</a>)</li>
         <li>Logo standard per le form di feedback da posizionare nel footer della pagina iniziale dei sito internet (<a href="/downloads/feedback_form_standard_logo.svg" download>DOWNLOAD GRATUITO SVG</a>) (<a href="/downloads/feedback_form_standard_logo.png" download>DOWNLOAD GRATUITO PNG</a>) </li>
     </ul>
     <hr />
     Ebook in vendita (si possono leggere anche tramite browser su computer) :
     <ul>
-        <li><a href="https://www.amazon.it/Pensieri-pillole-tipologie-percezioni-corpo-ebook/dp/B0CSB91RNP/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3K7MF97HW6AM7&dib=eyJ2IjoiMSJ9.9CWDcSTCy0mGnFnS2VVRwYeAelZ0tl-lVtLYMopnIB0eGv3YFIjOFD9SNZJbHG1AII35delViLeSyKfJauNPJvYzWb2icqM-hY6VneTJoi-XPSpylp6p9CNHAJgeacYkKvPytuj-g7rNJFG13E8xRSqcYvIUMV79y3QqqJ1uPAQOLVVEAaliHG5KdNWLNsQheA_9lX3sBmHB95XfMidjH-OYvoQDQACHB0ThGPKIYZRySRBUce3NYZVUA9VnuG1RB3ZOnoQCMnZmTsSfUXfzj4lxbFOUepDj9Blg6fiPbzE.jNRMv-TLNIi6cTe5P6QDFKp5m2VgveD-oANzS42oufM&dib_tag=se&keywords=pensieri+in+pillole&qid=1708939652&sprefix=pensieri+in+pillole%2Caps%2C128&sr=8-1">Pensieri in pillole - 1 - Le tipologie di percezioni del corpo umano</a></li>
-        <li><a href="https://www.amazon.it/Pensieri-pillole-terapie-degli-elementali-ebook/dp/B0CVG2PMPZ/ref=sr_1_2?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3K7MF97HW6AM7&dib=eyJ2IjoiMSJ9.9CWDcSTCy0mGnFnS2VVRwYeAelZ0tl-lVtLYMopnIB0eGv3YFIjOFD9SNZJbHG1AII35delViLeSyKfJauNPJvYzWb2icqM-hY6VneTJoi-XPSpylp6p9CNHAJgeacYkKvPytuj-g7rNJFG13E8xRSqcYvIUMV79y3QqqJ1uPAQOLVVEAaliHG5KdNWLNsQheA_9lX3sBmHB95XfMidjH-OYvoQDQACHB0ThGPKIYZRySRBUce3NYZVUA9VnuG1RB3ZOnoQCMnZmTsSfUXfzj4lxbFOUepDj9Blg6fiPbzE.jNRMv-TLNIi6cTe5P6QDFKp5m2VgveD-oANzS42oufM&dib_tag=se&keywords=pensieri+in+pillole&qid=1708939652&sprefix=pensieri+in+pillole%2Caps%2C128&sr=8-2">Pensieri in pillole - 2 - Le terapie degli elementali</a></li>
+        <li><a href="https://amzn.eu/d/c0GeQvq">Pensieri in pillole - 1 - Le tipologie di percezioni del corpo umano</a></li>
+        <li><a href="https://amzn.eu/d/7bPV6wc">Pensieri in pillole - 2 - Le terapie degli elementali</a></li>
+        <li><a href="https://amzn.eu/d/2YosQNh">Pensieri in pillole - 3 - A proposito dei libri</a></li>
     </ul>
     </h3>
 </div>

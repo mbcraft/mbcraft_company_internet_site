@@ -3,6 +3,7 @@
 ob_start();
 
 print_element($lang,"introduction");
+print_range_by_specification($lang,$range_H1);
 print_range_by_specification($lang,$range_A1);
 print_range_by_specification($lang,$range_A2);
 print_range_by_specification($lang,$range_A3);

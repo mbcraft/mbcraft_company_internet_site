@@ -1,5 +1,6 @@
 <?php
 
+$range_H_A = array('H',1,2);
 $range_A_A = array('A',1,299);
 $range_A_B = array('A',305,320);
 $range_A_C = array('A',321,397);
@@ -7,7 +8,7 @@ $range_B_A = array('B',1,18);
 $range_C_A = array('C',1,3);
 $range_D_A = array('D',1,5);
 
-$all_ranges = array($range_A_A,$range_A_B,$range_A_C,$range_B_A,$range_C_A,$range_D_A);
+$all_ranges = array($range_H_A,$range_A_A,$range_A_B,$range_A_C,$range_B_A,$range_C_A,$range_D_A);
 
 function get_formatted_element_id($element_specification) {
     $parts = explode("_",$element_specification);
