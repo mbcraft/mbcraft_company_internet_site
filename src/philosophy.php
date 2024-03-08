@@ -70,9 +70,9 @@ include_once("include/top_poem.php");
 
 
                 if ($_GET["mode"]=="full_list") {
+
                     require_once("content/philosophy/elements/full_list.php");
-                
-                    echo $content;
+
                 }
                 
             } else {

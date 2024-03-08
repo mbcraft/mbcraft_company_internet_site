@@ -1,17 +1,11 @@
 <?php
 
 function generate_black_or_colored_logo_html() {
-	if (rand(0,100) % 11 == 0) generate_black_logo_html();
-	else generate_randomized_logo_html();
+	if (rand(0,100) % 11 == 0) generate_randomized_logo_html(true);
+	else generate_randomized_logo_html(false);
 }
 
-function generate_black_logo_html() {
-	echo "<div align='center'>";
-    echo "<img src='/images/logo/logo_mbcraft_final_black.png' alt='logo' width='400'/>";
-    echo "</div>";
-}
-
-function generate_randomized_logo_html() {
+function generate_randomized_logo_html($all_black) {
 
 	$path_prefix = "/images/logo/parts/";
 
@@ -28,8 +22,10 @@ function generate_randomized_logo_html() {
 	$color_index = rand(0,8);
 
 	foreach ($logo_parts as $p)
-	{		
-		$color = $color_folders[$color_index];
+	{
+		if ($all_black) $color = "black";
+		else		
+			$color = $color_folders[$color_index];
 
 		$color_labels[] = $color;
 
