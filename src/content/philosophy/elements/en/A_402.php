@@ -1,0 +1,1 @@
+A402 - I recommend spending at least a few hours every 5-6 months looking back at souvenir photos from your school period so as not to forget everything you learned and mastered in that period, for better or for worse.

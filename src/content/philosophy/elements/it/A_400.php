@@ -1,0 +1,1 @@
+A400 - Per chi lavora nello spazio interplanetario, consiglio di tenere a bordo eventualmente, come unica tipologia di animale domestico, dei pesci in un acquario, in quanto abituati a stare in un ambiente di quel tipo. In ogni caso consiglio di utilizzare dei pesci di taglia piccola, che si nutrono di vegetali o semi, e di non usare il pesce palla.

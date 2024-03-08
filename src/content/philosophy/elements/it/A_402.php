@@ -1,0 +1,1 @@
+A402 - Consiglio di passare almeno qualche ora ogni 5-6 mesi per riguardare le foto ricordo del periodo scolastico in modo da non dimenticare tutto quello che si era appreso e imparato in quel periodo, nel bene o nel male.  

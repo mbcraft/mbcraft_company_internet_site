@@ -31,12 +31,6 @@ Non &egrave; presente nessuna insegna presso il domicilio dell'azienda in quanto
 </div>
 </span>
 </h2>
-<br />
-<hr />
-<br />
-<b></b>
-<br />
-
 <?php
 
 $content = ob_get_contents();

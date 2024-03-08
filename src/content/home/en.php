@@ -30,10 +30,6 @@ There is no sign at the company's domicile as it is also a private home. For wor
 </div>
 </span>
 </h2>
-<br />
-<hr />
-<br />
-
 <?php
 
 $content = ob_get_contents();

@@ -1,0 +1,1 @@
+A399 - Suggerisco fortemente agli astronauti ma anche alle persone che vivono in luoghi con troppi pochi alberi di NON usare i videogiochi in quanto a volte sono necessari alberi anche fertilizzati come supporto. In ogni caso esistono anche giochi sotto forma di oggetto che si possono usare per svagarsi e che non presentano alcun tipo di albero a supporto.

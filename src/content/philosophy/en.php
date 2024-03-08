@@ -8,7 +8,7 @@ $keywords = "philosophy, tips, friendship";
 ob_start();
 ?>
 <div align="center">
-	To view one element, insert in the search bar the corresponding key. Underscore and padding zeroes are optional.
+	To view one element, insert in the search bar the corresponding key. Underscore and padding zeroes are optional. Read the 'H' elements before reading others.
 	Actually the following range of elements are available : 
 	<?php
 	print_available_ranges($all_ranges);
