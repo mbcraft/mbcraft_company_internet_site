@@ -78,6 +78,13 @@ function print_footer($elements) {
                     <img src="/images/icons/steam_icon.png" alt="steam icon" />
                 </a>
             </div>
+            <div style="display: inline-block;width:16px;height:64px;">
+            </div>
+            <div style="display: inline-block;">
+                <a href="https://www.twitch.tv/mbcraft_it">
+                    <img src="/images/icons/twitch_icon2.png" alt="twitch icon" />
+                </a>
+            </div>
         </div> 
         <h4>
         <address>
