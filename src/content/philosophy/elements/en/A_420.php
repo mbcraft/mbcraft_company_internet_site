@@ -1,0 +1,1 @@
+A420 - Portable laser pointers can also be used to write or draw on the leaves of plants or trees with sufficiently large leaves.

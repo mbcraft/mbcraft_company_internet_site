@@ -1,0 +1,1 @@
+A420 - I puntatori laser portatili si possono usare anche per scrivere o disegnare sulle foglie di piante o alberi a foglia sufficientemente larga. 
