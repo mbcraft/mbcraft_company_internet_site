@@ -1,0 +1,1 @@
+A424 - Informo che nel caso ci si senta lo stomaco troppo rovinato, oltre che ricorrere a eventuali farmaci &egrave; possibile ricorrere anche a psicologi. Utilizzando determinati approcci psicologici o determinate terapie psicologiche anche lo stomaco si pu&ograve; "bonificare". Quindi l'interazione tra stomaco e cervello &egrave; bidirezionale.

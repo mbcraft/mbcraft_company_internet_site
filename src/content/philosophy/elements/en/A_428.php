@@ -1,0 +1,1 @@
+A428 - I have personally found that even mowing the lawn causes an emotional worsening of the surrounding people not due to the fatigue of the work. People who want to keep their lawn with long grass and are afraid of ticks can use protective products or natural remedies (such as sulfur from matches) to protect themselves or remove them if they want.
