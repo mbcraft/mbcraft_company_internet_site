@@ -47,8 +47,22 @@ function get_padded_number($num) {
 
 function get_element_content($lang,$element_id) {
 
-    return file_get_contents(PROJECT_DIR."/content/philosophy/elements/".$lang."/".$element_id.".php");
+    $path = PROJECT_DIR."/content/philosophy/elements/".$lang."/".$element_id.".php";
+
+    if (file_exists($path)) {
+
+        return file_get_contents($path);
+
+    } else {
+        if ($lang == "it") {
+            return "L'elemento <b>".$element_id."</b> non &egrave; stato trovato.";
+        }
+        if ($lang == "en") {
+            return "Element <b>".$element_id."</b> not found.";
+        }
+    }
 }
+
 
 function get_element_last_modified_time($lang,$element_id) {
     return filemtime(PROJECT_DIR."/content/philosophy/elements/".$lang."/".$element_id.".php");

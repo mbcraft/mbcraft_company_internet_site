@@ -15,6 +15,7 @@ include_once("../include/top_poem.php");
         	<img src="/images/meme/meme_matrix_air/meme_breath_fake_air_eng.png" width="1100"/>
     	</div>
         <br />
+        Note : this meme is just a modern reinterpretation of the "Matrix" film. It's not literally translated from Italian.
     </div>
 </div>
 <?php
