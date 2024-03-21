@@ -1,0 +1,1 @@
+A438 - A volte pu&ograve; capitare che certi apparecchi tecnologici si inceppino misteriosamente. In determinati casi &egrave; sufficiente spegnerli e riaccenderli per risolvere il problema. 

@@ -1,0 +1,1 @@
+A441 - I have found that if a person watches television and another of the opposite sex is sleeping, the sleeping person may feel annoyed and wake up feeling numb: this phenomenon seems to be linked to this particular configuration. Despite everything, however, I also experienced a completely opposite situation, in which I was mysteriously recharged during rest.

@@ -1,0 +1,1 @@
+A438 - Sometimes it can happen that certain technological devices mysteriously jam. In certain cases it is sufficient to turn them off and on again to solve the problem.
