@@ -185,7 +185,8 @@ hr {
     border-color: black;
 }
 
-.unavailable {
-    background-color: indianred;
+.dangerous {
+    font-weight: bold;
+    color: red;
 }
 

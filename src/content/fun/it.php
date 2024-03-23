@@ -10,7 +10,7 @@ ob_start();
 <br /><br /><br />
 <h2>
 	Questi sono i link attualmente disponbili. I nuovi meme vengono aggiunti in fondo alla lista. Raccomando la visualizzazione di <b>non pi&ugrave; di un meme</b> al giorno e di <b>seguire l'ordine</b> partendo dal primo. Col passare del tempo alcuni meme potrebbero diventare deprecati.<br />
-	Se visualizzate i meme su smartphone ruotare il telefono potrebbe migliorarne la visualizzazione.
+	Se visualizzate i meme su smartphone ruotare il telefono potrebbe migliorarne la visualizzazione. Questi meme non sono un modo per offendere aziende o persone in essi coinvolti.
 <span class="brief">
 	<ul>
 		<li><a href="/pages/anti_gravita_ita.php">1 - DEPRECATO</a></li>
@@ -50,6 +50,10 @@ ob_start();
 		<li><a href="/pages/meme_wndows.php">35</a></li>
 		<li><a href="/pages/meme_summary_last_christmas_ita.php">36</a></li>
 		<li><a href="/pages/meme_matrix_air_ita.php">37</a></li>
+		<li><a href="/pages/meme_satana_ita.php">38</a></li>
+		<li><a href="/pages/cuneo_ita.php">39</a>
+		<li><a href="/pages/meme_digital_license_ita.php">40</a></li>
+		<li><a href="/pages/mutuo_ita.php">41</a></li>
 	</ul>
 </span>
 </h2>

@@ -1,0 +1,1 @@
+A448 - Per quanto riguarda la polvere e i computer, c'&egrave; da dire che oltre ad accumularsi all'interno dei computer (vanno puliti periodicamente) tende anche ad accumularsi nella parte posteriore di certe sedie da ufficio.

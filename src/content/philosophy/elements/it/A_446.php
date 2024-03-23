@@ -1,0 +1,1 @@
+A446 - Se non avete snack salati a disposizione e non avete modo di acquistarne in casi estremi &egrave; anche possibile prepararne utilizzando fette biscottate o pane scaldato alla piastra come base, e aggiungere olio e sale e una spezia a piacimento.

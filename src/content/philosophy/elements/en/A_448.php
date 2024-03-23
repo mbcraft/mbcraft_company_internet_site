@@ -1,0 +1,1 @@
+A448 - As regards dust and computers, it must be said that in addition to accumulating inside computers (they must be cleaned periodically) it also tends to accumulate in the back of certain office chairs.

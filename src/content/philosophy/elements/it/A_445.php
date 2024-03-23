@@ -1,0 +1,1 @@
+A445 - I rami sottili delle potature (quando necessarie in quanto in determinati casi impediscono il transito dei mezzi) umidi e riscaldati da un fuoco, fanno uscire dalla parte tagliata una schiumetta. Questo liquido leggermente amarognolo ha propriet&agrave; curative e rigeneranti.

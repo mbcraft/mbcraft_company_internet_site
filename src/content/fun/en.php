@@ -10,7 +10,7 @@ ob_start();
 <br /><br /><br />
 <h2>
 	Here are the actually available links. New memes are added on the bottom of the list. I recommend viewing <b>no more than one meme</b> a day and <b>follow the order</b> starting from the first. Over time some memes may become deprecated.<br />
-	If you view these memes on a smartphone, rotating your phone can improve their visualization.
+	If you view these memes on a smartphone, rotating your phone can improve their visualization. Some memes are translations of the Italian versions, while some are available only in English. Some Italian memes are not translatable. These memes are not meant to be used as a way to hurt people or companies somewhat involved.
 <span class="brief">
 	<ul>
 		<li><a href="/pages/cc_toilette_fox_eng.php">1</a></li>
@@ -46,6 +46,9 @@ ob_start();
 		<li><a href="/pages/meme_wndows.php">29</a></li>
 		<li><a href="/pages/meme_summary_last_christmas_eng.php">30</a></li>
 		<li><a href="/pages/meme_matrix_air_eng.php">31</a></li>
+		<li><a href="/pages/meme_satana_eng.php">32</a></li>
+		<li><a href="/pages/meme_digital_license_eng.php">33</a></li>
+		<li><a href="/pages/mutuo_eng.php">34</a></li>
 	</ul>
 </span>
 </h2>
