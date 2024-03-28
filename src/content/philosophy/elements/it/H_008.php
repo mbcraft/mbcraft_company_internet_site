@@ -1,0 +1,1 @@
+H008 - E' molto probabile che molti di questi concetti siano particolarmente noiosi da leggere. Sono solo tecnicamente corretti (nei limiti di quanto li ho sviluppati) e non ci ho ricamato sopra alcun tipo di racconto poetico o che ispirasse le persone emotivamente. 

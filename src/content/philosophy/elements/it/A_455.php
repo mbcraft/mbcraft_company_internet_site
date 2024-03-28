@@ -1,0 +1,1 @@
+A455 - E' importante non usare muschio vero per il presepe se lo volete realizzare, ma semplice erba sintetica. Se trovate del muschio &egrave; una buona idea accarezzarlo anche periodicamente, anche dopo aver accarezzato i propri animali domestici, se ne avete.

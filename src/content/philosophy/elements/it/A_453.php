@@ -1,0 +1,1 @@
+A453 - Le email possono contenere in calce una firma in formato html. Volendo inserire al suo interno elementi grafici &egrave; possibile utilizzare l'svg, che, essendo un sottoinsieme dell'html, pu&ograve; essere inserito liberamente senza appesantire l'email dal punto di vista della quantit&agrave; di dati trasmessi. 

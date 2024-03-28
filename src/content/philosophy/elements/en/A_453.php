@@ -1,0 +1,1 @@
+A453 - Emails may contain a signature in html format at the bottom. If you want to insert graphic elements within it, you can use svg, which, being a subset of html, can be inserted freely without making the email heavier in terms of the amount of data transmitted. 
