@@ -3,7 +3,7 @@
 $range_H_A = array('H',1,9,'black');
 $range_A_A = array('A',1,299,'black');
 $range_A_B = array('A',299,305,'red');
-$range_A_C = array('A',305,463,'black');
+$range_A_C = array('A',305,464,'black');
 $range_B_A = array('B',1,18,'black');
 $range_C_A = array('C',1,3,'black');
 $range_D_A = array('D',1,5,'black');
