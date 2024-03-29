@@ -1,0 +1,1 @@
+A459 - For those who have growing teenagers, personally, given the same amount of money available, I advise against purchasing an expensive smartphone to also use for playing games and instead I recommend purchasing a small portable console and a low-cost telephone to use only to make emergency calls or call parents.
