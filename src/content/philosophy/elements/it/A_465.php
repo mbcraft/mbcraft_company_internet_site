@@ -1,0 +1,1 @@
+A465 - Personalmente consiglio agli abitanti di una nazione di mangiare cucina etnica almeno una volta ogni tanto per mantenere i contatti con persone di altre nazionalit&agrave; e culture, mentre lo sconsiglio generalmente ai turisti in quanto potrebbe essere un po' azzardato.
