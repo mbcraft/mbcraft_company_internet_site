@@ -7,7 +7,6 @@ define("PROJECT_DIR",$PROJECT_DIR);
 
 require_once(PROJECT_DIR."/include/philosophy_support_functions.php");
 
-
 function compute_token($token) {
 
 	$token = str_replace(" ","",$token);
@@ -72,6 +71,8 @@ function compute_token($token) {
 
 function get_all_words_from_element($lang,$element_id) {
 
+	$NOT_ACTUALLY_WORDS = array('Abigail','Ratchford','Marco','Mazzotti');
+
 	$content = get_element_content($lang,get_formatted_element_id($element_id));
 
 	$first_split = explode("-",$content);
@@ -97,7 +98,12 @@ function get_all_words_from_element($lang,$element_id) {
 			if (is_array($cleaned_word)) {
 				$all_cleaned_words[] = $cleaned_word[0];
 				$all_cleaned_words[] = $cleaned_word[1];
-			} else $all_cleaned_words[] = $cleaned_word;
+			} else 
+			{
+				if (!in_array($cleaned_word,$NOT_ACTUALLY_WORDS)) {
+					$all_cleaned_words[] = $cleaned_word;
+				}	
+			}
 
 		}
 

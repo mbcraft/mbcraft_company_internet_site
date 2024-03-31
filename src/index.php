@@ -9,7 +9,7 @@ include_once("include/meta.php");
 </head>
 <body style="background-image:url('/images/background/welcome_background.jpg');background-size: cover;">
     <?php
-    include_once("include/language_switch.php");
+    include_once("include/language_switches.php");
     ?>
     <script type="text/javascript">
         background_keys = ['white','bamboo_atlas','carpet_loop','ceramic_herringbone','ceramic_triangle','ground_grass_field','ice','marble_whitened','wood_flooring_ash_brick_bond'];
