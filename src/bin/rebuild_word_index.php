@@ -5,7 +5,7 @@ $PROJECT_DIR = dirname(__DIR__);
 if (!defined("PROJECT_DIR"))
 define("PROJECT_DIR",$PROJECT_DIR);
 
-require_once(PROJECT_DIR."/include/philosophy_support_functions.php");
+require_once(PROJECT_DIR."/include/philosophy_page_support_functions.php");
 
 function compute_token($token) {
 

@@ -6,7 +6,7 @@ require_once('include/lang.php');
 if (!defined("PROJECT_DIR"))
 define("PROJECT_DIR",__DIR__);
 
-require_once('include/philosophy_support_functions.php');
+require_once('include/philosophy_page_support_functions.php');
 require_once("content/philosophy/".$lang.".php");
 include_once("include/begin_html.php");
 include_once("include/meta.php");
