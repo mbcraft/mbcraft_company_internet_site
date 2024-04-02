@@ -1,0 +1,1 @@
+A468 - Le persone che guardano siti internet o profili social di altre persone, quando li incontrano dal vivo fanno bene a farlo presente e a non nasconderlo. La virtualit&agrave; &egrave; un concetto che ha dei risvolti particolari e se non vogliamo che si creino problemi generalmente &egrave; meglio dirlo. 

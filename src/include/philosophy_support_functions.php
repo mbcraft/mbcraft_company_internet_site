@@ -3,12 +3,12 @@
 $range_H_A = array('H',1,9,'black');
 $range_A_A = array('A',1,299,'black');
 $range_A_B = array('A',299,305,'red');
-$range_A_C = array('A',305,468,'black');
+$range_A_C = array('A',305,471,'black');
 $range_B_A = array('B',1,18,'black');
 $range_C_A = array('C',1,3,'black');
 $range_D_A = array('D',1,5,'black');
 
-$all_ranges = array($range_H_A,$range_A_A,$range_A_C,$range_B_A,$range_C_A,$range_D_A);
+$all_ranges = array($range_H_A,$range_A_A,$range_A_B,$range_A_C,$range_B_A,$range_C_A,$range_D_A);
 
 function get_formatted_element_id($element_specification) {
     $parts = explode("_",$element_specification);
