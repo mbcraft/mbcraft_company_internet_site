@@ -1,0 +1,1 @@
+A481 - Personally, I also happened to experience sensations of a full and empty stomach that alternated within a few seconds. In addition to this, I have also experienced that fruit from the same culture had quite different flavors from one day to the next. It may be that this depends on particular interactions that take place with social networks.

@@ -1,0 +1,1 @@
+A480 - Personalmente credo che qualunque tipo di mafia (dove per mafia si intendono medie-grandi reti di individui con scopi criminosi) esiste sempre a causa di particolari problemi filosofici non risolti in modo corretto. 
