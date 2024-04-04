@@ -1,5 +1,5 @@
 <span class='dangerous'>
-    A304 - As regards the growth path of new born babies, I recommend that families, in addition to a vegan or fruitarian diet for the adolescent, also use the A300 and A303 procedures (also based on the adolescent's choices). Once reached sexual maturity, I recommend maintaining chastity until the end of the studies. If possible, I also recommend maintaining chastity until reaching the age of 30. If you decide to use the A300 and A303 procedures several times, I recommend always choosing different people as much as possible, but still be careful because they are probably quite dangerous.
+    X006 - As regards the growth path of new born babies, I recommend that families, in addition to a vegan or fruitarian diet for the adolescent, also use the A300 and A303 procedures (also based on the adolescent's choices). Once reached sexual maturity, I recommend maintaining chastity until the end of the studies. If possible, I also recommend maintaining chastity until reaching the age of 30. If you decide to use the A300 and A303 procedures several times, I recommend always choosing different people as much as possible, but still be careful because they are probably quite dangerous.
 </span>
 <br />
-Regarding what you read in this element, I recommend reading element H_007 (additional notes).
+Regarding what you read in this element, I recommend reading element X_000 (additional notes).
