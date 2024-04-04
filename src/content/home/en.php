@@ -26,7 +26,7 @@ Regarding the work carried out, please note that:
 </ul>
 <br /><br />
 <div style="background-color:yellow;">
-There is no sign at the company's domicile as it is also a private home. For work-related matters, book the appointment via email [contact @ mbcraft.it], for personal matters via email [marco.bagnaresi @ gmail.com] . If you want to freely support MBCRAFT you can send donations using PayPal at : info@mbcraft.it .
+There is no sign at the company's domicile as it is also a private home. For work-related matters, book the appointment via email [info @ mbcraft.it], for personal matters via email [marco.bagnaresi @ gmail.com] . If you want to freely support MBCRAFT you can send donations using PayPal at : info@mbcraft.it .
 </div>
 </span>
 </h2>

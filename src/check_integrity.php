@@ -42,6 +42,7 @@ function print_hello() {
 
 function print_help() {
 
+  echo "--- Usage : php check_integrity.php HOSTNAME PARAMETER\n\n";
   echo "--- Parameter list :\n\n";
   echo "- check_with_online_file_list : checks all online files using the online file list as reference.\n";
   echo "- check_with_offline_file_list : check each file one by one and warns at the first not matching file using an offline file list.\n";
@@ -165,11 +166,11 @@ function print_file_list_differences($online_file_list,$offline_file_list) {
    }
 }
 
-function check_with_online_file_list() {
+function check_with_online_file_list($hostname) {
 
    echo "Checking online files using online file list ...\n\n";
 
-   $online_file_list_text = file_get_contents("https://www.mbcraft.it/check_integrity.php?command=get_file_list");
+   $online_file_list_text = file_get_contents("https://".$hostname."/check_integrity.php?command=get_file_list");
    $online_file_list = explode("|",$online_file_list_text);
 
    $offline_file_list = get_file_list();
@@ -218,7 +219,7 @@ function check_with_online_file_list() {
    }
 }
 
-function check_with_offline_file_list() {
+function check_with_offline_file_list($hostname) {
    $file_list = get_file_list();
 
    $problems_found = false;
@@ -226,7 +227,7 @@ function check_with_offline_file_list() {
    echo "Checking online files using offline file list ...\n\n";
 
    foreach ($file_list as $param) {
-      $online_content = file_get_contents("https://www.mbcraft.it/check_integrity.php?command=checksum&param=".urlencode($param));
+      $online_content = file_get_contents("https://".$hostname."/check_integrity.php?command=checksum&param=".urlencode($param));
       $online_content = fix_all_br_tags($online_content);     
 
       $offline_content = get_printable_signature($param);
@@ -256,14 +257,18 @@ function has_request_parameter() {
 }
 
 function has_script_parameter() {
-  if ($_SERVER['argc']==2) return true;
+  if ($_SERVER['argc']==3) return true;
   else return false;
+}
+
+function get_hostname() {
+   return $_SERVER["argv"][1];
 }
 
 function get_command() {
 
   if (has_request_parameter()) return filter_input(INPUT_GET,"command");
-  if (has_script_parameter()) return $_SERVER["argv"][1];
+  if (has_script_parameter()) return $_SERVER["argv"][2];
 
   return null;
 }
@@ -272,6 +277,8 @@ function get_sub_parameter() {
 
   return filter_input(INPUT_GET,"param");
 }
+
+$hostname = get_hostname();
 
 $command = get_command();
 
@@ -313,13 +320,13 @@ if ($command == "checksum") {
 }
 
 if ($command == "check_with_online_file_list") {
-   check_with_online_file_list();
+   check_with_online_file_list($hostname);
    return;
 }
 
 if ($command == "check_with_offline_file_list") {
 
-   check_with_offline_file_list();
+   check_with_offline_file_list($hostname);
    return;
 }
 

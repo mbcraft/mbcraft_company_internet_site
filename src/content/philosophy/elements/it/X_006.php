@@ -1,0 +1,5 @@
+<span class='dangerous'>
+    X006 - Per quanto riguarda il percorso di crescita dei nuovi nascituri consiglio alle famiglie, oltre all'alimentazione vegana o fruttariana per l'adolescente, anche l'utilizzo delle procedure A300 e A303 (anche in base alle scelte dell'adolescente). Raggiunta la maturit&agrave; sessuale, consiglio di mantenere la castit&agrave; fino al termine degli studi. Se si riesce, consiglio anche di mantenere la castit&agrave; fino al compimento dei 30 anni di et&agrave;. Se decidete di utilizzare pi&ugrave; volte le procedure A300 e A303, consiglio di scegliere sempre persone diverse per quanto possibile, ma comunque fate attenzione perch&eacute; probabilmente sono piuttosto pericolose.
+</span>
+<br />
+A proposito di quanto letto in questo elemento consiglio di leggere l'elemento H_007 (note addizionali).

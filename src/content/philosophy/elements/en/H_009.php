@@ -1,0 +1,1 @@
+H009 - Under no circumstances is the use of these contents permitted to cause damage or fraud, and in particular to those who are explicitly thanked in element H_006. Any sabotage of these contents and collateral damage caused by them are the responsibility of whoever carried out the sabotage (even retroactively).
