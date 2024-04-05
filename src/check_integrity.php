@@ -99,11 +99,15 @@ function get_file_list() {
 
    $downloads_list = list_directory_files("/downloads/");
 
-   $content_list = ["/content/home/it.php","/content/home/en.php","/content/experiences/it.php","/content/experiences/en.php","/content/fun/it.php","/content/fun/en.php","/content/philosophy/it.php","/content/philosophy/en.php","/content/skills/it.php","/content/skills/en.php"];
+   $content_list = ["/content/philosophy/it.php","/content/philosophy/en.php","/content/home/it.php","/content/home/en.php","/content/experiences/it.php","/content/experiences/en.php","/content/fun/it.php","/content/fun/en.php","/content/skills/it.php","/content/skills/en.php","/content/about_internet_site/it.php","/content/about_internet_site/en.php"];
+
+   $ph_it_list = list_directory_files("/content/philosophy/elements/it/");
+
+   $ph_en_list = list_directory_files("/content/philosophy/elements/en/");
 
    $meme_list = list_directory_files("/pages/");
 
-   $path_list = array_merge($include_list,$css_list,$PROJECT_DIR_list,$resources_list,$downloads_list,$content_list,$meme_list);
+   $path_list = array_merge($include_list,$css_list,$PROJECT_DIR_list,$resources_list,$downloads_list,$content_list,$ph_en_list,$ph_it_list,$meme_list);
 
    return $path_list;
 
