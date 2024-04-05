@@ -11,10 +11,10 @@ ob_start();
     <div style="padding:30px;">Benvenuto nel sito web di</div>
     <img width="300" src='/images/logo/logo_mbcraft_final_black.png' alt='Logo MBCRAFT' />
     <br />
-    <h3>
-    <span style="color:green;">Questo sito web &egrave; responsive e i suoi contenuti testuali sono anche comodamente visibili e consultabili da smartphone.</span><br />
-    <span style="color:red;">Non &egrave; presente un cookie banner in quanto sono utilizzati solo cookie tecnici.<br /> Non ci sono contatori delle visite.</span>
-    </h3>
+
+    <br />
+    <a href="/about.php">Altre informazioni</a>
+    <br />
     <div style="padding-top:40px;"><h3>Scegli lo sfondo che preferisci :</h3></div>
     <?php 
         include('_background_list.php'); 

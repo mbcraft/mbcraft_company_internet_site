@@ -11,10 +11,10 @@ ob_start();
     <div style="padding:30px;">Welcome to the web site of</div>
     <img width="300" src='/images/logo/logo_mbcraft_final_black.png' alt='Logo MBCRAFT' />
     <br />
-    <h3>
-    <span style="color:green;">This website is responsive and its textual contents are also easily visible and accessible from smartphones.</span><br />
-    <span style="color:red;">There is no cookie banner as there are only technical cookies.<br /> There are no visit counters.</span>
-    </h3>
+
+    <br />
+    <a href="/about.php">More informations</a>
+    <br />
     <div style="padding-top:40px;"><h3>Choose your favorite background :</h3></div>
     <?php 
         include('_background_list.php'); 
