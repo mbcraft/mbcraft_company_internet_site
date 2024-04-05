@@ -1,0 +1,1 @@
+H009 - Alcuni dei concetti che ho illustrato potrebbero essere pratici e utilizzabili solo in presenza di determinati alberi, piante, animali o minerali e dalle loro condizioni. 

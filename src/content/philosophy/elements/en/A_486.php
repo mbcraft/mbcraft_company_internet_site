@@ -1,0 +1,1 @@
+A486 - Exactly as happens with electric current in which a connected potential difference creates a current, in the same way when a person who is worse off is close to someone who is better off, under certain conditions, exactly this phenomenon occurs.
