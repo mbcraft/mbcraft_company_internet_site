@@ -1,0 +1,1 @@
+H010 - Usually when we get slepped or hurt ourselves accidentally it's because there's something wrong with our philosophy. It happens to everyone, including me. So keep this in mind when using what is written in this portal.

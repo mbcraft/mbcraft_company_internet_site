@@ -1,1 +1,1 @@
-A280 - Per le donne che vogliono sperimentare, potete provare a mettere il seme sufficientemente grande di una pianta dentro alla vagina per un po' di giorni prima di seminarlo e farlo crescere. Dovrebbero esserci delle conseguenze positive.
+A280 - E' importante fare almeno 10 minuti di ginnastica al giorno, perch&egrave; anche solo quelli sono pi&ugrave; che sufficienti a migliorare di molto la salute. 

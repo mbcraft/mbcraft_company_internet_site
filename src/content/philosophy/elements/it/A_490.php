@@ -1,0 +1,1 @@
+A490 - Se dopo aver detto qualcosa a qualcuno e concluso la conversazione cambiamo idea repentinamente, è importante far sapere a quella persona che abbiamo cambiato idea. 

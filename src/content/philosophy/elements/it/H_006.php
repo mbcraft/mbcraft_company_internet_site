@@ -6,6 +6,7 @@ H006 - Volevo ringraziare esplicitamente :
 	<li>Alcuni/e adolescenti con cui ho avuto il piacere di giocare online</li>
 	<li>Marco Mazzotti, che con la scelta un po' estrema mi ha ispirato</li>
 	<li>Abigail Ratchford, che mi ha aiutato a lavorare in un certo modo supportandomi da remoto</li>
+	<li>Leanne Crow e Jordan Carver per aver fatto le modelle</li>
 	<li>Gli alberi del giardino e le piante in vaso mie e di mia madre</li>
 	<li>Chi non ho incluso in questa lista e che in un qualche modo ha contribuito (persone limitrofe, aziende che hanno realizzato prodotti o servizi di qualit&agrave; che ho utilizzato ...)</li>
 </ul>

@@ -1,3 +1,3 @@
 <div class='note'>
-	D3 - Questi concetti sono espressi in modo sintetico. In alcuni casi possono essere ampliati e migliorati, come ad esempio il poter potare i rami secchi per quanto riguarda il discorso delle potature, oppure l'utilizzo di minerali o danze durante i funerali in cui si concimano gli alberi. Ho cercato di fornire degli spunti senza voler essere troppo prolisso ... e non &egrave; detto che non ci possano essere delle eccezioni ...
+	D3 - <b>MBCRAFT ha contribuito parzialmente alla piantumazione di circa 3000 alberi tramite diverse organizzazioni e ha contribuito a diverse associazioni umanitarie.</b>
 </div>

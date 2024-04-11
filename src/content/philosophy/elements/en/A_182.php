@@ -1,1 +1,1 @@
-A182 - The flower of chastity develops in man after many years. A sort of vagina blossoms in the brain, but I want to point out that I have had a plant-based nutrition for about 11-12 years and have been practicing chastity for about 15 years. I don't know if something similar and opposite also happens in women. It's a mistery of Catholic Church explained in simple words.
+A182 - The flower of chastity develops after many years. I have had a plant-based nutrition for about 11-12 years and have been practicing chastity for about 15 years in order to obtain it.

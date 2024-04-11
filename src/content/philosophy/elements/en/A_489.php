@@ -1,0 +1,1 @@
+A489 - Cigarettes can also be used to make drawings in the dark by moving them quickly after lighting them.

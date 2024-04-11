@@ -26,8 +26,5 @@ $menu = array("it" => array("HOME","COMPETENZE","ESPERIENZE","FILOSOFIA","DIVERT
         <div role="menuitem" class="w3-cell w3-mobile w3-cell-middle menu_item brown" onclick="document.location.href = '/files.php'">
             <?=$menu[$lang][5] ?>
         </div>
-        <div role="menuitem" class="w3-cell w3-mobile w3-cell-middle menu_item pink" onclick="document.location.href = '/customers.php'">
-            <?=$menu[$lang][6] ?>
-        </div>
     </div>
 </nav>

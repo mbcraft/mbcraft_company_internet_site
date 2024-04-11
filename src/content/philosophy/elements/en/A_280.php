@@ -1,1 +1,1 @@
-A280 - For women who want to experiment, you can try placing a sufficiently large seed of a plant inside the vagina for a few days before sowing it and letting it grow. There should be some positive consequences.
+A280 - It is important to do at least 10 minutes of exercise a day, because even just that is more than enough to greatly improve your health.

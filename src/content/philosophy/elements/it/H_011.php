@@ -1,0 +1,3 @@
+<div class='note'>
+	H011 - Questi concetti sono espressi in modo sintetico. In alcuni casi possono essere ampliati e migliorati, come ad esempio il poter potare i rami secchi per quanto riguarda il discorso delle potature, oppure l'utilizzo di minerali o danze durante i funerali in cui si concimano gli alberi. Ho cercato di fornire degli spunti senza voler essere troppo prolisso ... e non &egrave; detto che non ci possano essere delle eccezioni ...
+</div>

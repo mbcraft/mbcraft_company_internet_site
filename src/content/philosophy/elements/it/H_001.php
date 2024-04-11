@@ -7,7 +7,6 @@ H1 - Per quanto riguarda le condizioni d'uso di quanto fornito tramite questa pa
 	<li>Utilizzo per effettuare traduzioni da fornire gratuitamente tramite internet - OK (linkate la fonte)</li>
 	<li>Utilizzo per effettuare traduzioni da fornire a pagamento tramite internet - NO</li>
 	<li>Utilizzo per effettuare traduzioni da fornire su supporto cartaceo - NO</li>
-	<li>Utilizzo tramite AI - NO</li>
 	<li>Utilizzo per grandi progetti - Consiglio di contattarmi tramite email e di pagare una royalty dall'1% al 3% su tutti i guadagni se il progetto viene approvato (anche variabili di mese in mese, a vostra scelta)</li>
 	<li>Utilizzo per creare progetti o aziende lesive nei confronti di questa azienda - NO</li>
 	<li>Utilizzo per creare progetti o aziende ex-novo - Royalties da pagare ALMENO dell'1% e FINO A UN MASSIMO DEL 15% su tutti i guadagni (a vostra scelta anche variabile di mese in mese)</li>

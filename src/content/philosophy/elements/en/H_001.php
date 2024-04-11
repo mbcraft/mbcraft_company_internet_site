@@ -7,7 +7,6 @@
 		<li>Used to carry out translations to be provided free of charge via the internet - OK (link the source)</li>
 		<li>Use to carry out translations to be provided for a fee via the internet - NO</li>
 		<li>Use to carry out translations to be provided on paper - NO</li>
-		<li>Use via AI - NO</li>
 		<li>Use for large projects - I recommend contacting me via email and paying a 1% to 3% monthly royalty on all earnings if the project is approved (also variable from month to month, your choice)</li>
 		<li>Use to create harmful projects or companies towards this company - NO</li>
 		<li>Use to create projects or companies from scratch towards this company - Royalties to be paid from 1% up to 15% on all earnings (of your choice also variable from month to month)</li>
