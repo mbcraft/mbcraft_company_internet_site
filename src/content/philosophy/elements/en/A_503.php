@@ -1,0 +1,1 @@
+A503 - It may be useful as food for thought to think that if the tiles on the roof were glued together (with some adhesive paste) then the wind would not be able to move them, however it is equally true that doing such work can also be very dangerous. 

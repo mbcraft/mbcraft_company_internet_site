@@ -1,0 +1,1 @@
+A508 - E' giusto che le persone sappiano che le relazioni interpersonali che abbiamo hanno un impatto determinante nel nostro modo di ragionare, e che a volte conoscere certe persone pu&ograve; provocare alterazioni mentali significative (ad esempio andiamo pi&ugrave; veloci a fare determinate attivit&agrave;, oppure ci sentiamo pi&ugrave; appesantiti). 

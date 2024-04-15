@@ -1,0 +1,1 @@
+A500 - Generally it is not a good idea at all to save on purchases of rice and tea, as those who work to produce them in many cases work by hand, sometimes even with their legs soaking in the mud, therefore saving money is absolutely not a good idea, while it may be acceptable for wheat-based food products, as the wheat is still planted and processed by machine. 
