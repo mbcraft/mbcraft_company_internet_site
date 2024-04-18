@@ -1,1 +1,1 @@
-H009 - In nessun caso &egrave; consentito l'uso di questi contenuti per arrecare danni o imbrogli e in particolare a chi &egrave; esplicitamente ringraziato nell'elemento H_006. Eventuali sabotaggi di questi contenuti e danni collaterali da essi causati sono a carico di chi ha effettuato il sabotaggio (anche retroattivamente). 
+H008 - Alcuni dei concetti che ho illustrato potrebbero essere pratici e utilizzabili solo in presenza di determinati alberi, piante, animali o minerali e dalle loro condizioni. 

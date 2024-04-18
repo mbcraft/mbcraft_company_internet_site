@@ -1,0 +1,1 @@
+A511 - Da quanto ne so il nostro palato percepisce 5 tipologie di sapori : il dolce, il salato, l'aspro, l'amaro e l'umami. 

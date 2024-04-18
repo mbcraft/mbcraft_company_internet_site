@@ -1,1 +1,1 @@
-H009 - Some of the concepts I have illustrated may be practical and usable only in the presence of certain trees, plants, animals or minerals and their conditions. 
+H009 - Usually when we get slepped or hurt ourselves accidentally it's because there's something wrong with our philosophy. It happens to everyone, including me. So keep this in mind when using what is written in this portal.
