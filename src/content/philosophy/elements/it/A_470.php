@@ -1,1 +1,1 @@
-A470 - Non usate i bambini come scudi umani. 
+A470 - Non usate i bambini come scudi umani. Non raccontate decine e decine di bugie solo perch&egrave; vi fa comodo : rischiate di fare disastri immani. Assumetevi le vostre responsabilit&agrave;.
