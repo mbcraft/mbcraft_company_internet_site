@@ -63,6 +63,9 @@ ob_start();
                 </ul>
                 <br />
                 In seguito con MBCRAFT :<br />
+                <br />
+                Sviluppo di un software per il tagging dell'immondizia in immagini di zone verdi urbane ed extraurbane e creazione di un database di immagini con relativi tag. (grazie a Dennis Ballerini per aver collaborato con me nel tagging dell'immondizia nelle immagini)
+                <br />
                 <ul>
                     <li>Consulente per GLE s.r.l. seguendo le indicazioni di Joinstore per lo sviluppo di Golee!, sviluppa diversi sistemi client-server tra cui un sistema di smistamento di mail/sms/notifiche push e un sistema di cache per immagini. (Analisi, progettazione, sviluppo e testing, Linguaggio : PHP, anni 2018-2019)</li>
                     <li>Sviluppo di un framework PHP per la gestione di siti web. (analisi, progettazione, sviluppo e testing, anno 2019)</li>

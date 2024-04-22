@@ -60,6 +60,9 @@ Later he was hired by Joinstore s.r.l. for doing design and development : <br />
 </ul>
 <br />
 Later with MBCRAFT: <br />
+<br />
+Development of software for tagging garbage in images of urban and extra-urban green areas and creation of an image database with related tags. (thanks to Dennis Ballerini for cooperating with me in tagging the trash in the images)
+<br />
 <ul>
     <li> Consultant for GLE s.r.l. following the directions of Joinstore for the development of Golee! Develop several client-server systems including a mail / sms / push notification sorting system and an image caching system. (Analysis, design, development and testing, Language : PHP, years 2018-2019)</li>
     <li> Development of a PHP framework for website management. (Analysis, design, development and testing, year 2019) </li>
