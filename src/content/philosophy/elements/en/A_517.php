@@ -1,0 +1,1 @@
+A517 - Personally, I advise against giving conferences in theatres. Theaters are places where fiction is staged, useful in its own way. For conferences it is best to use conference rooms, which many hotels have, for example.
