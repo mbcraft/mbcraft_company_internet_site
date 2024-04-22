@@ -1,0 +1,1 @@
+A516 - Tendenzialmente &egrave; meglio non fare valutazioni importanti quando si &egrave; convalescenti o sotto l'effetto di farmaci in quanto quello che si pensa potrebbe essere alterato e fuorviante. Quando si &egrave; ammalati non bisogna lavorare, e anche cercare di fare ragionamenti molto complessi porta a pessimi risultati.
