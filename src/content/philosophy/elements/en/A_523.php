@@ -1,0 +1,1 @@
+A523 - Rights (such as privacy or other rights), in certain cases, are not guaranteed "in themselves" but only by the possession of certain objects or economic resources.

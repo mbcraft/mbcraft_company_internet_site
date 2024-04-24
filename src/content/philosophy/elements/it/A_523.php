@@ -1,0 +1,1 @@
+A523 - I diritti (come quello alla privacy o altri diritti), in determinati casi, non sono garantiti "di per se" ma solo dal possesso di determinati oggetti o risorse economiche.
