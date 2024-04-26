@@ -1,1 +1,1 @@
-A525 - Pregnant women must be treated with great attention and respect, as they sometimes feel uncomfortable psychologically as well as physically.
+A525 - Pregnant women must be treated with great attention and respect, as they sometimes feel uncomfortable psychologically, emotionally or physically.
