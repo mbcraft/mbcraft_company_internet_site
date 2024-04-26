@@ -1,0 +1,1 @@
+A526 - If you need to swear, you can use the slot machines. They are made on purpose.

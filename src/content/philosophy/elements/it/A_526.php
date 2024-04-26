@@ -1,0 +1,1 @@
+A526 - Se avete bisogno di bestemmiare, potete usare le slot machines. Sono fatte apposta.
