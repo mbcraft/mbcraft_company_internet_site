@@ -1,1 +1,1 @@
-A407 - "Beati gli obesi, perch&eacute; di essi &egrave; il regno del gaming ..." 
+A407 - &ldquo;Beati gli obesi, perch&eacute; di essi &egrave; il regno del gaming ...&rdquo; 

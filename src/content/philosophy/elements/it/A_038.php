@@ -1,1 +1,1 @@
-A38 - In molte case di campagna spesso c'&egrave; del ciarpame che si accumula negli anni. In generale sarebbe utile riciclare quello che non si usa pi&ugrave;.
+A038 - In molte case di campagna spesso c'&egrave; del ciarpame che si accumula negli anni. In generale sarebbe utile riciclare quello che non si usa pi&ugrave;.

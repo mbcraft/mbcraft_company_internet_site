@@ -1,1 +1,1 @@
-A223 - Un mio caro amico dei tempi dell'universit&agrave; (Alessio Guadagnini) a suo tempo mi diceva : "ogni meglio &egrave; meglio".
+A223 - Un mio caro amico dei tempi dell'universit&agrave; (Alessio Guadagnini) a suo tempo mi diceva : &ldquo;ogni meglio &egrave; meglio&rdquo;.

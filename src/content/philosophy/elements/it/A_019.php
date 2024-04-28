@@ -1,1 +1,1 @@
-A19 - L'olio delle lattine (ad esempio dei funghi trifolati) oppure anche l'aceto dei vasetti di capperi si possono tranquillamente riutilizzare per condire l'insalata. Non &egrave; obbligatorio considerarli uno "scarto".
+A019 - L'olio delle lattine (ad esempio dei funghi trifolati) oppure anche l'aceto dei vasetti di capperi si possono tranquillamente riutilizzare per condire l'insalata. Non &egrave; obbligatorio considerarli uno &ldquo;scarto&rdquo;.

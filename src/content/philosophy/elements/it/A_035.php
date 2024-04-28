@@ -1,1 +1,1 @@
-A35 - Se dopo aver dormito ti risvegli alla mattina con un male terribile alla testa per via della pressione alta, ti consiglio di alzare il letto dalla parte della testa mettendo dei rialzi sotto le gambe del letto dalla parte della testa e se non basta di usare 2 cuscini.<br />
+A035 - Se dopo aver dormito ti risvegli alla mattina con un male terribile alla testa per via della pressione alta, ti consiglio di alzare il letto dalla parte della testa mettendo dei rialzi sotto le gambe del letto dalla parte della testa e se non basta di usare 2 cuscini.<br />

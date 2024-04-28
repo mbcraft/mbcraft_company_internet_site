@@ -1,1 +1,1 @@
-A514 - Non fate soffrire di fame le persone meritevoli, perchè è gravissimo.
+A514 - Non fate soffrire di fame le persone meritevoli, perch&egrave; &egrave; gravissimo.

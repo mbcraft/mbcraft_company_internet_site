@@ -1,1 +1,1 @@
-A23 - Non gettare "fumo negli occhi" alle persone. Confondere le idee appositamente alle persone &egrave; estremamente sbagliato.
+A023 - Non gettare &ldquo;fumo negli occhi&rdquo; alle persone. Confondere le idee appositamente alle persone &egrave; estremamente sbagliato.

@@ -1,2 +1,2 @@
-A7 - Nei castagneti &egrave; meglio raccogliere e portare via i gusci spinosi e lasciare le castagne ai cinghiali piuttosto che fare il contrario. <br />
+A007 - Nei castagneti &egrave; meglio raccogliere e portare via i gusci spinosi e lasciare le castagne ai cinghiali piuttosto che fare il contrario. <br />
 L'unica eccezione all'uso delle castagne raccolte dovrebbero essere i venditori ambulanti di caldarroste. <br />

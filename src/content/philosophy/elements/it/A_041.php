@@ -1,2 +1,2 @@
-A41 - Se decidi di farti togliere un dente dal tuo dentista ricordati di fartelo consegnare e di seppellirlo ai piedi di un albero.
+A041 - Se decidi di farti togliere un dente dal tuo dentista ricordati di fartelo consegnare e di seppellirlo ai piedi di un albero.
 Per seppellirlo una tecnica pu&ograve; essere quella di fare un buco verticale con un cacciavite, inserire il dente e riempire il buco con della sabbia. In questo modo l'intervento sar&agrave; il meno invasivo possibile per le radici dell'albero. <br />

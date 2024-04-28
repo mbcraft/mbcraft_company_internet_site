@@ -1,1 +1,1 @@
-A1 - Ogni luogo dove le persone possono vivere ha delle peculiarit&agrave; ed &egrave; importante capire che a luoghi diversi possono corrispondere stili di vita diversi. 
+A001 - Ogni luogo dove le persone possono vivere ha delle peculiarit&agrave; ed &egrave; importante capire che a luoghi diversi possono corrispondere stili di vita diversi. 

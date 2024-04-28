@@ -1,3 +1,3 @@
-A48 - A volte certe sensazioni nel corpo dipendono da solo da fattori che possono variare. <br />
+A048 - A volte certe sensazioni nel corpo dipendono da solo da fattori che possono variare. <br />
 Pu&ograve; capitare ad esempio di sentirsi eccitati sessualmente se abbiamo dell'urina nella vescica o di avere altre sensazioni se ad esempio abbiamo un po' di aria nella pancia. <br />
 Sensazioni che svaniscono al variare di questi fattori. Ad esempio se vi sentite eccitati sessualmente in piena notte e siete da soli, sappiate che la sensazione di eccitazione sessuale COPRE COMPLETAMENTE quella del bisogno di urinare. Per cui cercate di ricordarvi in quei momenti di provare ad andare a urinare perch&eacute; vi posso garantire che il 99,99% delle volte in quei casi lo stato di eccitazione sessuale &egrave; solo causato dalla presenza di batteri molesti nelle nostre urine. Ma sappiate che di questo, in quei momenti, &egrave; anche molto facile dimenticarsene.

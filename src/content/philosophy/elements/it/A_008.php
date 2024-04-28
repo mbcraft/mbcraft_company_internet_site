@@ -1,3 +1,3 @@
-A8 - Le lamentele superflue ci fanno perdere risorse (che vanno a chi le riceve). <br />
+A008 - Le lamentele superflue ci fanno perdere risorse (che vanno a chi le riceve). <br />
 Personalmente credo sia anche meglio evitare di imprecare contro l'universo anche se si &egrave; in solitudine.<br />
 Se vi capita di smarrire un oggetto in casa o di essere bloccati in qualcosa che non capite durante il lavoro &egrave; meglio non pensare a complotti mondiali contro di voi ma cercare di tenere duro fino a quando non arrivate a una soluzione.
