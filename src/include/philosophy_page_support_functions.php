@@ -1,7 +1,7 @@
 <?php
 
 $range_H_A = array('H',1,12,'black');
-$range_A_A = array('A',1,528,'black');
+$range_A_A = array('A',1,531,'black');
 $range_B_A = array('B',1,18,'black');
 $range_C_A = array('C',1,3,'black');
 $range_D_A = array('D',1,4,'black');
