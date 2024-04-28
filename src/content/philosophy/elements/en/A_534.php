@@ -1,0 +1,1 @@
+A_534 - The &ldquo;psychological sea&rdquo; is the abstract place in which the psyche is immersed and from which it often draws to function. Depending on the health and type of vegetation available, certain jobs, reasoning, and situations may be possible, ranging from &ldquo;very easily achievable&rdquo; to &ldquo;not achievable&rdquo;.

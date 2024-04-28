@@ -1,0 +1,1 @@
+A_534 - Il &ldquo;mare psicologico&rdquo; &egrave; il luogo astratto in cui la psiche &egrave; immersa e dai cui attinge spesso anche per funzionare. In base alla salute e alla tipologia di vegetazione disponibile, determinati lavori, ragionamenti e situazioni possono essere possibili, e vanno dal &ldquo;molto facilmente realizzabili&rdquo; al &ldquo;non realizzabili&rdquo;.
