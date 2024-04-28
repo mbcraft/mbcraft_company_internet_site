@@ -1,1 +1,1 @@
-A407 - "Blessed are the obese, because gaming is their kingdom..."
+A407 - &ldquo;Blessed are the obese, because gaming is their kingdom...&rdquo;

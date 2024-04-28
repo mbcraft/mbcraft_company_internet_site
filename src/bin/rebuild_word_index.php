@@ -40,6 +40,8 @@ function compute_token($token) {
 	$token = str_replace(":","",$token);
 	$token = str_replace("?","",$token);
 	$token = str_replace("\n","",$token);
+	$token = str_replace("&ldquo;"," ",$token);
+	$token = str_replace("&rdquo;"," ",$token);
 
 	$token = html_entity_decode($token);
 

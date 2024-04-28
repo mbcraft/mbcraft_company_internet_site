@@ -1,2 +1,2 @@
-A7 - In chestnut groves it is better to collect and take away the thorny shells and leave the chestnuts to the wild boars rather than doing the opposite. <br />
+A007 - In chestnut groves it is better to collect and take away the thorny shells and leave the chestnuts to the wild boars rather than doing the opposite. <br />
     The only exception to the use of harvested chestnuts should be roasted chestnuts street vendors. <br />

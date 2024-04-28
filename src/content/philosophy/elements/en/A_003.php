@@ -1,1 +1,1 @@
-A3 - Be kind to plants, animals and people. (in that order) <br />
+A003 - Be kind to plants, animals and people. (in that order) <br />

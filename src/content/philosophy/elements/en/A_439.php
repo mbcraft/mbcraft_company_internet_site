@@ -1,1 +1,1 @@
-A439 - "The night is meant for sleeping" (popular saying)
+A439 - &ldquo;The night is meant for sleeping&rdquo; (popular saying)

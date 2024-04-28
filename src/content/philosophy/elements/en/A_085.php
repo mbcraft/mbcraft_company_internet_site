@@ -1,1 +1,1 @@
-A85 - I have personally noticed that everything I write down on my smartphone (for example on the basic notes application) tends to be set aside and forgotten. Eventually write us all your thoughts of hatred for others if you have any, it could be a good way to get them out of your head.
+A085 - I have personally noticed that everything I write down on my smartphone (for example on the basic notes application) tends to be set aside and forgotten. Eventually write us all your thoughts of hatred for others if you have any, it could be a good way to get them out of your head.

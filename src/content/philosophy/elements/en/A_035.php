@@ -1,1 +1,1 @@
-A35 - If after sleeping you wake up in the morning with a terrible headache due to high blood pressure, I recommend that you raise the bed on the head side by putting raisers under the legs of the bed on the head side and if not enough, use 2 pillows. <br />
+A035 - If after sleeping you wake up in the morning with a terrible headache due to high blood pressure, I recommend that you raise the bed on the head side by putting raisers under the legs of the bed on the head side and if not enough, use 2 pillows. <br />

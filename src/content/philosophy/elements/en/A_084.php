@@ -1,1 +1,1 @@
-A84 - A friend of mine (Noanda Tania Moroni) suggested me to use magnesium-potassium supplements in case of problems with nervous breakdowns. I can confirm that even after just a single use I have noticed drastic health improvements in this regard.
+A084 - A friend of mine (Noanda Tania Moroni) suggested me to use magnesium-potassium supplements in case of problems with nervous breakdowns. I can confirm that even after just a single use I have noticed drastic health improvements in this regard.

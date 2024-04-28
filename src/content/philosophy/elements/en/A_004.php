@@ -1,4 +1,4 @@
-A4 - Remember to leave some organic fertilizer for the trees in your garden and avoid pruning them unless they block the path. <br />
+A004 - Remember to leave some organic fertilizer for the trees in your garden and avoid pruning them unless they block the path. <br />
 It is better not to leave the fruit to rot at the foot of the trees, it is better to collect it to feed it to animals rather than rot it. <br />
 Not even unripe fruit should be left at the foot of the trees. Certain unripe fruits that are removed when fruit trees thin out can be used industrially to make other foods <br />
 (For example, unripe plums should be great for making supplements as they contain a lot of minerals). <br />

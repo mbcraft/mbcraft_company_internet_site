@@ -1,1 +1,1 @@
-A40 - I have devised an innovative way to fertilize trees and plants in general. By purchasing volcanic lapilli (found in gardening shops) and crumbling them you can obtain a powder to be mixed with water and thus obtain a liquid fertilizer. <br />
+A040 - I have devised an innovative way to fertilize trees and plants in general. By purchasing volcanic lapilli (found in gardening shops) and crumbling them you can obtain a powder to be mixed with water and thus obtain a liquid fertilizer. <br />

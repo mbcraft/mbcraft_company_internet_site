@@ -1,1 +1,1 @@
-A495 - Plastic Easter egg capsules can be reused to make "time capsules". If you use them this way be careful not to damage the tree roots by trying to bury them far enough away from any trunk. A possible use could also be to insert mineral specimens inside them.
+A495 - Plastic Easter egg capsules can be reused to make &ldquo;time capsules&rdquo;. If you use them this way be careful not to damage the tree roots by trying to bury them far enough away from any trunk. A possible use could also be to insert mineral specimens inside them.

@@ -1,1 +1,1 @@
-A190 - When you take a photo of other people, instead of always using the usual word "cheese", I recommend using a random word chosen on the spot.
+A190 - When you take a photo of other people, instead of always using the usual word &ldquo;cheese&rdquo;, I recommend using a random word chosen on the spot.
