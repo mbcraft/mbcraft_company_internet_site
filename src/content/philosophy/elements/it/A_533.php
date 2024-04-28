@@ -1,0 +1,1 @@
+A533 - Nonostante sia importante saper essere gentili, a volte è anche necessario "sbattere la porta in faccia" alle persone, sperando che queste possano riflettere meglio e capire i loro errori. Questo modo di dire indica (nella lingua italiana) l'interruzione e il blocco delle comunicazioni e spesso anche del rapporto di amicizia e non va inteso in senso letterale. 
