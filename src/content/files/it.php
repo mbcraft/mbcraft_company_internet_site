@@ -25,7 +25,7 @@ ob_start();
         <li>Cucina in due fasi - versione 1.0 (<a href="/downloads/cucina_in_due_fasi.html" download>DOWNLOAD GRATUITO [HTML]</a>)</li>
         <li>Tubature per la luce - versione 1.1 (<a href="/downloads/tubature_per_la_luce.html" download>DOWNLOAD GRATUITO [HTML]</a>)</li>
         <li>Cerimonie - versione 1.5 (<a href="/downloads/cerimonie.html" download>DOWNLOAD GRATUITO [HTML]</a>)</li>
-        <li>Giochi all'aperto - Versione 1.0 (<a href="/downloads/giochi_all_aperto.html" download>DOWNLOAD GRATUITO [HTML]</a>)</li>
+        <li>Giochi all'aperto - Versione 1.1 (<a href="/downloads/giochi_all_aperto.html" download>DOWNLOAD GRATUITO [HTML]</a>)</li>
         <li>Logo standard per le form di feedback da posizionare nel footer della pagina iniziale dei sito internet (<a href="/downloads/feedback_form_standard_logo.svg" download>DOWNLOAD GRATUITO [SVG]</a>) (<a href="/downloads/feedback_form_standard_logo.png" download>DOWNLOAD GRATUITO [PNG]</a>) </li>
         <li>Simboli alternativi grezzi per i caratteri esadecimali (<a href="/downloads/rough_hexadecimal_alternate_symbols.zip" download>DOWNLOAD GRATUITO [ZIP]</a>)</li>
         <li>Tecnica di gestione del sonno - R.C.D.O. (<a href="/downloads/tecnica_gestione_sogno.html" download>DOWNLOAD</a>)</li>
