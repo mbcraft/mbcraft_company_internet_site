@@ -1,1 +1,1 @@
-A187 - E' importante gattonare un poco almeno una volta alla settimana.
+A187 - &Egrave; importante gattonare un poco almeno una volta alla settimana.

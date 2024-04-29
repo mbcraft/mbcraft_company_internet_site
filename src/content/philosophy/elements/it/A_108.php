@@ -1,1 +1,1 @@
-A108 - E' importante essere amici di se stessi, volersi bene e non odiarsi.
+A108 - &Egrave; importante essere amici di se stessi, volersi bene e non odiarsi.

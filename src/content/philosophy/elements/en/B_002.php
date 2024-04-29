@@ -1,1 +1,1 @@
-B2 - Sometimes it may seem that "cheating" can save time. It's actually quite the opposite, dishonesty wastes time.
+B002 - Sometimes it may seem that &ldquo;cheating&rdquo; can save time. It's actually quite the opposite, dishonesty wastes time.

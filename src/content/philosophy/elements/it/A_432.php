@@ -1,1 +1,1 @@
-A432 - E' meglio non chiedere del sesso in modo criminale alla natura.
+A432 - &Egrave; meglio non chiedere del sesso in modo criminale alla natura.

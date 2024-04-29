@@ -1,1 +1,1 @@
-A280 - E' importante fare almeno 10 minuti di ginnastica al giorno, perch&egrave; anche solo quelli sono pi&ugrave; che sufficienti a migliorare di molto la salute. 
+A280 - &Egrave; importante fare almeno 10 minuti di ginnastica al giorno, perch&egrave; anche solo quelli sono pi&ugrave; che sufficienti a migliorare di molto la salute. 

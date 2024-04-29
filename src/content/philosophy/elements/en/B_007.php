@@ -1,1 +1,1 @@
-B7 - As for the nutrition, know that if you adopt a plant based or fruitarian nutrition your body will begin to bubble with energy, and being able to control this energy may not be trivial at all. It is important to behave responsibly.
+B007 - As for the nutrition, know that if you adopt a plant based or fruitarian nutrition your body will begin to bubble with energy, and being able to control this energy may not be trivial at all. It is important to behave responsibly.

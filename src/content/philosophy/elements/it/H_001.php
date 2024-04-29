@@ -1,5 +1,5 @@
 <div class="note">
-H1 - Per quanto riguarda le condizioni d'uso di quanto fornito tramite questa pagina o le relative API, i documenti nella sezione files e gli ebooks (che hanno pagamenti e requisiti addizionali), questi sono i termini e condizioni esposti brevemente :
+H001 - Per quanto riguarda le condizioni d'uso di quanto fornito tramite questa pagina o le relative API, i documenti nella sezione files e gli ebooks (che hanno pagamenti e requisiti addizionali), questi sono i termini e condizioni esposti brevemente :
 <ul>
 	<li>Utilizzo per la propria vita personale - OK - Nessun pagamento obbligatorio richiesto</li>
 	<li>Utilizzo per sperimentazioni, scrittura e vendita di libri o ebook sulle proprie esperienze in merito - OK</li>

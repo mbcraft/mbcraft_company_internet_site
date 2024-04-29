@@ -1,1 +1,1 @@
-A528 - E' risaputo che l'acqua clorata non &egrave; adatta per innaffiare le piante, se possibile usate acqua filtrata, acqua piovana, acqua di pozzi o acqua minerale, in quanto dovrebbe essere meglio dell'uso dell'acqua del rubinetto non filtrata.
+A528 - &Egrave; risaputo che l'acqua clorata non &egrave; adatta per innaffiare le piante, se possibile usate acqua filtrata, acqua piovana, acqua di pozzi o acqua minerale, in quanto dovrebbe essere meglio dell'uso dell'acqua del rubinetto non filtrata.

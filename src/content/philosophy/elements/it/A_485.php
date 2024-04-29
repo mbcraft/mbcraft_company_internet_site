@@ -1,1 +1,1 @@
-A485 - Le graffette si possono usare anche agganciare fra loro. Io ad esempio con una scatolina di graffette ci ho realizzato una collana. E' solo un esempio. 
+A485 - Le graffette si possono usare anche agganciare fra loro. Io ad esempio con una scatolina di graffette ci ho realizzato una collana. &Egrave; solo un esempio. 

@@ -1,1 +1,1 @@
-A488 - E' importante non assediare le persone e rapportarsi sempre con gentilezza.  
+A488 - &Egrave; importante non assediare le persone e rapportarsi sempre con gentilezza.  

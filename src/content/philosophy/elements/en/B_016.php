@@ -1,1 +1,1 @@
-B16 - It is also important to remember that plants, animals and people are not objects. It may seem trivial, but if you keep it in mind you realize that sometimes some of the reasoning we do violates this principle.
+B016 - It is also important to remember that plants, animals and people are not objects. It may seem trivial, but if you keep it in mind you realize that sometimes some of the reasoning we do violates this principle.

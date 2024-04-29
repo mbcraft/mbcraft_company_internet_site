@@ -1,5 +1,5 @@
 <div class="note">
-	H1 - As regards the conditions of use of what is provided via this page or the related APIs, the documents in the 'files' section and the ebooks (that have specific additional payments and requirements), these are the terms and conditions briefly set out :
+	H001 - As regards the conditions of use of what is provided via this page or the related APIs, the documents in the 'files' section and the ebooks (that have specific additional payments and requirements), these are the terms and conditions briefly set out :
 	<ul>
 		<li>Use for your personal life - OK - No mandatory payment required</li>
 		<li>Use for experimentation, writing and sale of books or ebooks on one's experiences in this regard - OK</li>

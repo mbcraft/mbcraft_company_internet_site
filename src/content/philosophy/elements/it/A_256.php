@@ -1,1 +1,1 @@
-A256 - E' abbastanza comune che esistano altre persone col nostro stesso nome e cognome, e che esistano persone con un aspetto fisico abbastanza simile al nostro (sosia). Questo a volte vale anche per i nomi delle aziende.
+A256 - &Egrave; abbastanza comune che esistano altre persone col nostro stesso nome e cognome, e che esistano persone con un aspetto fisico abbastanza simile al nostro (sosia). Questo a volte vale anche per i nomi delle aziende.
