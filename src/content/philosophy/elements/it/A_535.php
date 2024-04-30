@@ -1,0 +1,1 @@
+A535 - Non &egrave; un reato commerciare escrementi di persone stimate o animali diversi da quelli utilizzati per produrre usualmente fertilizzante localmente : anzi, &egrave; pi&ugrave; intelligente di quello che sembra. I barattoli in vetro, come contenitori, dovrebbero andare bene (per piccole quantit&agrave;). 

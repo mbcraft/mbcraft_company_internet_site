@@ -1,0 +1,1 @@
+A_536 - Probabilmente comporta una certa fatica ripulire il linguaggio e la cultura popolare dalle ambiguit&agrave; e migliorarlo : &egrave; effettivamente un lavoro, ma &egrave; comunque un lavoro che ha valore.
