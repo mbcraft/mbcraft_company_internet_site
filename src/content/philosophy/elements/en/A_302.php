@@ -1,0 +1,1 @@
+A302 - For the care of potted plants it is also possible to use the toothbrush used for teeth (to give massages to succulents), dental floss (to caress the thorns of cacti) and the red flashing lights used for bicycles , to make the plants experience a different light. In some cases certain plants also need to be cleaned of dust.
