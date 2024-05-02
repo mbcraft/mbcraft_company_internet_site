@@ -37,6 +37,7 @@ ob_start();
         <li><a href="https://a.co/d/eCkR9lW">Thoughts in pills - 2 - The therapies of the elements</a></li>
         <li><a href="https://a.co/d/1F2DdjQ">Thoughts in pills - 3 - About books</a></li>
         <li><a href="https://a.co/d/2r4aHen">Thoughts in pills - 4 - Our hands</a></li>
+        <li><a href="https://a.co/d/arMGHFz">Thoughts in pills - 5 - Temples, mosques and churches</a></li>
     </ul>
     </h3>
 </div>
