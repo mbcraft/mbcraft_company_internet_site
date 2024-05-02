@@ -1,0 +1,1 @@
+A299 - Le donne molto formose hanno la possibilit&agrave; di nascondere alcune tipologie di piccoli oggetti in mezzo ai loro seni. Questo permette a loro in determinati casi di avere una maggiore privacy, ma anche di sviluppare il loro intelletto. Ovviamente questi oggetti vanno scelti con intelligenza e non &egrave; detto che non possano essere anche realizzati ad hoc. 
