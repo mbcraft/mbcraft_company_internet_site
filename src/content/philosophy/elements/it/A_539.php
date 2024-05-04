@@ -1,1 +1,1 @@
-A_539 - 
+A539 - Per quanto riguarda le perdite di sangue dal naso fermate col cotone idrofilo e i tamponi vaginali, una volta terminato l'uso, anzich&egrave; buttarli &egrave; possibile spremerli in un mezzo bicchiere d'acqua (minerale o filtrata) da usare come fertilizzante per piante o alberi. 
