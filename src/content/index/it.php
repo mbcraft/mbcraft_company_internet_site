@@ -6,6 +6,9 @@ $description = "MBCRAFT è un'azienda unipersonale che lavora nella ricerca e sv
 $keywords = "mbcraft, azienda";
 
 ob_start();
+
+require_once ("include/site_variables.php");
+
 ?>
 <div align='center' style="padding-top: 30px;">
     <div style="padding:30px;">Benvenuto nel sito web di</div>
@@ -19,9 +22,21 @@ ob_start();
     <?php 
         include('_background_list.php'); 
     ?>
+    <?php
+    if (!$is_open) {
+    ?>
+    <span style="font-size: 40px;font-weight: bold;">NON ENTRARE !</span>
+    <br />
+    <img src="/images/misc/skull_and_bones.png" width="100"/>
+    <br />
+    <span style="font-size: 20px;font-weight: bold;">( QUESTO SITO INTERNET &Egrave; CHIUSO )</span>
+    <br />
+    <?php
+    }
+    ?>
     <form method="POST" name="background_enter_form" action="/home.php">
         <input id="BACKGROUND" type="hidden" name="BACKGROUND" value="white" />
-        <input class="enter_button" type="submit" value="Entra" />
+        <input class="enter_button" type="submit" value="Entra" <?=$is_open ? '' : 'disabled'?>/>
     </form>
 </div>
     <br />
@@ -30,6 +45,7 @@ ob_start();
     </div>
     <br />
     <br />
+
 
 <?php
 $content = ob_get_contents();
