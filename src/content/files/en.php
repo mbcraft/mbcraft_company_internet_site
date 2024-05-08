@@ -29,6 +29,7 @@ ob_start();
         <li>Standard logo for feedback form to put in index/home page footer of internet sites (<a href="/downloads/feedback_form_standard_logo.svg" download>FREE DOWNLOAD [SVG]</a>) (<a href="/downloads/feedback_form_standard_logo.png" download>FREE DOWNLOAD [HTML]</a>) </li>
         <li>Alternative rough symbols for hexadecimal characters (<a href="/downloads/rough_hexadecimal_alternate_symbols.zip" download>FREE DOWNLOAD [ZIP]</a>)</li>
         <li>Dream management tecnique - C.B.H.F.D. (<a href="/downloads/dream_management_tecnique.html" download>DOWNLOAD</a>)</li>
+        <li>Concept for an electric collection wagon (<a href="/downloads/electric_collection_wagon_concept.html" download>DOWNLOAD</a>)</li>
     </ul>
     <hr />
     Ebook for sale on Amazon (they can be read also using a browser on a computer) (always read the description before evaluating the purchase) :
