@@ -73,7 +73,7 @@ function compute_token($token) {
 
 function get_all_words_from_element($lang,$element_id) {
 
-	$NOT_ACTUALLY_WORDS = array('Abigail','Ratchford','Marco','Mazzotti','Jordan','Carver','Leanne','Crow');
+	$NOT_ACTUALLY_WORDS = array('Abigail','Ratchford','Marco','Mazzotti','Jordan','Carver','Leanne','Crow','Ikea');
 
 	$content = get_element_content($lang,get_formatted_element_id($element_id));
 
