@@ -1,0 +1,1 @@
+A544 - People don't multitask, so having them work on many different projects in rotation is considered a big waste of resources for companies. Keeping those who work on a project on that project, on the contrary, allows it to be improved in the best and most efficient way possible. Many projects often "die" because those who built them are "scrapped" by their employers.
