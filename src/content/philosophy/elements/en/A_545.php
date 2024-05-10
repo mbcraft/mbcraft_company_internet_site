@@ -1,0 +1,9 @@
+A545 - As for used coffee capsules, countryside locations are the ideal place to "process" them, as there are numerous trees that can be fertilized. As regards the procedure to be used, you can proceed as follows:
+<ul>
+	<li>Using a container for empty capsules and one for used coffee powder, clean the capsules by opening them with a tool. Depending on the size of the capsule, you need to use a different tool: for the aluminum-coated capsules with a larger diameter on average, a sharp kitchen knife is fine, while for the narrower ones with a plastic or paper coating you might be better off with a spatula. bricklayer with a tip smaller than the diameter of the cap.</li>
+	<li>The powder obtained often has numerous lumps that would need to be pulverized: you can use a basin and a large stone to obtain powder without lumps.</li>
+	<li>At this point the powder can already be used as a fertilizer, leaving it at the foot of the trees, or used as a component to produce more elaborate fertilizers (for example by mixing it with ash if you have some or other types of fertilizers). If you make mixtures, remember to mix them well so that they are uniform.</li>
+	<li>As regards the empty capsules, being made of plastic or plastic and aluminium, you can dispose of them in the appropriate recycling bins (based on the provisions of local waste disposal companies).</li>
+</ul>
+<br />
+Note: Since so many actually use coffee machines with capsules, there are potentially very high volumes of capsules to process even in fairly small cities, if you can collect them from various users. It can become a full-fledged job.

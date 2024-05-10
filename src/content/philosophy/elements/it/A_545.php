@@ -1,0 +1,9 @@
+A545 - Per quanto riguarda le capsule del caff&egrave; usate le localit&agrave; di campagna sono il luogo ideale dove "processarle", in quanto sono presenti numerosi alberi che si possono fertilizzare. Per quanto riguarda il procedimento da utilizzare potete procedere come segue :
+<ul>
+	<li>Utilizzando un contenitore per le capsule vuote e uno per la polvere del caff&egrave; usata, ripulite le capsule aprendole con un utensile. A seconda della dimensione della capsula bisogna usare un utensile differente : per le capsule con il rivestimento in alluminio dal diametro mediamente pi&ugrave; grande va bene un coltello da cucina appuntito, mentre per quelle pi&ugrave; strette con rivestimento in plastica o carta potreste andar meglio con una spatolina da muratore con una punta di dimensione inferiore al diametro della capsula.</li>
+	<li>La polvere ottenuta presenta spesso numerosi grumi che sarebbero da polverizzare : potete usare un catino e una grossa pietra per ottenere della polvere senza grumi.</li>
+	<li>A questo punto la polvere pu&ograve; gi&agrave; essere usata come fertilizzante, lasciandola ai piedi degli alberi, o usata come componente per produrre fertilizzanti pi&ugrave; elaborati (ad esempio mescolandola con della cenere se ne avete o altri tipi di fertilizzanti). Se fate delle miscele ricordatevi di mescolarle bene in modo che siano uniformi.</li>
+	<li>Per quanto riguarda le capsule vuote, essendo realizzate in plastica o plastica e alluminio, le potete smaltire negli appositi bidoni della raccolta differenziata (in base alle disposizioni delle aziende di smaltimento rifiuti locali).</li>
+</ul> 
+<br />
+Nota : siccome moltissimi in realt&agrave; usano le macchinette del caff&egrave; con le capsule, potenzialmente ci sono volumi molto elevati di capsule da processare anche in citt&agrave; abbastanza piccole, se riuscite a raccoglierle dai vari utenti. Pu&ograve; diventare un lavoro a tutti gli effetti.
