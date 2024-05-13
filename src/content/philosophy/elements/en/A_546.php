@@ -1,0 +1,1 @@
+A_546 - If, as far as work in the company is concerned, job rotation and multitasking are quite disastrous from the point of view of results, as far as personal life is concerned, a little exploration and a little job rotation can be very beneficial for the psyche. It's enough to do at least a little every now and then, there's no need to completely swap tasks.

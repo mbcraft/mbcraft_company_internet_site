@@ -7,7 +7,6 @@ $keywords = "mbcraft, fun";
 
 ob_start();
 ?>
-<br /><br /><br />
 <h2>
 	Here are the actually available links. New memes are added on the bottom of the list. I recommend viewing <b>no more than one meme</b> a day and <b>follow the order</b> starting from the first. Over time some memes may become deprecated.<br />
 	If you view these memes on a smartphone, rotating your phone can improve their visualization. Some memes are translations of the Italian versions, while some are available only in English. Some Italian memes are not translatable. These memes are not meant to be used as a way to hurt people or companies somewhat involved. <b>NOTE: however, pay attention to any respiratory crises, in some cases they personally made me laugh a lot. I do not take responsibility for problems resulting from excessive laughter. They are indicated if you feel quite depressed.</b> These memes are placed here FOR ADVERTISING PURPOSES as I can't afford anything else.
@@ -30,7 +29,7 @@ ob_start();
 		<li><a href="/pages/everything_eng.php">15</a></li>
 		<li><a href="/pages/meme_portavalori_eng.php">16</a></li>
 		<li><a href="/pages/dont_kill_ita_eng.php">17</a></li>
-		<li><a href="/pages/dont_bear_false_witness_eng.php">18</a>
+		<li><a href="/pages/dont_bear_false_witness_eng.php">18</a></li>
 		<li><a href="/pages/god_against_ash_eng.php">19</a></li>
 		<li><a href="/pages/ladri_eng.php">20</a></li>
 		<li><a href="/pages/condimento_eng.php">21</a></li>
@@ -52,10 +51,23 @@ ob_start();
 	</ul>
 </span>
 </h2>
-<br />
-<br />
-<br />
-
+<hr />
+<h1>+ Gaming +</h1>
+<h2>- Shadow of the Tomb Raider</h2>
+<h2>Game text and dialogs in English and comments in Italian. I'm planning a full English subtitling but i can't afford it now. Here is what i can share now ...</h2>
+<h2>
+	<span class="brief">
+		<ul>
+			<li><a href="https://youtu.be/uqdvqVpVXck">1</a></li>
+			<li><a href="https://youtu.be/Dn1qDSJRkGw">2</a></li>
+			<li><a href="https://youtu.be/2o7yXxMOJ78">3</a></li>
+			<li><a href="https://youtu.be/ndcOIBHr8s4">4</a></li>
+			<li><a href="https://youtu.be/gymFUNKjZIc">5</a></li>
+			<li><a href="https://youtu.be/yYUn6PtSOg0">6</a></li>
+			<li>...</li>
+		</ul>
+	</span>
+</h2>
 <?php
 
 $content = ob_get_contents();

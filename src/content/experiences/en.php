@@ -111,6 +111,21 @@ Reading, meditation, observation and care of plants and trees, gardening, litter
 <br /><br />
 (thanks to Google Translate for this translation)    
 </section>
+<hr />
+<h1>+ Gaming +</h1>
+<h2>- Celeste</h2>
+<ul>
+    <li><a href="https://youtu.be/PVZ_OE7aZB8">1</a></li>
+    <li><a href="https://youtu.be/dQlylAYTzrQ">2</a></li>
+    <li><a href="https://youtu.be/PDJVeCOAql4">3</a></li>
+    <li><a href="https://youtu.be/N7TErZvU2CM">4</a></li>
+    <li><a href="https://youtu.be/qKFuC-CD4K4">5</a></li>
+    <li><a href="https://youtu.be/THyPNCnPPfY">6</a></li>
+</ul>
+<h2>- Absolute Drift : Zen Edition -</h2>
+<ul>
+    <li><a href="https://youtu.be/caAI4YxEkM4">1</a></li>
+</ul>
 <?php
 $content = ob_get_contents();
 ob_end_clean();

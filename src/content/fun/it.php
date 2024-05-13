@@ -7,10 +7,11 @@ $keywords = "mbcraft, divertimento";
 
 ob_start();
 ?>
-<br /><br /><br />
 <h2>
 	Questi sono i link attualmente disponbili. I nuovi meme vengono aggiunti in fondo alla lista. Raccomando la visualizzazione di <b>non pi&ugrave; di un meme</b> al giorno e di <b>seguire l'ordine</b> partendo dal primo. Col passare del tempo alcuni meme potrebbero diventare deprecati.<br />
 	Se visualizzate i meme su smartphone ruotare il telefono potrebbe migliorarne la visualizzazione. Questi meme non sono un modo per offendere aziende o persone in essi coinvolti. <b>NOTA : fate attenzione comunque ad eventuali crisi respiratorie, a me personalmente in certi casi hanno fatto ridere tantissimo. Non mi assumi responsabilit&agrave; per problemi derivanti da eccessi di risate. Sono indicati se vi sentite abbastanza depressi.</b> Questi meme sono inseriti qui A SCOPO PUBBLICITARIO in quanto non posso permettermi altro.
+</h2>
+<h2>
 <span class="brief">
 	<ul>
 		<li><a href="/pages/anti_gravita_ita.php">1 - DEPRECATO</a></li>
@@ -34,7 +35,7 @@ ob_start();
 		<li><a href="/pages/meme_portavalori_ita.php">19</a></li>
 		<li><a href="/pages/primi_ita.php">20</a></li>
 		<li><a href="/pages/dont_kill_ita_eng.php">21</a></li>
-		<li><a href="/pages/dont_bear_false_witness_ita.php">22</a>
+		<li><a href="/pages/dont_bear_false_witness_ita.php">22</a></li>
 		<li><a href="/pages/god_against_ash_ita.php">23</a></li>
 		<li><a href="/pages/ladri_ita.php">24</a></li>
 		<li><a href="/pages/evasione_ita.php">25</a></li>
@@ -51,16 +52,29 @@ ob_start();
 		<li><a href="/pages/meme_summary_last_christmas_ita.php">36</a></li>
 		<li><a href="/pages/meme_matrix_air_ita.php">37</a></li>
 		<li><a href="/pages/meme_satana_ita.php">38</a></li>
-		<li><a href="/pages/cuneo_ita.php">39</a>
+		<li><a href="/pages/cuneo_ita.php">39</a></li>
 		<li><a href="/pages/meme_digital_license_ita.php">40</a></li>
 		<li><a href="/pages/mutuo_ita.php">41</a></li>
 	</ul>
 </span>
 </h2>
-<br />
-<br />
-<br />
-
+<hr />
+<h1>+ Gaming +</h1>
+<h2>- Shadow of the Tomb Raider</h2>
+<h2>Testi e dialoghi del gioco in inglese e commenti in italiano. Sono richieste un po' di nozioni di Inglese per capire i testi e i dialoghi del gioco ...</h2>
+<h2>
+	<span class="brief">
+		<ul>
+			<li><a href="https://youtu.be/uqdvqVpVXck">1</a></li>
+			<li><a href="https://youtu.be/Dn1qDSJRkGw">2</a></li>
+			<li><a href="https://youtu.be/2o7yXxMOJ78">3</a></li>
+			<li><a href="https://youtu.be/ndcOIBHr8s4">4</a></li>
+			<li><a href="https://youtu.be/gymFUNKjZIc">5</a></li>
+			<li><a href="https://youtu.be/yYUn6PtSOg0">6</a></li>
+			<li>...</li>
+		</ul>
+	</span>
+</h2>
 <?php
 
 $content = ob_get_contents();
