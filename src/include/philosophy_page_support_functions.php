@@ -6,8 +6,10 @@ $range_B_A = array('B',1,18,'black');
 $range_C_A = array('C',1,3,'black');
 $range_D_A = array('D',1,4,'black');
 $range_T_A = array('T',1,3,'black');
+$range_Z_A = array('Z',1,2,'black');
 
-$all_ranges = array($range_H_A,$range_A_A,$range_B_A,$range_C_A,$range_D_A,$range_T_A);
+
+$all_ranges = array($range_H_A,$range_A_A,$range_B_A,$range_C_A,$range_D_A,$range_T_A,$range_Z_A);
 
 function get_formatted_element_id($element_specification) {
     $parts = explode("_",$element_specification);
