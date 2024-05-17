@@ -30,6 +30,7 @@ ob_start();
         <li>Simboli alternativi grezzi per i caratteri esadecimali (<a href="/downloads/rough_hexadecimal_alternate_symbols.zip" download>DOWNLOAD GRATUITO [ZIP]</a>)</li>
         <li>Tecnica di gestione del sonno - R.C.D.O. (<a href="/downloads/tecnica_gestione_sogno.html" download>DOWNLOAD</a>)</li>
         <li>Concept per un carro raccolta elettrico (<a href="/downloads/concept_carro_raccolta_elettrico.html" download>DOWNLOAD</a>)</li>
+        <li>Concept per delle nuvole ombra artificiali (<a href="/downloads/nuvole_ombra_artificiali.html" download>DOWNLOAD</a>)</li>
     </ul>
     <hr />
     Ebook in vendita su Amazon (si possono leggere anche tramite browser su computer) (leggere sempre la descrizione prima di valutare l'acquisto) :
