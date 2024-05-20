@@ -14,6 +14,8 @@ include_once("include/meta.php");
 include_once("include/begin_content_with_language_switches.php");
 include_once("include/menu.php");
 include_once("include/top_poem.php");
+
+define('FEEDBACK_FORM_PAGE',true);
 ?>
 <div id="main_content" class="content">
     <div class="box_large">

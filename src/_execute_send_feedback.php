@@ -6,6 +6,8 @@ $captcha_is_valid = validate_numeric_captcha('MBCRAFT');
 
 if ($captcha_is_valid) {
 
+	define('FEEDBACK_FORM_PAGE',true);
+
 	$language = filter_input(INPUT_POST,'language');
 	$page = filter_input(INPUT_POST,'page');
 	$reference = filter_input(INPUT_POST,'reference');
@@ -27,18 +29,14 @@ include_once("include/begin_html.php");
 if ($captcha_is_valid)
 	require_once("content/feedback_thank_you/".$lang.".php");
 else
-	require_once("content/feedback_not_ok/".$lang.".php");
+	require_once("content/feedback_send_error/".$lang.".php");
 
 include_once("include/meta.php");
-include_once("include/begin_content_with_language_switches.php");
 include_once("include/menu.php");
-include_once("include/top_poem.php");
 ?>
 <div id="main_content" class="content">
     <div class="box_large">
-        <form name="send_feedback" method="POST" action="/_execute_send_feedback.php">
-            <?=$content ?>
-        </form>
+        <?=$content ?>
     </div>
 </div>
 <?php
