@@ -1,0 +1,48 @@
+<?php
+
+$title_suffix = "Feedback";
+
+$description = "Send a feedback about a content of this internet site.";
+$keywords = "feedback, errors or problems found, MBCRAFT";
+
+ob_start();
+?>
+            <input type="hidden" id="language" name="language" value="English">
+            <h2>
+            <label for="page">Page or section in which you found some problems or errors :</label>
+            </h2>
+            <h3>
+            <input type="radio" id="page_philosophy" name="page" value="Filosofia">
+            <label for="page_philosophy">Philosophy</label>
+            <input type="radio" id="page_fun" name="page" value="Divertimento">
+            <label for="page_philosophy">Fun</label>
+            <input type="radio" id="page_files" name="page" value="File">
+            <label for="page_philosophy">File</label>
+            <input type="radio" id="page_other" name="page" value="Altro">
+            <label for="page_philosophy">Other</label>
+            </h3>
+            <h2>
+            <label for="reference">Reference to the item (alphanumeric id, document name ...) :</label>
+            </h2>
+            <input type="text" name="reference">
+            <h2>
+            <label for="description">Description of problem (if necessary to include or you're willing to write it) :</label>
+            </h2>
+            <textarea id="description" name="description" rows="10" cols="80"></textarea>
+            <h2>            
+            <label for="email">Codice di controllo (inserisci nel campo sottostante) : <span style="font-weight:bold;color:orange;"><?=$captcha_html ?></span> *</label>
+            </h2>
+            <input type="text" name="control_code" value="" required>
+            <input type="hidden" name="hidden_control_code_check" value="<?=$hidden_control_code_check ?>" />
+            <br />
+            <br />
+            <h2>
+            <div align="center">
+                <button type="submit">Send feedback</button>
+            </div>
+            </h2>
+<?php
+$content = ob_get_contents();
+ob_end_clean();
+
+?>
