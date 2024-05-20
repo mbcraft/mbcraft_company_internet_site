@@ -31,6 +31,7 @@ ob_start();
         <li>Tecnica di gestione del sonno - R.C.D.O. (<a href="/downloads/tecnica_gestione_sogno.html" download>DOWNLOAD</a>)</li>
         <li>Concept per un carro raccolta elettrico (<a href="/downloads/concept_carro_raccolta_elettrico.html" download>DOWNLOAD</a>)</li>
         <li>Concept per delle nuvole ombra artificiali (<a href="/downloads/nuvole_ombra_artificiali.html" download>DOWNLOAD</a>)</li>
+        <li>Idea per un servizio di consegna del cibo a domicilio standardizzato (<a href="/downloads/idea_gestione_consegna_cibo_domicilio_standardizzata.html" download>DOWNLOAD</a>)</li>
     </ul>
     <hr />
     Ebook in vendita su Amazon (si possono leggere anche tramite browser su computer) (leggere sempre la descrizione prima di valutare l'acquisto) :

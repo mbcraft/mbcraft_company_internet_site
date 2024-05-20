@@ -31,6 +31,7 @@ ob_start();
         <li>Dream management tecnique - C.B.H.F.D. (<a href="/downloads/dream_management_tecnique.html" download>DOWNLOAD</a>)</li>
         <li>Concept for an electric collection wagon (<a href="/downloads/electric_collection_wagon_concept.html" download>DOWNLOAD</a>)</li>
         <li>Concept for artificial shadow clouds (<a href="/downloads/artificial_shadow_clouds.html" download>DOWNLOAD</a>)</li>
+        <li>Idea for a standardized food delivery service (<a href="/downloads/idea_for_standardized_food_delivery_service.html" download>DOWNLOAD</a>)</li>
     </ul>
     <hr />
     Ebook for sale on Amazon (they can be read also using a browser on a computer) (always read the description before evaluating the purchase) :
