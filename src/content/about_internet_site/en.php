@@ -11,7 +11,7 @@ $keywords = "internet site, hosting, MBCRAFT";
     <br />
     <div class="box_large">
 		<h3>
-			<span style="color:green;">This website is responsive and its textual contents are also easily visible and accessible from smartphones.</span><br />
+			<span style="color:green;">This internet site is responsive and its textual contents are also easily visible and accessible from smartphones.</span><br />
 			<span style="color:red;">There is no cookie banner as there are only technical cookies.<br /> There are no visit counters.</span>
 		    <br />
 		    The internet site <a href="https://www.mbcraft.it">www.mbcraft.it</a> is hosted on DFDT (Italy) and is the main (production) internet site.

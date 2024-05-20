@@ -1,1 +1,1 @@
-A184 - Non spoilerate film, giochi, eventi o fumetti : lo spoiler &egrave; un crimine. Non guardate i finali dei giochi su siti web di video streaming. La pirateria &egrave; un reato. I walkthrough e gli aiuti per superare i punti problematici invece sono accettabili.
+A184 - Non spoilerate film, giochi, eventi o fumetti : lo spoiler &egrave; un crimine. Non guardate i finali dei giochi su siti internet di video streaming. La pirateria &egrave; un reato. I walkthrough e gli aiuti per superare i punti problematici invece sono accettabili.

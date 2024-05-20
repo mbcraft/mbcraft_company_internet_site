@@ -10,7 +10,7 @@ ob_start();
 <br /><br /><br />
 <h2>
 <span class="brief">
-MBCRAFT lavora nella ricerca e sviluppo, realizzando framework, librerie software, componenti software, siti web, software gestionali, backend di app, integrazioni software o progetti software su commissione.
+MBCRAFT lavora nella ricerca e sviluppo, realizzando framework, librerie software, componenti software, siti internet, software gestionali, backend di app, integrazioni software o progetti software su commissione.
 <br /><br />
 Ci occupiamo sia della fase di analisi dei requisiti che della progettazione, dello sviluppo e dei test e deploy dei software sviluppati.
 <br /><br />

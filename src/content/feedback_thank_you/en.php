@@ -16,7 +16,7 @@ ob_start();
 ?>
 <div align="center">
 	<h1>
-	THANKS FOR SENDING THIS FEEDBACK - <?=$s ?>
+	THANKS FOR SENDING THIS FEEDBACK : <?=$s ?>
 	</h1>
 </div>
 <?php

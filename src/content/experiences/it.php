@@ -42,8 +42,8 @@ ob_start();
                 <ul>
                     <li>Sviluppo del motore di ricerca in Java/Ruby.</li>
                     <li>Redazione del brevetto del motore di ricerca.</li>
-                    <li>Sviluppo di un framework PHP per lo sviluppo di siti web.</li>
-                    <li>Sviluppo di siti web (in PHP col framework sviluppato).</li>
+                    <li>Sviluppo di un framework PHP per lo sviluppo di siti internet.</li>
+                    <li>Sviluppo di siti internet (in PHP col framework sviluppato).</li>
                 </ul>
                 <br />
                 In seguito apre una partita iva da libero professionista, "MBCRAFT di Marco Bagnaresi", (anno 2013 circa) ed effettua lavori presso :<br />
@@ -68,7 +68,7 @@ ob_start();
                 <br />
                 <ul>
                     <li>Consulente per GLE s.r.l. seguendo le indicazioni di Joinstore per lo sviluppo di Golee!, sviluppa diversi sistemi client-server tra cui un sistema di smistamento di mail/sms/notifiche push e un sistema di cache per immagini. (Analisi, progettazione, sviluppo e testing, Linguaggio : PHP, anni 2018-2019)</li>
-                    <li>Sviluppo di un framework PHP per la gestione di siti web. (analisi, progettazione, sviluppo e testing, anno 2019)</li>
+                    <li>Sviluppo di un framework PHP per la gestione di siti internet. (analisi, progettazione, sviluppo e testing, anno 2019)</li>
                     <li>Sviluppo di un sito web. (col framework creato in precedenza) (anno 2019)</li>
                 </ul>
                 <br />

@@ -11,7 +11,7 @@ require_once ("include/site_variables.php");
 
 ?>
 <div align='center' style="padding-top: 30px;">
-    <div style="padding:30px;">Benvenuto nel sito web di</div>
+    <div style="padding:30px;">Benvenuto nel sito internet di</div>
     <img width="300" src='/images/logo/logo_mbcraft_final_black.png' alt='Logo MBCRAFT' />
     <br />
 
