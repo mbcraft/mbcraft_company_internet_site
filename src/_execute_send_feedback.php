@@ -8,6 +8,7 @@ if ($captcha_is_valid) {
 
 	define('FEEDBACK_FORM_PAGE',true);
 
+	$who = filter_input(INPUT_POST,'who');
 	$language = filter_input(INPUT_POST,'language');
 	$page = filter_input(INPUT_POST,'page');
 	$reference = filter_input(INPUT_POST,'reference');
@@ -15,6 +16,7 @@ if ($captcha_is_valid) {
 
 	$mail_text = "";
 
+	$mail_text .= "Riferimento a chi fornisce il feedback : ".$who."\n\n\n";
 	$mail_text .= "Lingua feedback : ".$language."\n\n\n";
 	$mail_text .= "Pagina/sezione di riferimento : ".$page."\n\n\n";
 	$mail_text .= "Riferimento/reference : ".$reference."\n\n\n";
