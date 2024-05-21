@@ -1,1 +1,1 @@
-A123 - Di solito nulla succede per caso, ma sta a noi saper capire e interpretare quello che ci sta succedendo in modo da dargli il giusto significato. Ma non &egrave; assolutamente facile.
+A_123 - Di solito nulla succede per caso, ma sta a noi saper capire e interpretare quello che ci sta succedendo in modo da dargli il giusto significato. Ma non &egrave; assolutamente facile.

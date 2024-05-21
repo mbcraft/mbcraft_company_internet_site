@@ -1,1 +1,1 @@
-A506 - If you are a coffee fanatic and have both a moka and a coffee maker at home, then I recommend using the moka during the week and using the rapid machine only on the weekend.
+A_506 - If you are a coffee fanatic and have both a moka and a coffee maker at home, then I recommend using the moka during the week and using the rapid machine only on the weekend.

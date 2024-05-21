@@ -1,4 +1,4 @@
-A540 - I grandi negozi che vendono prodotti ingombranti possono usare uno o pi&ugrave; dei seguenti metodi alternativi per aiutare i clienti a indicare quali prodotti vogliono acquistare :
+A_540 - I grandi negozi che vendono prodotti ingombranti possono usare uno o pi&ugrave; dei seguenti metodi alternativi per aiutare i clienti a indicare quali prodotti vogliono acquistare :
 <ul>
 	<li>Etichette con codici alfanumerici sui prodotti e taccquino per scrivere (&egrave; importante che i codici alfanumerici abbiano una parte &ldquo;di controllo&rdquo; per evitare che ci siano errori nella trascrizione, es. anche solo una lettera terminale. Inoltre per i codici alfanumerici &egrave; sempre meglio evitare completamente tutti i caratteri ambigui, come lo zero e la lettera 
 	&ldquo;O&rdquo; tanto per fare un esempio, al fine di ridurre ulteriormente i potenziali errori di trascrizione ...) (tipo Ikea)</li>
@@ -6,4 +6,4 @@ A540 - I grandi negozi che vendono prodotti ingombranti possono usare uno o pi&u
 	<li>Etichette colorate da attaccare sui prodotti con codici alfanumerici progressivi sopra (per identificare il cliente, ma in realt&agrave; richiede ai commessi del negozio di controllare periodicamente tutte le etichette e il pagamento di essere effettuato al negozio in una fase successiva, e non &egrave; molto sicuro)</li>
 	<li>NFC colorato presente sul prodotto esposto e app &ldquo;carrello&rdquo; da utilizzare (ma solo se il telefono supporta gli NFC)</li>
 	<li>Etichette da staccare con codici alfanumerici presenti in appositi fogli associati ad ogni prodotto e da appiccicare in un foglio &ldquo;della spesa&rdquo; che viene poi gestito alla cassa. I fogli delle etichette presenti sui prodotti sono da sostituire con fogli pieni da parte dei commessi quando le etichette da poter staccare sono esaurite o quasi. Se si stabilisce che le etichette sono da staccare in un determinato ordine (es. da destra verso sinistra, dall'alto verso il basso), se l'ultima e la penultima etichetta hanno codici &ldquo;speciali&rdquo; il negozio pu&ograve; anche sapere quando determinati fogli di etichette sono da sostituire con quelli pieni e farlo con precisione.</li> 
-</li>
+</ul>

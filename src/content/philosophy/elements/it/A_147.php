@@ -1,1 +1,1 @@
-A147 - Ai non fumatori consiglio di fumarsi comunque una sigaretta almeno ogni 2-3 mesi. Il tabacco pu&ograve; anche essere mangiato o usato come spezia, ha un sapore molto piccante. 
+A_147 - Ai non fumatori consiglio di fumarsi comunque una sigaretta almeno ogni 2-3 mesi. Il tabacco pu&ograve; anche essere mangiato o usato come spezia, ha un sapore molto piccante. 

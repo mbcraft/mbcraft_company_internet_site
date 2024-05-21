@@ -1,1 +1,1 @@
-A526 - If you need to blaspheme, you can use the slot machines. They are made on purpose. However, they are not recommended for pregnant women.
+A_526 - If you need to blaspheme, you can use the slot machines. They are made on purpose. However, they are not recommended for pregnant women.

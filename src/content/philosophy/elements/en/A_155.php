@@ -1,1 +1,1 @@
-A155 - Nature bestows its gifts on those who deserve them and where they are needed. For example, there are people who know how to stack stones in balance on top of each other, and it is not such a common skill.
+A_155 - Nature bestows its gifts on those who deserve them and where they are needed. For example, there are people who know how to stack stones in balance on top of each other, and it is not such a common skill.

@@ -1,1 +1,1 @@
-A070 - Abortion is the interruption of the life of an innocent creature who has no way of defending itself against such a choice. Consider how potentially serious such an act can be, even though it is considered legal in many countries around the world.
+A_070 - Abortion is the interruption of the life of an innocent creature who has no way of defending itself against such a choice. Consider how potentially serious such an act can be, even though it is considered legal in many countries around the world.

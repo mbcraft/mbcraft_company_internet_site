@@ -1,3 +1,3 @@
-A048 - Sometimes certain sensations in the body depend only on factors that can vary. <br />
+A_048 - Sometimes certain sensations in the body depend only on factors that can vary. <br />
 For example, it can happen to feel sexually aroused if we have urine in the bladder or to have other sensations if, for example, we have some air in the belly. <br />
 Sensations that vanish as these factors vary. For example, if you feel sexually aroused in the middle of the night and you are alone, know that the feeling of sexual arousal COMPLETELY COVERS that of the need to urinate. So try to remember in those moments to try to go to urinate because I can guarantee you that 99.99% of the time in those cases the state of sexual excitement is only caused by the presence of annoying bacteria in our urine. But know that this, in those moments, is also very easy to forget.

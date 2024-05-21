@@ -1,1 +1,1 @@
-A006 - Se hai un giardino, ricordati che se hai dello spazio libero puoi chiedere a dei giardinieri di piantarti e curarti dei fiori o delle piccole piante ornamentali.
+A_006 - Se hai un giardino, ricordati che se hai dello spazio libero puoi chiedere a dei giardinieri di piantarti e curarti dei fiori o delle piccole piante ornamentali.

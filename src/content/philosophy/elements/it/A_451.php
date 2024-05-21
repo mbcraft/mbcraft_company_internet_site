@@ -1,1 +1,1 @@
-A451 - Da un post di Elon Musk ho appreso che quando una persona che si &egrave; impegnata in determinati ambiti culturali viene lesa temporaneamente che il valore di quello che ha creato tende a svanire. &Egrave; importante comunque notare che vale anche il principio opposto.
+A_451 - Da un post di Elon Musk ho appreso che quando una persona che si &egrave; impegnata in determinati ambiti culturali viene lesa temporaneamente che il valore di quello che ha creato tende a svanire. &Egrave; importante comunque notare che vale anche il principio opposto.

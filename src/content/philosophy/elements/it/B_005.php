@@ -1,1 +1,1 @@
-B5 - Capita a volte che in casa alcuni oggetti diventino inutili e rimangano in armadi e cassetti a impolverarsi. In generale razionalizzare e gestire correttamente le proprie risorse &egrave; importante per avere buoni risultati.
+B_005 - Capita a volte che in casa alcuni oggetti diventino inutili e rimangano in armadi e cassetti a impolverarsi. In generale razionalizzare e gestire correttamente le proprie risorse &egrave; importante per avere buoni risultati.

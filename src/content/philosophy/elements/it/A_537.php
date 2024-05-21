@@ -1,1 +1,1 @@
-A537 - Il carbone si pu&ograve; usare anche per fare graffiti.
+A_537 - Il carbone si pu&ograve; usare anche per fare graffiti.

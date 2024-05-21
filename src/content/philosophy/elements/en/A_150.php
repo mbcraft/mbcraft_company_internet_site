@@ -1,1 +1,1 @@
-A150 - I recommend solving 2-3 paper puzzles (sudoku, etc...) at least every weekend. It's more useful than it seems. It's not just a hobby.
+A_150 - I recommend solving 2-3 paper puzzles (sudoku, etc...) at least every weekend. It's more useful than it seems. It's not just a hobby.

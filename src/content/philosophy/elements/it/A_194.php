@@ -1,1 +1,1 @@
-A194 - Pi&ugrave; si fanno rapporti sessuali, pi&ugrave; scende il QI di chi lo pratica o in un qualche modo si creano problematiche future per quelle persone.
+A_194 - Pi&ugrave; si fanno rapporti sessuali, pi&ugrave; scende il QI di chi lo pratica o in un qualche modo si creano problematiche future per quelle persone.

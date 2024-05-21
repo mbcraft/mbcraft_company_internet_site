@@ -1,1 +1,1 @@
-A505 - People who practice chastity love hugs (live or virtual), as they are essential for not falling emotionally. Without their life it is absolutely not dignified.
+A_505 - People who practice chastity love hugs (live or virtual), as they are essential for not falling emotionally. Without their life it is absolutely not dignified.

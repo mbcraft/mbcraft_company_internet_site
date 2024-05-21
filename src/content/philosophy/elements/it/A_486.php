@@ -1,1 +1,1 @@
-A486 - Esattamente come avviene per la corrente elettrica in cui una differenza di potenziale collegata crea una corrente, allo stesso modo quando una persona che sta peggio sta vicino a una che sta meglio, in determinate condizioni, avviene esattamente questo fenomeno.
+A_486 - Esattamente come avviene per la corrente elettrica in cui una differenza di potenziale collegata crea una corrente, allo stesso modo quando una persona che sta peggio sta vicino a una che sta meglio, in determinate condizioni, avviene esattamente questo fenomeno.

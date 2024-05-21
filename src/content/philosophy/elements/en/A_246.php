@@ -1,1 +1,1 @@
-A246 - If you live in a densely populated city, know that NOT sharing images of the inside of your home on social networks is a great way to preserve your mental space. That's not to say that these shares can't be done safely, but I personally advise you against them.
+A_246 - If you live in a densely populated city, know that NOT sharing images of the inside of your home on social networks is a great way to preserve your mental space. That's not to say that these shares can't be done safely, but I personally advise you against them.

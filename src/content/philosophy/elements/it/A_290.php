@@ -1,1 +1,1 @@
-A290 - Le piante e le foglie degli alberi si possono anche soffiare e leccare, oltre che scaccolare (oppure depositarci sopra del muco). Le foglie si possono anche prendere a pizzicotti senza ovviamente romperle (a vostro rischio e pericolo).
+A_290 - Le piante e le foglie degli alberi si possono anche soffiare e leccare, oltre che scaccolare (oppure depositarci sopra del muco). Le foglie si possono anche prendere a pizzicotti senza ovviamente romperle (a vostro rischio e pericolo).

@@ -1,1 +1,1 @@
-A175 - Lo spreco in generale &egrave; da considerarsi uno sbaglio.
+A_175 - Lo spreco in generale &egrave; da considerarsi uno sbaglio.

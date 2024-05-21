@@ -1,1 +1,1 @@
-A252 - &Egrave; meglio non avere secondi fini quando ci si relaziona con le persone.
+A_252 - &Egrave; meglio non avere secondi fini quando ci si relaziona con le persone.

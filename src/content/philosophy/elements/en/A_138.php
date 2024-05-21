@@ -1,1 +1,1 @@
-A138 - If you have a very dangerous pet (for example in a case, such as a tarantula for example) or a very delicate one (such as a small gecko) it does not mean that you cannot still pet it using, for example, a brush ( of those of a painter).
+A_138 - If you have a very dangerous pet (for example in a case, such as a tarantula for example) or a very delicate one (such as a small gecko) it does not mean that you cannot still pet it using, for example, a brush ( of those of a painter).

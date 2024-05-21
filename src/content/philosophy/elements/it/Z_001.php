@@ -1,4 +1,4 @@
-Z001 - Chi vuole lavorare con la filosofia in modo da farne ampia diffusione, se vuole avere successo, a mio parere, &egrave; meglio che :
+Z_001 - Chi vuole lavorare con la filosofia in modo da farne ampia diffusione, se vuole avere successo, a mio parere, &egrave; meglio che :
 <ul>
 	<li>Mantenga la castit&agrave; da parecchio tempo e non abbia figli a carico</li>
 	<li>Abbia un'alimentazione completamente vegetale da un po' di anni</li>

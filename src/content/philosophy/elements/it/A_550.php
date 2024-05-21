@@ -1,1 +1,1 @@
-A550 - Quando sei molto molto stanco/a assicurati di riposare SEMPRE in spazi non condivisi (la tua camera da letto).  
+A_550 - Quando sei molto molto stanco/a assicurati di riposare SEMPRE in spazi non condivisi (la tua camera da letto).  

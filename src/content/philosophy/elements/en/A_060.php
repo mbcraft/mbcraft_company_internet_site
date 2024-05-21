@@ -1,1 +1,1 @@
-A060 - Drying the terminal parts of our urinary system with a piece of toilet paper after urinating helps improve the life of our underwear and not feel discomfort and tingling in the following moments.
+A_060 - Drying the terminal parts of our urinary system with a piece of toilet paper after urinating helps improve the life of our underwear and not feel discomfort and tingling in the following moments.

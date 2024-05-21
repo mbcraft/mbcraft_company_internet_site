@@ -1,1 +1,1 @@
-A355 - Ho imparato da mia madre che, se si vuole scaldare la pasta del giorno prima eventualmente conservata in frigorifero, se si cucina dell'altra pasta &egrave; possibile usare l'acqua di cottura per riscaldare quella fredda scondita conservata in frigorifero.
+A_355 - Ho imparato da mia madre che, se si vuole scaldare la pasta del giorno prima eventualmente conservata in frigorifero, se si cucina dell'altra pasta &egrave; possibile usare l'acqua di cottura per riscaldare quella fredda scondita conservata in frigorifero.

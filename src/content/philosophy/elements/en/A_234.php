@@ -1,1 +1,1 @@
-A234 - You can also learn a lot from animals. For example, if you notice that when dogs are together they tend to urinate in the same spot. It's not a casuality. This is just one example. And furthermore, it is possible to reason from these behaviors to make new discoveries.
+A_234 - You can also learn a lot from animals. For example, if you notice that when dogs are together they tend to urinate in the same spot. It's not a casuality. This is just one example. And furthermore, it is possible to reason from these behaviors to make new discoveries.

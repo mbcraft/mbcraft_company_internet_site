@@ -1,4 +1,4 @@
-A004 - Ricordati di lasciare un po' di concime organico per gli alberi del tuo giardino ed evita di potarli a meno che non blocchino il passaggio.<br />
+A_004 - Ricordati di lasciare un po' di concime organico per gli alberi del tuo giardino ed evita di potarli a meno che non blocchino il passaggio.<br />
 &Egrave; meglio non lasciare marcire la frutta ai piedi degli alberi, &egrave; meglio raccoglierla per darla da mangiare a degli animali piuttosto che farla marcire.<br />
 Nemmeno la frutta acerba va lasciata ai piedi degli alberi. Certi frutti acerbi che si tolgono quando si diradano gli alberi da frutto si possono usare a livello industriale per fare altri alimenti<br />
 (ad esempio le prugne acerbe dovrebbero essere ottime per fare degli integratori in quanto contengono molti sali minerali).<br />

@@ -1,1 +1,1 @@
-A519 - Nello sviluppo del software &egrave; meglio lanciare gli unit test (sarebbe meglio averli) periodicamente, in quanto a volte pu&ograve; capitare per fattori esterni che il software smetta di funzionare correttamente.
+A_519 - Nello sviluppo del software &egrave; meglio lanciare gli unit test (sarebbe meglio averli) periodicamente, in quanto a volte pu&ograve; capitare per fattori esterni che il software smetta di funzionare correttamente.

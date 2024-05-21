@@ -1,1 +1,1 @@
-A257 - Non &egrave; necessario nascondere i problemi, si possono anche mostrare alle altre persone per ricevere aiuto da amici e conoscenti.
+A_257 - Non &egrave; necessario nascondere i problemi, si possono anche mostrare alle altre persone per ricevere aiuto da amici e conoscenti.

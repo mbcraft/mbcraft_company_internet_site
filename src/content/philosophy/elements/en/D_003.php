@@ -1,3 +1,1 @@
-<div class='note'>
-	D003 - <b>MBCRAFT has partially contributed to the planting of about 3000 trees through different organizations and has contributed to different humanitarian charities.</b>
-</div> 
+D_003 - <b>MBCRAFT has partially contributed to the planting of about 3000 trees through different organizations and has contributed to different humanitarian charities.</b>

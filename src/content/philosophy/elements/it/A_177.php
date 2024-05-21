@@ -1,1 +1,1 @@
-A177 - &Egrave; sbagliato ostacolare e bloccare le amicizie. &Egrave; meglio aiutare le persone a conoscersi.
+A_177 - &Egrave; sbagliato ostacolare e bloccare le amicizie. &Egrave; meglio aiutare le persone a conoscersi.

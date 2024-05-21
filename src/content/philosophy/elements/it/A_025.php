@@ -1,1 +1,1 @@
-A025 - Se avete un orto, quando andate dal barbiere o dalla parrucchiera a farvi tagliare capelli o unghie, potete eventualmente portare con voi una sportina di plastica e un vasetto per farvi consegnare capelli e unghie per poterli poi utilizzare come concime organico per l'orto.
+A_025 - Se avete un orto, quando andate dal barbiere o dalla parrucchiera a farvi tagliare capelli o unghie, potete eventualmente portare con voi una sportina di plastica e un vasetto per farvi consegnare capelli e unghie per poterli poi utilizzare come concime organico per l'orto.

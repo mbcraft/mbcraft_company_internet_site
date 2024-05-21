@@ -1,1 +1,1 @@
-A159 - Personalmente credo che lavorare meno ma con pi&ugrave; intelligenza e salute possa portare a un maggiore benessere collettivo. Non possiamo pensare di esplorare e colonizzare l'universo se nel nostro pianeta ci sono problemi gravissimi.
+A_159 - Personalmente credo che lavorare meno ma con pi&ugrave; intelligenza e salute possa portare a un maggiore benessere collettivo. Non possiamo pensare di esplorare e colonizzare l'universo se nel nostro pianeta ci sono problemi gravissimi.

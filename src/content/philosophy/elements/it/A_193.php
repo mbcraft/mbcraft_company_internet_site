@@ -1,1 +1,1 @@
-A193 - Se fumate, le sigarette si possono comodamente spegnere per terra, ma poi una volta spente vanno buttate nei bidoni e non lasciate per terra.
+A_193 - Se fumate, le sigarette si possono comodamente spegnere per terra, ma poi una volta spente vanno buttate nei bidoni e non lasciate per terra.

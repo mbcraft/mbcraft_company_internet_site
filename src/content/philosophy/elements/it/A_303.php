@@ -1,1 +1,1 @@
-A303 - Il multitasking nei progetti, effettuato all'interno delle aziende, ruba moltissimo tempo mentale alle persone. Pi&ugrave; si riescono a tenere le persone fisse sugli stessi progetti, pi&ugrave; diventano esperte e veloci nell'effettuare modifiche e nuove implementazioni. 
+A_303 - Il multitasking nei progetti, effettuato all'interno delle aziende, ruba moltissimo tempo mentale alle persone. Pi&ugrave; si riescono a tenere le persone fisse sugli stessi progetti, pi&ugrave; diventano esperte e veloci nell'effettuare modifiche e nuove implementazioni. 

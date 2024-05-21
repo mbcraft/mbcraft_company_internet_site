@@ -1,1 +1,1 @@
-A135 - In my opinion it would not be absolutely wrong to teach children to hug each other in classes. It's a great way to build stronger communities, and it would also help them heal from any family problems.
+A_135 - In my opinion it would not be absolutely wrong to teach children to hug each other in classes. It's a great way to build stronger communities, and it would also help them heal from any family problems.

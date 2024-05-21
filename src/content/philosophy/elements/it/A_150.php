@@ -1,1 +1,1 @@
-A150 - Consiglio di risolvere 2-3 puzzle su carta (sudoku, ecc...) almeno ogni weekend. &Egrave; pi&ugrave; utile di quanto sembri. Non &egrave; solo un passatempo.
+A_150 - Consiglio di risolvere 2-3 puzzle su carta (sudoku, ecc...) almeno ogni weekend. &Egrave; pi&ugrave; utile di quanto sembri. Non &egrave; solo un passatempo.

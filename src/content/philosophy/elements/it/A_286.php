@@ -1,1 +1,1 @@
-A286 - Personalmente credo che sia una buona idea tenere almeno 1-2 piante in vaso in ogni stanza della casa in cui entra luce (anche se sono piccole va bene ugualmente).
+A_286 - Personalmente credo che sia una buona idea tenere almeno 1-2 piante in vaso in ogni stanza della casa in cui entra luce (anche se sono piccole va bene ugualmente).

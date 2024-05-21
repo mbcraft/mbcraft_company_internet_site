@@ -1,1 +1,1 @@
-A176 - L'integrit&agrave; e la salute degli esseri viventi sono importanti.
+A_176 - L'integrit&agrave; e la salute degli esseri viventi sono importanti.

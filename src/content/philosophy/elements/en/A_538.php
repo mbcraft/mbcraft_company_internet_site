@@ -1,1 +1,1 @@
-A538 - In certain cases, with simple materials it is possible to repair objects that may seem to be thrown away. For example, rope, of appropriate thickness and length, is a very useful material for carrying out repairs. Which if done well can also be very long-lasting. 
+A_538 - In certain cases, with simple materials it is possible to repair objects that may seem to be thrown away. For example, rope, of appropriate thickness and length, is a very useful material for carrying out repairs. Which if done well can also be very long-lasting. 

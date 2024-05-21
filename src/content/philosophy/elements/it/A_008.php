@@ -1,3 +1,3 @@
-A008 - Le lamentele superflue ci fanno perdere risorse (che vanno a chi le riceve). <br />
+A_008 - Le lamentele superflue ci fanno perdere risorse (che vanno a chi le riceve). <br />
 Personalmente credo sia anche meglio evitare di imprecare contro l'universo anche se si &egrave; in solitudine.<br />
 Se vi capita di smarrire un oggetto in casa o di essere bloccati in qualcosa che non capite durante il lavoro &egrave; meglio non pensare a complotti mondiali contro di voi ma cercare di tenere duro fino a quando non arrivate a una soluzione. Capita spesso di smarrire lo smartphone : mantenete i nervi saldi, non odiate nessuno/a, cercate con molta pazienza e attenzione fino a quando non lo ritrovate, dedicando alla ricerca il tempo necessario. Avete solo dimenticato dove lo avete lasciato. Imparate a cercare con pazienza e sangue freddo : &egrave; utilissimo.

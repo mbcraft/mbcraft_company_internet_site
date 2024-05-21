@@ -1,4 +1,4 @@
-A298 - Condivido i seguenti gesti che si possono utilizzare in qualunque nazione del pianeta in cui sono diventati cultura popolare sia in situazioni lavorative che interpersonali :
+A_298 - Condivido i seguenti gesti che si possono utilizzare in qualunque nazione del pianeta in cui sono diventati cultura popolare sia in situazioni lavorative che interpersonali :
 <br />
 <ul>
 	<li>Dito sulla bocca, anche mentre si sorride, mentre si guarda a una persona che ti sta guardando --> Significato : per favore, smetti di parlare.</li>

@@ -1,1 +1,1 @@
-B015 - If you have magnets attached to the refrigerator, however paradoxical it may seem to you, it is useful to move them once in a while.
+B_015 - If you have magnets attached to the refrigerator, however paradoxical it may seem to you, it is useful to move them once in a while.

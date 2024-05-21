@@ -1,1 +1,1 @@
-A118 - If you open a startup I advise you in the initial phase until the products or services you want to sell are ready, to try to minimize costs and to avoid renting offices as those costs are so significant that sometimes they even cause the startup failure.
+A_118 - If you open a startup I advise you in the initial phase until the products or services you want to sell are ready, to try to minimize costs and to avoid renting offices as those costs are so significant that sometimes they even cause the startup failure.

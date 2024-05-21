@@ -1,1 +1,1 @@
-A151 - Se non siete sposati, ricordatevi che non &egrave; reato scambiarsi il partner o la partner con quello/a di un amico/a. La gelosia &egrave; un errore perch&eacute; le persone non sono oggetti.
+A_151 - Se non siete sposati, ricordatevi che non &egrave; reato scambiarsi il partner o la partner con quello/a di un amico/a. La gelosia &egrave; un errore perch&eacute; le persone non sono oggetti.

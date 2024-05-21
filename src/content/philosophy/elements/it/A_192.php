@@ -1,1 +1,1 @@
-A192 - Anche i bruchi e le lumache possono essere utilizzati come animali domestici, in una piccola teca. Sono molto economici da mantenere. 
+A_192 - Anche i bruchi e le lumache possono essere utilizzati come animali domestici, in una piccola teca. Sono molto economici da mantenere. 

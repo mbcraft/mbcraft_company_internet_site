@@ -1,4 +1,4 @@
-A308 - In romantic relationships, when you cohabit, it is important :<br />
+A_308 - In romantic relationships, when you cohabit, it is important :<br />
 <ul>
      <li>Learning to endure</li>
      <li>Respect the space and the decision not to want to speak due to &ldquo;excess stress&rdquo;</li>

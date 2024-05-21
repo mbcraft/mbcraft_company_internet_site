@@ -1,1 +1,1 @@
-A512 - Se siete dei manager, ricordatevi che a volte esagerare coi profitti comporta necessariamente creare disastri sociali. Se un cliente vuole un prodotto o un servizio a un prezzo troppo basso a volte &egrave; meglio rifiutarsi di fornirlo anzich&egrave; umiliare i propri dipendenti.
+A_512 - Se siete dei manager, ricordatevi che a volte esagerare coi profitti comporta necessariamente creare disastri sociali. Se un cliente vuole un prodotto o un servizio a un prezzo troppo basso a volte &egrave; meglio rifiutarsi di fornirlo anzich&egrave; umiliare i propri dipendenti.

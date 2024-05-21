@@ -1,1 +1,1 @@
-A189 - Il modo corretto di fare business &egrave; quello di risolvere i problemi veri e non quello di diffondere false informazioni per vendere prodotti o servizi.
+A_189 - Il modo corretto di fare business &egrave; quello di risolvere i problemi veri e non quello di diffondere false informazioni per vendere prodotti o servizi.

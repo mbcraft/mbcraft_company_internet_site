@@ -1,1 +1,1 @@
-A100 - Tieni sempre a portata di mano nella tua automobile un paio di occhiali da sole anche di economici che si comprano in tabaccheria. Sono utilissimi quando si viaggia al tramonto e si ha il sole in faccia.
+A_100 - Tieni sempre a portata di mano nella tua automobile un paio di occhiali da sole anche di economici che si comprano in tabaccheria. Sono utilissimi quando si viaggia al tramonto e si ha il sole in faccia.

@@ -1,1 +1,1 @@
-A190 - Quando fate una foto a delle altre persone, invece di usare sempre la solita parola &ldquo;cheese&rdquo; consiglio di usare una parola a caso scelta sul momento.
+A_190 - Quando fate una foto a delle altre persone, invece di usare sempre la solita parola &ldquo;cheese&rdquo; consiglio di usare una parola a caso scelta sul momento.

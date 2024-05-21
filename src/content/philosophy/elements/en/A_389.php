@@ -1,1 +1,1 @@
-A389 - If you are at the table and your stomach is quite full and you are undecided whether to eat a few more bites or stop, always choose to stop. Always. You have nothing to gain by overfilling your stomach.
+A_389 - If you are at the table and your stomach is quite full and you are undecided whether to eat a few more bites or stop, always choose to stop. Always. You have nothing to gain by overfilling your stomach.

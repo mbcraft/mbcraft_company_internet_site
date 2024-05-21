@@ -1,1 +1,1 @@
-A493 - Non usate un piccolo problema causato da una persona per scaricare vagonate di immondizia psicologica. 
+A_493 - Non usate un piccolo problema causato da una persona per scaricare vagonate di immondizia psicologica. 

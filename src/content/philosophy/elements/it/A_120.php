@@ -1,1 +1,1 @@
-A120 - In certi casi l'uso del computer per scrivere concetti molti difficili per un qualche motivo erode la flora batterica intestinale.
+A_120 - In certi casi l'uso del computer per scrivere concetti molti difficili per un qualche motivo erode la flora batterica intestinale.

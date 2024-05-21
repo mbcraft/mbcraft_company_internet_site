@@ -1,1 +1,1 @@
-A119 - As strange as it may seem, when you give money to a person of the opposite sex without requesting any particular service or performance in return, his gratitude comes back to us and this serves to improve one's energies and intuitions.
+A_119 - As strange as it may seem, when you give money to a person of the opposite sex without requesting any particular service or performance in return, his gratitude comes back to us and this serves to improve one's energies and intuitions.

@@ -1,1 +1,1 @@
-A447 - Generalmente mentire a se stessi non &egrave; mai una buona idea. 
+A_447 - Generalmente mentire a se stessi non &egrave; mai una buona idea. 

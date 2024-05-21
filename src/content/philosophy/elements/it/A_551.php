@@ -1,0 +1,1 @@
+A_551 - Anche se attualmente non esistono, non &egrave; vietato che ci siano anche emoji a tema "arte astratta" o a tema "mandala" (per le imprese che gestiscono dei social network o dei sistemi di messaggistica).

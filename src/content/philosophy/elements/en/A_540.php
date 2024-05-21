@@ -1,4 +1,4 @@
-A540 - Large stores that sell bulky products may use one or more of the following alternative methods to help customers indicate which products they want to purchase:
+A_540 - Large stores that sell bulky products may use one or more of the following alternative methods to help customers indicate which products they want to purchase:
 <ul>
 	<li>Labels with alphanumeric codes on the products and notebook for writing (it is important that the alphanumeric codes have a &ldquo;control&rdquo; part to avoid errors in the transcription, e.g. even just one terminal letter. Furthermore, for alphanumeric codes it is it is always better to completely avoid all ambiguous characters, such as zero and the letter &ldquo;O&rdquo; for example, in order to further reduce potential transcription errors...) (like Ikea)</li>
 	<li>QR code present on the product (even on a label) and &ldquo;cart&rdquo; app to use</li>

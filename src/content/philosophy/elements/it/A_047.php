@@ -1,1 +1,1 @@
-A047 - Se davanti al computer vi accorgete di non riuscire a risolvere un problema perch&eacute; la vostra mente non riesce a capire bene, allora provate ad affrontare il problema mentre state mangiando. Troverete la soluzioni a quel problema in un baleno. 
+A_047 - Se davanti al computer vi accorgete di non riuscire a risolvere un problema perch&eacute; la vostra mente non riesce a capire bene, allora provate ad affrontare il problema mentre state mangiando. Troverete la soluzioni a quel problema in un baleno. 

@@ -1,1 +1,1 @@
-A149 - &Egrave; utile imparare anche dagli errori degli altri, ascoltando storie, leggendo libri, ecc ... per cercare di non farli. Solo usando degli errori come base &egrave; possibile cominciare a fare delle riflessioni intelligenti per fare dei miglioramenti. 
+A_149 - &Egrave; utile imparare anche dagli errori degli altri, ascoltando storie, leggendo libri, ecc ... per cercare di non farli. Solo usando degli errori come base &egrave; possibile cominciare a fare delle riflessioni intelligenti per fare dei miglioramenti. 

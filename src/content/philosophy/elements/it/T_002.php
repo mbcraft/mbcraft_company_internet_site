@@ -1,4 +1,4 @@
-T002 - Volevo ringraziare esplicitamente :
+T_002 - Volevo ringraziare esplicitamente :
 <ul>
 	<li>Mia madre, per il suo lavoro in cucina e di manutenzione dell'abitazione</li>
 	<li>Gli animali della fattoria, tutti, per la loro gentile presenza</li>

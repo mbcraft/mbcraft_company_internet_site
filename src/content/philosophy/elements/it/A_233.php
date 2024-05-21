@@ -1,1 +1,1 @@
-A233 - Le piante in vaso hanno la peculiarit&agrave; che possono essere spostate. Ricordatevi di spostarle, almeno una volta alla settimana, tutte quante. A casaccio. &Egrave; pi&ugrave; importante di quanto sembri.
+A_233 - Le piante in vaso hanno la peculiarit&agrave; che possono essere spostate. Ricordatevi di spostarle, almeno una volta alla settimana, tutte quante. A casaccio. &Egrave; pi&ugrave; importante di quanto sembri.

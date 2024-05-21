@@ -1,1 +1,1 @@
-A093 - Per quanto mi riguarda non ha nessun senso che le fognature scarichino i liquami in mare. I pesci non mangiano cacca. Avrebbe di gran lunga pi&ugrave; senso utilizzare i liquami come concimi per i campi agricoli. Sarebbe un uso delle risorse molto migliore.
+A_093 - Per quanto mi riguarda non ha nessun senso che le fognature scarichino i liquami in mare. I pesci non mangiano cacca. Avrebbe di gran lunga pi&ugrave; senso utilizzare i liquami come concimi per i campi agricoli. Sarebbe un uso delle risorse molto migliore.

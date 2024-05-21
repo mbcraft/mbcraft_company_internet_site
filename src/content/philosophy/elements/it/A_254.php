@@ -1,1 +1,1 @@
-A254 - In generale quando si st&aacute; molto bene psicologicamente od emotivamente ma con una pessima nutrizione e si &egrave; molto sedentari si diventa estremamente vulnerabili a certi virus.
+A_254 - In generale quando si st&aacute; molto bene psicologicamente od emotivamente ma con una pessima nutrizione e si &egrave; molto sedentari si diventa estremamente vulnerabili a certi virus.

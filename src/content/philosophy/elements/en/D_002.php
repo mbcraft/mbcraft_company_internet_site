@@ -1,3 +1,1 @@
-<div class='note'>
-	D002 - Sorry if you find some little errors. I'm doing my best to keep this content as good as possible. You can find more on my TikTok profile (only in Italian but the speech can be translated using the appropriate link or button &ldquo;Show translation&rdquo; found at the bottom of the videos)
-</div>
+D_002 - Sorry if you find some little errors. I'm doing my best to keep this content as good as possible. You can find more on my TikTok profile (only in Italian but the speech can be translated using the appropriate link or button &ldquo;Show translation&rdquo; found at the bottom of the videos)

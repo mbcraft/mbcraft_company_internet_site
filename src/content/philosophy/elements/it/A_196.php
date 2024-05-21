@@ -1,1 +1,1 @@
-A196 - A volte pu&ograve; capitare che in mancanza di risorse economiche ci si possa sentire bloccati. In quei casi spesso &egrave; sufficiente fare mente locale sulle altre risorse inutilizzate che si hanno a disposizione per capire come proseguire col lavoro.
+A_196 - A volte pu&ograve; capitare che in mancanza di risorse economiche ci si possa sentire bloccati. In quei casi spesso &egrave; sufficiente fare mente locale sulle altre risorse inutilizzate che si hanno a disposizione per capire come proseguire col lavoro.

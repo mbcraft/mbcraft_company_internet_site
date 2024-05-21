@@ -1,4 +1,4 @@
-Z001 - Anyone who wants to work so as to make it widely disseminated, if he wants to be successful, is better off:
+Z_001 - Anyone who wants to work so as to make it widely disseminated, if he wants to be successful, is better off:
 <ul>
 	<li>Maintain chastity for a long time and have no dependent children</li>
 	<li>Have had a completely plant-based diet for a few years</li>

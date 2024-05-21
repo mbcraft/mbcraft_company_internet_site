@@ -1,1 +1,1 @@
-A354 - Some time ago I was taught that when you want to season a salad, for example with salt, oil and vinegar, the best order to follow is: first the salt, then the vinegar and finally the oil. The seasonings mix better in this order. (Michele Ravagli)
+A_354 - Some time ago I was taught that when you want to season a salad, for example with salt, oil and vinegar, the best order to follow is: first the salt, then the vinegar and finally the oil. The seasonings mix better in this order. (Michele Ravagli)

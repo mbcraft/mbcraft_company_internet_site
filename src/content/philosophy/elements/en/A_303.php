@@ -1,1 +1,1 @@
-A303 - Multitasking in projects, carried out within companies, takes up a lot of people's mental time. The more you can keep people stuck on the same projects, the more expert and quicker they become at making changes and new implementations.
+A_303 - Multitasking in projects, carried out within companies, takes up a lot of people's mental time. The more you can keep people stuck on the same projects, the more expert and quicker they become at making changes and new implementations.

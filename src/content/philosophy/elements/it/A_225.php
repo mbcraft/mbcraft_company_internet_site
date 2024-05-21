@@ -1,1 +1,1 @@
-A225 - I popcorn sono molto buoni anche aromatizzati con curry o con peperoncino piccante. Ma si possono anche usare anche al posto della pasta.
+A_225 - I popcorn sono molto buoni anche aromatizzati con curry o con peperoncino piccante. Ma si possono anche usare anche al posto della pasta.

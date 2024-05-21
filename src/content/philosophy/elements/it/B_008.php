@@ -1,1 +1,1 @@
-B8 - Personalmente consiglio di lasciare uscire le mosche o gli insetti volanti dalle abitazioni e di non schiacciarli. Se li trovate intrappolati in casa se possibile aiutateli ad uscire all'aperto.
+B_008 - Personalmente consiglio di lasciare uscire le mosche o gli insetti volanti dalle abitazioni e di non schiacciarli. Se li trovate intrappolati in casa se possibile aiutateli ad uscire all'aperto.

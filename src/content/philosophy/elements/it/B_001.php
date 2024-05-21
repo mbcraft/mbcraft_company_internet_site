@@ -1,1 +1,1 @@
-B1 - Personalmente credo sia meglio condividere le belle scoperte e tenere per se i dubbi e i problemi da sistemare. Negli ultimi 12 anni circa ho sempre avuto questo approccio e ha portato a ottimi risultati.
+B_001 - Personalmente credo sia meglio condividere le belle scoperte e tenere per se i dubbi e i problemi da sistemare. Negli ultimi 12 anni circa ho sempre avuto questo approccio e ha portato a ottimi risultati.

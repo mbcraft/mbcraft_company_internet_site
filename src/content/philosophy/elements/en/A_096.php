@@ -1,1 +1,1 @@
-A096 - When we are lying horizontally on a bed or sofa in certain situations in which certain physiological processes are taking place, our way of reasoning changes and we are no longer able to effectively guide our thoughts.
+A_096 - When we are lying horizontally on a bed or sofa in certain situations in which certain physiological processes are taking place, our way of reasoning changes and we are no longer able to effectively guide our thoughts.

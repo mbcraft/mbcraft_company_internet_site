@@ -1,1 +1,1 @@
-A380 - Fried pizza (the one made with flour, salt, water and fried with vegetable oil) can also be seasoned, for example, with black pepper, or even with almond syrup, but also with fruit jams, or even with vegetable spreads that are not necessarily sweet.
+A_380 - Fried pizza (the one made with flour, salt, water and fried with vegetable oil) can also be seasoned, for example, with black pepper, or even with almond syrup, but also with fruit jams, or even with vegetable spreads that are not necessarily sweet.
