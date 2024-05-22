@@ -1,0 +1,1 @@
+A_554 - Escapes from problems are only illusory. It is therefore better, when necessary, to take the necessary time to rest properly, in order to work better.

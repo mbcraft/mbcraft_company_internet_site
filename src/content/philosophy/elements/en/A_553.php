@@ -1,0 +1,1 @@
+A_553 - Every war always breaks out due to a failure of a community's philosophy, it is a chasm in interpersonal relationships that opens up and which to be closed and healed will require an enormous amount of work... (thanks Arianna Pascoli)

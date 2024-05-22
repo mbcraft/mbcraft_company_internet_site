@@ -1,0 +1,1 @@
+A_553 - Ogni guerra scoppia sempre per un fallimento della filosofia di una comunit&agrave;, &egrave; una voragine nelle relazioni interpersonali che si apre e che per essere richiusa e guarita comporter&agrave; una enorme quantit&agrave; di lavoro ... (grazie Arianna Pascoli)
