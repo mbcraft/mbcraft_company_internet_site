@@ -1,1 +1,1 @@
-A_527 - If you need to rest and take a nap during your lunch break because you feel a little heavy, I recommend that you absolutely do not lie down but rest sitting in an armchair. This way digestion is not disturbed.
+A_527 - If you need to rest and take a nap during your lunch break because you feel a little heavy, I advise you not to lie down but to rest sitting in an armchair. This way digestion is not disturbed.

@@ -1,0 +1,1 @@
+A_555 - For foreigners who are unfamiliar with the place where they are staying, it is always advisable not to go to excessively chaotic parties as it is unwise and imprudent. I honestly think it's too risky.

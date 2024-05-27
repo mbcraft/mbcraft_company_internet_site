@@ -43,7 +43,7 @@ While working in this startup he mainly dealt with: <br />
     <li> Website development (with the PHP framework developed)</li>
 </ul>
 <br />
-He then opens a VAT number as a freelancer, "MBCRAFT di Marco Bagnaresi" (year 2013), and carries out work at: <br />
+He then opens a VAT number as a freelancer, &ldquo;MBCRAFT di Marco Bagnaresi&rdquo; (year 2013), and carries out work at: <br />
 <ul>
     <li> Consultant for the development of a licensing system in a cryptographic library for Cryptolab. (development in C ++) (year 2014) </li>
     <li> Development consultant for Bid To Trip LTD (refactoring and project organization) for a project of cents bid, project in PHP. (year 2014)</li>
@@ -106,7 +106,7 @@ Publishing on GitHub of Apache POI Mini.
 <br />
 <h2> Other experiences : </h2> <br />
 
-Reading, meditation, observation and care of plants and trees, gardening, litterpicking (volunteering), burial of small dead animals (volunteering), collection of acorns and nut chestnuts (volunteering), fruit picking from farms, playing video games, watching films and documentaries, commenting and posting on social networks, reporting errors found in portals and apps, football, soccer, basketball, skiing, snowboarding, skateboarding, trekking, playing "Magic The Gathering".
+Reading, meditation, observation and care of plants and trees, gardening, litterpicking (volunteering), burial of small dead animals (volunteering), collection of acorns and nut chestnuts (volunteering), fruit picking from farms, playing video games, watching films and documentaries, commenting and posting on social networks, reporting errors found in portals and apps, football, soccer, basketball, skiing, snowboarding, skateboarding, trekking, playing &ldquo;Magic The Gathering&rdquo;.
 
 <br /><br />
 (thanks to Google Translate for this translation)    

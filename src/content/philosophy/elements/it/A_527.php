@@ -1,1 +1,1 @@
-A_527 - Se in pausa pranzo avete bisogno di riposarvi e di fare una pennichella perch&egrave; avete un po' di pesantezza, consiglio di non straiarsi assolutamente ma di riposarsi seduti in una poltrona. In questo modo non si disturba la digestione.
+A_527 - Se in pausa pranzo avete bisogno di riposarvi e di fare una pennichella perch&eacute; avete un po' di pesantezza, consiglio di non sdraiarsi assolutamente ma di riposarsi seduti in una poltrona. In questo modo non si disturba la digestione.

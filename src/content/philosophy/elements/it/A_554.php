@@ -1,1 +1,1 @@
-A_554 - Le fughe dai problemi sono solo illusorie. &Egrave; meglio quindi, quando serve, prendersi il tempo necessario per riposarsi il giusto, in modo da lavorare meglio.
+A_554 - Le fughe dai problemi sono solo illusorie. &Egrave; meglio quindi, ad esempio, quando serve, prendersi il tempo necessario per riposarsi il giusto, in modo da lavorare meglio. 

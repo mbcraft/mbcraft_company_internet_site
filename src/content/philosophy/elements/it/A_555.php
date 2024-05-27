@@ -1,0 +1,1 @@
+A_555 - Per le persone straniere poco pratiche del luogo in cui stanno soggiornando &egrave; sempre sconsigliato andare a feste troppo caotiche in quanto poco saggio e poco prudente. Lo ritengo onestamente troppo rischioso.

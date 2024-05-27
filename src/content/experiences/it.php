@@ -10,7 +10,7 @@ ob_start();
             <h2>Percorso di studi :</h2><br />
                 
                 <h3>
-                    ITIS "Nullo Baldini" di Ravenna, specializzazione Informatica – Voto 96/100
+                    ITIS &ldquo;Nullo Baldini&rdquo; di Ravenna, specializzazione Informatica – Voto 96/100
                     <ul>
                         <li>Tesina : Sviluppo di un web server in Java. Anno : 2000 circa.</li>
                     </ul>
@@ -46,7 +46,7 @@ ob_start();
                     <li>Sviluppo di siti internet (in PHP col framework sviluppato).</li>
                 </ul>
                 <br />
-                In seguito apre una partita iva da libero professionista, "MBCRAFT di Marco Bagnaresi", (anno 2013 circa) ed effettua lavori presso :<br />
+                In seguito apre una partita iva da libero professionista, &ldquo;MBCRAFT di Marco Bagnaresi&rdquo;, (anno 2013 circa) ed effettua lavori presso :<br />
                 <ul>
                     <li>Consulente allo sviluppo di un sistema di licensing in una libreria di crittografia per Cryptolab. (sviluppo in C++) (anno 2014)</li>
                     <li>Consulente allo sviluppo per Bid To Trip LTD (refactoring e organizzazione del progetto) per un progetto di asta al centesimo, progetto in PHP. (anno 2014)</li>
@@ -110,7 +110,7 @@ ob_start();
             </h3>
             <h2>Altre esperienze :</h2><br />
             <h3>
-            Lettura, meditazione, osservazione e cura di piante e alberi, giardinaggio, litterpicking (volontariato), sepoltura di animali morti di piccola taglia (volontariato) , raccolta ghiande e castagne matte (volontariato), raccolta frutta dai poderi, giocare ai videogiochi, guardare film e documentari, commentare e postare sui social network, segnalazione di errori trovati in portali e app, calcio, calcetto, basket, sci, snowboarding, skateboarding, trekking, giocare a "Magic The Gathering".
+            Lettura, meditazione, osservazione e cura di piante e alberi, giardinaggio, litterpicking (volontariato), sepoltura di animali morti di piccola taglia (volontariato) , raccolta ghiande e castagne matte (volontariato), raccolta frutta dai poderi, giocare ai videogiochi, guardare film e documentari, commentare e postare sui social network, segnalazione di errori trovati in portali e app, calcio, calcetto, basket, sci, snowboarding, skateboarding, trekking, giocare a &ldquo;Magic The Gathering&rdquo;.
             </h3>
             <hr />
             <h1>+ Gaming +</h1>

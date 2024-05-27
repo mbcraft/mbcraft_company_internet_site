@@ -1,0 +1,1 @@
+A_559 - L'odio delle persone, sia che siano dello stesso sesso che di sesso opposto, ha sempre effetti tangibili che si riscontrano sempre e comunque. Per questo &egrave; importante cercare di risolvere le situazioni problematiche in modo corretto e intelligente. In ogni caso chi odia consuma le sue risorse : non &egrave; gratis amare e non &egrave; gratis nemmeno odiare.

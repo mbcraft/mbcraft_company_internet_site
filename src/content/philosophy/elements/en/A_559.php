@@ -1,0 +1,1 @@
+A_559 - The hate from people, whether they are of the same sex or of the opposite sex, always has tangible effects that are always found in any case. This is why it is important to try to resolve problematic situations correctly and intelligently. In any case, those who hate consume his resources: it is not free to love and it is not free to hate either.

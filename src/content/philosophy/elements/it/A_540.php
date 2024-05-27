@@ -1,6 +1,6 @@
 A_540 - I grandi negozi che vendono prodotti ingombranti possono usare uno o pi&ugrave; dei seguenti metodi alternativi per aiutare i clienti a indicare quali prodotti vogliono acquistare :
 <ul>
-	<li>Etichette con codici alfanumerici sui prodotti e taccquino per scrivere (&egrave; importante che i codici alfanumerici abbiano una parte &ldquo;di controllo&rdquo; per evitare che ci siano errori nella trascrizione, es. anche solo una lettera terminale. Inoltre per i codici alfanumerici &egrave; sempre meglio evitare completamente tutti i caratteri ambigui, come lo zero e la lettera 
+	<li>Etichette con codici alfanumerici sui prodotti e taccuino per scrivere (&egrave; importante che i codici alfanumerici abbiano una parte &ldquo;di controllo&rdquo; per evitare che ci siano errori nella trascrizione, es. anche solo una lettera terminale. Inoltre per i codici alfanumerici &egrave; sempre meglio evitare completamente tutti i caratteri ambigui, come lo zero e la lettera 
 	&ldquo;O&rdquo; tanto per fare un esempio, al fine di ridurre ulteriormente i potenziali errori di trascrizione ...) (tipo Ikea)</li>
 	<li>QR code presente sul prodotto (anche su un'etichetta) e app &ldquo;carrello&rdquo; da utilizzare</li>
 	<li>Etichette colorate da attaccare sui prodotti con codici alfanumerici progressivi sopra (per identificare il cliente, ma in realt&agrave; richiede ai commessi del negozio di controllare periodicamente tutte le etichette e il pagamento di essere effettuato al negozio in una fase successiva, e non &egrave; molto sicuro)</li>
