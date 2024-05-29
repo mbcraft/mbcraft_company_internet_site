@@ -41,7 +41,7 @@ require_once ("include/site_variables.php");
 </div>
     <br />
     <div align="center">
-    <h4>Ultimo aggiornamento : 27/05/2024</h4>
+    <h4>Ultimo aggiornamento : 29/05/2024</h4>
     </div>
     <br />
     <br />
