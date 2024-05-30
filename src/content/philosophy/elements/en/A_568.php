@@ -9,7 +9,7 @@ A_568 - The zodiac signs, in a particular interpretation, can also represent the
   <li>Libra: imbalances and injustices</li>
   <li>Scorpio: insect bites and hatred towards them</li>
   <li>Sagittarius: persecution</li>
-  <li>Capricorn: finding a partner</li>
+  <li>Capricorn: coupling</li>
   <li>Aquarius: imprisonment</li>
   <li>Pisces: fear</li>
 </ul>

@@ -9,7 +9,7 @@ A_568 - I segni zodiacali, in una particolare interpretazione, possono essere an
 	<li>Bilancia : gli squilibri e le ingiustizie</li>
 	<li>Scorpione : le punture degli insetti e l'odio nei loro confronti</li>
 	<li>Sagittario : la persecuzione</li>
-	<li>Capricorno : il trovare un compagno o una compagna</li>
+	<li>Capricorno : l'accoppiamento</li>
 	<li>Acquario : la prigionia</li>
 	<li>Pesci : la paura</li>
 </ul>
