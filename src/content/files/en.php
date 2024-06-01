@@ -41,6 +41,7 @@ ob_start();
         <li><a href="https://a.co/d/1F2DdjQ">Thoughts in pills - 3 - About books</a></li>
         <li><a href="https://a.co/d/2r4aHen">Thoughts in pills - 4 - Our hands</a></li>
         <li><a href="https://a.co/d/arMGHFz">Thoughts in pills - 5 - Temples, mosques and churches</a></li>
+        <li><a href="https://a.co/d/dge8Amz">Thoughts in pills - 6 - The zodiac - An interpretation</a></li>
     </ul>
     </h3>
 </div>
