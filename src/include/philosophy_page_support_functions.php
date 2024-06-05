@@ -1,7 +1,7 @@
 <?php
 
 $range_H_A = array('H',1,13,'black');
-$range_A_A = array('A',1,569,'black');
+$range_A_A = array('A',1,573,'black');
 $range_B_A = array('B',1,18,'black');
 $range_C_A = array('C',1,3,'black');
 $range_D_A = array('D',1,4,'black');
@@ -52,7 +52,12 @@ function get_element_content($lang,$element_id) {
 
     if (file_exists($path)) {
 
-        return file_get_contents($path);
+        $content = file_get_contents($path);
+
+        $content = str_replace("&ldpos;",'&quot;',$content);
+        $content = str_replace("&rdpos;",'&quot;',$content);
+
+        return $content;
 
     } else {
         if ($lang == "it") {
