@@ -22,6 +22,11 @@ include_once("include/top_poem.php");
                 if ($_GET["mode"]=="one_element") {
                     $element = get_formatted_element_id($_GET["element_key"]);
 
+                    $parts = explode('_',$element);
+
+                    $letter = $parts[0];
+                    $element_number = $parts[1];
+
                     echo "<h2>";
                     echo get_element_content($lang,$element);
                     echo "</h2>";

@@ -29,6 +29,36 @@
     background-position-y: -100px;
 }
 
+.small_rounded button {
+    padding : 0.8vw;
+
+    margin: 0.8vw;
+
+    border-radius: 12px;
+    -webkit-border-radius : 12px;
+    -moz-border-radius : 12px;
+}
+
+.small_page_button {
+    width : 130px;
+    height: 80px;
+
+    color: white;
+
+    background-position-x: -100px;
+    background-position-y: -100px;
+}
+
+.small_placeholder {
+    display: inline-block;
+
+    min-width : 130px;
+    min-height: 80px;
+
+    padding : 0.8vw;
+    margin: 0.8vw;
+}
+
 .italian_language_button
 {
     width : 200px;

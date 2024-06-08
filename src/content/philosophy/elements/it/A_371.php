@@ -1,1 +1,1 @@
-A_371 - In caso di estrema necessit&agrave; o povert&agrave; &egrave; possibile realizzare delle scarpe anche utilizzando del cartone o del pluriball e usare uno spago per tenerle legate ai piedi.
+A_371 - In caso di estrema necessit&agrave; o povert&agrave; &egrave; possibile realizzare delle scarpe anche utilizzando del cartone o del pluriball e usare uno spago per tenerle legate ai piedi. Eventualmente anche con del tessuto di spugna ben sagomato e una corda. 
