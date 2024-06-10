@@ -1,0 +1,1 @@
+A_576 - Per quanto riguarda la realizzazione di indicazioni stradali, oltre alla classica segnalatica verticale, per quanto riguarda la circolazione stradale &egrave; anche possibile utilizzare delle indicazioni basate anche sul colore e su strisce colorate dipinte sull'asfalto per agevolare chi guida.

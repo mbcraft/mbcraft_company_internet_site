@@ -1,0 +1,1 @@
+A_576 - As regards the creation of road signs, in addition to the classic vertical signs, for road traffic it is also possible to use indications based on color and colored stripes painted on the asphalt to make it easier for drivers.
