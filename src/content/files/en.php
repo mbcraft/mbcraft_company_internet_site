@@ -32,6 +32,7 @@ ob_start();
         <li>Concept for an electric collection wagon (<a href="/downloads/electric_collection_wagon_concept.html" download>DOWNLOAD</a>)</li>
         <li>Concept for artificial shadow clouds (<a href="/downloads/artificial_shadow_clouds.html" download>DOWNLOAD</a>)</li>
         <li>Idea for a standardized food delivery service (<a href="/downloads/idea_for_standardized_food_delivery_service.html" download>DOWNLOAD</a>)</li>
+        <li>Concept for the creation of a system for cleaning sewers from mud blockages (<a href="/downloads/concept_robot_system_sewers_cleanup.html" download>DOWNLOAD</a>)</li>
     </ul>
     <hr />
     Ebook for sale on Amazon (they can be read also using a browser on a computer) (always read the description before evaluating the purchase) :
