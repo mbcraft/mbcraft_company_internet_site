@@ -22,11 +22,11 @@ ob_start();
             <input type="radio" id="page_philosophy" name="page" value="Filosofia" required>
             <label for="page_philosophy">Filosofia</label>
             <input type="radio" id="page_fun" name="page" value="Divertimento" required>
-            <label for="page_philosophy">Divertimento</label>
+            <label for="page_fun">Divertimento</label>
             <input type="radio" id="page_files" name="page" value="File" required>
-            <label for="page_philosophy">File</label>
+            <label for="page_files">File</label>
             <input type="radio" id="page_other" name="page" value="Altro" required>
-            <label for="page_philosophy">Altro</label>
+            <label for="page_other">Altro</label>
             </h3>
             <h2>
             <label for="reference">Riferimento all'elemento (id alfanumerico, nome del documento ...) : <span style="color:red;">*</span></label>

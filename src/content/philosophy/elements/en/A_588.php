@@ -1,0 +1,1 @@
+A_588 - Desire is the mixture of one's personal preference and laziness. However, when we mix action instead of laziness with preference, at that point we perform actions that lead us directly towards the goal we want to achieve. Nowadays it is possible to find almost everything we are looking for with a little research and effort and daydreaming is just a waste of time.

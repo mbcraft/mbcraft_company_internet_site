@@ -1,0 +1,1 @@
+A_583 - In generale per quanto riguarda le piante e gli alberi e le eventuali tecniche relative qui illustrate, &egrave; opportuno far presente che la risposta data dalla vegetazione non &egrave; mai immediata e che le piante impiegano del tempo per reagire ai nostri stimoli ... pertanto &egrave; opportuno avere la giusta pazienza.

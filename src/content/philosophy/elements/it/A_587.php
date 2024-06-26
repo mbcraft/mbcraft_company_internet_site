@@ -1,0 +1,1 @@
+A_587 - Chi gestisce un bar, essendo esso un luogo di incontro, se ne &egrave; capace pu&ograve; anche aiutare le persone a conoscersi e a incontrarsi, facendo amicizia con chi lo frequenta, oltre che vendere semplicemente vivande. 

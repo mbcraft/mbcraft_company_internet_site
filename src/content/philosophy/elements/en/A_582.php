@@ -1,0 +1,1 @@
+A_582 - In general, with regards to plants and trees and any related techniques illustrated here, it is appropriate to point out that the response given by vegetation is never immediate and that plants take time to react to our stimuli... therefore it is appropriate have the right patience.

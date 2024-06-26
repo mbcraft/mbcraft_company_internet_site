@@ -1,0 +1,1 @@
+A_585 - Se le persone di sesso opposto si comportano in modo strano e incomprensibile, &egrave; sempre meglio riflettere e cercare di capire cosa non va invece di pensare che "non sono a posto". Forse hanno delle percezioni che noi non abbiamo, oppure ci sono dei problemi di cui ignoriamo l'esistenza che le portano a comportarsi in quel modo. 

@@ -14,7 +14,7 @@ ob_start();
         <li>The parcel game - rules - Version 1.0 (<a href="/downloads/the_parcel_game.pdf" download>FREE DOWNLOAD [PDF]</a>)</li>
         <li>Only Fans Image Pack (90 mb) (joke) (<a href="/download/only_fans_image_pack.zip" download>FREE DOWNLOAD [ZIP]</a>)</li>
         <li>Recipe for an optimal tea - (<a download href="/downloads/tea_recipe.html">FREE DOWNLOAD [HTML]</a>)</li>
-        <li>Reflections about packaging production - version 1.2 - (<a download href="/downloads/reflections_about_packaging_production.html">FREE DOWNLOAD [HTML]</a>)</li>
+        <li>Reflections about packaging production - version 1.4 - (<a download href="/downloads/reflections_about_packaging_production.html">FREE DOWNLOAD [HTML]</a>)</li>
         <li>Experiences and considerations about plants - (<a href="/downloads/experiences_and_considerations_about_plants.html" download>FREE DOWNLOAD [HTML]</a>)</li>
         <li>Introduction to meditation - version 2.0 (<a href="/downloads/introduction_to_meditation.html" download>FREE DOWNLOAD [HTML]</a>)</li>
         <li>Reflections about contracts - version 1.0 (<a href="/downloads/reflections_about_contracts.html" download>FREE DOWNLOAD [HTML]</a>)</li>
@@ -25,7 +25,7 @@ ob_start();
         <li>Two-step cooking - version 1.0 (<a href="/downloads/two_step_cooking.html" download>FREE DOWNLOAD [HTML]</a>)</li>
         <li>Pipes for light - version 1.1 (<a href="/downloads/pipes_for_light.html" download>FREE DOWNLOAD [HTML]</a>)</li>
         <li>Cerimonies - version 1.5 (<a href="/downloads/cerimonies.html" download>FREE DOWNLOAD [HTML]</a>)</li>
-        <li>Open air games - Version 1.1 (<a href="/downloads/open_air_games.html" download>FREE DOWNLOAD [HTML]</a>)</li>
+        <li>Open air games - Version 1.2 (<a href="/downloads/open_air_games.html" download>FREE DOWNLOAD [HTML]</a>)</li>
         <li>Standard logo for feedback form to put in index/home page footer of internet sites (<a href="/downloads/feedback_form_standard_logo.svg" download>FREE DOWNLOAD [SVG]</a>) (<a href="/downloads/feedback_form_standard_logo.png" download>FREE DOWNLOAD [HTML]</a>) </li>
         <li>Alternative rough symbols for hexadecimal characters (<a href="/downloads/rough_hexadecimal_alternate_symbols.zip" download>FREE DOWNLOAD [ZIP]</a>)</li>
         <li>Dream management tecnique - C.B.H.F.D. (<a href="/downloads/dream_management_tecnique.html" download>DOWNLOAD</a>)</li>
@@ -33,6 +33,16 @@ ob_start();
         <li>Concept for artificial shadow clouds (<a href="/downloads/artificial_shadow_clouds.html" download>DOWNLOAD</a>)</li>
         <li>Idea for a standardized food delivery service (<a href="/downloads/idea_for_standardized_food_delivery_service.html" download>DOWNLOAD</a>)</li>
         <li>Concept for the creation of a system for cleaning sewers from mud blockages - Version 1.1 (<a href="/downloads/concept_robot_system_sewers_cleanup.html" download>DOWNLOAD</a>)</li>
+        <li>Observation of effects of branch cutting on tree growth - <a href="/downloads/observation_effects_branch_cutting_on_tree_growth.pdf" download>DOWNLOAD</a> (PDF) - Version 2</li>
+        <li>Concept for a system of vehicles for planting trees (<a href="/downloads/concept_vehicles_trees_planting.html" download>DOWNLOAD</a>) - Version 1</li>
+        <li>Concept for a desk for home appliances recycling (<a href="/downloads/concept_desk_home_appliances_recycling.html" download>DOWNLOAD</a>) - Version 1</li>
+    </ul>
+        <hr />
+    <ul>
+        <li>Instructions for fixing Facebook profile from unwanted posts (<a href="/downloads/instructions_for_fixing_facebook_profile.html" download>DOWNLOAD</a>)</li>
+        <li>Reportage on the usage of voodoo made with litter (<a href="/downloads/reportage_mafia_voodoo_12_06_2024__16_06_2024.zip">DOWNLOAD</a> - <a href="https://drive.google.com/file/d/1q7wwOCFDXcxN21eV7soWBx00ttaAFVdj/view?usp=drive_link">OR FROM GOOGLE DRIVE</a>) (1.2 GB) (Many languages)</li>
+        
+        
     </ul>
     <hr />
     Ebook for sale on Amazon (they can be read also using a browser on a computer) (always read the description before evaluating the purchase) :

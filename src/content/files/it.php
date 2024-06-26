@@ -14,7 +14,7 @@ ob_start();
         <li>Il gioco dei pacchi - regolamento - Versione 1.0 (<a href="/downloads/il_gioco_dei_pacchi.pdf" download>DOWNLOAD GRATUITO [HTML]</a>)</li>
         <li>Only Fans Image Pack (90 mb) (scherzo) (<a href="/download/only_fans_image_pack.zip" download>DOWNLOAD GRATUITO [HTML]</a>)</li>
         <li>Ricetta per un ottimo th&egrave; - (<a download href="/downloads/ricetta_the.html">DOWNLOAD GRATUITO [HTML]</a>)</li>
-        <li>Riflessioni sulla produzione di imballaggi - versione 1.2 - (<a download href="/downloads/riflessioni_produzione_imballaggi.html">DOWNLOAD GRATUITO [HTML]</a>)</li>
+        <li>Riflessioni sulla produzione di imballaggi - versione 1.4 - (<a download href="/downloads/riflessioni_produzione_imballaggi.html">DOWNLOAD GRATUITO [HTML]</a>)</li>
         <li>Esperienze e considerazioni sulle piante - (<a href="/downloads/esperienze_e_considerazioni_sulle_piante.html" download>DOWNLOAD GRATUITO [HTML]</a>)</li>
         <li>Introduzione alla meditazione - versione 2.0 (<a href="/downloads/introduzione_alla_meditazione.html" download>DOWNLOAD GRATUITO [HTML]</a>)</li>
         <li>Riflessioni sulla contrattualistica - versione 1.0 (<a href="/downloads/riflessioni_sui_contratti.html" download>DOWNLOAD GRATUITO [HTML]</a>)</li>
@@ -25,7 +25,7 @@ ob_start();
         <li>Cucina in due fasi - versione 1.0 (<a href="/downloads/cucina_in_due_fasi.html" download>DOWNLOAD GRATUITO [HTML]</a>)</li>
         <li>Tubature per la luce - versione 1.1 (<a href="/downloads/tubature_per_la_luce.html" download>DOWNLOAD GRATUITO [HTML]</a>)</li>
         <li>Cerimonie - versione 1.5 (<a href="/downloads/cerimonie.html" download>DOWNLOAD GRATUITO [HTML]</a>)</li>
-        <li>Giochi all'aperto - Versione 1.1 (<a href="/downloads/giochi_all_aperto.html" download>DOWNLOAD GRATUITO [HTML]</a>)</li>
+        <li>Giochi all'aperto - Versione 1.2 (<a href="/downloads/giochi_all_aperto.html" download>DOWNLOAD GRATUITO [HTML]</a>)</li>
         <li>Logo standard per le form di feedback da posizionare nel footer della pagina iniziale dei sito internet (<a href="/downloads/feedback_form_standard_logo.svg" download>DOWNLOAD GRATUITO [SVG]</a>) (<a href="/downloads/feedback_form_standard_logo.png" download>DOWNLOAD GRATUITO [PNG]</a>) </li>
         <li>Simboli alternativi grezzi per i caratteri esadecimali (<a href="/downloads/rough_hexadecimal_alternate_symbols.zip" download>DOWNLOAD GRATUITO [ZIP]</a>)</li>
         <li>Tecnica di gestione del sonno - R.C.D.O. (<a href="/downloads/tecnica_gestione_sogno.html" download>DOWNLOAD</a>)</li>
@@ -33,6 +33,15 @@ ob_start();
         <li>Concept per delle nuvole ombra artificiali (<a href="/downloads/nuvole_ombra_artificiali.html" download>DOWNLOAD</a>)</li>
         <li>Idea per un servizio di consegna del cibo a domicilio standardizzato (<a href="/downloads/idea_gestione_consegna_cibo_domicilio_standardizzata.html" download>DOWNLOAD</a>)</li>
         <li>Concept per la realizzazione di un sistema per la pulizia delle fognatura da intasamenti di fango - Versione 1.1 (<a href="/downloads/concept_sistema_robot_pulizia_fognature.html" download>DOWNLOAD</a>)</li>
+        <li>Osservazione degli effetti del tagli di rami sulla crescita degli alberi - <a href="/downloads/osservazione_effetti_taglio_rami_su_crescita_alberi.pdf" download>DOWNLOAD</a> (PDF) - Versione 1</li>
+        <li>Concept di un sistema di veicoli per la piantumazione di alberi (<a href="/downloads/concept_veicoli_piantumazione_alberi.html" download>DOWNLOAD</a>) - Versione 1</li> 
+        <li>Concept per un banco da lavoro per lo smaltimento degli elettrodomestici (<a href="/downloads/concept_banco_riciclaggio_elettrodomestici.html" download>DOWNLOAD</a>) - Versione 1</li>
+    </ul>
+        <hr />
+    <ul>
+        <li>Istruzioni per la sistemazione del profilo Facebook da post indesiderati (<a href="/downloads/istruzioni_per_sistemazione_profilo_facebook.html" download>DOWNLOAD</a>)</li>
+        <li>Reportage su uso del voodoo effettuato tramite lo spargimento di immondizia (<a href="/downloads/reportage_mafia_voodoo_12_06_2024__16_06_2024.zip">DOWNLOAD</a> - <a href="https://drive.google.com/file/d/1q7wwOCFDXcxN21eV7soWBx00ttaAFVdj/view?usp=drive_link">OPPURE DA GOOGLE DRIVE</a>) (1.2 GB) (Varie lingue)</li>
+        
     </ul>
     <hr />
     Ebook in vendita su Amazon (si possono leggere anche tramite browser su computer) (leggere sempre la descrizione prima di valutare l'acquisto) :

@@ -1,0 +1,1 @@
+A_585 - If people of the opposite sex behave in a strange and incomprehensible way, it is always better to reflect and try to understand what is wrong instead of thinking that "they are not right". Maybe they have perceptions that we don't have, or there are problems that we don't know exist that lead them to behave that way.
