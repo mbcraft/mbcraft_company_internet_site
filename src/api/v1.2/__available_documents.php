@@ -1,0 +1,46 @@
+<?php
+
+$available_documents = array(
+	"it" => array(
+		"cerimonie",
+		"concept_banco_riciclaggio_elettrodomestici",
+		"concept_sistema_robot_pulizia_fognature",
+		"concept_veicoli_piantumazione_alberi",
+		"cucina_in_due_fasi",
+		"esperienze_e_considerazioni_sulle_piante",
+		"giochi_all_aperto",
+		"idea_gestione_consegna_cibo_domicilio_standardizzata",
+		"introduzione_alla_meditazione",
+		"istruzioni_per_sistemazione_profilo_facebook",
+		"nuvole_ombra_artificiali",
+		"ricetta_the",
+		"riflessioni_produzione_imballaggi",
+		"riflessioni_sui_contratti",
+		"riflessioni_sul_legno",
+		"riflessioni_sulle_discoteche",
+		"tubature_per_la_luce",
+		"tecnica_gestione_sogno",
+		"concept_carro_raccolta_elettrico"
+		),
+	"en" => array(
+		"cerimonies",
+		"concept_desk_home_appliances_recycling",
+		"concept_robot_system_sewers_cleanup",
+		"concept_vehicles_trees_planting",
+		"two_step_cooking",
+		"experiences_and_considerations_about_plants",
+		"open_air_games",
+		"idea_for_standardized_food_delivery_service",
+		"introduction_to_meditation",
+		"instructions_for_fixing_facebook_profile",
+		"artificial_shadow_clouds",
+		"tea_recipe",
+		"reflections_about_packaging_production",
+		"reflections_about_contracts",
+		"reflections_about_wood",
+		"reflections_about_nightclubs",
+		"pipes_for_light",
+		"dream_management_tecnique",
+		"electric_collection_wagon_concept",
+		)
+	);

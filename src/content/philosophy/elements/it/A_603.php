@@ -1,0 +1,1 @@
+A_603 - Per quanto riguarda la frutta fermentata, c'&egrave; da dire che non solo l'uva fermentata ha un sapore interessante, ma anche gli altri frutti, se correttamente fermentati, hanno sapori bizzarri e spesso anche divertenti. L'importante &egrave; non eccedere in quanto comunque se fermentati sono anche un pochino alcolici. Anche la verdura si pu&ograve; fermentare.

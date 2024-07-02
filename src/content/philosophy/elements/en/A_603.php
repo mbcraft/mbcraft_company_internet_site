@@ -1,0 +1,1 @@
+A_603 - As for fermented fruit, it must be said that not only do fermented grapes have an interesting flavor, but other fruits, if properly fermented, also have bizarre and often even funny flavors. The important thing is not to exceed because if fermented they are also a little alcoholic. Vegetables can also be fermented.

@@ -38,6 +38,7 @@ ob_start();
 		<ul>
 			<li>Versione 1.0 - <a href="/api/v1.0/get_api_calls_specification.php">Specifiche</a> (formato JSON)</li>
 			<li>Versione 1.1 - <a href="/api/v1.1/get_api_calls_specification.php">Specifiche</a> (formato JSON)</li>
+			<li>Versione 1.2 - <a href="/api/v1.2/get_api_calls_specification.php">Specifiche</a> (formato JSON)</li>
 		</ul>
 	</div>
 </div>
