@@ -42,6 +42,9 @@ function compute_token($token) {
 	$token = str_replace("\n","",$token);
 	$token = str_replace("&ldquo;"," ",$token);
 	$token = str_replace("&rdquo;"," ",$token);
+	$token = str_replace("["," ",$token);
+	$token = str_replace("]"," ",$token);
+	
 
 	$token = html_entity_decode($token);
 
@@ -73,7 +76,7 @@ function compute_token($token) {
 
 function get_all_words_from_element($lang,$element_id) {
 
-	$NOT_ACTUALLY_WORDS = array('Abigail','Ratchford','Marco','Mazzotti','Jordan','Carver','Leanne','Crow','Ikea','Magneto','Xavier','Maya','Mayan','Machu','Picchu');
+	$NOT_ACTUALLY_WORDS = array('Abigail','Ratchford','Marco','Mazzotti','Tania','Moroni','Michele','Rispoli','Jordan','Carver','Leanne','Crow','Ikea','Magneto','Xavier','Maya','Mayan','Machu','Picchu','Chiesa','Cattolica','Catholic','Church','Vaticano','Vatican','Unione','Europea','European','Union','Aelion','Osho','Pompei','Ercolano','Pompeii','Herculaneum');
 
 	$content = get_element_content($lang,get_formatted_element_id($element_id));
 

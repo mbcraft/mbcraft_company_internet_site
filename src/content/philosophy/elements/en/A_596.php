@@ -1,0 +1,1 @@
+A_596 - Sometimes certain incorrect thoughts can also be caused by pollution present in the area or problems related to plants or trees of which we are not aware.

@@ -1,0 +1,1 @@
+A_597 - A volte le tradizioni e la cultura sono importanti e sono da preservare, ma altre volte sono da rendere in disuso oppure da bonificare. Quando la cultura manca &egrave; necessario fare della ricerca per trovarla e poi possibilmente condividerla in modo che essa vada a vantaggio di tutta la comunit&agrave;.

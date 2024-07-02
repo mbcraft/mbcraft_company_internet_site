@@ -1,0 +1,1 @@
+A_597 - Sometimes traditions and culture are important and need to be preserved, but other times they need to be disused or improved. When culture is missing it is necessary to do research to find it and then possibly share it so that it benefits the entire community.
