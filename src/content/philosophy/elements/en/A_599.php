@@ -1,0 +1,1 @@
+A_599 - Since dogs sometimes eat bones too, I wanted to suggest that maybe just tasting a piece of a paper napkin might make sense. Not so much on a nutritional level, but because it still serves to enrich the intestinal bacterial flora. It's not risky at all, although I can understand that it's not particularly tasty.

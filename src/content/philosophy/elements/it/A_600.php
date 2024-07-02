@@ -1,0 +1,1 @@
+A_600 - Con delle forbici, con del nastro adesivo, con del cartoncino, matite e righelli e con un po' di bravura e fantasia qualunque ragazzino/a pu&ograve; creare con poca spesa i suoi piccoli monumenti, e anche colorarli poi come preferisce. Sono comunque un modo per arricchire l'abitazione e per allenarsi nello sviluppo di un progetto.
