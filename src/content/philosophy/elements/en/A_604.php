@@ -1,0 +1,1 @@
+A_604 - As regards the use of boxes for fruit collection, it is important that after being emptied they are washed with jets of water from the mud and any rotten fruit so that there are no problems in reuse. If this procedure is not used, the risk is that any fruit left over from previous harvests and rotted will cause the contents of the boxes to go bad in subsequent reuses.
