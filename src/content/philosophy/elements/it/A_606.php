@@ -1,0 +1,1 @@
+A_606 - E' meglio non consentire l'uso di nessun tipo di alcolici dentro le centrali nucleari e gli istituti di ricerca in quanto potrebbero falsare i risultati degli esperimenti e creare problemi imprevisti sul lavoro.
