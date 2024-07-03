@@ -2,6 +2,8 @@
 
 include_once("__default_api_includes.php");
 
+header("Access-Control-Allow-Origin: *");
+
 include_once("__available_documents.php");
 
 api_check_mandatory_parameter_exists("language","The mandatory 'language' parameter is missing.");
