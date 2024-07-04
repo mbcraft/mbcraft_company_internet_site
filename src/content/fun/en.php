@@ -7,7 +7,7 @@ $keywords = "mbcraft, fun";
 
 ob_start();
 ?>
-<h2>
+<h1>
 	Here are the actually available links. New memes are added on the bottom of the list. I recommend viewing <b>no more than one meme</b> a day and <b>follow the order</b> starting from the first. Over time some memes may become deprecated.<br />
 	If you view these memes on a smartphone, rotating your phone can improve their visualization. Some memes are translations of the Italian versions, while some are available only in English. Some Italian memes are not translatable. These memes are not meant to be used as a way to hurt people or companies somewhat involved. <b>NOTE: however, pay attention to any respiratory crises, in some cases they personally made me laugh a lot. I do not take responsibility for problems resulting from excessive laughter. They are indicated if you feel quite depressed.</b> These memes are placed here FOR ADVERTISING PURPOSES as I can't afford anything else.
 	<br />

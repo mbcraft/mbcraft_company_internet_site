@@ -67,14 +67,14 @@ function echo_generic_small_page_button($javascript_action,$background_image,$te
     
     if ($_SESSION["LANG"]=="it") {
     ?>
-        <div class='w3-cell w3-mobile w3-padding-16 s2 m2 l2 p small_rounded'>
+        <div class='w3-cell w3-mobile s4 m3 l3 p small_rounded'>
             <button type="button" class="small_page_button" style="background-image: url('/images/background/<?=$background_image ?>');color:<?= $text_color ?>;" onclick="<?=$javascript_action ?>"><h3 style="font-weight: bolder;"><?=$it_label ?></h3></button>
         </div>
     <?php
     }
     if ($_SESSION["LANG"]=="en") {
     ?>
-        <div class='w3-cell w3-mobile w3-margin s2 m2 l2 p small_rounded'>
+        <div class='w3-cell w3-mobile s4 m3 l3 p small_rounded'>
             <button type="button" class="small_page_button" style="background-image: url('/images/background/<?=$background_image ?>');color:<?= $text_color ?>;" onclick="<?=$javascript_action ?>"><h3 style="font-weight: bolder;"><?=$en_label ?></h3></button>
         </div>
     <?php
@@ -93,16 +93,38 @@ function echo_generic_big_page_button($javascript_action,$background_image,$text
     
     if ($_SESSION["LANG"]=="it") {
     ?>
-        <div class='w3-cell w3-mobile w3-padding-16 s6 m6 l6 p huge_rounded'>
+        <div class='w3-cell w3-mobile s6 m6 l6 p huge_rounded'>
             <button type="button" class="big_page_button" style="background-image: url('/images/background/<?=$background_image ?>');color:<?= $text_color ?>;" onclick="<?=$javascript_action ?>"><h3 style="font-weight: bolder;"><?=$it_label ?></h3></button>
         </div>
     <?php
     }
     if ($_SESSION["LANG"]=="en") {
     ?>
-        <div class='w3-cell w3-mobile w3-margin s6 m6 l6 p huge_rounded'>
+        <div class='w3-cell w3-mobile s6 m6 l6 p huge_rounded'>
             <button type="button" class="big_page_button" style="background-image: url('/images/background/<?=$background_image ?>');color:<?= $text_color ?>;" onclick="<?=$javascript_action ?>"><h3 style="font-weight: bolder;"><?=$en_label ?></h3></button>
         </div>
     <?php
     }
+}
+
+function echo_generated_randomly_filled_feedback_form_logo() {
+
+	$current_dir = __DIR__;
+
+	$content = file_get_contents($current_dir."/feedback_form_standard_logo.tsvg");
+
+	$colors = array("LightGreen","MediumPurple","Indigo","Tomato","Turquoise","Orange","LightSkyBlue","Gold","Coral","Aquamarine","BlueViolet","Chartreuse","Crimson","DarkOrange","ForestGreen","SkyBlue");
+
+	shuffle($colors);
+
+	for ($i=1;$i<8;$i++) {
+
+		$c = $colors[$i];
+
+		$content = str_replace("|_f".$i."_|",$c,$content);
+	}
+
+	echo $content;
+
+
 }

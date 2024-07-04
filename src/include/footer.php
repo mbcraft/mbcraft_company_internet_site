@@ -7,14 +7,16 @@ $footer = array("it" =>
     "Grazie a <a href='http://openclipart.org'>openclipart.org</a> e <a href='http://texturelib.com'>texturelib.com</a> per le loro immagini.",
     "Immagini usate su licenza di shutterstock.com e poliigon.com.",
     "Il logo di MBCRAFT &egrave; un marchio registrato.",
-    "Tutti i contenuti sono originali, scritti e sviluppati da Marco Bagnaresi. Traduzioni con Google Translate."
+    "Tutti i contenuti sono originali, scritti e sviluppati da Marco Bagnaresi.",
+    "Traduzioni con Google Translate."
     ),
     "en" => array(
     "<a href=\"https://it.vecteezy.com/vettori-gratis/icona-facebook\">Facebook Icon Vettor of Vecteezy</a>",
     "<a href=\"http://icon-icons.com\">Twitter Icon</a> from Icon Icons with <a href=\"https://creativecommons.org/licenses/by/4.0/\">Creative Commons 4.0</a> license",
     "Thanks to <a href='http://openclipart.org'>openclipart.org</a>, <a href='http://texturelib.com'>texturelib.com</a> for their images.",
     "Images used under license of shutterstock.com and poliigon.com.",
-    "MBCRAFT logo is a registered trademark.","All content originally written and developed in Italian by Marco Bagnaresi. Translations by Google Translate.")
+    "MBCRAFT logo is a registered trademark.","All content originally written and developed in Italian by Marco Bagnaresi.",
+    "Translations by Google Translate.")
     );
 
 $welcome_page = array("it" => "Pagina di benvenuto",
@@ -110,8 +112,15 @@ function print_footer($elements) {
         <?php
         if (!defined('FEEDBACK_FORM_PAGE')) {
         ?>
-        <b><a href="/send_feedback.php"><?= $send_a_feedback[$lang] ?> <img style="padding:10px;" src="/images/logo/feedback_form_standard_logo.png" width="80"/></a></b><br />
-        <br /><br />
+        <div>
+        <b><a href="/send_feedback.php"><?= $send_a_feedback[$lang] ?> 
+
+        <div style="transform:scale(0.1,0.1);max-width:100px;max-height:100px;position:absolute;display:inline-block;top:280px;">
+        <?php
+        echo_generated_randomly_filled_feedback_form_logo();
+        ?>
+        </div></a></b>
+        </div>
         <?php
         }
         ?>
@@ -121,7 +130,7 @@ function print_footer($elements) {
             print_footer($footer[$lang]);
         ?>
         </h4>
-        
+        <div style="width:100%;height:50px;"></div>
     </div>
     <br />
 </footer>

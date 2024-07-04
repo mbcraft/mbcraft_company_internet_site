@@ -36,6 +36,8 @@ ob_start();
         <li>Osservazione degli effetti del tagli di rami sulla crescita degli alberi - <a href="/downloads/osservazione_effetti_taglio_rami_su_crescita_alberi.pdf" download>DOWNLOAD</a> (PDF) - Versione 1</li>
         <li>Concept di un sistema di veicoli per la piantumazione di alberi (<a href="/downloads/concept_veicoli_piantumazione_alberi.html" download>DOWNLOAD</a>) - Versione 1</li> 
         <li>Concept per un banco da lavoro per lo smaltimento degli elettrodomestici (<a href="/downloads/concept_banco_riciclaggio_elettrodomestici.html" download>DOWNLOAD</a>) - Versione 1</li>
+        <li>Concept per la realizzazione di un ponte galleggiante (<a href="/downloads/concept_ponte_galleggiante.html" download>DOWNLOAD</a>)</li>
+        <li>Concept per uno strumento per il pettinamento degli alberi innevati (<a href="/downloads/concept_strumento_pettinamento_alberi_innevati.html" download>DOWNLOAD</a>)</li>
     </ul>
         <hr />
     <ul>

@@ -7,7 +7,7 @@ $menu = array("it" => array("HOME","COMPETENZE","ESPERIENZE","FILOSOFIA","DIVERT
 </h4>
 <nav>
     <h1>Menu:</h1>
-    <div class="w3-cell-row w3-light-blue menu" role="menu">
+    <div class="w3-cell-row w3-light-blue menu" style="min-width:100%;" role="menu">
         <div role="menuitem" class="w3-cell w3-mobile w3-cell-middle menu_item yellow" onclick="document.location.href = '/home.php'">
             <?=$menu[$lang][0] ?>
         </div>

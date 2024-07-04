@@ -20,7 +20,9 @@ $available_documents = array(
 		"riflessioni_sulle_discoteche",
 		"tubature_per_la_luce",
 		"tecnica_gestione_sogno",
-		"concept_carro_raccolta_elettrico"
+		"concept_carro_raccolta_elettrico",
+		"concept_ponte_galleggiante",
+		"concept_strumento_pettinamento_alberi_innevati"
 		),
 	"en" => array(
 		"cerimonies",
@@ -42,5 +44,7 @@ $available_documents = array(
 		"pipes_for_light",
 		"dream_management_tecnique",
 		"electric_collection_wagon_concept",
+		"concept_floating_bridge",
+		"concept_tool_for_combing_snow_covered_trees"
 		)
 	);

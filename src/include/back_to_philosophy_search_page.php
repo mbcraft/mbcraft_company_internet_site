@@ -28,7 +28,7 @@ $is_next_show = $number < $current_range[2] - 1;
     }
     else echo_empty_small_placeholder();
     ?>
-    <div align="center" class='s5 m4 l3 w3-margin' style="display:inline-block; vertical-align: middle;">
+    <div align="center" class='s6 m5 l4 w3-margin' style="display:inline-block; vertical-align: middle;">
             <?php
                 echo_generic_big_page_button("document.location.href='/philosophy.php';","back_to_search_button_background.jpg","white","Torna alla ricerca","Back to search");
             ?>

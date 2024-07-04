@@ -13,6 +13,10 @@ ob_start();
 	<?php
 	print_available_ranges($all_ranges);
 	?>
+	<br />
+	Inserisci l'identificativo di un elemento (es: "A_123") per visualizzarlo.
+	<br />
+	<br />
 	<form name="search_element" action="/philosophy.php" method="GET">
 		<input type="hidden" name="mode" value="one_element" />
 		<input type="hidden" name="with_back_to_results" value="false" />
@@ -21,6 +25,8 @@ ob_start();
 	</form>
 	<br />
 	Se invece vuoi fare una ricerca per parole contenute al loro interno, inserisci tutte le parole che devono essere presenti in questa barra di ricerca :
+	<br />
+	<br />
 	<form name="search_by_words" action="/philosophy.php" method="GET">
 		<input type="hidden" name="mode" value="search_with_words" />
 		<input type="text" name="search_query" minlength="3">

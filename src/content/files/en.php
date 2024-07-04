@@ -36,6 +36,8 @@ ob_start();
         <li>Observation of effects of branch cutting on tree growth - <a href="/downloads/observation_effects_branch_cutting_on_tree_growth.pdf" download>DOWNLOAD</a> (PDF) - Version 2</li>
         <li>Concept for a system of vehicles for planting trees (<a href="/downloads/concept_vehicles_trees_planting.html" download>DOWNLOAD</a>) - Version 1</li>
         <li>Concept for a desk for home appliances recycling (<a href="/downloads/concept_desk_home_appliances_recycling.html" download>DOWNLOAD</a>) - Version 1</li>
+        <li>Concept for a floating bridge (<a href="/downloads/concept_floating_bridge.html" download>DOWNLOAD</a>)</li>
+        <li>Concept for a tool for combing snow-covered trees (<a href="/downloads/concept_tool_for_combing_snow_covered_trees.html" download>DOWNLOAD</a>)</li>
     </ul>
         <hr />
     <ul>

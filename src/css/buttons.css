@@ -10,9 +10,9 @@
 }
 
 .huge_rounded button {
-    padding : 1vw;
+    padding : 0.1vw;
 
-    margin: 1vw;
+    margin: 0.5vw;
 
     border-radius: 12px;
     -webkit-border-radius : 12px;
@@ -20,7 +20,7 @@
 }
 
 .big_page_button {
-    width : 200px;
+    width : 250px;
     height: 100px;
 
     color: white;
@@ -30,9 +30,9 @@
 }
 
 .small_rounded button {
-    padding : 0.8vw;
+    padding : 0.1vw;
 
-    margin: 0.8vw;
+    margin: 0.5vw;
 
     border-radius: 12px;
     -webkit-border-radius : 12px;

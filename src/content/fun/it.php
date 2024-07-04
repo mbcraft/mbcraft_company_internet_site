@@ -7,7 +7,7 @@ $keywords = "mbcraft, divertimento";
 
 ob_start();
 ?>
-<h2>
+<h1>
 	Questi sono i link attualmente disponbili. I nuovi meme vengono aggiunti in fondo alla lista. Raccomando la visualizzazione di <b>non pi&ugrave; di un meme</b> al giorno e di <b>seguire l'ordine</b> partendo dal primo. Col passare del tempo alcuni meme potrebbero diventare deprecati.<br />
 	Se visualizzate i meme su smartphone ruotare il telefono potrebbe migliorarne la visualizzazione. Questi meme non sono un modo per offendere aziende o persone in essi coinvolti. <b>NOTA : fate attenzione comunque ad eventuali crisi respiratorie, a me personalmente in certi casi hanno fatto ridere tantissimo. Non mi assumi responsabilit&agrave; per problemi derivanti da eccessi di risate. Sono indicati se vi sentite abbastanza depressi.</b> Questi meme sono inseriti qui A SCOPO PUBBLICITARIO in quanto non posso permettermi altro.
 	<br />
