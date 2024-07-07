@@ -1,0 +1,1 @@
+A_608 - It is important to dedicate some time every now and then (even just 5 minutes) to apologizing to animals and nature for the sins that we probably no longer know anything about and that we have committed in our past lives.
