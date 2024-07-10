@@ -1,1 +1,1 @@
-A_300 - Se vi sentite un po' spenti e siete di sesso maschile, potete provare a versarvi un po' di colluttorio sul prepuzio.
+A_300 - Se vi sentite un po' spenti e siete di sesso maschile, potete provare a versarvi un po' di colluttorio sul prepuzio. Io ho provato un paio di volte ... dopo un certo fastidio comunque sopportabile dovuto probabilmente alla presenza del fluoro, successivamente rimane una sensazione piuttosto piacevole.
