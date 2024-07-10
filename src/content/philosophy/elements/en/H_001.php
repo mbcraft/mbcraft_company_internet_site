@@ -9,7 +9,7 @@ H_001 - As regards the conditions of use of what is provided via this page or th
 		<li>Use for large projects - I recommend contacting me via email and paying a 1% to 3% monthly royalty on all earnings if the project is approved (also variable from month to month, your choice)</li>
 		<li>Use to create harmful projects or companies towards this company - NO</li>
 		<li>Use to create projects or companies from scratch towards this company - Royalties to be paid from 1% up to 15% on all earnings (of your choice also variable from month to month)</li>
-		<li>Use in existing companies for modifications or improvements to existing products or services - Guarantees are offered only upon payment of royalties ranging from 1% to 3% (of your choice also variable from month to month)</li>
+		<li>Use in existing companies for modifications or improvements to existing products or services - Guarantees are offered only upon payment of royalties ranging from 1% to 3% on the company profits (of your choice also variable from month to month)</li>
 	</ul>
 	<br />
 	If you have any doubts about the terms and conditions you can contact this company via email. As regards the payment of any arrears, you can comply (at your choice and in a variable manner) within 6 months of reading the following terms and conditions and pay monthly for subsequent periods. 
