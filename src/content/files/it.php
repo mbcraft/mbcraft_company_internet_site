@@ -42,7 +42,7 @@ ob_start();
         <hr />
     <ul>
         <li>Istruzioni per la sistemazione del profilo Facebook da post indesiderati (<a href="/downloads/istruzioni_per_sistemazione_profilo_facebook.html" download>DOWNLOAD</a>)</li>
-        <li>Reportage su uso del voodoo effettuato tramite lo spargimento di immondizia (<a href="/downloads/reportage_mafia_voodoo_12_06_2024__16_06_2024.zip">DOWNLOAD</a> - <a href="https://drive.google.com/file/d/1q7wwOCFDXcxN21eV7soWBx00ttaAFVdj/view?usp=drive_link">OPPURE DA GOOGLE DRIVE</a>) (1.2 GB) (Varie lingue)</li>
+        <li>Reportage su uso del voodoo effettuato tramite lo spargimento di immondizia (<a href="https://www.mbcraftlab.it/downloads/reportage_mafia_voodoo_12_06_2024__16_06_2024.zip">DA HOSTING AMERICANO - DOWNLOAD</a> - <a href="https://drive.google.com/file/d/1q7wwOCFDXcxN21eV7soWBx00ttaAFVdj/view?usp=drive_link">OPPURE DA GOOGLE DRIVE</a> - oppure contattami con la <a href="/send_feedback.php?element_type=file&element_id=reportage_mafia_voodoo">form di feedback</a> per avere un WeTransfer) (1.2 GB) (Varie lingue)</li>
         
     </ul>
     <hr />

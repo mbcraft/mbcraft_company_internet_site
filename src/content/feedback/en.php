@@ -9,7 +9,7 @@ ob_start();
 ?>
             <input type="hidden" id="language" name="language" value="English">
             <h2>
-            <label for="page">Your full name, your nickname or your e-mail : <span style="color:red;">*</span></label>
+            <label for="page">Your full name, your nickname or your e-mail (required for replies) : <span style="color:red;">*</span></label>
             </h2>
             <h3>
             <input type="text" name="who" required>    
@@ -18,19 +18,19 @@ ob_start();
             <label for="page">Page or section in which you found some problems or errors : <span style="color:red;">*</span></label>
             </h2>
             <h3>
-            <input type="radio" id="page_philosophy" name="page" value="Filosofia">
+            <input type="radio" id="page_philosophy" name="page" <?= $element_type=='philosophy' ? "checked" : "" ?> value="Filosofia">
             <label for="page_philosophy">Philosophy</label>
-            <input type="radio" id="page_fun" name="page" value="Divertimento">
+            <input type="radio" id="page_fun" name="page" <?= $element_type=='fun' ? "checked" : "" ?> value="Divertimento">
             <label for="page_fun">Fun</label>
-            <input type="radio" id="page_files" name="page" value="File">
+            <input type="radio" id="page_files" name="page" <?= $element_type=='file' ? "checked" : "" ?> value="File">
             <label for="page_files">File</label>
-            <input type="radio" id="page_other" name="page" value="Altro">
+            <input type="radio" id="page_other" name="page" <?= $element_type=='other' ? "checked" : "" ?> value="Altro">
             <label for="page_other">Other</label>
             </h3>
             <h2>
             <label for="reference">Reference to the item (alphanumeric id, document name ...) : <span style="color:red;">*</span></label>
             </h2>
-            <input type="text" name="reference" required>
+            <input type="text" name="reference" required value="<?=$element_id ?>">
             <h2>
             <label for="description">Description of problem (if necessary to include or you're willing to write it) :</label>
             </h2>

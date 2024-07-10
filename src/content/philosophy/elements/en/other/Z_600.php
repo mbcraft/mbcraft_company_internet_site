@@ -1,1 +1,0 @@
-A_600 - Thinking badly of those who deal with spirituality is a bad idea. If we have suggestions, information or some useful resources (e.g. locally grown fruit and vegetables) it is best to share it with that person so that the whole community can then be helped.

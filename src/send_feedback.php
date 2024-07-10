@@ -7,6 +7,9 @@ $c = generate_numeric_captcha_elements('MBCRAFT');
 $captcha_html = $c['captcha_html'];
 $hidden_control_code_check = $c['hidden_control_code_check'];
 
+$element_type = filter_input(INPUT_GET, "element_type");
+$element_id = filter_input(INPUT_GET, "element_id");
+
 require_once('include/lang.php');
 include_once("include/begin_html.php");
 require_once("content/feedback/".$lang.".php");
@@ -14,6 +17,7 @@ include_once("include/meta.php");
 include_once("include/begin_content_with_language_switches.php");
 include_once("include/menu.php");
 include_once("include/top_poem.php");
+
 
 define('FEEDBACK_FORM_PAGE',true);
 ?>

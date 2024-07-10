@@ -21,9 +21,8 @@ require_once ("include/site_variables.php");
     <div style="padding-top:40px;"><h3>Scegli lo sfondo che preferisci :</h3></div>
     <?php 
         include('_background_list.php'); 
-    ?>
-    <?php
-    if (!$is_open) {
+
+        if (!$is_open) {
     ?>
     <span style="font-size: 40px;font-weight: bold;">NON ENTRARE !</span>
     <br />
@@ -32,7 +31,7 @@ require_once ("include/site_variables.php");
     <span style="font-size: 20px;font-weight: bold;">( QUESTO SITO INTERNET &Egrave; CHIUSO )</span>
     <br />
     <?php
-    }
+        }
     ?>
     <form method="POST" name="background_enter_form" action="/home.php">
         <input id="BACKGROUND" type="hidden" name="BACKGROUND" value="white" />
@@ -41,7 +40,7 @@ require_once ("include/site_variables.php");
 </div>
     <br />
     <div align="center">
-    <h4>Ultimo aggiornamento : 08/07/2024</h4>
+    <h4>Ultimo aggiornamento : 10/07/2024</h4>
     </div>
     <br />
     <br />

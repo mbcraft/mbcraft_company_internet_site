@@ -1,1 +1,0 @@
-A_600 - Pensar male di chi si occupa di spiritualit&agrave; &egrave; una pessima idea. Se abbiamo dei suggerimenti, delle informazioni o qualche risorsa utile (es: frutta e verdura coltivata localmente) conviene condividerla con quella persona in modo che tramite essa possa poi essere aiutata tutta la comunit&agrave;.

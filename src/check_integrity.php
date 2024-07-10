@@ -99,7 +99,7 @@ function get_file_list() {
 
    $downloads_list = list_directory_files("/downloads/");
 
-   $content_list = ["/content/philosophy/it.php","/content/philosophy/en.php","/content/home/it.php","/content/home/en.php","/content/experiences/it.php","/content/experiences/en.php","/content/fun/it.php","/content/fun/en.php","/content/skills/it.php","/content/skills/en.php","/content/about_internet_site/it.php","/content/about_internet_site/en.php"];
+   $content_list = ["/content/feedback/it.php","/content/feedback/en.php","/content/feedback_send_error/it.php","/content/feedback_send_error/en.php","/content/feedback_thank_you/it.php","/content/feedback_thank_you/en.php","/content/philosophy/it.php","/content/philosophy/en.php","/content/home/it.php","/content/home/en.php","/content/experiences/it.php","/content/experiences/en.php","/content/fun/it.php","/content/fun/en.php","/content/skills/it.php","/content/skills/en.php","/content/about_internet_site/it.php","/content/about_internet_site/en.php","/content/files/it.php","/content/files/en.php"];
 
    $ph_it_list = list_directory_files("/content/philosophy/elements/it/");
 
