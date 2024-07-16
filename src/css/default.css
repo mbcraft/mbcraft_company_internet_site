@@ -189,3 +189,9 @@ hr {
     font-weight: bold;
     color: red;
 }
+
+.centered_item {
+    text-align: center;
+    list-style: none;
+    padding:20px;
+}

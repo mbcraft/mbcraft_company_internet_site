@@ -1,1 +1,1 @@
-A_567 - Ogni muratore o costruttore conosce cos&egrave; l'umilt&agrave;, in quanto i mattoni sono sempre appoggiati uno sopra l'altro, e i mattoni non fluttuano nell'aria.
+A_567 - Ogni muratore o costruttore conosce cos'&egrave; l'umilt&agrave;, in quanto i mattoni sono sempre appoggiati uno sopra l'altro, e i mattoni non fluttuano nell'aria.

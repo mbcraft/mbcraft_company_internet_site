@@ -55,6 +55,8 @@ ob_start();
         <li><a href="https://amzn.eu/d/3wlp3Y8">Pensieri in pillole - 4 - Le nostre mani</a></li>
         <li><a href="https://amzn.eu/d/dbAzFTN">Pensieri in pillole - 5 - Templi, moschee e chiese</a></li>
         <li><a href="https://amzn.eu/d/6o8PmzK">Pensieri in pillole - 6 - Lo zodiaco - Un'interpretazione</a></li>
+        <li><a href="https://amzn.eu/d/04ThU9HA">Pensieri in pillole - 7 - Le piante in vaso - Appunti vari</a></li>
+        
     </ul>
     </h3>
 </div>
