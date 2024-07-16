@@ -24,7 +24,10 @@ Regarding the work carried out, please note that:
 <li>Projects developed for companies are not reused for other purposes and no theft of data from databases or source code is carried out even when not contractually declared.</li>
 <li>Failed projects became open source.</li>
 </ul>
-<br /><br />
+<br />
+Recently (in recent years) MBCRAFT has dedicated itself to the research and development of content published on this website and has not carried out software developments of any kind.
+<br />
+<br />
 <div style="background-color:yellow;">
 There is no sign at the company's domicile as it is also a private home. For work-related matters, book the appointment via email [contact @ mbcraft.it], for personal matters via email [marco.bagnaresi @ gmail.com] . If you want to freely support MBCRAFT you can send donations using PayPal at : info@mbcraft.it .
 </div>
