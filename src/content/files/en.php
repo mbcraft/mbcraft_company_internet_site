@@ -38,7 +38,7 @@ ob_start();
         <li>Concept for a desk for home appliances recycling (<a href="/downloads/concept_desk_home_appliances_recycling.html">VIEW</a> - <a href="/downloads/concept_desk_home_appliances_recycling.html" download>DOWNLOAD</a>) - Version 1</li>
         <li>Concept for a floating bridge (<a href="/downloads/concept_floating_bridge.html">VIEW</a> - <a href="/downloads/concept_floating_bridge.html" download>DOWNLOAD</a>)</li>
         <li>Concept for a tool for combing snow-covered trees (<a href="/downloads/concept_tool_for_combing_snow_covered_trees.html">VIEW</a> - <a href="/downloads/concept_tool_for_combing_snow_covered_trees.html" download>DOWNLOAD</a>)</li>
-        <li>Idea for a Wood Storage Management Center - WSMC (<a href="/downloads/wood_storage_management_center.html">VIEW</a> - <a href="/downloads/wood_storage_management_center.html" download>DOWNLOAD</a>)</li>
+        <li>Idea for a Wood Storage Management Center - WSMC - Version 1.2 (<a href="/downloads/wood_storage_management_center.html">VIEW</a> - <a href="/downloads/wood_storage_management_center.html" download>DOWNLOAD</a>)</li>
     </ul>
         <hr />
     <ul>

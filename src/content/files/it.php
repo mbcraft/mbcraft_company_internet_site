@@ -38,7 +38,7 @@ ob_start();
         <li>Concept per un banco da lavoro per lo smaltimento degli elettrodomestici (<a href="/downloads/concept_banco_riciclaggio_elettrodomestici.html">VISUALIZZA</a> - <a href="/downloads/concept_banco_riciclaggio_elettrodomestici.html" download>DOWNLOAD</a>) - Versione 1</li>
         <li>Concept per la realizzazione di un ponte galleggiante (<a href="/downloads/concept_ponte_galleggiante.html">VISUALIZZA</a> - <a href="/downloads/concept_ponte_galleggiante.html" download>DOWNLOAD</a>)</li>
         <li>Concept per uno strumento per il pettinamento degli alberi innevati (<a href="/downloads/concept_strumento_pettinamento_alberi_innevati.html">VISUALIZZA</a> - <a href="/downloads/concept_strumento_pettinamento_alberi_innevati.html" download>DOWNLOAD</a>)</li>
-        <li>Idea per un centro di gestione e stoccaggio legnami - CGSL (<a href="/downloads/centro_gestione_stoccaggio_legnami.html">VISUALIZZA</a> - <a href="/downloads/centro_gestione_stoccaggio_legnami.html" download>DOWNLOAD</a>)</li>
+        <li>Idea per un centro di gestione e stoccaggio legnami - CGSL - Versione 1.2 (<a href="/downloads/centro_gestione_stoccaggio_legnami.html">VISUALIZZA</a> - <a href="/downloads/centro_gestione_stoccaggio_legnami.html" download>DOWNLOAD</a>)</li>
     </ul>
         <hr />
     <ul>
