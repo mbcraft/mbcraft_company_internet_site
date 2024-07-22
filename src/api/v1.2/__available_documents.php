@@ -22,7 +22,9 @@ $available_documents = array(
 		"tecnica_gestione_sogno",
 		"concept_carro_raccolta_elettrico",
 		"concept_ponte_galleggiante",
-		"concept_strumento_pettinamento_alberi_innevati"
+		"concept_strumento_pettinamento_alberi_innevati",
+		"centro_gestione_stoccaggio_legnami",
+		"idea_sistema_gestione_processi_giudiziari"
 		),
 	"en" => array(
 		"cerimonies",
@@ -45,6 +47,8 @@ $available_documents = array(
 		"dream_management_tecnique",
 		"electric_collection_wagon_concept",
 		"concept_floating_bridge",
-		"concept_tool_for_combing_snow_covered_trees"
+		"concept_tool_for_combing_snow_covered_trees",
+		"wood_storage_management_center",
+		"idea_judicial_processes_management_system"
 		)
 	);
