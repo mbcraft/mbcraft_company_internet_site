@@ -25,7 +25,7 @@ Per quanto riguarda i lavori effettuati si fa presente che :
 	<li>I progetti falliti diventano open source.</li>
 </ul>
 <br />
-Di recente (negli ultimi anni) MBCRAFT si &egrave; dedicata all'attivit&agrave; di ricerca e sviluppo di contenuti pubblicati su questo sito internet e non ha effettuato sviluppi si software di nessun tipo.
+Di recente (negli ultimi anni) MBCRAFT si &egrave; dedicata all'attivit&agrave; di ricerca e sviluppo di contenuti pubblicati su questo sito internet e non ha effettuato sviluppi di software particolarmente impegnativi.
 <br /><br />
 <div style="background-color:yellow;">
 Non &egrave; presente nessuna insegna presso il domicilio dell'azienda in quanto trattasi anche di abitazione privata. Si riceve solo su appuntamento presso la piazza o la stazione di Bagnacavallo. Per questioni lavorative prenotate l'appuntamento tramite l'email [contact @ mbcraft.it], per questioni personali tramite la mail [marco.bagnaresi @ gmail.com] . Se volete supportare MBCRAFT potete effettuare donazioni inviando denaro tramite PayPal a : info@mbcraft.it .

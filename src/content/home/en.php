@@ -25,7 +25,7 @@ Regarding the work carried out, please note that:
 <li>Failed projects became open source.</li>
 </ul>
 <br />
-Recently (in recent years) MBCRAFT has dedicated itself to the research and development of content published on this website and has not carried out software developments of any kind.
+Recently (in recent years) MBCRAFT has dedicated itself to the research and development of content published on this website and has not carried out particularly demanding software developments.
 <br />
 <br />
 <div style="background-color:yellow;">
