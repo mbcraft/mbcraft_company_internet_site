@@ -1,0 +1,1 @@
+C_010 - Concettualmente non &egrave; proibito e non &egrave; illegale realizzare del gelato appositamente pensato per i cani. Nei mesi estivi potrebbe essere un ottimo modo per aiutarli a fronteggiare le alte temperature, specialmente per quelle razze col pelo un po' lungo.

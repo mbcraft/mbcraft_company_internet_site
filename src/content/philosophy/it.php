@@ -46,6 +46,8 @@ ob_start();
 			<li>Versione 1.1 - <a href="/api/v1.1/get_api_calls_specification.php">Specifiche</a> (formato JSON)</li>
 			<li>Versione 1.2 - <a href="/api/v1.2/get_api_calls_specification.php">Specifiche</a> (formato JSON) - (<a href="/api/v1.2/sample.html">esempio embed</a>)</li> 
 		</ul>
+		<br />
+		Se ci sono degli errori, delle imprecisioni o delle domande in merito a qualche contenuto, puoi usare la form di feedback dal link nel footer della pagina.
 	</div>
 </div>
 <?php

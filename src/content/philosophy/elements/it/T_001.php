@@ -1,1 +1,1 @@
-T_001 - Grazie per il tempo che hai dedicato alla lettura di quello che ho scritto. - Marco B. 
+T_001 - Grazie per il tempo che hai dedicato alla lettura di quello che ho scritto. Perdonami se hai trovato qualche piccolo errore o imprecisione. - Marco B. 
