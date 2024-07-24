@@ -29,6 +29,16 @@
     background-position-y: -100px;
 }
 
+.very_small_rounded button {
+    padding : 0.1vw;
+
+    margin: 0.5vw;
+
+    border-radius: 5px;
+    -webkit-border-radius : 5px;
+    -moz-border-radius : 5px;
+}
+
 .small_rounded button {
     padding : 0.1vw;
 
@@ -37,6 +47,50 @@
     border-radius: 12px;
     -webkit-border-radius : 12px;
     -moz-border-radius : 12px;
+}
+
+.v_1 {
+    background-position-x: 0px;
+    background-position-y: 0px;
+}
+
+.v_2 {
+    background-position-x: 0px;
+    background-position-y: 70px;
+}
+
+.v_3 {
+    background-position-x: 70px;
+    background-position-y: 0px;
+}
+
+.v_4 {
+    background-position-x: 70px;
+    background-position-y: 70px;
+}
+
+.v_5 {
+    background-position-x: 140px;
+    background-position-y: 0px;
+}
+
+.v_6 {
+
+    background-position-x: 140px;
+    background-position-y: 70px;
+}
+
+.v_7 {
+    background-position-x: 140px;
+    background-position-y: 140px;
+}
+
+
+.very_small_page_button {
+    width : 70px;
+    height: 70px;
+
+    color: white;
 }
 
 .small_page_button {

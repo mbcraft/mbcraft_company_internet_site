@@ -8,7 +8,7 @@ $keywords = "filosofia, consigli, amicizia";
 ob_start();
 ?>
 <div align="center">
-	Per visualizzare un elemento, inserire nella barra di ricerca la chiave corrispondente. Il carattere di sottolineatura e gli zero iniziali sono opzionali. Leggi gli elementi 'H' prima di consultare gli altri.
+	Per visualizzare un elemento, inserire nella barra di ricerca la chiave corrispondente. Il carattere di sottolineatura e gli zero iniziali sono opzionali. <a href="/philosophy.php?mode=one_element&with_back_to_results=false&element_key=H_001">Leggi gli elementi 'H'</a> prima di consultare gli altri.
 	Attualmente sono disponibili i seguenti range di elementi :
 	<?php
 	print_available_ranges($all_ranges);

@@ -1,1 +1,0 @@
---- End of contents extracted from booklet. ---
