@@ -48,7 +48,7 @@ include_once("../include/top_poem.php");
                             <li>Rib removal</li>
                             <li>Financial crack</li>
                             <li>Spa in the sewers</li>
-                            <li>Obsidian cofffin</li>
+                            <li>Obsidian coffin</li>
                         </ol>
                     </b>
                 </div>

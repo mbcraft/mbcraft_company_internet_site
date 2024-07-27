@@ -39,7 +39,8 @@ ob_start();
         <li>Concept for a floating bridge (<a href="/downloads/concept_floating_bridge.html">VIEW</a> - <a href="/downloads/concept_floating_bridge.html" download>DOWNLOAD</a>)</li>
         <li>Concept for a tool for combing snow-covered trees (<a href="/downloads/concept_tool_for_combing_snow_covered_trees.html">VIEW</a> - <a href="/downloads/concept_tool_for_combing_snow_covered_trees.html" download>DOWNLOAD</a>)</li>
         <li>Idea for a Wood Storage Management Center - WSMC - Version 1.2 (<a href="/downloads/wood_storage_management_center.html">VIEW</a> - <a href="/downloads/wood_storage_management_center.html" download>DOWNLOAD</a>)</li>
-        <li>Idea for an improved management of judicial processes - Version 1.1 (<a href="/downloads/idea_judicial_processes_management_system.html">VIEW</a> - <a href="/downloads/idea_judicial_processes_management_system.html" download>DOWNLOAD</a>)</li>
+        <li>Idea for an improved management of judicial processes - Version 1.2 (<a href="/downloads/idea_judicial_processes_management_system.html">VIEW</a> - <a href="/downloads/idea_judicial_processes_management_system.html" download>DOWNLOAD</a>)</li>
+        <li>Idea for a shared deposit for agricoltural instruments and tools - Version 1.0 (<a href="/downloads/shared_deposit_for_instruments_and_tools.html">VIEW</a> - <a href="/downloads/shared_deposit_for_instruments_and_tools.html" download>DOWNLOAD</a>)</li>
     </ul>
         <hr />
     <ul>

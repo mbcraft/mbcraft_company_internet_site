@@ -1,1 +1,1 @@
-H_008 - Alcuni dei concetti che ho illustrato potrebbero essere pratici e utilizzabili solo in presenza di determinati alberi, piante, animali o minerali e dalle loro condizioni. 
+H_009 - Di solito quando prendiamo delle sleppe o ci facciamo male accidentalmente &egrave; perch&eacute; c'&egrave; qualcosa di sbagliato nella nostra filosofia. Capita a tutti, me compreso.
