@@ -1,0 +1,1 @@
+A_620 - If the bundles are tied with kitchen string, it can be left with the wood when they are put in the boiler or wood-fired oven as it too is combustible.

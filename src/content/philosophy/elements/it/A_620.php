@@ -1,0 +1,1 @@
+A_620 - Se le fascine vengono legate con lo spago da cucina, esso pu&ograve; essere lasciato insieme alla legna quando vengono messe nella caldaia o nel forno in quanto anch'esso &egrave; combustibile.

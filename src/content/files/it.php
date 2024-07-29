@@ -15,7 +15,7 @@ ob_start();
         Versione 2.0 (<a href="/downloads/litterpicking_guidelines_2_0_ita.pdf" download>DOWNLOAD GRATUITO [PDF]</a>) (<a href="/downloads/litterpicking_guidelines_2_0_ita.odt" download>DOWNLOAD GRATUITO [ODT]</a>)</li>
         <li>Il gioco dei pacchi - regolamento - Versione 1.0 (<a href="/downloads/il_gioco_dei_pacchi.pdf">VISUALIZZA</a> - <a href="/downloads/il_gioco_dei_pacchi.pdf" download="">DOWNLOAD GRATUITO [HTML]</a>)</li>
         <!--<li>Only Fans Image Pack (90 mb) (scherzo) (<a href="/download/only_fans_image_pack.zip" download>DOWNLOAD GRATUITO [HTML]</a>)</li>-->
-        <li>Ricetta per un ottimo thè - (<a href="/downloads/ricetta_the.html">VISUALIZZA</a> - <a download href="/downloads/ricetta_the.html">DOWNLOAD GRATUITO [HTML]</a>)</li>
+        <!--<li>Ricetta per un ottimo thè - (<a href="/downloads/ricetta_the.html">VISUALIZZA</a> - <a download href="/downloads/ricetta_the.html">DOWNLOAD GRATUITO [HTML]</a>)</li>-->
         <li>Riflessioni sulla produzione di imballaggi - versione 1.4 -
         (<a href="/downloads/riflessioni_produzione_imballaggi.html">VISUALIZZA</a>
         - <a download href="/downloads/riflessioni_produzione_imballaggi.html">DOWNLOAD GRATUITO [HTML]</a>)</li>

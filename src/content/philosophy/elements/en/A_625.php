@@ -1,0 +1,1 @@
+A_625 - It is possible to use bitter cocoa powder mixed with white sugar in equal quantities, and then dissolved in warm or cold water to make a pleasant drink with a chocolate flavor. It is sufficient that the cocoa is mixed with sugar to be soluble.

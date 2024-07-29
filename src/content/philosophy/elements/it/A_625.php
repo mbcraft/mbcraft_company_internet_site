@@ -1,0 +1,1 @@
+A_625 - &Egrave; possibile utilizzare della polvere di cacao amaro miscelata con dello zucchero bianco in uguale quantit&agrave;, e poi sciolta in acqua anche tiepida o fresca per realizzare una bevanda gradevole dal sapore di cioccolato. &Egrave; sufficiente che il cacao sia miscelato con lo zucchero per essere solubile.

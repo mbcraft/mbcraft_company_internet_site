@@ -1,0 +1,1 @@
+A_624 - Volendo realizzare un ottimo th&egrave;, &egrave; sufficiente dopo aver fatto l'infuso oltre a spremere il limone anche metterci delle scaglie della scorza del limone. Per farlo naturalmente serve un limone che abbia della buccia di un livello qualitativamente eccellente.
