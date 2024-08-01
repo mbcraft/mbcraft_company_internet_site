@@ -1,0 +1,1 @@
+A_629 - E' importante che chi fa un lavoro come quello del macellaio sia sicuro che quella carne venga poi data agli animali (cani, ecc ...) e non sia utilizzata per il consumo da parte delle persone e in caso contrario si licenzi e si cerchi un altro impiego.

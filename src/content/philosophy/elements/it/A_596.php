@@ -1,1 +1,1 @@
-A_596 - A volte certi pensieri poco corretti possono essere anche causati da inquinamento presente nel territorio o di problemi legati alle piante o agli alberi di cui non siamo consapevoli.
+A_596 - A volte certi pensieri poco corretti possono essere anche causati da inquinamento presente nel territorio o di problemi legati alle piante o agli alberi di cui non siamo consapevoli. A volte certi pastrocchi fatti in passato su certi alberi o nelle loro vicinanze sono diventate poi fonte di problemi per le generazioni successive.

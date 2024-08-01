@@ -1,0 +1,1 @@
+A_631 - Di solito tutto quanto ci succede per un motivo, solo che non &egrave; mai facile farsene sempre e comunque una ragione e accettare tutto quello che ci succede, soprattutto per quanto riguarda gli eventi poco piacevoli.

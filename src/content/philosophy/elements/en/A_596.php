@@ -1,1 +1,1 @@
-A_596 - Sometimes certain incorrect thoughts can also be caused by pollution present in the area or problems related to plants or trees of which we are not aware.
+A_596 - Sometimes certain incorrect thoughts can also be caused by pollution present in the area or problems related to plants or trees of which we are not aware. Sometimes certain messes made in the past on certain trees or in their vicinity have become a source of problems for subsequent generations.

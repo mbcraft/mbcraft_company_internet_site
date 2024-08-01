@@ -1,0 +1,1 @@
+A_631 - Usually everything that happens to us is for a reason, it's just that it's never easy to always come to terms with it and accept everything that happens to us, especially when it comes to unpleasant events.
