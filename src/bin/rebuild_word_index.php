@@ -76,7 +76,7 @@ function compute_token($token) {
 
 function get_all_words_from_element($lang,$element_id) {
 
-	$NOT_ACTUALLY_WORDS = array('Abigail','Ratchford','Marco','Mazzotti','Tania','Moroni','Michele','Rispoli','Jordan','Carver','Leanne','Crow','Ikea','Magneto','Xavier','Maya','Mayan','Machu','Picchu','Chiesa','Cattolica','Catholic','Church','Vaticano','Vatican','Unione','Europea','European','Union','Aelion','Osho','Pompei','Ercolano','Pompeii','Herculaneum','Elon','Musk','Rubik','Africani','Africans','Rosa','Olindo','Falcone','Borsellino','Capaci','Giulia','Checchettin','Bruno','Bozzoli','Siciliani','Calabresi','Sicilians','Calabrians','Marvel');
+	$NOT_ACTUALLY_WORDS = array('Abigail','Ratchford','Marco','Mazzotti','Alessio','Guadagnini','Tania','Moroni','Michele','Rispoli','Jordan','Carver','Leanne','Crow','Ikea','Magneto','Xavier','Maya','Mayan','Machu','Picchu','Chiesa','Cattolica','Catholic','Church','Vaticano','Vatican','Unione','Europea','European','Union','Aelion','Osho','Pompei','Ercolano','Pompeii','Herculaneum','Elon','Musk','Rubik','Africani','Africans','Rosa','Olindo','Falcone','Borsellino','Capaci','Giulia','Checchettin','Bruno','Bozzoli','Siciliani','Calabresi','Sicilians','Calabrians','Marvel','@pretainacio','TikTok','Ravagli');
 
 	$content = get_element_content($lang,get_formatted_element_id($element_id));
 

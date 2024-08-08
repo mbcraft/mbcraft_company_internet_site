@@ -1,1 +1,1 @@
-A_275 - A volte capita che certi animali randagi (es. cani o gatti) si moltiplichino senza controllo. Non &egrave; un reato eventualmente catturarli e usarli come cibo per altri animali pi&ugrave; e carnivori (ad esempio coccodrilli, ippopotami, leoni, squali, piranha, ecc ...).
+A_275 - A volte capita che certi animali randagi (es. cani o gatti) si moltiplichino senza controllo. Non &egrave; un reato eventualmente catturarli e usarli come cibo per altri animali carnivori di tipologia differente (ad esempio coccodrilli, ippopotami, leoni, squali, piranha, ecc ...).

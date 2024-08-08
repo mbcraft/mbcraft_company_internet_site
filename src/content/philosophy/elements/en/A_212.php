@@ -1,1 +1,1 @@
-A_212 - The electrified rackets typically sold for the purpose of killing mosquitoes can easily be used as a stimulant for plants and trees rather than to kill mosquitoes.
+A_212 - The electrified rackets typically sold for the purpose of killing mosquitoes can easily be used as a stimulant for plants and trees rather than to kill mosquitoes. Just use them with the aim of moving the electromagnetic field under the treetops, without targeting any particular insect.

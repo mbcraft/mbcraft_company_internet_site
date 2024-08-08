@@ -1,1 +1,1 @@
-A_207 - &Egrave; molto importante fare sempre la scarpetta col pane di piatti, scodelle e pentole : non &egrave; solo un modo per non sprecare cibo, importante gi&agrave; di per se, ma anche per risparmiare fatica e detersivo in fase di pulizia delle stoviglie.
+A_207 - &Egrave; molto importante fare sempre la scarpetta col pane di piatti, scodelle e pentole : non &egrave; solo un modo per non sprecare cibo, importante gi&agrave; di per se, ma anche per risparmiare fatica e detersivo in fase di pulizia delle stoviglie. Quindi il beneficio &egrave; triplice.

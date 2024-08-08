@@ -1,1 +1,1 @@
-A_319 - As regards nocturnal emissions, they are indicative of a problem: it is conceptually a waste of chemical resources. In that case it would be better to understand if there are women nearby who need that sperm (because for some it is conceptually as if it were simple fertilizer).
+A_319 - As for nocturnal emissions, they are indicative of a problem: they are conceptually a waste of chemical resources and an indicator of an anomalous situation on a psychological level from the point of view of interpersonal relationships.
