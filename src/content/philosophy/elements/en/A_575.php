@@ -1,1 +1,1 @@
-A_575 - It is useful from time to time, if possible, to drink a little rain water. It is useful for having a comparison between the different types of water available but not only.
+A_575 - It is useful from time to time, if possible, to drink a little rain water. It is useful for having a comparison between the different types of water available but not only. Obviously it is important that it is taken from a clean container.
