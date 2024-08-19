@@ -1,0 +1,1 @@
+A_630 - L'uso di certi videogiochi videogiochi (quelli computazionalmente pi&ugrave; pesanti) provoca un'alterazione del funzionamento dello stomaco accellerando l'espulsione degli escrementi. Giocando ai videogiochi lo stomaco tende a svuotarsi.
