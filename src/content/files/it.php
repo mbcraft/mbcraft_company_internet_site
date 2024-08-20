@@ -12,42 +12,42 @@ ob_start();
   
     <ul>
         <li>Guida alla raccolta di rifiuti in zone urbane e extraurbane -
-        Versione 2.0 (<a href="/downloads/litterpicking_guidelines_2_0_ita.pdf" download>DOWNLOAD GRATUITO [PDF]</a>) (<a href="/downloads/litterpicking_guidelines_2_0_ita.odt" download>DOWNLOAD GRATUITO [ODT]</a>)</li>
-        <li>Il gioco dei pacchi - regolamento - Versione 1.0 (<a href="/downloads/il_gioco_dei_pacchi.pdf">VISUALIZZA</a> - <a href="/downloads/il_gioco_dei_pacchi.pdf" download="">DOWNLOAD GRATUITO [HTML]</a>)</li>
-        <!--<li>Only Fans Image Pack (90 mb) (scherzo) (<a href="/download/only_fans_image_pack.zip" download>DOWNLOAD GRATUITO [HTML]</a>)</li>-->
-        <!--<li>Ricetta per un ottimo thè - (<a href="/downloads/ricetta_the.html">VISUALIZZA</a> - <a download href="/downloads/ricetta_the.html">DOWNLOAD GRATUITO [HTML]</a>)</li>-->
+        Versione 2.0 (<a href="/downloads/litterpicking_guidelines_2_0_ita.pdf" download>DOWNLOAD  [PDF]</a>) (<a href="/downloads/litterpicking_guidelines_2_0_ita.odt" download>DOWNLOAD  [ODT]</a>)</li>
+        <li>Il gioco dei pacchi - regolamento - Versione 1.0 (<a href="/downloads/il_gioco_dei_pacchi.pdf">VISUALIZZA</a> - <a href="/downloads/il_gioco_dei_pacchi.pdf" download="">DOWNLOAD  [HTML]</a>)</li>
+        <!--<li>Only Fans Image Pack (90 mb) (scherzo) (<a href="/download/only_fans_image_pack.zip" download>DOWNLOAD  [HTML]</a>)</li>-->
+        <!--<li>Ricetta per un ottimo thè - (<a href="/downloads/ricetta_the.html">VISUALIZZA</a> - <a download href="/downloads/ricetta_the.html">DOWNLOAD  [HTML]</a>)</li>-->
         <li>Riflessioni sulla produzione di imballaggi - versione 1.4 -
         (<a href="/downloads/riflessioni_produzione_imballaggi.html">VISUALIZZA</a>
-        - <a download href="/downloads/riflessioni_produzione_imballaggi.html">DOWNLOAD GRATUITO [HTML]</a>)</li>
+        - <a download href="/downloads/riflessioni_produzione_imballaggi.html">DOWNLOAD  [HTML]</a>)</li>
         <li>Esperienze e considerazioni sulle piante - (<a href="/downloads/esperienze_e_considerazioni_sulle_piante.html">VISUALIZZA</a>
-        - <a href="/downloads/esperienze_e_considerazioni_sulle_piante.html" download>DOWNLOAD GRATUITO [HTML]</a>)</li>
+        - <a href="/downloads/esperienze_e_considerazioni_sulle_piante.html" download>DOWNLOAD  [HTML]</a>)</li>
         <li>Introduzione alla meditazione - versione 2.0 (<a href="/downloads/introduzione_alla_meditazione.html">VISUALIZZA</a> -
-        <a href="/downloads/introduzione_alla_meditazione.html" download>DOWNLOAD GRATUITO [HTML]</a>)</li>
+        <a href="/downloads/introduzione_alla_meditazione.html" download>DOWNLOAD  [HTML]</a>)</li>
         <li>Riflessioni sulla contrattualistica - versione 1.0 (<a href="/downloads/riflessioni_sui_contratti.html">VISUALIZZA</a> -
-        <a href="/downloads/riflessioni_sui_contratti.html" download>DOWNLOAD GRATUITO [HTML]</a>)</li>
+        <a href="/downloads/riflessioni_sui_contratti.html" download>DOWNLOAD  [HTML]</a>)</li>
         <li>Riflessioni sulle discoteche - versione 1.0 (<a href="/downloads/riflessioni_sulle_discoteche.html">VISUALIZZA</a> -
-        <a href="/downloads/riflessioni_sulle_discoteche.html" download>DOWNLOAD GRATUITO [HTML]</a>)</li>
+        <a href="/downloads/riflessioni_sulle_discoteche.html" download>DOWNLOAD  [HTML]</a>)</li>
         <li>Riflessioni sul legno - versione 1.0 (<a href="/downloads/riflessioni_sul_legno.html">VISUALIZZA</a> - <a href=
-        "/downloads/riflessioni_sul_legno.html">DOWNLOAD GRATUITO [HTML]</a>)</li>
+        "/downloads/riflessioni_sul_legno.html">DOWNLOAD  [HTML]</a>)</li>
         <li>Doppio crescione dolce - ricetta - versione 1.3 (<a href="/downloads/doppio_crescione_dolce.pdf">VISUALIZZA</a> - <a href=
         "/downloads/doppio_crescione_dolce.pdf" download>DOWNLOAD
-        GRATUITO [PDF]</a>)</li>
+         [PDF]</a>)</li>
         <li>Struttura per la protezione da alberi in caduta - versione 1.0
         (<a href="/downloads/struttura_protezione_da_alberi_in_caduta_ita.pdf">VISUALIZZA</a>
         - <a href="/downloads/struttura_protezione_da_alberi_in_caduta_ita.pdf"
-        download>DOWNLOAD GRATUITO [PDF]</a>)</li>
-        <li>Cucina in due fasi - versione 1.0 (<a href="/downloads/cucina_in_due_fasi.html">VISUALIZZA</a> - <a href="/downloads/cucina_in_due_fasi.html" download="">DOWNLOAD GRATUITO [HTML]</a>)</li>
-        <li>Tubature per la luce - versione 1.1 (<a href="/downloads/tubature_per_la_luce.html">VISUALIZZA</a> - <a href="/downloads/tubature_per_la_luce.html" download="">DOWNLOAD GRATUITO [HTML]</a>)</li>
+        download>DOWNLOAD  [PDF]</a>)</li>
+        <li>Cucina in due fasi - versione 1.0 (<a href="/downloads/cucina_in_due_fasi.html">VISUALIZZA</a> - <a href="/downloads/cucina_in_due_fasi.html" download="">DOWNLOAD  [HTML]</a>)</li>
+        <li>Tubature per la luce - versione 1.1 (<a href="/downloads/tubature_per_la_luce.html">VISUALIZZA</a> - <a href="/downloads/tubature_per_la_luce.html" download="">DOWNLOAD  [HTML]</a>)</li>
         <li>Cerimonie - versione 1.5 (<a href="/downloads/cerimonie.html">VISUALIZZA</a> - <a href=
-        "/downloads/cerimonie.html" download>DOWNLOAD GRATUITO
+        "/downloads/cerimonie.html" download>DOWNLOAD 
         [HTML]</a>)</li>
-        <li>Giochi all'aperto - Versione 1.2 (<a href="/downloads/giochi_all_aperto.html">VISUALIZZA</a> - <a href="/downloads/giochi_all_aperto.html" download="">DOWNLOAD GRATUITO [HTML]</a>)</li>
+        <li>Giochi all'aperto - Versione 1.2 (<a href="/downloads/giochi_all_aperto.html">VISUALIZZA</a> - <a href="/downloads/giochi_all_aperto.html" download="">DOWNLOAD  [HTML]</a>)</li>
         <li>Logo standard per le form di feedback da posizionare nel footer
         della pagina iniziale dei sito internet (<a href="/downloads/feedback_form_standard_logo.svg" download>DOWNLOAD
-        GRATUITO [SVG]</a>) (<a href="/downloads/feedback_form_standard_logo.png" download>DOWNLOAD GRATUITO [PNG]</a>)</li>
+         [SVG]</a>) (<a href="/downloads/feedback_form_standard_logo.png" download>DOWNLOAD  [PNG]</a>)</li>
         <li>Simboli alternativi grezzi per i caratteri esadecimali (<a href="/downloads/rough_hexadecimal_alternate_symbols.zip"
-        download="">DOWNLOAD GRATUITO [ZIP]</a>)</li>
-        <li>Tecnica di gestione del sonno - R.C.D.O. (<a href="/downloads/tecnica_gestione_sogno.html">VISUALIZZA</a> - <a href="/downloads/tecnica_gestione_sogno.html" download>DOWNLOAD</a>)</li>
+        download="">DOWNLOAD  [ZIP]</a>)</li>
+        <li>Tecnica di gestione del sogno - R.C.D.O. (<a href="/downloads/tecnica_gestione_sogno.html">VISUALIZZA</a> - <a href="/downloads/tecnica_gestione_sogno.html" download>DOWNLOAD</a>)</li>
         <li>Concept per un carro raccolta elettrico (<a href="/downloads/concept_carro_raccolta_elettrico.html">VISUALIZZA</a> -
         <a href="/downloads/concept_carro_raccolta_elettrico.html"
         download="">DOWNLOAD</a>)</li>
