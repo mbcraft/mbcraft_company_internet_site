@@ -1,1 +1,1 @@
-A_183 - Magic exists, but from what I understand at the moment the planet is so ruined that it can hardly be used frequently. I was only able to experiment with it for a while in a park, but then obviously by sharing this information with others I essentially lost the use of it.
+A_183 - Magic exists, from what I understand it builds up over decades and you can only use a pinch of it every few years (decades), on command. Usually the only thing you can do with that pinch is some kind of psychological change in the people around you.

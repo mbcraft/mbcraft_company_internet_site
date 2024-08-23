@@ -1,1 +1,1 @@
-A_630 - The use of certain video games (the computationally more demanding ones) causes an alteration in the functioning of the stomach, accelerating the expulsion of excrement. Playing video games tends to empty the stomach.
+A_630 - The use of certain processing devices (computers, consoles, smartphones) at high power causes an alteration in the functioning of the stomach, accelerating the expulsion of excrement. For example, playing video games tends to empty the stomach.

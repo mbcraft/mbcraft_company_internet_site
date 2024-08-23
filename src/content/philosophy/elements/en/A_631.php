@@ -1,0 +1,1 @@
+A_631 - It is good to remember that many air conditioning units have multiple modes and when they are turned on it is a good idea to check that the mode inserted is the correct one in order to have the greatest possible energy saving. In fact, sometimes it happens that the mode is not configured correctly and the air conditioners work in other less efficient modes.
