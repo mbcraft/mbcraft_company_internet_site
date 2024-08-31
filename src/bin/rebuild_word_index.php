@@ -12,6 +12,7 @@ function compute_token($token) {
 	$token = str_replace(" ","",$token);
 	
 	if (strpos($token,"[")!==false) return null;
+	if (strpos($token,"<a")!==false) return null;
 	if (strpos($token,"<br")!==false) return null;
 	if (strpos($token,"<div")!==false) return null;
 	if (strpos($token,"src=")!==false) return null;
@@ -25,6 +26,7 @@ function compute_token($token) {
 
 	$token = str_replace("nell'","",$token);
 	$token = str_replace("dell'","",$token);
+	$token = str_replace("dall'","",$token);
 	$token = str_replace("sull'","",$token);
 	$token = str_replace("mezz'","",$token);
 	$token = str_replace("all'","",$token);
@@ -40,6 +42,8 @@ function compute_token($token) {
 	$token = str_replace(":","",$token);
 	$token = str_replace("?","",$token);
 	$token = str_replace("\n","",$token);
+	$token = str_replace("-"," ",$token);
+	$token = str_replace("+"," ",$token);
 	$token = str_replace("&ldquo;"," ",$token);
 	$token = str_replace("&rdquo;"," ",$token);
 	$token = str_replace("["," ",$token);
@@ -56,41 +60,38 @@ function compute_token($token) {
 
 	$gt_pos = strpos($token,">");
 
-	if ($gt_pos!==false) $token = substr($token,0,$gt_pos-2);
+	if ($gt_pos!==false) return null;
 
-	$parts = explode("/",$token);
+	if (strpos($token,'/')!==false) return null;
+
+	$parts = explode(" ",$token);
+
+	$unset_list = [];
+	foreach ($parts as $i => $p) {
+		if (strlen($p)==1) $unset_list[] = $i;
+	}
+
+	foreach ($unset_list as $u) 
+	{
+		unset($parts[$u]);
+	}
 
 	if (count($parts)==2) {
 
-		if (mb_strlen($parts[1])>1) return $parts;
-		else {
-
-			$word1 = $parts[0];
-			$word2 = mb_substr($parts[0],-1).$parts[1];
-
-			return array($word1,$word2);
-		}
+		return array_values($parts);
 	}
-	else return $token;	
+	else return str_replace(" ","",$token);	
 }
 
 function get_all_words_from_element($lang,$element_id) {
 
-	$NOT_ACTUALLY_WORDS = array('Abigail','Ratchford','Marco','Mazzotti','Alessio','Guadagnini','Tania','Moroni','Michele','Rispoli','Ravagli','Jordan','Carver','Leanne','Crow','Ikea','Magneto','Xavier','Maya','Mayan','Machu','Picchu','Chiesa','Cattolica','Catholic','Church','Vaticano','Vatican','Unione','Europea','European','Union','Aelion','Osho','Pompei','Ercolano','Pompeii','Herculaneum','Elon','Musk','Rubik','Africani','Africans','Rosa','Olindo','Falcone','Borsellino','Capaci','Giulia','Checchettin','Bruno','Bozzoli','Siciliani','Calabresi','Sicilians','Calabrians','Marvel','@pretainacio','TikTok','Arianna','Pascoli','Sonia','Grisandi');
+	$NOT_ACTUALLY_WORDS = array('Abigail','Ratchford','Marco','Mazzotti','Alessio','Guadagnini','Tania','Moroni','Michele','Rispoli','Ravagli','Jordan','Carver','Leanne','Crow','Ikea','Magneto','Xavier','Maya','Mayan','Machu','Picchu','Chiesa','Cattolica','Catholic','Church','Vaticano','Vatican','Unione','Europea','European','Union','Aelion','Osho','Pompei','Ercolano','Pompeii','Herculaneum','Elon','Musk','Rubik','Africani','Africans','Rosa','Olindo','Falcone','Borsellino','Capaci','Giulia','Checchettin','Bruno','Bozzoli','Siciliani','Calabresi','Sicilians','Calabrians','Marvel','@pretainacio','TikTok','Arianna','Pascoli','Sonia','Grisandi','Peltier');
 
 	$content = get_element_content($lang,get_formatted_element_id($element_id));
 
-	$first_split = explode("-",$content);
+	$first_split = strpos($content,"-");
 
-	$element_id = $first_split[0];
-
-	unset($first_split[0]);
-
-	$content = "";
-
-	foreach ($first_split as $p) {
-		$content .= $p;
-	}
+	$content = substr($content,$first_split+1);
 
 	$all_words = explode(" ",$content);
 

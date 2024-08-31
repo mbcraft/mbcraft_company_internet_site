@@ -71,5 +71,4 @@ $is_next_show = $number < $current_range[2] - 1;
     <?php
         echo_generic_very_small_page_button("document.location.href='/philosophy.php?mode=one_element&with_back_to_results=false&element_key=Z_001';","back_to_search_button_background.jpg","white","[ Z ]","[ Z ]","v_7");
     ?>
-</div>
-    
+</div>    
