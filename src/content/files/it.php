@@ -98,7 +98,7 @@ ob_start();
         "/downloads/concept_strumento_pettinamento_alberi_innevati.html"
         download="">DOWNLOAD</a>)</li>
         <li>Idea per un centro di gestione e stoccaggio legnami - CGSL -
-        Versione 1.2 (<a href=
+        Versione 1.3 (<a href=
         "/downloads/centro_gestione_stoccaggio_legnami.html">VISUALIZZA</a>
         - <a href="/downloads/centro_gestione_stoccaggio_legnami.html"
         download="">DOWNLOAD</a>)</li>
