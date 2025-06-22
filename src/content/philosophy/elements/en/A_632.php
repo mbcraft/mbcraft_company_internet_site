@@ -1,0 +1,1 @@
+A_632 - Many people work in offices sitting for many hours a day. It could be useful on a physiological level to give yourself a massage by touching your butt in order to stimulate blood circulation and not lose excessive sensitivity in that area.

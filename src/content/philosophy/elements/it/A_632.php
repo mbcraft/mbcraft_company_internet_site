@@ -1,0 +1,1 @@
+A_631 - Molte persone lavorano in uffici sedute per molte ore al giorno. Potrebbe essere utile a livello fisiologico farsi qualche massaggio palpandosi il sedere in modo da stimolare la circolazione sanguigna e non perdere eccessivamente la sensibilit&agrave; di quella zona.
