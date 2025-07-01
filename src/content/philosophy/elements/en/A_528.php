@@ -1,1 +1,1 @@
-A_528 - It is well known that chlorinated water is not suitable for watering plants, if possible use filtered water, rain water, well water or mineral water, as it should be better than using unfiltered tap water.
+A_528 - It is well known that chlorinated water is not suitable for watering plants, if possible use filtered water, rain water, well water or mineral water, as it should be better than using unfiltered tap water. Restaurants may use customers' unfinished water bottles for this purpose if they wish.

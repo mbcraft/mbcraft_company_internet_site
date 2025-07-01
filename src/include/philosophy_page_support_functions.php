@@ -111,7 +111,7 @@ function search_by_words($lang,$search_query) {
 
     $loaded_index = json_decode($index_content,true);
 
-    $searched_words = filter_input(INPUT_GET,"search_query");
+    $searched_words = strtolower(filter_input(INPUT_GET,"search_query"));
 
     $word_list = explode(" ",$searched_words);
 
