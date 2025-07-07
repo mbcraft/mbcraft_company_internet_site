@@ -1,0 +1,1 @@
+A_633 - It may be helpful for couples to massage each other's feet while lying in a double bed once in a while for a few minutes or as long as they want, remaining rotated 180 degrees relative to each other. In this way, they can massage each other's feet comfortably and simultaneously, and this moment spent together in this way can only contribute to improving the relationship.

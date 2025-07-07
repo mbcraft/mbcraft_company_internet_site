@@ -1,1 +1,1 @@
-T_001 - Grazie per il tempo che hai dedicato alla lettura di quello che ho scritto. Perdonami se hai trovato qualche piccolo errore o imprecisione. - Marco B. 
+T_001 - Grazie per il tempo che hai dedicato alla lettura di quello che ho scritto. Perdonami se hai trovato qualche piccolo errore o imprecisione. Alcune frasi sono scritte al maschile perch&egrave; io sono un uomo e attualmente la lingua italiana non mi permette di scrivere frasi valide per ambo i sessi senza dilungarmi : sono naturalmente valide anche al femminile. - Marco B. 
