@@ -23,7 +23,7 @@ ob_start();
         <li>Riflections about wood - version 1.0 (<a href="/downloads/reflections_about_wood.html">VIEW</a> - <a href="/downloads/reflections_about_wood.html" download> DOWNLOAD [HTML]</a>)</li>
         <li>Double sweet watercress - recipe - version 1.3 (<a href="/downloads/double_sweet_watercress.pdf">VIEW</a> - <a href="/downloads/double_sweet_watercress.pdf" download> DOWNLOAD [PDF]</a>)</li>
         <li>Structure as protection for falling trees - version 1.0 (<a href="/downloads/structure_as_protection_for_falling_trees_eng.pdf">VIEW</a> - <a href="/downloads/structure_as_protection_for_falling_trees_eng.pdf" download> DOWNLOAD [PDF]</a>)</li>
-        <li>Two-step cooking - version 1.0 (<a href="/downloads/two_step_cooking.html">VIEW</a> - <a href="/downloads/two_step_cooking.html" download> DOWNLOAD [HTML]</a>)</li>
+        <li>Two-step cooking - version 1.1 (<a href="/downloads/two_step_cooking.html">VIEW</a> - <a href="/downloads/two_step_cooking.html" download> DOWNLOAD [HTML]</a>)</li>
         <li>Cerimonies - version 1.5 (<a href="/downloads/cerimonies.html">VIEW</a> - <a href="/downloads/cerimonies.html" download> DOWNLOAD [HTML]</a>)</li>
         <li>Standard logo for feedback form to put in index/home page footer of internet sites (<a href="/downloads/feedback_form_standard_logo.svg" download> DOWNLOAD [SVG]</a>) (<a href="/downloads/feedback_form_standard_logo.png" download> DOWNLOAD [HTML]</a>) </li>
         <li>Alternative rough symbols for hexadecimal characters (<a href="/downloads/rough_hexadecimal_alternate_symbols.zip" download> DOWNLOAD [ZIP]</a>)</li>

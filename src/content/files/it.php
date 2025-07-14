@@ -34,7 +34,7 @@ ob_start();
         (<a href="/downloads/struttura_protezione_da_alberi_in_caduta_ita.pdf">VISUALIZZA</a>
         - <a href="/downloads/struttura_protezione_da_alberi_in_caduta_ita.pdf"
         download>DOWNLOAD  [PDF]</a>)</li>
-        <li>Cucina in due fasi - versione 1.0 (<a href="/downloads/cucina_in_due_fasi.html">VISUALIZZA</a> - <a href="/downloads/cucina_in_due_fasi.html" download="">DOWNLOAD  [HTML]</a>)</li>
+        <li>Cucina in due fasi - versione 1.1 (<a href="/downloads/cucina_in_due_fasi.html">VISUALIZZA</a> - <a href="/downloads/cucina_in_due_fasi.html" download="">DOWNLOAD  [HTML]</a>)</li>
         
         <li>Cerimonie - versione 1.5 (<a href="/downloads/cerimonie.html">VISUALIZZA</a> - <a href=
         "/downloads/cerimonie.html" download>DOWNLOAD 
