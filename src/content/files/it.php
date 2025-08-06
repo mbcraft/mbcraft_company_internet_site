@@ -123,6 +123,10 @@ ob_start();
         <li>Reportage su uso del voodoo effettuato tramite lo spargimento di immondizia (<a href="https://www.mbcraftlab.it/downloads/reportage_mafia_voodoo_12_06_2024__16_06_2024.zip">DA HOSTING AMERICANO - DOWNLOAD</a> - <a href="https://drive.google.com/file/d/1q7wwOCFDXcxN21eV7soWBx00ttaAFVdj/view?usp=drive_link">OPPURE DA GOOGLE DRIVE</a> - oppure contattami con la <a href="/send_feedback.php?element_type=file&amp;element_id=reportage_mafia_voodoo">
         form di feedback</a> per avere un WeTransfer) (1.2 GB) (Varie
         lingue)</li>
+        <li>Sulle atrocit&agrave; attuali - Connessioni filosofiche (disponibile solo in Italiano) - Versione 1.0 (<a href=
+        "/downloads/sulle_atrocita_attuali_connessioni_filosofiche.html">VISUALIZZA</a>
+        - <a href="/downloads/sulle_atrocita_attuali_connessioni_filosofiche.html"
+        download="">DOWNLOAD</a>)</li>
     </ul>
     <hr />
     <hr />

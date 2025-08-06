@@ -1,0 +1,1 @@
+A_638 - Quando si ordina una pizza, anzich&egrave; cominciare subito a mangiarla pu&ograve; essere utile aspettare un paio di minuti che si raffreddi. In questo modo la si potr&agrave; comunque gustare calda, ma senza ustionarsi il palato.

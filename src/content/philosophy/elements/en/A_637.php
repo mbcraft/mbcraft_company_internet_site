@@ -1,0 +1,1 @@
+A_637 - When driving a car in the summer, the interior can get very hot, and the seat cushion can also be very hot. If you work in an air-conditioned environment, it can be helpful to bring a cool cushion with you and take it into the car when you leave work. This will keep the cushion at a lower temperature, allowing you to drive without overheating your genital area.
