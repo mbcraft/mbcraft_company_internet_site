@@ -1,0 +1,1 @@
+A_640 - The use of insects for dye production (cochineal) or food flours (crickets or other insects) is unethical. Despite their small size, insects have a nervous system and therefore experience pain when crushed or ground, so it's best not to use them in this way.

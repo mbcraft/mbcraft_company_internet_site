@@ -1,0 +1,1 @@
+A_640 - L'uso di insetti per la produzione di coloranti (cocciniglia) o farine alimentari (grilli o altri insetti) non sono da considerarsi etiche. Gli insetti, pur essendo piccoli, sono comunque dotati di sistema nervoso e pertanto provano dolore quando vengono spappolati o macinati, pertanto &egrave; meglio non utilizzarli in questo modo.
