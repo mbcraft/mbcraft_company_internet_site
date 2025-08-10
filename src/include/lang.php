@@ -9,13 +9,13 @@ if (!isset($_SESSION["LANG"])){
         $_SESSION["LANG"]="en";
 }
 
-if (isset($_POST["LANG"]) || isset($_GET["lang"])) {
+if (isset($_POST["lang"]) || isset($_GET["lang"])) {
     
-    if (isset($_GET["lang"]))
-        $my_lang = filter_input(INPUT_GET,"lang");
+    if (isset($_POST["lang"]))
+        $my_lang = filter_input(INPUT_POST, "lang");
     else
-        $my_lang = filter_input(INPUT_POST, "LANG");
-
+        $my_lang = filter_input(INPUT_GET,"lang");
+        
     if ($my_lang=="it" || $my_lang=="en") {
         $_SESSION["LANG"] = $my_lang;
     }
