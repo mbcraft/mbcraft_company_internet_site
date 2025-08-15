@@ -104,6 +104,9 @@ Developer consultant for Ximplia s.r.l. :
 Publishing on GitHub of Apache POI Mini.
 <br />
 <br />
+Research and development for one year and half of philosophical contents, memes, various documents and ebooks. The contents originally published in this website are now moved to <a href="https://www.philosophy-ideas.net">www.philosophy-ideas.net</a>.
+<br />
+<br />
 Actually full-time developer consultant for Vista Technologies.
 <h2> Other experiences : </h2> <br />
 
