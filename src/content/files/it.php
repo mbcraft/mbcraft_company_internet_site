@@ -3,7 +3,7 @@
 $title_suffix = "Files";
 
 $description = "Files messi a disposizione da MBCRAFT.";
-$keywords = "files, download, MBCRAFT";
+$keywords = "files, download";
 
 ob_start();
 ?>
