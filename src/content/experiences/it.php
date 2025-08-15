@@ -107,6 +107,7 @@ ob_start();
                 Pubblicazione su GitHub di Apache POI Mini.
                 <br />
                 <br />
+                Attualmente consulente full-time allo sviluppo per Vista Tecnologie.
             </h3>
             <h2>Altre esperienze :</h2><br />
             <h3>

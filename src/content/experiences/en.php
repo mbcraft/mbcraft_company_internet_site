@@ -104,6 +104,7 @@ Developer consultant for Ximplia s.r.l. :
 Publishing on GitHub of Apache POI Mini.
 <br />
 <br />
+Actually full-time developer consultant for Vista Technologies.
 <h2> Other experiences : </h2> <br />
 
 Reading, meditation, observation and care of plants and trees, gardening, litterpicking (volunteering), burial of small dead animals (volunteering), collection of acorns and nut chestnuts (volunteering), fruit picking from farms, playing video games, watching films and documentaries, commenting and posting on social networks, reporting errors found in portals and apps, football, soccer, basketball, skiing, snowboarding, skateboarding, trekking, playing &ldquo;Magic The Gathering&rdquo;.
