@@ -7,7 +7,6 @@ $keywords = "mbcraft, informations";
 
 ob_start();
 ?>
-<br /><br /><br />
 <h2>
 <span class="brief">
 MBCRAFT works in research and development, creating frameworks, software libraries, software components, websites, management software, app backends, software integrations or commissioned software projects.
