@@ -6,6 +6,7 @@ $footer = array("it" =>
     "<a href=\"http://icon-icons.com\">Icona Twitter</a> da Icon Icons con licenza <a href=\"https://creativecommons.org/licenses/by/4.0/\">Creative Commons 4.0</a>",
     "Grazie a <a href='http://openclipart.org'>openclipart.org</a> e <a href='http://texturelib.com'>texturelib.com</a> per le loro immagini.",
     "Immagini usate su licenza di shutterstock.com e poliigon.com.",
+    "<a href='https://www.vecteezy.com/free-png/logo-telegram'>Logo Telegram PNGs da Vecteezy</a>",
     "Il logo di MBCRAFT &egrave; un marchio registrato.",
     "Tutti i contenuti sono originali, scritti e sviluppati da Marco Bagnaresi.",
     "Traduzioni con Google Translate."
@@ -14,6 +15,7 @@ $footer = array("it" =>
     "<a href=\"https://it.vecteezy.com/vettori-gratis/icona-facebook\">Facebook Icon Vettor of Vecteezy</a>",
     "<a href=\"http://icon-icons.com\">Twitter Icon</a> from Icon Icons with <a href=\"https://creativecommons.org/licenses/by/4.0/\">Creative Commons 4.0</a> license",
     "Thanks to <a href='http://openclipart.org'>openclipart.org</a>, <a href='http://texturelib.com'>texturelib.com</a> for their images.",
+    "<a href='https://www.vecteezy.com/free-png/logo-telegram'>Logo Telegram PNGs by Vecteezy</a>",
     "Images used under license of shutterstock.com and poliigon.com.",
     "MBCRAFT logo is a registered trademark.","All content originally written and developed in Italian by Marco Bagnaresi.",
     "Translations by Google Translate.")
@@ -88,6 +90,13 @@ function print_footer($elements) {
             <div style="display: inline-block;">
                 <a href="https://www.twitch.tv/mbcraft_it">
                     <img src="/images/icons/twitch_icon2.png" alt="twitch icon" />
+                </a>
+            </div>
+            <div style="display: inline-block;width:16px;height:64px;">
+            </div>
+            <div style="display: inline-block;">
+                <a href="https://t.me/marcobagnaresi">
+                    <img src="/images/icons/telegram_icon.png" alt="telegram icon" />
                 </a>
             </div>
         </div> 
