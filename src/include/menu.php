@@ -1,6 +1,6 @@
 <?php
 $skip_to_content = array("it"=>"Vai al contenuto","en" => "Skip to content");
-$menu = array("it" => array("HOME","COMPETENZE","ESPERIENZE","FILOSOFIA","DIVERTIMENTO","DOCUMENTI","CLIENTI"),"en" => array("WELCOME","SKILLS","EXPERIENCES","PHILOSOPHY","FUN","DOCS","CUSTOMERS"));
+$menu = array("it" => array("HOME","COMPETENZE","ESPERIENZE","FILOSOFIA","DIVERTIMENTO","DOCUMENTI","CLIENTI"),"en" => array("HOME","SKILLS","EXPERIENCES","PHILOSOPHY","FUN","DOCUMENTS","CUSTOMERS"));
 ?>
 <h4>
     <a id="skip_to_main_content" href="#main_content"><?=$skip_to_content[$lang] ?></a>
