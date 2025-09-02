@@ -108,22 +108,7 @@ function print_footer($elements) {
 
         <br />
         <b><a href="/index.php"><?= $welcome_page[$lang] ?></a></b><br />
-        <br /><br />
-        <?php
-        if (!defined('FEEDBACK_FORM_PAGE')) {
-        ?>
-        <div>
-        <b><a href="/send_feedback.php"><?= $send_a_feedback[$lang] ?> 
-
-        <div style="transform:scale(0.1,0.1);max-width:100px;max-height:100px;position:absolute;display:inline-block;top:280px;">
-        <?php
-        echo_generated_randomly_filled_feedback_form_logo();
-        ?>
-        </div></a></b>
-        </div>
-        <?php
-        }
-        ?>
+        
         </h3>
         <h4>
         <?php
