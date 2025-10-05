@@ -8,7 +8,7 @@ $keywords = "meme, divertimento";
 ob_start();
 ?>
 <h1>
-	Contenuti spostati su <a href="https://www.philosophy-ideas.net/fun.php">www.philosophy-ideas.net</a>.
+	Contenuti spostati su <a href="https://www.philosophy-ideas.net/it/fun.php">www.philosophy-ideas.net</a>.
 </h1>
 <?php
 

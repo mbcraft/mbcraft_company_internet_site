@@ -8,7 +8,7 @@ $keywords = "documenti, download";
 ob_start();
 ?>
 <h1>
-    Contenuti spostati su <a href="https://www.philosophy-ideas.net/docs.php">www.philosophy-ideas.net</a>.
+    Contenuti spostati su <a href="https://www.philosophy-ideas.net/it/docs.php">www.philosophy-ideas.net</a>.
 </h1>
 <?php
 $content = ob_get_contents();
