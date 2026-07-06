@@ -186,6 +186,11 @@
         padding-right: 4px !important;
     }
 
+    .big_buttons_container .w3-cell.w3-mobile {
+        display: inline-block !important;
+        width: auto !important;
+    }
+
     .italian_language_button,
     .english_language_button {
         width: 38vw;

@@ -29,7 +29,7 @@ $send_a_feedback = array("it" => "Link alla form per feedback",
 
 function print_footer($elements) {
     foreach ($elements as $el) {
-        echo "<div style='padding-top:10px;padding-bottom:10px;'>";
+        echo "<div class='footer_credit_line'>";
         echo $el;
         echo "</div>";
     }
@@ -37,7 +37,7 @@ function print_footer($elements) {
 ?>
 <footer>
     <div class="footer">
-        <div style="padding-top:32px;padding-bottom:32px;">
+        <div class="footer_social_row">
             <div style="display: inline-block;">
                 <a href="https://www.facebook.com/marco.bagnaresi">
                     <img src="/images/icons/facebook_icon2.png" alt="facebook icon" />
@@ -100,7 +100,7 @@ function print_footer($elements) {
                 </a>
             </div>
         </div> 
-        <h4>
+        <h4 class="footer_credits_heading">
         <address>
         MBCRAFT di Marco Bagnaresi<br />
         Via ca' del vento, 11<br />
@@ -108,17 +108,16 @@ function print_footer($elements) {
         Italy
         </address>
         </h4>
-        <h3>
+        <h3 class="footer_welcome_heading">
         P.IVA/VAT N. 02475790396<br />
         C.F. : BGNMRC82H03E730O<br />
         <b><a href="/index.php"><?= $welcome_page[$lang] ?></a></b>
         </h3>
-        <h4>
+        <h4 class="footer_credits_heading">
         <?php
             print_footer($footer[$lang]);
         ?>
         </h4>
-        <div style="width:100%;height:50px;"></div>
+        <div class="footer_bottom_spacer"></div>
     </div>
-    <br />
 </footer>
