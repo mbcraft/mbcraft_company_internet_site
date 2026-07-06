@@ -12,7 +12,7 @@ ob_start();
 </h1>
 <div style="text-align:center;margin-top:20px;">
     <a href="https://www.philosophy-ideas.net">
-        <img src="/images/logo/philosophy_ideas_logo.png" alt="Logo Philosophy Ideas" style="width:180px;max-width:100%;height:auto;" />
+        <img src="/images/logo/philosophy_ideas_logo.png" alt="Logo Philosophy Ideas" style="width:100%;max-width:320px;height:auto;" />
     </a>
 </div>
 <?php
