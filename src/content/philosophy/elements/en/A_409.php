@@ -1,1 +1,0 @@
-A_409 - It is generally much easier to intelligently understand how to invest potential money when you DON'T have money than when you do. Hypothesizing that you have a certain amount of money available and evaluating how to invest it is a method that works very well for writing a list of how to use that investment.

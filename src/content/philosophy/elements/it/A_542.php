@@ -1,1 +1,0 @@
-A_542 - In generale non credo che gli alberi amino la presenza di petrolio nel suolo, pertanto l'estrazione di petrolio in luoghi in cui sono presenti alberi &egrave; da considerare anche un'operazione di bonifica (e non un problema).

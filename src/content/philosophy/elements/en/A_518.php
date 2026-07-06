@@ -1,1 +1,0 @@
-A_518 - On television it is better not to broadcast content that could confuse people's understanding and not to ruin people in any way.

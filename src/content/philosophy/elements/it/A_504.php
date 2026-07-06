@@ -1,1 +1,0 @@
-A_504 - A volte le persone anziane hanno delle stanze abbastanza tristi, e anche per questo tendono a essere arrabbiate e cupe. A volte anche solo migliorando l'aspetto delle loro stanze da letto con qualcosa di allegro e colorato pu&ograve; essere sufficiente per cambiare il loro umore.

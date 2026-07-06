@@ -1,1 +1,0 @@
-A_215 - Se si lascia scadere una confezione di pan bauletto sigillata si formano nel pane delle muffe bianche che hanno un sapore gradevolissimo. Non so indicare le tempistiche esatte, ma l'ho sperimentato personalmente.

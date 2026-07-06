@@ -1,1 +1,0 @@
-A_238 - I think it is a good idea to place minerals (especially) near centenary or thousand-year-old trees, possibly in such a way that they cannot be removed if they are in plain sight, or even in forests that naturally lack them. I also think playing musical instruments in those places can be useful.

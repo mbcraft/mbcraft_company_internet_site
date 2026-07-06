@@ -1,1 +1,0 @@
-A_178 - La prudenza e la ragionevolezza sono concetti importanti.

@@ -1,1 +1,0 @@
-A_426 - Ash and coffee grounds, for example, in addition to being used for the production of compost, can also be used as a powder fertilizer to add to water, and also possibly sold in small containers for use with potted plants.

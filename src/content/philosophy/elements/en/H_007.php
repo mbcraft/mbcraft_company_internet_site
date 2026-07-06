@@ -1,1 +1,0 @@
-H_008 - Some of the concepts I have illustrated may be practical and usable only in the presence of certain trees, plants, animals or minerals and their conditions. 

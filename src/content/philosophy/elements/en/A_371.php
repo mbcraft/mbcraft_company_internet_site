@@ -1,1 +1,0 @@
-A_371 - In cases of extreme need or poverty it is possible to make shoes using cardboard or bubble wrap and use string to tie them to the feet. Possibly also with well-shaped sponge fabric and a rope.

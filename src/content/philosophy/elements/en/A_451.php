@@ -1,1 +1,0 @@
-A_451 - From a post by Elon Musk I learned that when a person who has committed himself to certain cultural fields is temporarily harmed, the value of what he or she has created tends to vanish. However, it is important to note that the opposite principle also applies.

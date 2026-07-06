@@ -1,1 +1,0 @@
-A_233 - Potted plants have the peculiarity that they can be moved. Remember to move them all at least once a week. At random. It's more important than it seems.

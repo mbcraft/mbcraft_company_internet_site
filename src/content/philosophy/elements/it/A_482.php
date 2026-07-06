@@ -1,1 +1,0 @@
-A_482 - Comprando dei gessetti colorati (che costano molto poco) &egrave; possibile realizzare disegni oltre che sulle lavagne, anche sul cemento e sull'asfalto. Che se ne andranno alle prime piogge.

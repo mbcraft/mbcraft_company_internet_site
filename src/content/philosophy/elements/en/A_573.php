@@ -1,1 +1,0 @@
-A_573 - If a person has goats and wants to defend themselves when they attack, it is possible to use the lid with the handle of a pot.

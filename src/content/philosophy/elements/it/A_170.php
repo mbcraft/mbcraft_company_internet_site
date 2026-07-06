@@ -1,1 +1,0 @@
-A_170 - Cos&igrave; come succede per gli iceberg che hanno una parte sommersa, queste sono le informazioni disponibili attualmente. Alcune informazioni non possono essere condivise solo perch&eacute; richiede molta fatica mantenere il tutto funzionante.

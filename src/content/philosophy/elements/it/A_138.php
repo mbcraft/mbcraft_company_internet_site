@@ -1,1 +1,0 @@
-A_138 - Se avete un animale domestico molto pericoloso (ad esempio in una teca, come potrebbe essere ad esempio una tarantola) o molto delicato (come ad esempio un piccolo geco) non &egrave; detto che non lo possiate comunque accarezzare utilizzando, ad esempio, un pennello (di quelli da pittore).

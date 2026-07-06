@@ -1,1 +1,0 @@
-A_579 - It may help to apologize a little to nature for the wood that is used inside homes.

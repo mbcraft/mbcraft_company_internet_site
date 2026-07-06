@@ -1,1 +1,0 @@
-A_241 - It is not illegal or even stupid to create and use necklaces and jewelry that include tillandsia, or minerals, as well as the classic precious metals.

@@ -1,1 +1,0 @@
-A_574 - For those who sell loose vegetable ice cream, it is likely that by keeping good quality quartz crystal at the bottom of the tray that does not get in the way, the ice cream can maintain improved organoleptic qualities.

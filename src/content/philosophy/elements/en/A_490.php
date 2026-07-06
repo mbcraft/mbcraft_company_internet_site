@@ -1,1 +1,0 @@
-A_490 - If after saying something to someone and ending the conversation we suddenly change our mind, it's important to let that person know that we've changed our mind.

@@ -1,1 +1,0 @@
-A_079 - Non bruciare mai delle foglie o dei fogli di carta all'aperto con dei fal&ograve;. Potrebbero prendere il volo mentre sono infuocate e atterrare appiccando un incendio. &Egrave; molto pericoloso.

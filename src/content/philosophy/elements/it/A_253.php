@@ -1,1 +1,0 @@
-A_253 - Sarebbe meglio non intrappolare animali (es. negli zoo). Comunque &egrave; anche vero che hanno il cibo senza faticare. Eventualmente un'idea potrebbe essere quella di liberarli e sostituirli con altri animali periodicamente.

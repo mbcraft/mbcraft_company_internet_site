@@ -1,1 +1,0 @@
-A_517 - Personalmente sconsiglio di fare conferenze nei teatri. I teatri sono luoghi dove va in scena la finzione, utili a modo loro. Per le conferenze &egrave; meglio usare le sale conferenze, di cui ad esempio molti alberghi dispongono. Questo anche perch&egrave; non consentono di proiettare delle diapositive di una presentazione.

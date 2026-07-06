@@ -1,1 +1,0 @@
-A_450 - Many people are used to having &ldquo;favorite colors&rdquo; and colors that they decide to snub instead. However, this type of preference also risks having contraindications of which we are not aware, so I personally recommend appreciating all the colors present in nature, as, in any case, they are not the work of ours.

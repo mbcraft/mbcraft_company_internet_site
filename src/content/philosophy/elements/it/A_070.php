@@ -1,1 +1,0 @@
-A_070 - L'interruzione di gravidanza &egrave; l'interruzione di una vita di una creatura innocente e che non ha nessun modo di difendersi da una scelta del genere. Considera quanto pu&ograve; essere potenzialmente grave un gesto del genere, anche se in molti stati del mondo &egrave; considerato legale. 

@@ -1,1 +1,0 @@
-C_010 - Conceptually it is not prohibited and it is not illegal to make ice cream specifically designed for dogs. In the summer months it could be an excellent way to help them cope with high temperatures, especially for those breeds with slightly long hair.

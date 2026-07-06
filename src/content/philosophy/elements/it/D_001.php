@@ -1,1 +1,0 @@
-D_001 - Il nostro pianeta viene chiamato &ldquo;Terra&rdquo; ma &egrave; anche composto da rocce, nuvole, oceani, minerali e molto altro. Siccome i nomi degli altri pianeti del sistema solare sono nomi di fantasia o associati ad antiche divinit&agrave;, ho coniato il nome &ldquo;Aelion&rdquo; come possibile nome di fantasia per il nostro pianeta.

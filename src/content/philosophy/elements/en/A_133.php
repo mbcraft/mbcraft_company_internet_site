@@ -1,1 +1,0 @@
-A_133 - As for married life, strange as it may seem, the more unnecessary sex is reduced, the more the couple generally tends to thrive. When you have a lot of sex unnecessarily, you lose intelligence, humor, play, fun, joy.

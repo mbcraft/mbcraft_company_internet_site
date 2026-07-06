@@ -1,1 +1,0 @@
-A_262 - Cos&igrave; come si pu&ograve; lavorare per soldi, esistono anche altri modi per motivarsi e lavorare. Ad esempio &egrave; anche possibile usare le emozioni negative (rabbia, indignazione, ...) come combustibile per lavorare.

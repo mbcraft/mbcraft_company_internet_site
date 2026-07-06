@@ -1,1 +1,0 @@
-A_586 - E' importante che le persone all'interno delle famiglie siano unite fra di loro e si aiutino a vicenda. E' importante ricordarselo.

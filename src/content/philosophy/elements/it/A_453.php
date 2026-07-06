@@ -1,1 +1,0 @@
-A_453 - Le email possono contenere in calce una firma in formato HTML. Pu&ograve; essere utile preparare una firma per le proprie email in modo da risparmiare tempo nell'invio di alcune informazioni fondamentali nelle comunicazioni che inviamo.

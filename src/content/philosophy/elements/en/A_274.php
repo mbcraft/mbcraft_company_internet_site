@@ -1,1 +1,0 @@
-A_274 - Very often governments allow you to change your name. Since it often happens that there are people with the same name and surname, if you want, you can change it and choose one for example that is not yet in use by other people.

@@ -1,1 +1,0 @@
-A_157 - Personally I believe that the various temples that have been built, if the owners agree, can be used for: board game sessions, conferences, concerts, discussions, meditations, prayers (without using words), contemplations, procreations. I would leave other physical and sporting activities for outdoor places.

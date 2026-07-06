@@ -1,1 +1,0 @@
-A_094 - If it were possible to clear the ground of the woods from the foliage even with the help of machinery, this would improve the growth of the grass and consequently it would make the life of herbivorous animals inside it possible and better, and consequently also of the carnivorous ones.

@@ -1,1 +1,0 @@
-A_153 - As far as I know, trees give us dreams and nightmares. Sometimes they need to make adjustments to our minds, warn us, make checks, and so on. In any case we have no right to judge them.

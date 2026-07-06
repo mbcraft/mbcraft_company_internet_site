@@ -1,1 +1,0 @@
-A_433 - Siate genuini. Non usate virus psicologici. Non rovinate la vita altrui pur di lavorare a tutti i costi.

@@ -1,1 +1,0 @@
-B_004 - Se si &egrave; molto nervosi camminare scalzi sull'erba aiuta molto a calmarsi.

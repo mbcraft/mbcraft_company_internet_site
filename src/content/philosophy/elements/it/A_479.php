@@ -1,1 +1,0 @@
-A_479 - &Egrave; particolarmente importante per gli alberi posizionati in zone trafficate (ad esempio vicino alle autostrade) poter sentire anche dei suoni gradevoli. Per farlo potete usare degli strumenti musicali a vostro piacimento, anche degli scacciaspiriti ad esempio, limitandovi a camminare. 

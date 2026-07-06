@@ -1,1 +1,0 @@
-A_140 - Tutti sanno che i profumi vanno provati sulla pelle perch&eacute; il loro odore finale cambia in base alla reazione chimica che avviene a contatto con la pelle (e il sudore). Quello che forse nessuno/a sa &egrave; che anche le urine, strofinate sulla pelle, causano un effetto di profumazione.

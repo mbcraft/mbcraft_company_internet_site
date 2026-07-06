@@ -1,1 +1,0 @@
-A_172 - Si possono prendere accordi con la natura e collaborare con essa. La natura pu&ograve; rendere pi&ugrave; o meno faticoso un lavoro in base alle nostre richieste e alle necessit&agrave;, fermo restando che pi&ugrave; ci si impegna e maggiori sono i risultati che si ottengono.

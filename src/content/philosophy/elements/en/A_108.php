@@ -1,1 +1,0 @@
-A_108 - It's very important to be friends with yourself, to love ourself and not hate ourself. Even a little cuddle time every now and then can be beneficial on a psychological level.

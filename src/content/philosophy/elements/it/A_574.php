@@ -1,1 +1,0 @@
-A_574 - Per chi vende il gelato vegetale sfuso, &egrave; probabile che tenendo sul fondo della vaschetta del cristallo di quarzo di buona qualit&agrave; che non sia d'intralcio, che il gelato possa mantenere delle qualit&agrave; organolettiche migliorate.  

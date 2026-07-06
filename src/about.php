@@ -1,6 +1,7 @@
 <?php
 
 require_once('include/lang.php');
+include_once('include/visit_counter.php');
 include_once("include/begin_html.php");
 include_once("include/meta.php");
 include_once("include/support_functions.php");

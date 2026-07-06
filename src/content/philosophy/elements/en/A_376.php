@@ -1,1 +1,0 @@
-A_376 - As regards the problem of birds hitting the windows, if you want to avoid it you can use either curtains in front of the glass, or stickers, taking care if possible not to use stickers depicting living beings or objects. If possible, use abstract images for the stickers or even stickers of company logos if you want to use them to receive sponsorships by prior agreement.

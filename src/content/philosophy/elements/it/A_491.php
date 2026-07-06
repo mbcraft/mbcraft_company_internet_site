@@ -1,1 +1,0 @@
-A_491 - A volte pu&ograve; capitare che quanto detto ad altre persone in passato ci possa bloccare il presente. In tal caso parlare di nuovo con quelle persone pu&ograve; aiutare a sbloccare la situazione.

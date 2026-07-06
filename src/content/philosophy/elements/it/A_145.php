@@ -1,1 +1,0 @@
-A_145 - Certi frutti come il melograno non spremuto o il melo cotogno ad esempio richiedono fatica per essere mangiati, ma non vanno snobbati perch&eacute; oltre a nutrirci servono anche per allenarci.

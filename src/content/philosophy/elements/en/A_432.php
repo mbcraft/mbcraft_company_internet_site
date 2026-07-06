@@ -1,1 +1,0 @@
-A_432 - It is better not to criminally ask nature for sex.

@@ -1,1 +1,0 @@
-A_331 - Contrary to what we may think, there are no &ldquo;particular treasures&rdquo; that can be found on a conceptual level by having sex but only intense emotional moments (but perhaps the same also happens with drugs), while instead as regards our mind, what we can find and explore, even if emotionally sparse, is actually of great value.

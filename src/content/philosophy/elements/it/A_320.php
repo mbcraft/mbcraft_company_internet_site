@@ -1,1 +1,0 @@
-A_320 - Avere una buona nutrizione e delle buone e salutari abitudini &egrave; importante anche nella coppia, perch&egrave; ovviamente se siamo dei catorci o stiamo male difficilmente possiamo sostenere il parner con le nostre energie e la nostra psiche. 

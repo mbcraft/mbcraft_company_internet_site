@@ -1,1 +1,0 @@
-A_379 - Concettualmente le canne da pesca possono essere anche usate per raccogliere frutta da alberi molto alti, in rami che non si possono raggiungere facilmente. Se decidete di pescare del pesce da usare per gli animali domestici carnivori, ricordatevi di non usare insetti o lombrichi come esche.

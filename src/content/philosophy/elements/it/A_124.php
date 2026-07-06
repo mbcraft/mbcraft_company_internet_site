@@ -1,1 +1,0 @@
-A_124 - Per come la vedo io, il caff&egrave; &egrave; solo il disperato tentativo della natura di farci capire che gli alberi vogliono la nostra cacca. Comunque se possibile andrebbe coperta con erba sfalciata o foglie secche. In ogni caso possiamo anche berlo amaro per renderci vagamente conto di quanta fatica fanno gli alberi a stare senza i nostri escrementi.

@@ -1,1 +1,0 @@
-A_185 - The concept of free of payment does not exist. Every time you receive something you have to give something in exchange for the same value accepted by the other party, and if you don't do it with money this can also happen in other ways (gratitude, work, etc).

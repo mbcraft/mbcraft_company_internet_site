@@ -1,5 +1,5 @@
-<div class='w3-row w3-margin big_buttons_container'>
-    <div class='w3-container s6 m4 l3 w3-right w3-margin'>
+<div class='w3-row w3-margin big_buttons_container language_switch_row'>
+    <div class='w3-container s6 m4 l3 w3-right w3-margin language_switch_container'>
         <div class='w3-cell-row'>
             <div class='w3-cell w3-mobile w3-padding-16 s6 m6 l6 p huge_rounded'>
                 <form name="language_it" action='' method='POST'>

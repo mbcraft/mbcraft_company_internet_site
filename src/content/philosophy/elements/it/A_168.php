@@ -1,1 +1,0 @@
-A_168 - Non &egrave; necessario conoscere le leggi dello stato, i principi base restano il buon senso e la scienza, ma anche ovviamente le convenzioni in vigore. &Egrave; abbastanza comprensibile considerando che al momento esistono tantissime leggi.

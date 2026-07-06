@@ -1,1 +1,0 @@
-A_021 - Personalmente penso che sia meglio lasciar decidere alla natura il modo in cui dobbiamo essere ricompensati per il nostro duro lavoro (nel caso in cui ad esempio lo stipendio che riceviamo sia inferiore a quello che ci sembrerebbe giusto ricevere) invece di desiderare questo o quello. 

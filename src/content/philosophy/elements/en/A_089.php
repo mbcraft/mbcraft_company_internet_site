@@ -1,1 +1,0 @@
-A_089 - As for the agricultural practices to use, I suggest focusing on: fertilizing, pollination, irrigation, music (it has been found that music makes tomatoes grow in greater quantities) when possible. Then there are others that are not potentially wrong, such as mulching ... but in any case I believe that the grafts should not be used.

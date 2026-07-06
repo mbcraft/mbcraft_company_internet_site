@@ -1,1 +1,0 @@
-B_009 - If you eat pomegranates, know that the birds are fond of the squeezed seeds and that you can leave them as food for them on the windowsill instead of throwing them away. Furthermore, the seeds of lemons, oranges and clementines are edible by chickens.

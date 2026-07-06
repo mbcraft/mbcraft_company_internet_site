@@ -1,1 +1,0 @@
-A_495 - Le capsule in plastica delle uova pasquali si possono riutilizzare per fare delle &ldquo;capsule del tempo&rdquo;. Se le usate in questo modo fate attenzione a non rovinare le radici degli alberi cercando di seppellirle abbastanza lontane da qualsiasi tronco. Un possibile utilizzo potrebbe essere anche quello di inserire al loro interno dei minerali.

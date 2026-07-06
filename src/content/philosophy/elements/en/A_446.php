@@ -1,1 +1,0 @@
-A_446 - If you don't have savory snacks available and you have no way of purchasing them, in extreme cases it is also possible to prepare some using rusks or grilled bread as a base, and adding oil, salt and a spice to your liking.

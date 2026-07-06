@@ -1,1 +1,0 @@
-A_314 - It is important, when growing certain types of plants or flowers for food purposes (such as hibiscus, saffron ...), that those who grow these plants also take care to pollinate them with a brush or a cotton swab at least a few days before harvesting.

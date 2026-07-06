@@ -1,1 +1,0 @@
-A_295 - There are different types of video games for different types of people. The location, the quality of the environment and the presence of certain people nearby can make the game more challenging. or less suitable, easy, dangerous, useful, expensive, fun, etc ... As for the types of usefulness and cost, the range of these is also quite wide.

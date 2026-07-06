@@ -1,1 +1,0 @@
-A_479 - It is particularly important for trees located in busy areas (for example near motorways) to also be able to hear pleasant sounds. To do this you can use any musical instruments you like, even wind chimes for example, just walking.

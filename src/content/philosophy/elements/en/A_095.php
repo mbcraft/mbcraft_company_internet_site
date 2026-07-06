@@ -1,1 +1,0 @@
-A_095 - The reasoning we do strongly depends on our emotional state. A depressed person thinks and reasons in one way, a person who is neither happy nor depressed thinks and reasons in another way, a happy person thinks and reasons in yet another way. So helping people be happy is the key to helping people be happy. a great way to improve their thinking.

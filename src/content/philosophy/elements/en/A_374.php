@@ -1,1 +1,0 @@
-A_374 - Even trees, like people, like order, care, cleanliness, company (e.g. of other smaller plants...) while they do not like waste, as it often causes psychological problems in wild animals. Regardless of whether someone pays you or not, planting flowers haphazardly in the territory where no one goes to mow the lawn will definitely make you happier.

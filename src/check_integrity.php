@@ -97,17 +97,9 @@ function get_file_list() {
 
    $resources_list = ["/resources/prime_numbers_list.txt","/embed/credits.php"];
 
-   $downloads_list = list_directory_files("/downloads/");
+   $content_list = ["/content/feedback/it.php","/content/feedback/en.php","/content/feedback_send_error/it.php","/content/feedback_send_error/en.php","/content/feedback_thank_you/it.php","/content/feedback_thank_you/en.php","/content/works/it.php","/content/works/en.php","/content/home/it.php","/content/home/en.php","/content/experiences/it.php","/content/experiences/en.php","/content/skills/it.php","/content/skills/en.php","/content/about_internet_site/it.php","/content/about_internet_site/en.php","/content/files/it.php","/content/files/en.php"];
 
-   $content_list = ["/content/feedback/it.php","/content/feedback/en.php","/content/feedback_send_error/it.php","/content/feedback_send_error/en.php","/content/feedback_thank_you/it.php","/content/feedback_thank_you/en.php","/content/philosophy/it.php","/content/philosophy/en.php","/content/home/it.php","/content/home/en.php","/content/experiences/it.php","/content/experiences/en.php","/content/fun/it.php","/content/fun/en.php","/content/skills/it.php","/content/skills/en.php","/content/about_internet_site/it.php","/content/about_internet_site/en.php","/content/files/it.php","/content/files/en.php"];
-
-   $ph_it_list = list_directory_files("/content/philosophy/elements/it/");
-
-   $ph_en_list = list_directory_files("/content/philosophy/elements/en/");
-
-   $meme_list = list_directory_files("/pages/");
-
-   $path_list = array_merge($include_list,$css_list,$PROJECT_DIR_list,$resources_list,$downloads_list,$content_list,$ph_en_list,$ph_it_list,$meme_list);
+   $path_list = array_merge($include_list,$css_list,$PROJECT_DIR_list,$resources_list,$content_list);
 
    return $path_list;
 

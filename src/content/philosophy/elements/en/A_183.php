@@ -1,1 +1,0 @@
-A_183 - Magic exists, from what I understand it builds up over decades and you can only use a pinch of it every few years (decades), on command. Usually the only thing you can do with that pinch is some kind of psychological change in the people around you.

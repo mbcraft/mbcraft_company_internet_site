@@ -1,1 +1,0 @@
-A_119 - As strange as it may seem, when you give money to a person of the opposite sex without requesting any particular service or performance in return, his gratitude comes back to us and this serves to improve one's energies and intuitions. This also means that gratitude is a currency that repays living beings for their efforts when there are no other forms of exchange.

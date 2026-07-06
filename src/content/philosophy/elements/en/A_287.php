@@ -1,1 +1,0 @@
-A_287 - I think it might be a good idea to keep certain minerals (e.g. quartz or others) near potted plants or even near fruit.

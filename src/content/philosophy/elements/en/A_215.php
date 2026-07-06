@@ -1,1 +1,0 @@
-A_215 - If you let a sealed package of pan bauletto expire, white mold forms in the bread which has a very pleasant flavour. I can't give you the exact timing, but I've experienced it personally.

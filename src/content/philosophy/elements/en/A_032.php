@@ -1,2 +1,0 @@
-A_032 - Bacteria, molds, fungi, oozes, animals, people, plants and minerals each have unique prerogatives and traits. <br />
-Each of these kingdoms has a very specific role in the balance of nature. <br/>

@@ -1,1 +1,0 @@
-A_622 - E' importante quando si notano delle anomalie nel territorio fare le relative segnalazioni al governo con gli strumenti che esso mette a disposizione (email, portali dedicati, uffici per le relazioni col pubblico, ecc ...).

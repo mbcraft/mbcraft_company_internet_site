@@ -1,1 +1,0 @@
-A_262 - Just as you can work for money, there are also other ways to motivate yourself and work. For example, it is also possible to use negative emotions (anger, indignation, ...) as fuel to work.

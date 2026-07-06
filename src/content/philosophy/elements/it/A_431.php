@@ -1,1 +1,0 @@
-A_431 - A volte pu&ograve; capitare di sentire, improvvisamente, che qualcosa non va. In quelle circostanze &egrave; meglio mantenere il sangue freddo, fare mente locale su quello che si &egrave; fatto di recente e trovare le cause del problema.

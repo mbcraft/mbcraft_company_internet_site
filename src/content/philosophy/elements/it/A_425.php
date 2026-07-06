@@ -1,1 +1,0 @@
-A_425 - Personalmente ipotizzo che l'esistenza dei film porno, considerando il fatto che non ci mancano conflitti armati e immondizia nelle strade, sia un altro segno che ci sono evidenti segni di rovinare volutamente la vita e il lavoro di altre persone per approfittarne, considerando quanto degrado esiste e quanto potremmo abbellire e migliorare il mondo in cui viviamo.

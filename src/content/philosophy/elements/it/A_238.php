@@ -1,1 +1,0 @@
-A_238 - Credo sia una buona idea posizionare dei minerali (soprattutto) vicino agli alberi centenari o millenari, anche in modo possibilmente che non si possano togliere se sono in bella vista, oppure anche comunque nelle foreste che ne sono naturalmente sprovviste. Anche suonare strumenti musicali in quei luoghi credo possa essere utile.

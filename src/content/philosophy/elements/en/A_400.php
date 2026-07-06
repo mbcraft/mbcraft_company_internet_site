@@ -1,1 +1,0 @@
-A_400 - For those who work in interplanetary space, I recommend keeping fish in an aquarium on board, as the only type of pet, as they are used to being in that type of environment. In any case, I recommend using small fish, which feed on vegetables or seeds, and not using puffer fish.

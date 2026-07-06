@@ -1,1 +1,0 @@
-A_459 - Per chi ha degli adolescenti in fase di crescita, personalmente a parit&agrave; di denaro disponibile sconsiglio l'acquisto di uno smartphone costoso da usare anche per giocare e consiglio invece piuttosto l'acquisto di una piccola console portatile e di un telefono a bassissimo costo da usare solo per fare telefonate di emergenza o ai genitori.

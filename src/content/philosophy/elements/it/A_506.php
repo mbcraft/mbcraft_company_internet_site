@@ -1,1 +1,0 @@
-A_506 - Se siete fanatici del caff&egrave; e in casa possedete sia la moka che la macchinetta per fare il caff&egrave; allora vi consiglio di usare la moka durante la settimana e di usare la macchinetta rapida solo nel fine settimana.

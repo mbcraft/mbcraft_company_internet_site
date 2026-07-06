@@ -1,1 +1,0 @@
-A_140 - Everyone knows that perfumes must be tried on the skin because their final smell changes based on the chemical reaction that occurs in contact with the skin (and sweat). What perhaps no one knows is that even urine, rubbed on the skin, causes a scenting effect.

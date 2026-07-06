@@ -1,1 +1,0 @@
-A_147 - I recommend that non-smokers still smoke a cigarette at least every 2-3 months. Tobacco can also be eaten or used as a spice, it has a very spicy flavor.

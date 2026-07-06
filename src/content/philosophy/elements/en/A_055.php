@@ -1,1 +1,0 @@
-A_055 - About anger, if you happen to get very angry, the advice I give you, instead of yelling at people, is to take a little walk in order to reflect better on what to do and make a less instinctive but more reasoned decision. In those moments, taking a barefoot walk on the grass can help a lot to let off steam.

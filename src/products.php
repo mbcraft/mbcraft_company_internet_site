@@ -2,6 +2,7 @@
 
 
 require_once('include/lang.php');
+include_once('include/visit_counter.php');
 include_once("include/begin_html.php");
 include_once("content/products/default/".$lang.".php");
 include_once("include/meta.php");

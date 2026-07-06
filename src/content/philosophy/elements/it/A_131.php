@@ -1,1 +1,0 @@
-A_131 - Alcuni software, quando vengono usati o anche solo installati, possano avere effetti anche molto pesanti sulla salute delle persone. Cos&igrave; come alcuni giochi possono rallegrare, altri giochi o programmi possono essere anche pesanti emotivamente dopo essere stati utilizzati. Fate attenzione. 

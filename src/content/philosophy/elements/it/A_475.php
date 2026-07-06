@@ -1,1 +1,0 @@
-A_475 - Le pacchie totali non esistono. Tutti i contenuti testuali e multimediali, i prodotti e i servizi hanno il loro costo e non bisogna pensare di fare la bella vita pensando che si possa usufruire di &ldquo;pacchie totali&rdquo;. I divertimenti esistono ma comunque anche l'intrattenimento ha i suoi costi. 

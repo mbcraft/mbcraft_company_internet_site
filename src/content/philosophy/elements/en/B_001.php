@@ -1,1 +1,0 @@
-B_001 - Personally, I think it's better to share the good discoveries and keep the doubts and problems to be sorted out. For the last 12 years or so I've always had this approach and it's led to great results.

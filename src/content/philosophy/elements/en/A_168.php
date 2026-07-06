@@ -1,1 +1,0 @@
-A_168 - It is not necessary to know the laws of the state, the basic principles remain common sense and science, but also obviously the conventions in force. It's quite understandable considering that there are so many laws at the moment.

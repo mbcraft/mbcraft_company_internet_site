@@ -1,1 +1,0 @@
-A_185 - Il concetto di gratis non esiste. Ogni volta che si riceve qualcosa si deve dare qualcosa in cambio dello stesso controvalore accettato dalla controparte, e se non lo si fa col denaro questo pu&ograve; avvenire anche in altri modi (gratitudine, lavoro, ecc).

@@ -1,1 +1,0 @@
-A_274 - Molto spesso i governi consentono di cambiare il proprio nome. Siccome capita spesso che ci siano persone con lo stesso nome e cognome se volete &egrave; possibile cambiarlo e sceglierne uno ad esempio che ancora non &egrave; in uso da altre persone.

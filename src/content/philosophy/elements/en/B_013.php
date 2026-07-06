@@ -1,1 +1,0 @@
-B_013 - It may happen that during sexual intercourse the erect penis may be distorted. In that case, serious damage is created to the psyche of man. One can remedy this problem by holding one's erect penis in one's hand and carefully observing one's psyche and one's sexuality with one's attention. Over time the mind heals.

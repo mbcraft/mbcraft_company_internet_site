@@ -1,1 +1,0 @@
-A_159 - Personally I believe that working less but with more intelligence and health can lead to greater collective well-being. We cannot think of exploring and colonizing the universe if there are very serious problems on our planet.

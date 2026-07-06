@@ -3,7 +3,7 @@
 session_start();
 
 if (!isset($_SESSION["LANG"])){
-    if (strpos($_SERVER["HTTP_ACCEPT_LANGUAGE"],"it")===0)
+    if (isset($_SERVER["HTTP_ACCEPT_LANGUAGE"]) && strpos($_SERVER["HTTP_ACCEPT_LANGUAGE"],"it")===0)
         $_SESSION["LANG"]="it";
     else
         $_SESSION["LANG"]="en";

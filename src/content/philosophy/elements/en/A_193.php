@@ -1,1 +1,0 @@
-A_193 - If you smoke, cigarettes can be easily extinguished on the ground, but once extinguished they should be thrown into the bins and not left on the ground.

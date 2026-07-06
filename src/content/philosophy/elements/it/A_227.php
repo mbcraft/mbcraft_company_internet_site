@@ -1,1 +1,0 @@
-A_227 - Ho sperimentato anche questa tecnica : se si &egrave; intorpiditi o con alcuni problemi cardiaci, dandosi dei pizzicotti nel sedere si riesce a stare molto meglio.

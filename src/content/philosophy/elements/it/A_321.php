@@ -1,1 +1,0 @@
-A_321 - Se utilizziamo le strade e gli automezzi, abbiamo anche l'obbligo di seppellire eventuali animali deceduti a causa di incidenti stradali. Lasciarli all'aperto a marcire non &egrave; una scelta saggia.

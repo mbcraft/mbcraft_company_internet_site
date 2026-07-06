@@ -1,1 +1,0 @@
-A_214 - &Egrave; assolutamente fisiologico per qualunque impresa avere sia progetti riusciti che progetti falliti. Succede sia nelle micro imprese che in aziende con migliaia e migliaia di impiegati. Ogni impresa produce degli &ldquo;scarti&rdquo; o ha problemi che non sa come gestire.

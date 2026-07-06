@@ -21,6 +21,7 @@
 
 .big_page_button {
     width : 250px;
+    max-width: 100%;
     height: 100px;
 
     color: white;
@@ -88,6 +89,7 @@
 
 .very_small_page_button {
     width : 70px;
+    max-width: 100%;
     height: 70px;
 
     color: white;
@@ -95,6 +97,7 @@
 
 .small_page_button {
     width : 130px;
+    max-width: 100%;
     height: 80px;
 
     color: white;
@@ -113,18 +116,84 @@
     margin: 0.8vw;
 }
 
+.italian_language_button,
+.english_language_button
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    text-align: center;
+    text-decoration: none;
+    color: #000;
+    cursor: pointer;
+
+    border: 2px solid #000;
+    padding : 0.1vw;
+    margin: 0.5vw;
+
+    border-radius: 12px;
+    -webkit-border-radius : 12px;
+    -moz-border-radius : 12px;
+}
+
+.italian_language_button h2,
+.english_language_button h2 {
+    text-shadow: 0 0 4px #fff, 0 0 4px #fff, 0 0 4px #fff;
+}
+
 .italian_language_button
 {
     width : 200px;
+    max-width: 100%;
     height: 100px;
 
     background-image: url('/images/background/italian_button_background.jpg');
 }
 
-.english_language_button 
+.english_language_button
 {
     width : 200px;
+    max-width: 100%;
     height: 100px;
 
     background-image: url('/images/background/english_button_background.jpg');
+}
+
+@media (max-width:992px) {
+    .language_switch_row {
+        text-align: center;
+    }
+
+    .language_switch_container {
+        display: inline-block;
+        float: none !important;
+    }
+}
+
+@media (max-width:600px) {
+    .big_buttons_container,
+    .big_buttons_container .w3-container {
+        margin: 4px !important;
+    }
+
+    .big_buttons_container .w3-cell.w3-margin {
+        margin: 4px !important;
+    }
+
+    .big_buttons_container .w3-padding-16 {
+        padding-left: 4px !important;
+        padding-right: 4px !important;
+    }
+
+    .italian_language_button,
+    .english_language_button {
+        width: 38vw;
+        height: 50px;
+    }
+
+    .italian_language_button h2,
+    .english_language_button h2 {
+        font-size: 16px !important;
+    }
 }

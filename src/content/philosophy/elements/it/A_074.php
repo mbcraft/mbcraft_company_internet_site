@@ -1,1 +1,0 @@
-A_074 - Se vivete in luoghi con l'aria molto pulita pu&ograve; essere utile per la psiche respirare del fumo, con una cadenza di almeno una volta ogni sei mesi, anche solo per 4-5 secondi. 

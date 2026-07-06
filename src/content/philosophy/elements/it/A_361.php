@@ -1,1 +1,0 @@
-A_361 - Per chi ha delle protesi o usa una carrozzina, potrebbe essere una buona idea quella di inserire dentro la protesi o la carrozzina anche un pezzo di cristallo (es. quarzo) in un apposito alloggiamento, oppure anche utilizzare dello spazio per tenere oggetti (es. un coltellino svizzero).  

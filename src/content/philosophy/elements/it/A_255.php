@@ -1,1 +1,0 @@
-A_255 - In generale pu&ograve; capitare che certe persone anziane o rovinate dicano delle parole completamente esagerate e false pur di aggrapparsi psicologicamente alle persone che stanno meglio.

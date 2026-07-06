@@ -1,1 +1,0 @@
-A_114 - Personally I think it would be very useful to have a plastic with the same workability as wood. Flood and termite resistant furniture and hardwood floors could be built. And it would also save the lives of many trees.

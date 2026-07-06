@@ -1,1 +1,0 @@
-A_235 - If at certain moments you feel sexual energy boiling and you don't know how to control it and you still want to control it because at that moment you don't want to have sexual intercourse, you can choose to give that love to nature, or even to needy people or animals.

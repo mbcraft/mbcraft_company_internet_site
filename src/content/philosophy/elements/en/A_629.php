@@ -1,1 +1,0 @@
-A_629 - It is important that those who do a job like that of a butcher are sure that the meat is then fed to animals (dogs, etc ...) and is not used for consumption by people and otherwise they should resign and look for another job.

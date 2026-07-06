@@ -1,1 +1,0 @@
-A_275 - Sometimes it happens that certain stray animals (e.g. dogs or cats) multiply uncontrollably. It is not a crime to capture them and use them as food for other carnivorous animals of a different type (e.g. crocodiles, hippos, lions, sharks, piranhas, etc ...).

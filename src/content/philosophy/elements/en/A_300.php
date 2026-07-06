@@ -1,1 +1,0 @@
-X_007 - If you're feeling a little off and you're male, you can try pouring a little mouthwash on your foreskin. I tried a couple of times... after some discomfort, which was however bearable, probably due to the presence of fluoride, afterwards it remains a rather pleasant sensation.

@@ -1,1 +1,0 @@
-A_361 - For those who have prostheses or use a wheelchair, it might be a good idea to also insert a piece of crystal (e.g. quartz) into a special housing inside the prosthesis or wheelchair, or even use space to hold objects (e.g. a Swiss army knife).

@@ -1,1 +1,0 @@
-A_512 - If you are a manager, remember that sometimes exaggerating with profits necessarily leads to social disasters. If a customer wants a product or service at too low price, it is sometimes better to refuse to provide it rather than humiliate your employees.

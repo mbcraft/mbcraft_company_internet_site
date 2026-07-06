@@ -1,1 +1,0 @@
-A_608 - E' importante dedicare un po' di tempo di tanto in tanto (anche solo 5 minuti) a chiedere scusa agli animali e alla natura per i peccati di cui probabilmente non sappiamo pi&ugrave; niente e che abbiamo commesso nelle nostre vite passate.

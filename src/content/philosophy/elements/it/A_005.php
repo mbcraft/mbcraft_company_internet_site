@@ -1,1 +1,0 @@
-A_005 - Sarebbe meglio evitare i carotaggi agli alberi centenari. &Egrave; sufficiente misurarne il diametro e l'altezza e fare una stima degli anni usando quei dati anzich&eacute; trapanarli. Dobbiamo ricordarci che &egrave; comunque un essere vivente. Se subissimo lo stesso trattamento sicuramente non sarebbe divertente.

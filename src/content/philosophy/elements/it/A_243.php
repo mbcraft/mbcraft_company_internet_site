@@ -1,1 +1,0 @@
-A_243 - In generale dormire con radio o tv accese nella stessa stanza &egrave; una pessima abitudine.

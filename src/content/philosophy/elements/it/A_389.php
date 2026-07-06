@@ -1,1 +1,0 @@
-A_389 - Se sei a tavola e hai lo stomaco abbastanza pieno e sei indeciso se mangiare ancora qualche boccone o fermarti, scegli sempre di fermarti. Sempre. Non hai niente da guadagnarci a riempire troppo lo stomaco.

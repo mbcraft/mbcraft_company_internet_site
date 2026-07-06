@@ -1,1 +1,0 @@
-A_419 - Le macchine per le tac negli ospedali si possono usare anche con le piante in vaso. 

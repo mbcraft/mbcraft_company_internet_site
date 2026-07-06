@@ -1,1 +1,0 @@
-A_183 - La magia esiste, da quanto ho capito si accumula nell'arco di decenni e ne si pu&ograve; usare un pizzico solo ogni tanti anni (si parla di decenni), a comando. Solitamente l'unica cosa che si pu&ograve; fare con quel pizzico &egrave; qualche tipo di cambiamento psicologico nelle persone che ci stanno intorno.

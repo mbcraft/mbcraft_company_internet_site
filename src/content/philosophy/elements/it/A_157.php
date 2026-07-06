@@ -1,1 +1,0 @@
-A_157 - Personalmente credo che i vari templi che sono stati costruiti, se i proprietari sono d'accordo, si possano usare per : sessioni di giochi di societ&agrave;, conferenze, concerti, discussioni, meditazioni, preghiere (senza usare le parole), contemplazioni, procreazioni. Lascerei le altre attivit&agrave; fisiche e sportive per i luoghi all'aperto.

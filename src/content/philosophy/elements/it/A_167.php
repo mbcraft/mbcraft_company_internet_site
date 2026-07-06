@@ -1,1 +1,0 @@
-A_167 - In generale vale il concetto di propriet&agrave; privata. Gli oggetti comunque si possono anche prendere in prestito.

@@ -1,1 +1,0 @@
-A_504 - Sometimes older people have quite sad rooms, and this is also why they tend to be angry and gloomy. Sometimes just improving the look of their bedrooms with something cheerful and colorful can be enough to change their mood.

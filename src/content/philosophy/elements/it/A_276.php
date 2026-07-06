@@ -1,1 +1,0 @@
-A_276 - Se vi capita di aver bisogno di fare dei peti, la zona migliore in cui farli &egrave; nel luogo in cui sono presenti il maggior numero di piante (anche piante in vaso vanno bene) in quanto li apprezzano.

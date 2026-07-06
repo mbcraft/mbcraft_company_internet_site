@@ -1,1 +1,0 @@
-A_001 - Every place where people can live has its own peculiarities and it is important to understand that each place may require its own different lifestyle.

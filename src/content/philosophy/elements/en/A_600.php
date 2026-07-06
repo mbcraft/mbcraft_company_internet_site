@@ -1,1 +1,0 @@
-A_600 - With scissors, adhesive tape, cardboard, pencils and rulers and with a little skill and imagination, any little boy or girl can create his own little monuments at little expense, and then color them as he or she prefers. However, they are a way to enrich the home and to practice developing a project.

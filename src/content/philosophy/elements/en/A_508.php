@@ -1,1 +1,0 @@
-A_508 - It is right that people know that the interpersonal relationships we have have a decisive impact on our way of reasoning, and that sometimes knowing certain people can cause significant mental alterations (for example we go faster at certain activities, or we feel more weighed down).

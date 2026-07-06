@@ -1,1 +1,0 @@
-A_221 - Our hands have a slight soothing power. This means that in certain circumstances by placing our hand on a slightly painful area of our body we can in some way &ldquo;heal&rdquo; ourselves. This is because in some way the electromagnetic waves emitted by our hand naturally influence the painful or slightly injured part and align it with the frequency of our hand.

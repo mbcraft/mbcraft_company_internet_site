@@ -1,1 +1,0 @@
-A_211 - If you want to complain or blaspheme, instead of writing insults on social networks, do it by writing a poem. In that case it is no longer a problem, but instead it becomes a useful job and if you want you can even earn money from it.

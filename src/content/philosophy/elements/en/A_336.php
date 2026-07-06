@@ -1,1 +1,0 @@
-A_336 - When fried foods are cooked at home, it is generally best to try to eat them and use them up as soon as possible as they are very perishable. Fried food (to be used sparingly) should be prioritized as expiring compared to others because it is also the one that perishes most quickly.

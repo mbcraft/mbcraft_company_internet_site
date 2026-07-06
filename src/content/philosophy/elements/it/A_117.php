@@ -1,1 +1,0 @@
-A_117 - Ogni essere vivente lavora per profitto. Pu&ograve; essere un profitto economico, un profitto emotivo, o altri tipi di profitto. &Egrave; assolutamente normale che sia cos&igrave;.

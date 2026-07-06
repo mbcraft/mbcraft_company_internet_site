@@ -1,1 +1,0 @@
-A_172 - You can make agreements with nature and collaborate with it. Nature can make a job more or less tiring based on our requests and needs, it being understood that the more we work, the greater the results we obtain.

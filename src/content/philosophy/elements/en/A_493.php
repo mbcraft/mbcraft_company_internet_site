@@ -1,1 +1,0 @@
-A_493 - Don't use a small problem caused by one person to unload tons of psychological garbage.

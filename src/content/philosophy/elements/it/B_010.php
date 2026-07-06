@@ -1,1 +1,0 @@
-B_010 - Se notate che spesso gli insetti vengono a ronzare intorno alle lampadine, vi conviene schermarle con dei cartoncini opachi in modo che dalle finestre non si veda la luce diretta delle lampadine.

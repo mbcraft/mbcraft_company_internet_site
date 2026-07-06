@@ -1,1 +1,0 @@
-A_577 - Per quanto piccolo, nessun atto di gentilezza &egrave; sprecato, a patto che non serva per nascondere del crimine. (Grazie a Sonia Grisandi)

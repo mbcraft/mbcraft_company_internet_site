@@ -1,1 +1,0 @@
-A_319 - Per quanto riguarda le polluzioni notturne, sono indicative di un problema : &egrave; concettualmente uno spreco di risorse chimiche e indice di una situazione anomala a livello psicologico dal punto di vista dei rapporti interpersonali. 

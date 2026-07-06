@@ -1,1 +1,0 @@
-A_293 - People's emotional needs always take priority for them over being truthful, correct, honest. Enduring suffering, greyness, malaise and remaining truthful, correct, honest is not at all easy, and becomes increasingly difficult with increasing age.

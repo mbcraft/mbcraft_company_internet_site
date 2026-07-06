@@ -1,1 +1,0 @@
-A_482 - By buying colored chalks (which cost very little) it is possible to create drawings not only on blackboards, but also on concrete and asphalt. That they will go away with the first rains.

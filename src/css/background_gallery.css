@@ -5,6 +5,13 @@
     cursor: pointer;
 }
 
+.background_thumb_btn {
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+}
+
 
 .background_image_thumb:hover {
     border-color: green;

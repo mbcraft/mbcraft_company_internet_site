@@ -103,21 +103,15 @@ function print_footer($elements) {
         <h4>
         <address>
         MBCRAFT di Marco Bagnaresi<br />
-        <br /><br />
         Via ca' del vento, 11<br />
-        <br /><br />
         CAP 48012 - Bagnacavallo (RA)<br />
-        <br /><br />
-        Italy<br /><br />
+        Italy
         </address>
         </h4>
         <h3>
-        P.IVA/VAT N. 02475790396<br /><br /><br />
-        C.F. : BGNMRC82H03E730O<br /><br /><br />
-
-        <br />
-        <b><a href="/index.php"><?= $welcome_page[$lang] ?></a></b><br />
-        
+        P.IVA/VAT N. 02475790396<br />
+        C.F. : BGNMRC82H03E730O<br />
+        <b><a href="/index.php"><?= $welcome_page[$lang] ?></a></b>
         </h3>
         <h4>
         <?php

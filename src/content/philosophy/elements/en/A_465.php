@@ -1,1 +1,0 @@
-A_465 - Personally, I advise the inhabitants of a country to eat ethnic cuisine at least once in a while to maintain contact with people of other nationalities and cultures, while I generally advise against it for tourists as it could be a bit risky.

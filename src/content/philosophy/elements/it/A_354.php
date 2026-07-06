@@ -1,1 +1,0 @@
-A_354 - Tempo fa mi hanno insegnato che quando si vuole condire l'insalata, ad esempio con sale, olio e aceto, l'ordine migliore da seguire &egrave; : prima il sale, poi l'aceto e infine l'olio. In questo ordine i condimenti si miscelano meglio. (Michele Ravagli)

@@ -1,1 +1,0 @@
-A_535 - It is not a crime to trade excrement of respected people or rare animals other than those used to usually produce fertilizer locally: in fact, it is smarter than it seems. Glass jars, as containers, should be fine (for small quantities).

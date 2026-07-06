@@ -1,1 +1,0 @@
-A_151 - If you are not married, remember that it is not a crime to exchange partners with a friend's partner even just to chat if everyone agrees and the relationship is fresh. Jealousy is a mistake because people are not objects.

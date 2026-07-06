@@ -1,1 +1,0 @@
-H_009 - Usually when we get slepped or hurt ourselves accidentally it's because there's something wrong with our philosophy. It happens to everyone, including me.

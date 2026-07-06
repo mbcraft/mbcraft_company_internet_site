@@ -1,5 +1,6 @@
 <head>
     <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>MBCRAFT di Marco Bagnaresi - <?=$title_suffix ?></title>
     <meta name='description' content="<?=$description ?>">
     <meta name='keywords' content="<?=$keywords ?>">  

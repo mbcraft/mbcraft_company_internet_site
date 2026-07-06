@@ -1,1 +1,0 @@
-A_133 - Per quanto riguarda la vita di coppia, per quanto strano possa sembrare, pi&ugrave; si riduce il sesso inutile, pi&ugrave; la coppia generalmente tende a prosperare. Quando si fa tanto sesso inutilmente, si perdono intelligenza, umorismo, gioco, divertimento, gioia.

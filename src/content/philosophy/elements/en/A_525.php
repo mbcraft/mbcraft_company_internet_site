@@ -1,1 +1,0 @@
-A_525 - Pregnant women must be treated with great attention and respect, as they sometimes feel uncomfortable psychologically, emotionally or physically.

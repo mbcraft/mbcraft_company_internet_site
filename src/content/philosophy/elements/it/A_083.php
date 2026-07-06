@@ -1,1 +1,0 @@
-A_083 - Le more di gelso non si riescono a conservare in frigorifero ... dopo solo un paio di giorni fanno i vermetti. Vanno mangiate appena raccolte oppure probabilmente messe direttamente in freezer o essicate per riuscire a mangiarle senza vermetti.

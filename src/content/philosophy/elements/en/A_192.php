@@ -1,1 +1,0 @@
-A_192 - Caterpillars and snails can also be used as pets, in a small case. They are very cheap to maintain. 

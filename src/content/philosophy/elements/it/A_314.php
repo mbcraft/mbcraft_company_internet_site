@@ -1,1 +1,0 @@
-A_314 - &Egrave; importante, quando si coltivano determinati tipi di piante o di fiori a scopi alimentari (come ibisco, zafferano ...), che chi coltiva tali piante si preoccupi anche di impollinarle con un pennellino o un cotton fioc almeno qualche giorno prima della raccolta.

@@ -1,1 +1,0 @@
-A_214 - It is absolutely physiological for any company to have both successful and failed projects. It happens both in micro businesses and in companies with thousands and thousands of employees. Every business produces &ldquo;waste&rdquo; or has problems that it doesn't know how to handle.

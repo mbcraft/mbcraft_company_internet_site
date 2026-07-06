@@ -1,1 +1,0 @@
-A_155 - La natura elargisce i suoi doni a chi se li merita e dove sono necessari. Ci sono persone ad esempio che sanno impilare i sassi in equilibrio uno sopra l'altro, e non &egrave; un'abilit&agrave; cos&igrave; comune.

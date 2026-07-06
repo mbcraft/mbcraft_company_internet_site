@@ -1,1 +1,0 @@
-A_207 - It is very important to always eat and clean the remaining food from plates, bowls and pots completely using bread: it is not only a way to avoid wasting food, which is important in itself, but also to save effort and detergent when cleaning the dishes. So the benefit is threefold.

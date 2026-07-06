@@ -3,7 +3,7 @@
 require_once('include/lang.php');
 include_once('include/visit_counter.php');
 include_once("include/begin_html.php");
-require_once("content/customers/".$lang.".php");
+require_once("content/works/".$lang.".php");
 include_once("include/meta.php");
 include_once("include/begin_content_with_language_switches.php");
 include_once("include/menu.php");

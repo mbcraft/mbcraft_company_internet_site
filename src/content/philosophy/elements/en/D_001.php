@@ -1,1 +1,0 @@
-D_001 - Our planet is called &ldquo;Earth&rdquo; but it is also made up of rocks, clouds, oceans, minerals and much more. Since the names of the other planets of the solar system are fantasy names or associated with ancient deities, I coined the name &ldquo;Aelion&rdquo; as a possible fantasy name for our planet.

@@ -1,1 +1,0 @@
-A_342 - Vandalism is generally not never appreciated, and usually then involves taking on hatred or resentment from who or what has been vandalized (for example when it happens due to theft, but also due to riots...). However, if you need to protest about something, you can always do it intelligently, and in that case you almost always get much better results.

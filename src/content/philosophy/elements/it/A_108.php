@@ -1,1 +1,0 @@
-A_108 - &Egrave; importante essere amici di se stessi, volersi bene e non odiarsi. Ogni tanto anche farsi un po' di carezze pu&ograve; essere benefico a livello psicologico.

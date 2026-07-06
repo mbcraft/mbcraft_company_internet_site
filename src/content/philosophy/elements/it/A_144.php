@@ -1,1 +1,0 @@
-A_144 - Alla rabbia conviene sempre se possibile cercare di reagire con la gentilezza.

@@ -1,1 +1,0 @@
-A_518 - In televisione &egrave; meglio non trasmettere contenuti che possano confondere la comprensione delle persone e non fare gogne di nessun tipo. 

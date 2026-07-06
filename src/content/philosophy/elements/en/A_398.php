@@ -1,1 +1,0 @@
-A_398 - I strongly advise those who work in the cultivation of herbs for herbal shops, those who manage herbal shops or those who work in cosmetics of parfums to also work with dogs as support as they are particularly skilled in perceiving odors, and to use the excrements of their animals for the fertilization of plants or trees. 

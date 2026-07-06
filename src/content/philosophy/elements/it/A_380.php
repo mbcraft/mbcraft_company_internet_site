@@ -1,1 +1,0 @@
-A_380 - La pizza fritta (quella fatta con farina, sale, acqua e fritta con l'olio vegetale) si pu&ograve; anche condire, ad esempio, con del pepe nero, oppure anche con dello sciroppo di mandorle, ma anche con marmellate di frutta, oppure anche con delle creme spalmabili vegetali non necessariamente dolci.

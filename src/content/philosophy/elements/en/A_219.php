@@ -1,1 +1,0 @@
-A_219 - I don't know how the sachets of therapeutic food used for undernourished children in the third world are made, but I personally even managed to eat packaging produced with corn considered &ldquo;biodegradable&rdquo;. It is not said that they necessarily have to be edible for children, but they could be edible for operators. This way no waste would be produced.

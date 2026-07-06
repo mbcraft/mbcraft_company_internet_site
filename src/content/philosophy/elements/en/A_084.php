@@ -1,1 +1,0 @@
-A_084 - A friend of mine (Tania Moroni) suggested me to use magnesium-potassium supplements in case of problems with nervous breakdowns. I can confirm that even after just a single use I have noticed drastic health improvements in this regard.

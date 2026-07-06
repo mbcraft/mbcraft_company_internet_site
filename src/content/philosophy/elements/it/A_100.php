@@ -1,1 +1,0 @@
-A_100 - Tieni sempre a portata di mano nella tua automobile un paio di occhiali da sole anche economici che si possono comperare in tabaccheria. Sono utilissimi quando si viaggia al tramonto e si ha il sole in faccia.

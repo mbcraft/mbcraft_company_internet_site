@@ -1,1 +1,0 @@
-A_577 - No matter how small, no act of kindness is wasted, as long as it does not serve to hide crime. (Thanks to Sonia Grisandi)

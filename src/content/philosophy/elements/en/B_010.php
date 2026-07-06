@@ -1,1 +1,0 @@
-B_010 - If you notice that insects often come to buzz around the light bulbs, you should shield them with opaque cardboard so that the direct light from the light bulbs cannot be seen from the windows.

@@ -1,1 +1,0 @@
-B_011 - If you have cacti near other plants, be careful that the needles do not pierce other plants. In case it is better to try to move the plants away from each other (if they are potted plants) or cut the needles with scissors so that the plants do not pierce each other.

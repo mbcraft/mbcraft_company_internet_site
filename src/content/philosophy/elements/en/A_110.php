@@ -1,1 +1,0 @@
-A_110 - People's sexual tastes are not a subject of judgment or discussion.

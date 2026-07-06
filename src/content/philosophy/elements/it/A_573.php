@@ -1,1 +1,0 @@
-A_573 - Se una persona ha delle capre e vuole difendersi quando attaccano, &egrave; possibile usare il coperchio col manico di una pentola.

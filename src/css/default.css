@@ -7,18 +7,13 @@ html
     overflow-x: hidden;
 }
 
-h1 {
-    text-align:left;
-    font-size: 10px;
-}
-
 .header
 {
     position : relative;
     top : 5px;
     left : 20px;
     font-family : 'Arial',sans-serif;
-    font-size : 14px;
+    font-size : 18px;
 }
 
 #top_quote {
@@ -47,11 +42,17 @@ h1 {
     font-family : Arial;
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+}
+
 .box_small
 {
     display:inline-block;
+    box-sizing: border-box;
     text-align: center;
-    font-size : 14px;
+    font-size : 18px;
     position:relative;
     top:50px;
     border-style: solid;
@@ -59,15 +60,17 @@ h1 {
     border-color: black;
     padding:30px;
     padding-top:40px;
-    width:300px;
+    width:90%;
+    max-width:300px;
     min-height:80px;
 }
 
 .box_medium
 {
     display:inline-block;
+    box-sizing: border-box;
     text-align: left;
-    font-size : 14px;
+    font-size : 18px;
     position:relative;
     top:50px;
     border-style: solid;
@@ -75,15 +78,17 @@ h1 {
     border-color: black;
     padding:50px;
     padding-top:20px;
-    width:500px;
+    width:90%;
+    max-width:500px;
     min-height:200px;
 }
 
 .box_large
 {
     display:inline-block;
+    box-sizing: border-box;
     text-align : left;
-    font-size : 14px;
+    font-size : 18px;
     position:relative;
     top:50px;
     border-style: solid;
@@ -91,14 +96,15 @@ h1 {
     border-color: black;
     padding:50px;
     padding-top:20px;
-    width:800px;
+    width:90%;
     max-width:800px;
 }
 
 .box_very_large {
     display:inline-block;
+    box-sizing: border-box;
     text-align : left;
-    font-size : 14px;
+    font-size : 18px;
     position:relative;
     top:50px;
     border-style: solid;
@@ -106,7 +112,8 @@ h1 {
     border-color: black;
     padding:50px;
     padding-top:20px;
-    width:1200px;
+    width:90%;
+    max-width:1200px;
 
 }
 
@@ -115,11 +122,11 @@ h1 {
     text-align : center;
     position: relative;
     top : 60px;
-    height : 50px;
+    height : auto;
     width : 100%;
     font-family: 'Times New Roman',serif;
-    font-size:13px;
-    line-height: 9px;
+    font-size:15px;
+    line-height: 1.5;
 }
 
 .home_banner {
@@ -187,11 +194,21 @@ hr {
 
 .dangerous {
     font-weight: bold;
-    color: red;
+    color: #c00000;
 }
 
-.centered_item {
-    text-align: center;
-    list-style: none;
-    padding:20px;
+a:focus, button:focus, input:focus, select:focus, textarea:focus {
+    outline: 3px solid #005fcc;
+    outline-offset: 2px;
+}
+
+@media (max-width:992px) {
+    .box_small, .box_medium, .box_large, .box_very_large { top: 30px; }
+    .box_medium, .box_large, .box_very_large { padding: 30px; padding-top: 20px; }
+}
+
+@media (max-width:600px) {
+    .box_small, .box_medium, .box_large, .box_very_large {
+        top: 20px; padding: 20px; padding-top: 20px;
+    }
 }

@@ -1,8 +1,0 @@
-A_004 - Ricordati di lasciare un po' di concime organico per gli alberi del tuo giardino ed evita di potarli a meno che non blocchino il passaggio.<br />
-&Egrave; meglio non lasciare marcire la frutta ai piedi degli alberi, &egrave; meglio raccoglierla per darla da mangiare a degli animali piuttosto che farla marcire.<br />
-Nemmeno la frutta acerba va lasciata ai piedi degli alberi. Certi frutti acerbi che si tolgono quando si diradano gli alberi da frutto si possono usare a livello industriale per fare altri alimenti<br />
-(ad esempio le prugne acerbe dovrebbero essere ottime per fare degli integratori in quanto contengono molti sali minerali).<br />
-Lasciare i frutti o i rami ai piedi degli alberi &ldquo;a marcire&rdquo; pu&ograve; essere pericoloso, soprattutto se fatto su vasti appezzamenti. In certi casi possono rendere pi&ugrave; pericoloso il lavoro per gli operai. <br /> 
-Sostanzialmente la frutta diventa comunque cibo disponibile per gli insetti che se ne nutrono e gli anni successivi tornano a cercarlo e attaccano anche la frutta attaccata agli alberi e col passare del tempo possono diventare comunque estremamente problematici per gli agricoltori. <br />
-Per quanto riguarda i rami che marciscono, in quel caso i microorganismi che li attaccano aggrediscono il legno morto che non si pu&ograve; difendere col sistema immunitario dell'albero e quindi &ldquo;imparano ad aggredire il legno&rdquo;. <br />
-Col passare del tempo non &egrave; detto che questi patogeni che si sono &ldquo;addestrati&rdquo; col legno morto non riescano poi ad aggredire gli alberi vivi. <br />&Egrave; per questo che sarebbe meglio non lasciare a terra i rami delle potature nei poderi.

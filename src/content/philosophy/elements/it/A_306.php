@@ -1,1 +1,0 @@
-A_306 - Quando si aggiornano o installano le app o i giochi sullo smartphone o nel computer il mio consiglio &egrave; quello di rimanere in attesa e non fare niente fino a quando il software non &egrave; stato installato correttamente.

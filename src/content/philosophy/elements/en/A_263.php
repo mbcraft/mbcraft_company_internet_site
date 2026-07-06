@@ -1,1 +1,0 @@
-A_263 - Turnstiles (for example those at subways or those at the entrance to motorways or some fairs) can also be used to contribute to the generation of pseudorandom numbers.

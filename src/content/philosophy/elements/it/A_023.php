@@ -1,1 +1,0 @@
-A_023 - Non gettare &ldquo;fumo negli occhi&rdquo; alle persone. Confondere le idee appositamente alle persone &egrave; estremamente sbagliato.

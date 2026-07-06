@@ -1,1 +1,0 @@
-A_461 - Le persone che vivono nelle campagne e che hanno del materiale (es. edile) di rimanenza che non possono utilizzare, volendo lo possono utilizzare per creare delle piccole opere d'arte negli spazi aperti che hanno a disposizione. Questo pu&ograve; essere utile anche per avere qualche riferimento in pi&ugrave; da usare per stare meglio. 

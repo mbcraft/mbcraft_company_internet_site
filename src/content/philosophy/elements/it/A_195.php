@@ -1,1 +1,0 @@
-A_195 - Nella mia vita mi &egrave; capitato di osservare in una persona adulta, quando frequentavo l'universit&agrave;, una metamorfosi della faccia che l'ha resa esteticamente pi&ugrave; gradevole (in un arco di tempo di alcuni mesi circa). L'ho osservata anche in una persona su Facebook in tutto il corpo.

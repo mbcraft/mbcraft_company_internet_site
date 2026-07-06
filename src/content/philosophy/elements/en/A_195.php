@@ -1,1 +1,0 @@
-A_195 - In my life I happened to observe in an adult person, when I was attending university, a metamorphosis of the face that made it more aesthetically pleasing (in a period of about a few months). I observed it even on a person on facebook on her whole body.

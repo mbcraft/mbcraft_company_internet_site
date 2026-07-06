@@ -1,1 +1,0 @@
-A_094 - Se si riuscisse a ripulire il terreno dei boschi dal fogliame anche con l'ausilio di macchinari, questo migliorerebbe la crescita dell'erba e di conseguenza renderebbe possibile e migliore la vita di animali erbivori al suo interno, e di conseguenza anche di quelli carnivori.

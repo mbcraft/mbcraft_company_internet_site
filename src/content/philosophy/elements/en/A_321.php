@@ -1,1 +1,0 @@
-A_321 - If we use roads and vehicles, we also have the obligation to bury any animals that die due to road accidents. Leaving them outside to rot is not a wise choice.

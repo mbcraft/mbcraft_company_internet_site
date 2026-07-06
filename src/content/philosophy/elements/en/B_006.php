@@ -1,1 +1,0 @@
-B_006 - I think it might be a good idea for parents to give children or teenagers potted plants to take care of and make friends with. Even if plants eventually end up badly, it is still a useful way to allow children to relate to something living and have useful experiences for their future.

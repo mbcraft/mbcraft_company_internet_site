@@ -1,1 +1,0 @@
-A_468 - People who look at other people's websites or social profiles, when they meet them in person, do well to point it out and not hide it. Virtuality is a concept that has particular implications and if we do not want problems to arise, it is generally better to say so if views have been made of profiles or websites.

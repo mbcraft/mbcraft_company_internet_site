@@ -1,1 +1,0 @@
-A_021 - Personally I think it's better to let nature decide how we should be rewarded for our hard work (in case for example the salary we receive is less than what it would seem right to us to receive) instead of wishing this or that.

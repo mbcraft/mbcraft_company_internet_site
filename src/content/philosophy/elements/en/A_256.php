@@ -1,1 +1,0 @@
-A_256 - It is quite common that there are other people with the same name and surname as us, and that there are people with a physical appearance quite similar to ours (lookalike). Sometimes this actually also applies to company names.

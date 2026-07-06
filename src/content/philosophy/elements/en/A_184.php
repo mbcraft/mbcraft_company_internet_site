@@ -1,1 +1,0 @@
-A_184 - Don't spoil movies, games, events or comics: spoilers are a crime. Don't watch game endings on video streaming websites. Piracy is a crime. The walkthroughs and help to overcome the blocking parts are acceptable.

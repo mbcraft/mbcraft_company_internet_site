@@ -1,1 +1,0 @@
-A_515 - If you don't have to share what you're about to eat with stories via social networks, I recommend turning off your smartphone or turning off phone calls before starting each meal, so as not to be interrupted while you're eating by phone calls or notifications. You can also use SMS or chat messages to contact people asynchronously.

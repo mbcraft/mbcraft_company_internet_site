@@ -1,1 +1,0 @@
-A_226 - Tempo fa ho sperimentato questa tecnica che mi &egrave; sembrata molto utile : a casa propria, mettere le mani sul pavimento, e poi in faccia. Ho ottenuto un grande beneficio. Anche camminare coi piedi scalzi in casa o in altri luoghi piastrellati &egrave; utile.

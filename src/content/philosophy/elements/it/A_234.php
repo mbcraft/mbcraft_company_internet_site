@@ -1,1 +1,0 @@
-A_234 - Anche dagli animali si pu&ograve; imparare molto. Ad esempio se notate i cani quando sono insieme tendono a urinare nello stesso punto. Non &egrave; un caso. Questo &egrave; solo un esempio. E inoltre da questi comportamenti &egrave; possibile ragionare per fare nuove scoperte.

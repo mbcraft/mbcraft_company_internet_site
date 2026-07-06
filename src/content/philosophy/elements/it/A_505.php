@@ -1,1 +1,0 @@
-A_505 - Le persone che praticano la castit&agrave; adorano gli abbracci (dal vivo o virtuali), in quanto sono essenziali per non precipitare emotivamente. Senza la loro vita non &egrave; assolutamente dignitosa.

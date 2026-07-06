@@ -1,1 +1,0 @@
-A_401 - Consiglio, per chi ha dei dispositivi elettronici, di investire sempre qualche soldo per l'acquisto di temi per lo smartphone o per il computer, in quanto con poca spesa si possono fare miglioramenti importanti. 

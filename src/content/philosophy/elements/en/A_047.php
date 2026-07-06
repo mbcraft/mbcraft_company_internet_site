@@ -1,1 +1,0 @@
-A_047 - If in front of the computer you find that you cannot solve a problem because your mind cannot understand well, then try to face the problem while you are eating. You will find the solution to that problem in no time.

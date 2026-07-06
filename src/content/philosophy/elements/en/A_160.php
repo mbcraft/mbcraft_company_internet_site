@@ -1,1 +1,0 @@
-A_160 - If a job category becomes deprecated it would be nice if the company collaborated to redeploy those workers to new jobs.

@@ -1,1 +1,0 @@
-A_516 - It is generally better not to make important assessments when you are convalescent or under the influence of drugs as what you think could be altered and misleading. When you are sick you shouldn't work, and even trying to do very complex reasoning leads to bad results.

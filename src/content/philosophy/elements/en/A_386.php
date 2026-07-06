@@ -1,1 +1,0 @@
-A_386 - It is also possible to use a paint on the asphalt (with a continuous stripe of a certain color for example) to better provide certain road indications (for example for large motorway junctions). Possibly, to support color blind people, any double-color or mono-color colored textures can also be used.

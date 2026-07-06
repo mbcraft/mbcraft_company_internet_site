@@ -1,1 +1,0 @@
-A_027 - Se andate al cimitero e volete onorare i defunti un modo alternativo pu&ograve; essere quello di accarezzare gli alberi nelle vicinanze. In fondo loro sono sempre l&igrave; &ldquo;in loro compagnia&rdquo; e quindi aiutando loro forse loro aiuteranno i defunti nel loro percorso.

@@ -1,1 +1,0 @@
-B_015 - Se avete delle calamite attaccate al frigorifero, per quanto paradossale vi possa sembrare, ogni tanto &egrave; utile spostarle.

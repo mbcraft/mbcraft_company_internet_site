@@ -1,1 +1,0 @@
-A_095 - I ragionamenti che facciamo dipendono fortemente dal nostro stato emotivo. Una persona depressa pensa e ragiona in un modo, una persona n&eacute; felice n&eacute; depressa pensa e ragiona in un altro modo, una persona felice pensa e ragiona in un altro modo ancora. Quindi aiutare le persone a essere felici &egrave; un ottimo modo di migliorare il loro modo di ragionare.

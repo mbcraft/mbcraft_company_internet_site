@@ -1,1 +1,0 @@
-A_324 - Se volete flirtare da remoto con persone di sesso opposto con cui siete in confidenza &egrave; possibile farlo inviandosi in sequenza alternata degli abbracci o delle altre emoji gradite tramite smartphone.

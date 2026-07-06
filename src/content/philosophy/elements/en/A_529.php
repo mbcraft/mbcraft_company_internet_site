@@ -1,1 +1,0 @@
-A_529 - Before filling a container with something it is best to make sure that it is not dirty or punctured, otherwise you risk wasting or ruining food or objects.

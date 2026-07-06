@@ -1,1 +1,0 @@
-A_124 - As I see it, coffee is just nature's desperate attempt to make us understand that trees want our poop. However, if possible, it should be covered with cut grass or dry leaves. In any case, we can also drink it bitter to vaguely realize how much difficulty trees have to do without our excrement.

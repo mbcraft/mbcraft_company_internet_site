@@ -1,1 +1,0 @@
-A_243 - In general, sleeping with the radio or TV turned on in the same room is a bad habit.

@@ -1,1 +1,0 @@
-A_312 - &Egrave; possibile anche giocare con i misuratori di temperatura che si trovano spesso nelle banche utilizzati per la passata epidemia di Covid-19. Alcuni di loro hanno alcuni pixel che si illuminano alternativamente. Il gioco consiste nel misurarsi la temperatura quando il pixel illuminato &egrave; quello nella posizione che corrisponde alla virgola.

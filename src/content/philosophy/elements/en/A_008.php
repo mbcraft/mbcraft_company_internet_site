@@ -1,3 +1,0 @@
-A_008 - Unnecessary complaints cause us to lose resources (which go to whoever receives them). <br />
-Personally I think it is even better to avoid cursing the universe even if you are alone.<br />
-If you happen to lose an object at home or get stuck in something you don't understand at work, it's best not to think about global plots against you but try to hold on until you come to a solution.<br />It often happens that you lose your smartphone: keep your nerves, don't hate anyone, search with great patience and attention until you find it, dedicating the necessary time to the search. You just forgot where you left it. Learn to search with patience and cold blood: it is very useful.

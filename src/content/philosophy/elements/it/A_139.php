@@ -1,1 +1,0 @@
-A_139 - &Egrave; importante che tutte le persone sappiano che le persone dei due diversi sessi, per motivi legati alla conformazione fisica, urinano in due posizioni diverse. Mentre gli uomini ogni volta che possono cercano di urinare in piedi, le donne urinano facendo lo squat o da sedute. 

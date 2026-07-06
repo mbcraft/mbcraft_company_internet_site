@@ -1,1 +1,0 @@
-A_232 - When you are on social networks it may happen that other people may have feelings or desires towards you. Be aware that your thoughts may change course. It's the other side of social networks. Also pay attention to notifications and the always active internet connection. Personally, I prefer to turn off wireless on my smartphone and stop the "pinball" of notifications.
